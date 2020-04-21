@@ -1,5 +1,7 @@
 # datos-cuarentenaBO
 
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/afiche.png)
+
 ## Objetivos
 
 A partir del crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios por coronavirus vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. En ciertos momentos, muchos ciudadanos no contamos con la suficiente información para viabilizar de forma más cercaba y efectiva esas necesidades básicas. 
@@ -114,6 +116,8 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
 Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los endpoints empiezan con mayuscula. Para una explicación más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html). 
 
 ## Soporte y aporte
+
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
 Si necesitas ayuda con los datos para integrarla a tu aplicación o análisis, o encuentras errores bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
 
