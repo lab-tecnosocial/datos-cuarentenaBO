@@ -25,11 +25,12 @@ La v1 (actual) tiene varios modelos de datos pues provienen de diversas fuentes 
 
 ## Documentación de la API 
 
-La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/v1/`. Dado que es una API estática solo soporta GET requests.
+La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/`. Dado que es una API estática solo soporta GET requests.
 
-La v1 tiene la siguiente estructura y sus respectivos endpoints:
+La /v1/ tiene la siguiente estructura y sus respectivos endpoints:
 
 ```
+.
 ├── gamcb
 ├── gamlp
 │   ├── Abasto.csv
@@ -88,16 +89,16 @@ La v1 tiene la siguiente estructura y sus respectivos endpoints:
 │   ├── Mercados2017.csv
 │   └── Mercados2017.json
 ├── osm
-│   ├── bank.csv
-│   ├── bank.json
-│   ├── clinic.csv
-│   ├── clinic.json
-│   ├── doctors.csv
-│   ├── doctors.json
-│   ├── hospital.csv
-│   ├── hospital.json
-│   ├── pharmacy.csv
-│   └── pharmacy.json
+│   ├── Bank.csv
+│   ├── Bank.json
+│   ├── Clinic.csv
+│   ├── Clinic.json
+│   ├── Doctors.csv
+│   ├── Doctors.json
+│   ├── Hospital.csv
+│   ├── Hospital.json
+│   ├── Pharmacy.csv
+│   └── Pharmacy.json
 ├── rmk
 │   ├── salud.csv
 │   └── salud.json
@@ -107,10 +108,9 @@ La v1 tiene la siguiente estructura y sus respectivos endpoints:
     ├── Salud.csv
     ├── Salud.json
     ├── Servicios.csv
-    └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/web/alimentos.json` a la url de base. Para una explicación más detallada y ejemplos ver la documentación. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notar que todos los endpoints empiezan con mayuscula. Para una explicación más detallada y ejemplos ver la documentación. 
 
 ## Soporte y aporte
 
