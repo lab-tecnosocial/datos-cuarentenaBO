@@ -1,27 +1,25 @@
 # datos-cuarentenaBO
 
-## Antecedentes
-
-A partir del crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios por coronavirus vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. Muchos ciudadanos no contamos con la suficiente información para viabilizar esas necesidades básicas. 
-
 ## Objetivos
 
- * El objetivo de este proyecto consiste en recolectar y verificar datos georeferenciados de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19 que sirvan como insumos de información.
+A partir del crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios por coronavirus vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. En ciertos momentos, muchos ciudadanos no contamos con la suficiente información para viabilizar de forma más cercaba y efectiva esas necesidades básicas. 
+
+ * El objetivo de este proyecto consiste en recolectar y verificar datos georeferenciados de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19 que sirvan como insumos de información para la población.
  * Los datos están en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON) o analistas (mediante los datos en CSV).
  
 ## ¿Por qué datos abiertos?
 
-Porque es la base para construir otros productos informativos, como visualizaciones, apps, análisis de datos, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y es dificil encontrar un repositorio nacional sobre esta temática, por lo que nace esta iniciativa ciudadana.
+Porque son la base para construir otros productos informativos, como visualizaciones, apps, análisis de datos, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y es dificil encontrar un repositorio nacional sobre esta temática, por lo que nace esta iniciativa ciudadana.
 
 ## Metodología
 
-Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp y los hemos transcrito manualmente. Segundo, hemos buscado la información geográfica disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante. Posteriormente hemos limpiado un poco esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
+Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp y los hemos transcrito manualmente. Segundo, hemos buscado la información geográfica disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
 
-Valga aclarar que este es un trabajo aún en progreso.
+Valga aclarar que este es un trabajo aún en curso.
 
 ## Versionado
 
-La v1 (actual) tiene diferentes modelos de datos pues provienen de diversas fuentes (verla documentación). En el mismo apartado, por ejemplo mercados, algunos fuentes estarán más completas que otras. En la v2 estamos pensando integrarlo en un sólo modelo de datos. 
+La v1 (actual) tiene diferentes modelos de datos pues provienen de diversas fuentes (verla documentación). En el mismo apartado, por ejemplo de mercados, algunos fuentes están más completas que otras. En la v2 estamos pensando integrar todos los datos en un único modelo de datos. 
 
 ## Documentación de la API 
 
@@ -113,11 +111,11 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los endpoints empiezan con mayuscula. Para una explicación más detallada y ejemplos ver la documentación. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los endpoints empiezan con mayuscula. Para una explicación más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html). 
 
 ## Soporte y aporte
 
-Si necesitas ayuda con los datos, encuentras errores, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk), activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones.
+Si necesitas ayuda con los datos para integrarla a tu aplicación o análisis, o encuentras errores bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
 
 
 ## Fuentes
