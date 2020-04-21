@@ -1,0 +1,6617 @@
+[
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Cristo Rey Cochabamba",
+   "latitude": -17.7355551,
+   "longitude": -65.190899,
+   "addr:street": "Totora"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Concordia Totora Ltda.",
+   "latitude": -17.7354524,
+   "longitude": -65.1908478,
+   "addr:street": "Totora"
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -17.9411865,
+   "longitude": -65.3413644,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -17.6115768,
+   "longitude": -66.0229607,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.5919974,
+   "longitude": -65.9344714,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión - Agencia Villa Tunari",
+   "latitude": -16.9741056,
+   "longitude": -65.4184032,
+   "addr:street": "Villa Tunari"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Credito San Antonio Ltda",
+   "latitude": -16.9745149,
+   "longitude": -65.4181187,
+   "addr:street": "Villa Tunari"
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -16.1656957,
+   "longitude": -69.0865279,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Ecofuturo",
+   "latitude": -16.165696,
+   "longitude": -69.0865009,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union - Agencia Samaipata",
+   "latitude": -18.1799589,
+   "longitude": -63.8752463,
+   "addr:street": "Samaipata"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia",
+   "latitude": -17.9699255,
+   "longitude": -67.1153912,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperatica La Merced",
+   "latitude": -17.3429033,
+   "longitude": -63.2558996,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.3434371,
+   "longitude": -63.2555241,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.8458593,
+   "longitude": -60.7428917,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.481464,
+   "longitude": -68.1399184,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5101056,
+   "longitude": -68.1237618,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Primera",
+   "latitude": -16.4965161,
+   "longitude": -68.1398283,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3723574,
+   "longitude": -66.1615971,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -16.5070202,
+   "longitude": -68.1296563,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.9706236,
+   "longitude": -67.1147342,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.9689842,
+   "longitude": -67.1150522,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil SantaCruz",
+   "latitude": -17.8193138,
+   "longitude": -63.1840631,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.3771677,
+   "longitude": -60.9623671,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.374146,
+   "longitude": -60.9591984,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa La Merced",
+   "latitude": -16.3779153,
+   "longitude": -60.960186,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Martín de Porres",
+   "latitude": -16.3753518,
+   "longitude": -60.9610888,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -16.3757025,
+   "longitude": -60.9607747,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.4976454,
+   "longitude": -68.1345242,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.501604,
+   "longitude": -68.1368083,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Paz",
+   "latitude": -16.5012042,
+   "longitude": -68.1326804,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5029266,
+   "longitude": -68.1369866,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.4806797,
+   "longitude": -68.1214991,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Credito",
+   "latitude": -16.4805992,
+   "longitude": -68.1214575,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BNB - Agencia Norte",
+   "latitude": -17.3731207,
+   "longitude": -66.1555827,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Catedral Ltda.",
+   "latitude": -19.5875161,
+   "longitude": -65.7521733,
+   "addr:street": "Potosi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -21.5333942,
+   "longitude": -64.7344053,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -21.5336548,
+   "longitude": -64.7336487,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa - Agencia Tiquipaya",
+   "latitude": -17.3376645,
+   "longitude": -66.2189308,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantíl Santa Cruz",
+   "latitude": -17.3855657,
+   "longitude": -66.1581072,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -17.3856278,
+   "longitude": -66.1577678,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3834018,
+   "longitude": -66.1092777,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes Procredit",
+   "latitude": -17.3906471,
+   "longitude": -66.2384977,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3912387,
+   "longitude": -66.2381311,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia (BNB)",
+   "latitude": -17.3904594,
+   "longitude": -66.2429626,
+   "addr:street": "Colcapirhua"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3936779,
+   "longitude": -66.1686635,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.3912484,
+   "longitude": -66.2378678,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.3936523,
+   "longitude": -66.1690403,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Credito BCP",
+   "latitude": -17.393597,
+   "longitude": -66.170999,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Sarco",
+   "latitude": -17.3713766,
+   "longitude": -66.1768164,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3732176,
+   "longitude": -66.124869,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.3911133,
+   "longitude": -66.2414738,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.372244,
+   "longitude": -66.1630236,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantíl Santa Cruz",
+   "latitude": -17.3727083,
+   "longitude": -66.1629562,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.3939837,
+   "longitude": -66.2833415,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes Pro Credit",
+   "latitude": -16.4959507,
+   "longitude": -68.1486689,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.3835543,
+   "longitude": -66.1593583,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -17.393487,
+   "longitude": -66.1588349,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3932919,
+   "longitude": -66.1639291,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3956136,
+   "longitude": -66.1572641,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.393271,
+   "longitude": -66.1575326,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Pedro",
+   "latitude": -17.3684867,
+   "longitude": -66.1634886,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3729485,
+   "longitude": -66.1582389,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Abierta San Pedro",
+   "latitude": -17.392405,
+   "longitude": -66.1472161,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5448212,
+   "longitude": -68.0913691,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoFie",
+   "latitude": -16.1657,
+   "longitude": -69.0874776,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -14.4423642,
+   "longitude": -67.5309733,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie - Agencia Calle Comercio",
+   "latitude": -14.4398408,
+   "longitude": -67.5290584,
+   "addr:street": "Rurrenabaque"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.396549,
+   "longitude": -66.1565619,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito BCP",
+   "latitude": -17.3964576,
+   "longitude": -66.1570975,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.3963875,
+   "longitude": -66.1569489,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Catedral Ltda",
+   "latitude": -19.0478854,
+   "longitude": -65.2568333,
+   "addr:street": "sucre"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.3810679,
+   "longitude": -66.1517073,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "CredinForm",
+   "latitude": -17.3764063,
+   "longitude": -66.1514039,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3911235,
+   "longitude": -66.2417661,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia - Agencia Constitucion",
+   "latitude": -17.3848465,
+   "longitude": -66.1530222,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Abierta Loyola",
+   "latitude": -17.3943444,
+   "longitude": -66.1516257,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Bisa",
+   "latitude": -17.7773612,
+   "longitude": -63.1420781,
+   "addr:street": "Santa Cruz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3981898,
+   "longitude": -66.1534452,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3915801,
+   "longitude": -66.1483779,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3936203,
+   "longitude": -66.1703023,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3848053,
+   "longitude": -66.1465925,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.3953378,
+   "longitude": -66.1570581,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Quillacollo",
+   "latitude": -17.3912475,
+   "longitude": -66.2379616,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3938839,
+   "longitude": -66.2810362,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero - Agencia Quillacollo",
+   "latitude": -17.3952299,
+   "longitude": -66.2806259,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -17.3969873,
+   "longitude": -66.281271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3933601,
+   "longitude": -66.2763072,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3962692,
+   "longitude": -66.2792733,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondo Financiero Privado EcoFuturo",
+   "latitude": -17.3905779,
+   "longitude": -66.2387672,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.4798745,
+   "longitude": -68.1209871,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -17.3691361,
+   "longitude": -66.1633932,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Societaria CACEF",
+   "latitude": -17.3900709,
+   "longitude": -66.1594976,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.3936561,
+   "longitude": -66.168929,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes Procredit",
+   "latitude": -17.3936241,
+   "longitude": -66.1701709,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.519239,
+   "longitude": -68.2076639,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -17.4103982,
+   "longitude": -66.1643376,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM",
+   "latitude": -20.4625707,
+   "longitude": -66.823816,
+   "addr:street": "Uyuni"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.3728255,
+   "longitude": -66.1601217,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa El Buen Samaritano",
+   "latitude": -17.3873523,
+   "longitude": -66.1552913,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Hospicio",
+   "latitude": -17.3902009,
+   "longitude": -66.1560727,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes ProCredit",
+   "latitude": -17.3953476,
+   "longitude": -66.1584479,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Promotora",
+   "latitude": -17.392329,
+   "longitude": -66.1566341,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondo Financiero Privado FASSIL",
+   "latitude": -17.39057,
+   "longitude": -66.2390138,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -17.39057,
+   "longitude": -66.2391995,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia Sur",
+   "latitude": -17.4049843,
+   "longitude": -66.156504,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.4062159,
+   "longitude": -66.1551113,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondo Financiero Privado FASSIL",
+   "latitude": -17.4079468,
+   "longitude": -66.1563159,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.4080637,
+   "longitude": -66.1566408,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondo Financieron Privado FASSIL",
+   "latitude": -17.3936243,
+   "longitude": -66.1702411,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3853518,
+   "longitude": -66.1489193,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3736216,
+   "longitude": -66.1510018,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4903944,
+   "longitude": -68.2070951,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Pio X",
+   "latitude": -17.4026958,
+   "longitude": -66.1668566,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -21.4446381,
+   "longitude": -65.7197742,
+   "addr:street": "Tupiza"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.4014702,
+   "longitude": -66.1531384,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -14.080394,
+   "longitude": -66.7942333,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8323738,
+   "longitude": -67.5645519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8323803,
+   "longitude": -67.5648544,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -15.8324025,
+   "longitude": -67.5655897,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8325388,
+   "longitude": -67.565255,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -15.8326913,
+   "longitude": -67.5654148,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -15.8327812,
+   "longitude": -67.563779,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -15.8330491,
+   "longitude": -67.563897,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8334269,
+   "longitude": -67.5675827,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8339968,
+   "longitude": -67.5668774,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -15.8343653,
+   "longitude": -67.5645116,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -14.9968881,
+   "longitude": -65.6409791,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -14.9964917,
+   "longitude": -65.6405043,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "EcoFuturo",
+   "latitude": -14.9960125,
+   "longitude": -65.6406314,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3955482,
+   "longitude": -66.1581465,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -17.3730795,
+   "longitude": -66.156328,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.5221281,
+   "longitude": -68.2105884,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.4841914,
+   "longitude": -68.1439577,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.9694849,
+   "longitude": -67.1133423,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Empetrol",
+   "latitude": -17.3869293,
+   "longitude": -66.1542791,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -18.202825,
+   "longitude": -65.1803186,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -19.5798653,
+   "longitude": -65.7556452,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -19.5880539,
+   "longitude": -65.7524736,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -19.5878534,
+   "longitude": -65.7532882,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes",
+   "latitude": -19.5877083,
+   "longitude": -65.7531775,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -19.5876449,
+   "longitude": -65.7533128,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Bartolomé",
+   "latitude": -16.4100122,
+   "longitude": -67.5251747,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión - Agencia Bermejo",
+   "latitude": -22.7317337,
+   "longitude": -64.3430331,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4102271,
+   "longitude": -67.5261581,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Eléctrica",
+   "latitude": -16.4109995,
+   "longitude": -67.5247004,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.8145012,
+   "longitude": -63.1827234,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de la Nación Argentina",
+   "latitude": -17.782673,
+   "longitude": -63.1824475,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito",
+   "latitude": -16.5399868,
+   "longitude": -68.0780254,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5391794,
+   "longitude": -68.078236,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.8105812,
+   "longitude": -63.2085665,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.8105302,
+   "longitude": -63.208478,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB - Banco Nacional de Bolivia",
+   "latitude": -17.7864505,
+   "longitude": -63.1811371,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "FIE",
+   "latitude": -16.5018712,
+   "longitude": -68.1052182,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.495868,
+   "longitude": -68.1163731,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofututo",
+   "latitude": -16.4956269,
+   "longitude": -68.1162763,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Pyme de la Comunidad",
+   "latitude": -17.4199793,
+   "longitude": -66.1394615,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Tigo Money",
+   "latitude": -17.4208876,
+   "longitude": -66.1383279,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.4201485,
+   "longitude": -66.139672,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia Simon Lopez",
+   "latitude": -17.3617103,
+   "longitude": -66.1820525,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -17.3548833,
+   "longitude": -66.1875838,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.4191221,
+   "longitude": -66.148115,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3621315,
+   "longitude": -66.1817669,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol - Agencia Simon Lopez",
+   "latitude": -17.3639015,
+   "longitude": -66.1798744,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.3657873,
+   "longitude": -66.1743155,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil - Agencia Cala Cala",
+   "latitude": -17.368347,
+   "longitude": -66.1641754,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.3511943,
+   "longitude": -66.1916852,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.4205021,
+   "longitude": -66.1383854,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -14.8328554,
+   "longitude": -64.9061724,
+   "addr:street": "Trinidad"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.3589114,
+   "longitude": -66.1723545,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.4013407,
+   "longitude": -66.1832699,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -15.4962947,
+   "longitude": -67.8811422,
+   "addr:street": "Guanay"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE - Agencia Guanay",
+   "latitude": -15.4977795,
+   "longitude": -67.879365,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM",
+   "latitude": -15.4978307,
+   "longitude": -67.8793802,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -11.0333922,
+   "longitude": -68.7750231,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -11.0272784,
+   "longitude": -68.7603024,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión Central",
+   "latitude": -11.0228933,
+   "longitude": -68.7596892,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil",
+   "latitude": -11.0186316,
+   "longitude": -68.7532079,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -11.0187938,
+   "longitude": -68.7533357,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual Pando",
+   "latitude": -11.018869,
+   "longitude": -68.7541714,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -11.0187197,
+   "longitude": -68.7535558,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -11.0182429,
+   "longitude": -68.7539801,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -17.545626,
+   "longitude": -65.8367129,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "FASSIL",
+   "latitude": -17.5457319,
+   "longitude": -65.8370527,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes",
+   "latitude": -17.5455774,
+   "longitude": -65.8374324,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Jose",
+   "latitude": -17.5449649,
+   "longitude": -65.836221,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.5467964,
+   "longitude": -65.8363131,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sol",
+   "latitude": -17.5449604,
+   "longitude": -65.8361431,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5238373,
+   "longitude": -68.1515917,
+   "addr:street": "Municipio de El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "BDP Banco de Desarrollo Productivo",
+   "latitude": -16.522903,
+   "longitude": -68.1539011,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.5222042,
+   "longitude": -68.1556875,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Fortaleza",
+   "latitude": -17.5444804,
+   "longitude": -65.8368919,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "EcoFuturo",
+   "latitude": -18.2009496,
+   "longitude": -65.1795562,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sol",
+   "latitude": -17.5454445,
+   "longitude": -65.8358569,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Moneygram",
+   "latitude": -17.5449608,
+   "longitude": -65.8361817,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fie",
+   "latitude": -17.5451936,
+   "longitude": -65.8371648,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -17.4007803,
+   "longitude": -66.1538603,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.4007257,
+   "longitude": -66.1540219,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "CIDRE",
+   "latitude": -17.3961209,
+   "longitude": -66.1808306,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Antonio",
+   "latitude": -17.3726234,
+   "longitude": -66.1633582,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Promotora",
+   "latitude": -17.3733269,
+   "longitude": -66.1523555,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5104412,
+   "longitude": -68.1273993,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Corsario Trading",
+   "latitude": -17.7570255,
+   "longitude": -63.1989724,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4983531,
+   "longitude": -68.1230127,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia",
+   "latitude": -17.380427,
+   "longitude": -66.1512787,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito",
+   "latitude": -17.3609857,
+   "longitude": -66.1705361,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Comunidad",
+   "latitude": -17.3866417,
+   "longitude": -66.1561326,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesus Nazareno",
+   "latitude": -17.3935681,
+   "longitude": -66.1551171,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo",
+   "latitude": -17.3942159,
+   "longitude": -66.1558374,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -17.783809,
+   "longitude": -63.2083172,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.7838326,
+   "longitude": -63.2086066,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BANCO FORTALEZA",
+   "latitude": -16.5464437,
+   "longitude": -68.0766607,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "CACEF",
+   "latitude": -17.4263813,
+   "longitude": -65.7226609,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5109519,
+   "longitude": -68.1275139,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "BCP",
+   "latitude": -17.7953176,
+   "longitude": -63.192801,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Primera",
+   "latitude": -16.5105601,
+   "longitude": -68.1248324,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "BBVA Previsión",
+   "latitude": -17.7723861,
+   "longitude": -63.1905331,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.7649855,
+   "longitude": -63.1953909,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3821432,
+   "longitude": -66.1753543,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3883344,
+   "longitude": -66.1798412,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco UNION",
+   "latitude": -16.523317,
+   "longitude": -68.1521686,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia - Agencia America Este",
+   "latitude": -17.3736481,
+   "longitude": -66.1469249,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.5098759,
+   "longitude": -63.1678163,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz (BMSC)",
+   "latitude": -17.5102437,
+   "longitude": -63.1676519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.7950353,
+   "longitude": -63.2037273,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes ProCredit",
+   "latitude": -17.7941927,
+   "longitude": -63.2035293,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -17.7944173,
+   "longitude": -63.2037607,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesús Nazareno",
+   "latitude": -17.7945016,
+   "longitude": -63.2037772,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperative de Ahorro y Credito Abierta Progreso",
+   "latitude": -17.7955357,
+   "longitude": -63.2035329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -17.7942789,
+   "longitude": -63.2036138,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.7979113,
+   "longitude": -63.2027308,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión - Agencia Tiquipaya",
+   "latitude": -17.3386644,
+   "longitude": -66.2210068,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.755206,
+   "longitude": -63.1982123,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7553059,
+   "longitude": -63.1983883,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.9661023,
+   "longitude": -67.1091698,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5045056,
+   "longitude": -68.2491253,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -10.8111422,
+   "longitude": -65.3521435,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie - Agencia",
+   "latitude": -16.4976941,
+   "longitude": -68.2298544,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4998218,
+   "longitude": -68.1744387,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.5011169,
+   "longitude": -68.1712328,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5843558,
+   "longitude": -68.1853179,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5855946,
+   "longitude": -68.1852104,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes",
+   "latitude": -16.6346014,
+   "longitude": -68.1810781,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4945664,
+   "longitude": -68.1943092,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5067029,
+   "longitude": -68.1639019,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5076394,
+   "longitude": -68.1642123,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5808917,
+   "longitude": -68.1848998,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5851977,
+   "longitude": -68.1852158,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.6191095,
+   "longitude": -68.1821511,
+   "addr:street": "Cruce Ventilla"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -16.5092376,
+   "longitude": -68.1643099,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5355953,
+   "longitude": -68.1737399,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.5799062,
+   "longitude": -68.1857067,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5847834,
+   "longitude": -68.1852958,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.6195078,
+   "longitude": -68.1829036,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fassil",
+   "latitude": -17.3767534,
+   "longitude": -66.1728608,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesús Nazareno",
+   "latitude": -18.3313688,
+   "longitude": -59.7551904,
+   "addr:street": "Roboré"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofutura",
+   "latitude": -17.9716138,
+   "longitude": -67.0937622,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.9693814,
+   "longitude": -67.1026575,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero - Agencia",
+   "latitude": -17.970396,
+   "longitude": -67.112592,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie - Agencia",
+   "latitude": -17.9686337,
+   "longitude": -67.1119025,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem - Agencia",
+   "latitude": -17.9685102,
+   "longitude": -67.1118386,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.79679,
+   "longitude": -63.1908605,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3727383,
+   "longitude": -66.1562259,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "FIE",
+   "latitude": -19.021574,
+   "longitude": -65.2481834,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -16.3779305,
+   "longitude": -60.9627603,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BISA",
+   "latitude": -16.4956476,
+   "longitude": -68.1451201,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5013696,
+   "longitude": -68.121377,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Paz",
+   "latitude": -17.7835416,
+   "longitude": -63.1797115,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia",
+   "latitude": -16.4983084,
+   "longitude": -68.1335926,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Progreso Ltda.",
+   "latitude": -18.1226269,
+   "longitude": -63.9583929,
+   "addr:street": "Mairana"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -15.5846715,
+   "longitude": -67.2469257,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -15.5843923,
+   "longitude": -67.2465651,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.7643967,
+   "longitude": -63.1476633,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -17.7715988,
+   "longitude": -63.182666,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco prodem",
+   "latitude": -15.5848893,
+   "longitude": -67.2472223,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -15.5839724,
+   "longitude": -67.2475363,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A.",
+   "latitude": -17.7628729,
+   "longitude": -63.163519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP - Agencia Chiriguano",
+   "latitude": -17.790383,
+   "longitude": -63.2051862,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia Chiriguano",
+   "latitude": -17.7904832,
+   "longitude": -63.2051037,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -21.5316186,
+   "longitude": -64.7347354,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.7907392,
+   "longitude": -63.195397,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fassil",
+   "latitude": -17.7907776,
+   "longitude": -63.1955756,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.7811155,
+   "longitude": -63.1816744,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia",
+   "latitude": -17.7821486,
+   "longitude": -63.1815269,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.1647319,
+   "longitude": -69.0872466,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -10.8112057,
+   "longitude": -65.3507318,
+   "addr:street": "Guayaramerin"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesús Nazareno",
+   "latitude": -10.8101753,
+   "longitude": -65.3516965,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Multiactiva 2 de Junio Abasto",
+   "latitude": -17.7947489,
+   "longitude": -63.2042699,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes Pro Credit",
+   "latitude": -16.5012549,
+   "longitude": -68.1334217,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes ProCredit",
+   "latitude": -17.7828126,
+   "longitude": -63.1815474,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7505149,
+   "longitude": -63.1762421,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Atm BCP",
+   "latitude": -16.4942026,
+   "longitude": -68.1318932,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BISA",
+   "latitude": -17.7847292,
+   "longitude": -63.1858221,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondo Financiero Privado PRODEM",
+   "latitude": -16.9749989,
+   "longitude": -65.4207023,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.1884894,
+   "longitude": -67.7272744,
+   "addr:street": "Coroico"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia (Suc. Ché Guevara)",
+   "latitude": -17.8216558,
+   "longitude": -63.1445105,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5393192,
+   "longitude": -68.0782122,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB - Agencia UPSA",
+   "latitude": -17.7632071,
+   "longitude": -63.1481306,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Ganadero",
+   "latitude": -17.7728373,
+   "longitude": -63.2024631,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5414922,
+   "longitude": -68.2310727,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "DIACONIA",
+   "latitude": -14.8587434,
+   "longitude": -66.7482006,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Económico",
+   "latitude": -17.7839542,
+   "longitude": -63.1830923,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Económico",
+   "latitude": -17.7842867,
+   "longitude": -63.1828129,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia",
+   "latitude": -17.7675127,
+   "longitude": -63.1437442,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -21.5296692,
+   "longitude": -64.7205718,
+   "addr:street": "Tarija"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Catedral de Tarija",
+   "latitude": -21.5326533,
+   "longitude": -64.7174212,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.9054958,
+   "longitude": -62.6183291,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.9090187,
+   "longitude": -62.6188686,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.912506,
+   "longitude": -62.6188106,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.9125898,
+   "longitude": -62.6187836,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Antonio",
+   "latitude": -17.4031654,
+   "longitude": -66.1550271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3846771,
+   "longitude": -66.158522,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Gretel Rojas",
+   "latitude": -17.8152484,
+   "longitude": -63.130762,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fie",
+   "latitude": -17.4033881,
+   "longitude": -66.0403727,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.4981621,
+   "longitude": -68.1410368,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.4997182,
+   "longitude": -68.1414226,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.7731783,
+   "longitude": -63.203381,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "bnb24",
+   "latitude": -19.0529284,
+   "longitude": -65.253029,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.764729,
+   "longitude": -63.1494328,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.7859928,
+   "longitude": -63.1846953,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -21.5408349,
+   "longitude": -64.7251474,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3994018,
+   "longitude": -66.0496152,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -16.5050888,
+   "longitude": -68.1209475,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banca Jesús Nazareno ATM",
+   "latitude": -18.9663806,
+   "longitude": -57.7993418,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banca Union ATM",
+   "latitude": -18.9661844,
+   "longitude": -57.7991895,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.8436695,
+   "longitude": -60.7393622,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -17.843647,
+   "longitude": -60.7398438,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.8437843,
+   "longitude": -60.7394196,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Western Union",
+   "latitude": -17.8437816,
+   "longitude": -60.7392631,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7805639,
+   "longitude": -63.1650538,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.4595506,
+   "longitude": -63.6602051,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7748427,
+   "longitude": -63.1835549,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5078232,
+   "longitude": -68.1261578,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes Pro-Credict",
+   "latitude": -17.3800201,
+   "longitude": -66.151279,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.9111714,
+   "longitude": -62.6192461,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito Pío X",
+   "latitude": -17.3746174,
+   "longitude": -66.1570615,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -17.969216,
+   "longitude": -67.1142027,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "ATM Banco de Crédito BCP",
+   "latitude": -17.7641209,
+   "longitude": -63.1617385,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.7646736,
+   "longitude": -63.1612696,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.5100034,
+   "longitude": -68.143396,
+   "addr:street": "Municipio Nuestra Señora de La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5116567,
+   "longitude": -68.1427051,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoFie",
+   "latitude": -16.1886767,
+   "longitude": -67.7278532,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes Pro Credit",
+   "latitude": -16.4919237,
+   "longitude": -68.1384286,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5451772,
+   "longitude": -68.0785521,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera EFV",
+   "latitude": -16.5003081,
+   "longitude": -68.1344087,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5015782,
+   "longitude": -68.1331236,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.501513,
+   "longitude": -68.133195,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5015523,
+   "longitude": -68.1331645,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.5007702,
+   "longitude": -68.1338961,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -11.0230573,
+   "longitude": -68.7571578,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz (BMSC)",
+   "latitude": -16.5086562,
+   "longitude": -68.1640672,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.5090726,
+   "longitude": -68.1642402,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia (BNB)",
+   "latitude": -16.506491,
+   "longitude": -68.1638088,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -16.507382,
+   "longitude": -68.1641286,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Ahorro y Credito",
+   "latitude": -16.5841164,
+   "longitude": -68.1853468,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5667117,
+   "longitude": -68.22076,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5663793,
+   "longitude": -68.2204164,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5661483,
+   "longitude": -68.2202177,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.5352691,
+   "longitude": -68.1907436,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.5351946,
+   "longitude": -68.1906176,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -16.5351617,
+   "longitude": -68.1905663,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BCR",
+   "latitude": -16.5351245,
+   "longitude": -68.1905049,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5350953,
+   "longitude": -68.1904598,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.535063,
+   "longitude": -68.190423,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5350385,
+   "longitude": -68.1903748,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5347737,
+   "longitude": -68.1901629,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5346694,
+   "longitude": -68.1900984,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5256861,
+   "longitude": -68.2170482,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4949536,
+   "longitude": -68.1933591,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BCP",
+   "latitude": -16.499757,
+   "longitude": -68.174692,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4935205,
+   "longitude": -68.1405668,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Proderm",
+   "latitude": -16.4963856,
+   "longitude": -68.1396693,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5145821,
+   "longitude": -68.1290209,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5143675,
+   "longitude": -68.1289957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4997549,
+   "longitude": -68.1320368,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.499401,
+   "longitude": -68.1329955,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4987358,
+   "longitude": -68.1341797,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -16.4992099,
+   "longitude": -68.1338717,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.387539,
+   "longitude": -66.1606031,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5021508,
+   "longitude": -68.1327982,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4939738,
+   "longitude": -68.1367961,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4936144,
+   "longitude": -68.1369468,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.4934443,
+   "longitude": -68.1369991,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4932123,
+   "longitude": -68.1370668,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4844401,
+   "longitude": -68.1235001,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.4825284,
+   "longitude": -68.1222788,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4805127,
+   "longitude": -68.1214447,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4795085,
+   "longitude": -68.1209948,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.4792013,
+   "longitude": -68.1208346,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Ahorro y Crédito",
+   "latitude": -16.4679287,
+   "longitude": -68.1140133,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Comunidad",
+   "latitude": -16.4821619,
+   "longitude": -68.1217878,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.4815551,
+   "longitude": -68.121587,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4789053,
+   "longitude": -68.1203794,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4774531,
+   "longitude": -68.1194968,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4686305,
+   "longitude": -68.1143382,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4655202,
+   "longitude": -68.1191705,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4852537,
+   "longitude": -68.1283826,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4858647,
+   "longitude": -68.1296478,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.4912314,
+   "longitude": -68.1397496,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.496398,
+   "longitude": -68.1350454,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4958975,
+   "longitude": -68.1322353,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4988841,
+   "longitude": -68.1338562,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4989347,
+   "longitude": -68.1337327,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.509865,
+   "longitude": -68.1270243,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "SembrarSartawi IFD",
+   "latitude": -16.504779,
+   "longitude": -68.1370936,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Brazil",
+   "latitude": -16.5129526,
+   "longitude": -68.123717,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Comunidad",
+   "latitude": -16.5095873,
+   "longitude": -68.1269264,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes ProCredit - Banco PyME",
+   "latitude": -16.5100953,
+   "longitude": -68.1270388,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sembrar Sartawi IFD",
+   "latitude": -16.5117623,
+   "longitude": -68.1270597,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4979578,
+   "longitude": -68.1244177,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BCP",
+   "latitude": -16.5011895,
+   "longitude": -68.1229703,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5000988,
+   "longitude": -68.1237743,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4989563,
+   "longitude": -68.123874,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.4954535,
+   "longitude": -68.1224042,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4852618,
+   "longitude": -68.122356,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Proderm",
+   "latitude": -16.4960692,
+   "longitude": -68.1165411,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Comunidad",
+   "latitude": -16.4956097,
+   "longitude": -68.1174635,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5081564,
+   "longitude": -68.1127569,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -16.5269059,
+   "longitude": -68.1072191,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia - Obrajes",
+   "latitude": -16.5298367,
+   "longitude": -68.1007212,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5322127,
+   "longitude": -68.086929,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -16.5324076,
+   "longitude": -68.0867934,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BCP",
+   "latitude": -16.5325376,
+   "longitude": -68.0867595,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5326646,
+   "longitude": -68.0867133,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5126306,
+   "longitude": -68.1210204,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.504567,
+   "longitude": -68.1438055,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.7837452,
+   "longitude": -63.1801664,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BLS",
+   "latitude": -17.7819424,
+   "longitude": -63.1860739,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5233161,
+   "longitude": -68.1064053,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.530005,
+   "longitude": -68.1008302,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.7827928,
+   "longitude": -63.1718429,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.5350961,
+   "longitude": -68.1902257,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera",
+   "latitude": -16.5302404,
+   "longitude": -68.1004998,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.7808256,
+   "longitude": -63.1729241,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5455691,
+   "longitude": -68.1746505,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes ProCredit - Banco PyME",
+   "latitude": -16.5341744,
+   "longitude": -68.1898591,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.5340795,
+   "longitude": -68.189816,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5244651,
+   "longitude": -68.1810641,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Jesús Nazareno",
+   "latitude": -17.7867163,
+   "longitude": -63.1855944,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.7934561,
+   "longitude": -63.18045,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.533164,
+   "longitude": -68.0743181,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7937036,
+   "longitude": -63.2045927,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.5450925,
+   "longitude": -68.0780275,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Pirai Ltda.",
+   "latitude": -17.7893123,
+   "longitude": -63.1807771,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -16.4956032,
+   "longitude": -68.1360087,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -16.4956664,
+   "longitude": -68.1342859,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4953376,
+   "longitude": -68.1339359,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.5125667,
+   "longitude": -68.122758,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PYME ECOFUTURO",
+   "latitude": -17.0343545,
+   "longitude": -64.8571113,
+   "addr:street": "Ivirgarzama"
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4888787,
+   "longitude": -68.1676816,
+   "addr:street": "Municipio Nuestra Señora de La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5164411,
+   "longitude": -68.1678659,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4920165,
+   "longitude": -68.1629439,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Comarapa",
+   "latitude": -17.806933,
+   "longitude": -63.2022655,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -17.8015012,
+   "longitude": -63.1960808,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.4958147,
+   "longitude": -68.1464322,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.494932,
+   "longitude": -68.1524691,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa La Merced",
+   "latitude": -17.8096637,
+   "longitude": -63.1901207,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.8104772,
+   "longitude": -63.190066,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5153003,
+   "longitude": -68.1559295,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4989681,
+   "longitude": -68.1519738,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.4947884,
+   "longitude": -68.152287,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -17.7706342,
+   "longitude": -63.1227641,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.7702494,
+   "longitude": -63.1217335,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Crédito Ayni",
+   "latitude": -16.5107808,
+   "longitude": -68.1585875,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.5105333,
+   "longitude": -68.1587397,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.5090113,
+   "longitude": -68.1596727,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5088846,
+   "longitude": -68.15972,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fossil",
+   "latitude": -17.7713899,
+   "longitude": -63.1258609,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Banco Fortaleza",
+   "latitude": -17.7712343,
+   "longitude": -63.1254722,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -17.7681335,
+   "longitude": -63.117342,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Tu Amigo",
+   "latitude": -16.5074877,
+   "longitude": -68.1605296,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7718029,
+   "longitude": -63.2027386,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -16.4936203,
+   "longitude": -68.1441181,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.494813,
+   "longitude": -68.1440858,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Comunidad",
+   "latitude": -16.4963542,
+   "longitude": -68.1442835,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.499222,
+   "longitude": -68.1749815,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4981803,
+   "longitude": -68.1746761,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4916314,
+   "longitude": -68.1525245,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4948975,
+   "longitude": -68.1442853,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.4955133,
+   "longitude": -68.144395,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4968085,
+   "longitude": -68.1445653,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco do Brasil",
+   "latitude": -17.7811418,
+   "longitude": -63.1807651,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "San Martín de Porres",
+   "latitude": -17.7781785,
+   "longitude": -63.1792534,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -16.4979659,
+   "longitude": -68.1742501,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.4967376,
+   "longitude": -68.1739158,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.4966085,
+   "longitude": -68.1738833,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.4962721,
+   "longitude": -68.1737847,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5110832,
+   "longitude": -68.1386011,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.4904988,
+   "longitude": -68.2064759,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -16.4902313,
+   "longitude": -68.2083254,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoFie",
+   "latitude": -17.7511952,
+   "longitude": -63.188502,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -17.7511716,
+   "longitude": -63.1884257,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4999576,
+   "longitude": -68.1248601,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.7608968,
+   "longitude": -63.1981427,
+   "addr:street": "Santa Cruz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7777221,
+   "longitude": -63.2040654,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7853284,
+   "longitude": -63.1555482,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -17.8147887,
+   "longitude": -63.1833688,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.8190115,
+   "longitude": -63.1840081,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "GanaValores",
+   "latitude": -17.7826323,
+   "longitude": -63.1809948,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7826455,
+   "longitude": -63.1812412,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Casa de Salud de La Banca Privada",
+   "latitude": -17.7830152,
+   "longitude": -63.1874987,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Futuro de Bolivia",
+   "latitude": -17.7890227,
+   "longitude": -63.1830237,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.5016016,
+   "longitude": -68.13248,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sol Amigo",
+   "latitude": -17.800444,
+   "longitude": -63.1520513,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.7847186,
+   "longitude": -63.1587908,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7885148,
+   "longitude": -63.1624651,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.7658542,
+   "longitude": -63.1047768,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.8515795,
+   "longitude": -63.1823441,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.783339,
+   "longitude": -63.1771386,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Western Union",
+   "latitude": -17.7906204,
+   "longitude": -63.196216,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.8239945,
+   "longitude": -63.1650328,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.7494273,
+   "longitude": -63.1766309,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5405537,
+   "longitude": -68.0632825,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "SembrarSartawi",
+   "latitude": -16.5374679,
+   "longitude": -68.0491601,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.7569413,
+   "longitude": -63.2003084,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5379966,
+   "longitude": -68.0520877,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7617683,
+   "longitude": -63.198034,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7499675,
+   "longitude": -63.1873376,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Los Andes ProCredit",
+   "latitude": -17.7657697,
+   "longitude": -63.1953138,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.8057945,
+   "longitude": -63.153591,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -17.7864215,
+   "longitude": -63.1844252,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7907501,
+   "longitude": -63.1954825,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Gran Grigota",
+   "latitude": -17.7930293,
+   "longitude": -63.1912056,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Morro y Credito San Martin de Porres",
+   "latitude": -17.7933509,
+   "longitude": -63.1914109,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.7949938,
+   "longitude": -63.1926286,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7997258,
+   "longitude": -63.1949653,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union - Agencia Roboré",
+   "latitude": -18.3314238,
+   "longitude": -59.7543152,
+   "addr:street": "Roboré"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.7605617,
+   "longitude": -63.1647174,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7550118,
+   "longitude": -63.1655402,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.7806647,
+   "longitude": -63.1822255,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -19.8044928,
+   "longitude": -63.9575682,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.3336678,
+   "longitude": -63.2552152,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BANCO FIE AGENCIA IVIRGARZAMA",
+   "latitude": -17.034175,
+   "longitude": -64.8609612,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -21.265718,
+   "longitude": -63.4695368,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -14.8576278,
+   "longitude": -66.74849,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE -Agencia",
+   "latitude": -20.4631039,
+   "longitude": -66.8246088,
+   "addr:street": "Uyuni"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa El Churqui (Western Union)",
+   "latitude": -21.6962086,
+   "longitude": -64.653285,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.508204,
+   "longitude": -68.1635082,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.3434283,
+   "longitude": -63.2479427,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fiesa",
+   "latitude": -17.3439576,
+   "longitude": -63.2476006,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -16.5106826,
+   "longitude": -68.1607919,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.3911701,
+   "longitude": -66.2408445,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.3844414,
+   "longitude": -66.1586913,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -14.2971607,
+   "longitude": -67.3370782,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4987072,
+   "longitude": -68.14082,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -14.2959682,
+   "longitude": -67.3372365,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE - Agencia Simon Lopez",
+   "latitude": -17.3622421,
+   "longitude": -66.1816582,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4975614,
+   "longitude": -68.1090228,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión - Agencia Circunvalacion",
+   "latitude": -17.3676527,
+   "longitude": -66.1469611,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union S.A.",
+   "latitude": -17.1981242,
+   "longitude": -64.5362468,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Tukuipaj",
+   "latitude": -17.355351,
+   "longitude": -66.1869652,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem - Agencia Cruce Taquiña",
+   "latitude": -17.3548665,
+   "longitude": -66.1878471,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.7548472,
+   "longitude": -62.9961826,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A.",
+   "latitude": -17.7812634,
+   "longitude": -63.1817068,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.530251,
+   "longitude": -68.1560021,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -16.5218212,
+   "longitude": -68.209906,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fassil",
+   "latitude": -16.5219008,
+   "longitude": -68.2099769,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera",
+   "latitude": -16.5218639,
+   "longitude": -68.2099476,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4944917,
+   "longitude": -68.1729698,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco sol",
+   "latitude": -16.5412979,
+   "longitude": -68.0606334,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.4963421,
+   "longitude": -68.1317677,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera FV",
+   "latitude": -16.4958436,
+   "longitude": -68.1323411,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5077752,
+   "longitude": -68.1628908,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE - Agencia Bermejo",
+   "latitude": -22.7320356,
+   "longitude": -64.3418171,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM - Agencia Bermejo",
+   "latitude": -22.732344,
+   "longitude": -64.342367,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PYME Ecofuturo S.A. - Agencia Bermejo",
+   "latitude": -22.732545,
+   "longitude": -64.3434959,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BNB - Agencia Bermejo",
+   "latitude": -22.7339401,
+   "longitude": -64.3439936,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia Bermejo",
+   "latitude": -22.7337386,
+   "longitude": -64.3443464,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Jose Bermejo",
+   "latitude": -22.7319189,
+   "longitude": -64.342825,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -19.5806164,
+   "longitude": -65.7594404,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE - Agencia Bermejo",
+   "latitude": -22.7288759,
+   "longitude": -64.3385863,
+   "addr:street": "Municipio Bermejo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FASSIL",
+   "latitude": -17.1188266,
+   "longitude": -63.2321888,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.1192412,
+   "longitude": -63.2320762,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo",
+   "latitude": -17.9150972,
+   "longitude": -64.5309865,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3988021,
+   "longitude": -63.8270241,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.4025885,
+   "longitude": -63.8830497,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.4025569,
+   "longitude": -63.8825298,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BBVA Previsión AFP",
+   "latitude": -16.5231478,
+   "longitude": -68.1526018,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Martin de Porres",
+   "latitude": -17.3945031,
+   "longitude": -66.1586596,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5242407,
+   "longitude": -68.1722048,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -19.0457189,
+   "longitude": -65.2596936,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera EFV",
+   "latitude": -16.4960452,
+   "longitude": -68.1455252,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.5231246,
+   "longitude": -68.1534031,
+   "addr:street": "Ciudad Satélite"
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera EFV",
+   "latitude": -16.524123,
+   "longitude": -68.1515526,
+   "addr:street": "Ciudad Satélite"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.2750182,
+   "longitude": -62.554856,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -21.2630404,
+   "longitude": -63.4702014,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -21.2658929,
+   "longitude": -63.4737224,
+   "addr:street": "Villamontes"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A. Ag. Plan 3000",
+   "latitude": -17.826659,
+   "longitude": -63.1341356,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM S.A.",
+   "latitude": -17.829921,
+   "longitude": -63.129105,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol S.A. Ag. Plan 3000",
+   "latitude": -17.828548,
+   "longitude": -63.129927,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A. Ag. El Carmen",
+   "latitude": -17.8229352,
+   "longitude": -63.1444682,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Primera",
+   "latitude": -17.8269033,
+   "longitude": -63.1346409,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A.",
+   "latitude": -17.7622953,
+   "longitude": -63.1611539,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "PRODEM",
+   "latitude": -16.4957833,
+   "longitude": -68.1462974,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Crecer Credito",
+   "latitude": -17.949615,
+   "longitude": -67.1116986,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Agua de Castillo",
+   "latitude": -17.9809565,
+   "longitude": -67.1238492,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.9778388,
+   "longitude": -67.1321493,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco ECOFUTURO",
+   "latitude": -17.9785124,
+   "longitude": -67.133713,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperaqti",
+   "latitude": -17.9531945,
+   "longitude": -67.1087014,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Westen union",
+   "latitude": -17.782767,
+   "longitude": -63.1830582,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.7827454,
+   "longitude": -63.1830385,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.7828301,
+   "longitude": -63.1831008,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.7827369,
+   "longitude": -63.1830371,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -16.5290212,
+   "longitude": -68.102812,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Coorperativa de Ahorro y Crédito San Roque LTDA.",
+   "latitude": -19.123535,
+   "longitude": -64.3235107,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Servicio de Ahorro y Crédito CRECER",
+   "latitude": -19.1225897,
+   "longitude": -64.3238989,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "ECOFUTURO",
+   "latitude": -19.1226392,
+   "longitude": -64.3240686,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Magisterio Rural",
+   "latitude": -19.1240032,
+   "longitude": -64.3242805,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agropecuaria El Productor",
+   "latitude": -19.1224118,
+   "longitude": -64.3243583,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "FIE",
+   "latitude": -16.5020514,
+   "longitude": -68.1053496,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza Agencia Patacamaya",
+   "latitude": -17.2413131,
+   "longitude": -67.9078488,
+   "addr:street": "Patacamaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Pyme Ecofuturo",
+   "latitude": -17.2404823,
+   "longitude": -67.9087069,
+   "addr:street": "Patacamaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -21.8280475,
+   "longitude": -63.7430124,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa el Churqui Caraparì",
+   "latitude": -21.8280612,
+   "longitude": -63.7419895,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "San José de Bermejo",
+   "latitude": -21.8282442,
+   "longitude": -63.7429819,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem, Agencia Patacamaya",
+   "latitude": -17.2399768,
+   "longitude": -67.909713,
+   "addr:street": "Patacamaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -16.499103,
+   "longitude": -68.132149,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.7680609,
+   "longitude": -63.1941129,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.3362352,
+   "longitude": -67.7396705,
+   "addr:street": "Sica Sica"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco para el Fomento a Iniciativas Económicas S.A.",
+   "latitude": -17.3734123,
+   "longitude": -67.6767796,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "E-fectivo ESPM S.A.",
+   "latitude": -17.3740954,
+   "longitude": -67.6734263,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.6397014,
+   "longitude": -67.2195064,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PYME Ecofuturo",
+   "latitude": -17.6394479,
+   "longitude": -67.2191156,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.6393083,
+   "longitude": -67.2198028,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "E-fectivo ESPM",
+   "latitude": -17.6390699,
+   "longitude": -67.2199983,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PYME Los Andes",
+   "latitude": -17.6389438,
+   "longitude": -67.2200834,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -19.3073312,
+   "longitude": -64.3023318,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa La Merced",
+   "latitude": -17.7548983,
+   "longitude": -62.9963395,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.7548574,
+   "longitude": -62.9955711,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil S.A.",
+   "latitude": -17.7547117,
+   "longitude": -62.9956215,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.4944621,
+   "longitude": -68.1484437,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -19.0364433,
+   "longitude": -65.2591413,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5008328,
+   "longitude": -68.1398919,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Loyola",
+   "latitude": -17.3941065,
+   "longitude": -66.1542288,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -17.3959745,
+   "longitude": -66.157155,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -17.3965813,
+   "longitude": -66.1569384,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -17.3960569,
+   "longitude": -66.1570206,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Quillacollo",
+   "latitude": -17.395892,
+   "longitude": -66.157035,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM",
+   "latitude": -16.0438041,
+   "longitude": -68.6858353,
+   "addr:street": "Achacachi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.0444248,
+   "longitude": -68.6848087,
+   "addr:street": "Achacachi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.4035107,
+   "longitude": -66.0404205,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.400574,
+   "longitude": -66.0382788,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -19.5740058,
+   "longitude": -65.7586138,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Eco futuro",
+   "latitude": -16.0437378,
+   "longitude": -68.6845277,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Union",
+   "latitude": -16.5191934,
+   "longitude": -68.2071797,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -20.4618946,
+   "longitude": -66.8234841,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -22.0911025,
+   "longitude": -65.5966361,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -14.8587812,
+   "longitude": -66.7469307,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sembrar sartawi",
+   "latitude": -22.0904333,
+   "longitude": -65.5957771,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -17.4105235,
+   "longitude": -66.1508201,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.4103992,
+   "longitude": -66.1512873,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.4105674,
+   "longitude": -66.1508204,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Diaconia",
+   "latitude": -17.4101311,
+   "longitude": -66.1511669,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Comarapa",
+   "latitude": -17.4105087,
+   "longitude": -66.1498944,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -20.4599553,
+   "longitude": -66.8216215,
+   "addr:street": "Uyuni"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol Amigo",
+   "latitude": -16.4688964,
+   "longitude": -68.1146613,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "CRECER",
+   "latitude": -16.5117419,
+   "longitude": -68.1655648,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fasil",
+   "latitude": -16.5218092,
+   "longitude": -68.2100485,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5217295,
+   "longitude": -68.2099697,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -16.5408238,
+   "longitude": -68.0804235,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A.",
+   "latitude": -17.7995024,
+   "longitude": -63.13504,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz S.A.",
+   "latitude": -17.8006098,
+   "longitude": -63.1353371,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.4986001,
+   "longitude": -68.1344555,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión S.A.",
+   "latitude": -16.9962567,
+   "longitude": -65.2460885,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -16.507651,
+   "longitude": -68.1633086,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5076905,
+   "longitude": -68.1631546,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE Pampahasi",
+   "latitude": -16.5022403,
+   "longitude": -68.1053655,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco fie",
+   "latitude": -17.9725507,
+   "longitude": -67.1045854,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.9720567,
+   "longitude": -67.1057663,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE S.A.",
+   "latitude": -17.8419184,
+   "longitude": -63.1122113,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -21.5338656,
+   "longitude": -64.7334164,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.5333673,
+   "longitude": -64.7337492,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Fondeco",
+   "latitude": -21.5185274,
+   "longitude": -64.7399972,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil - Agencia",
+   "latitude": -20.463177,
+   "longitude": -66.8247065,
+   "addr:street": "Uyuni"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesús Nazareno",
+   "latitude": -17.761407,
+   "longitude": -63.1623835,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco union",
+   "latitude": -14.0793064,
+   "longitude": -66.791922,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -19.5834518,
+   "longitude": -65.7555813,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.3770568,
+   "longitude": -66.1814756,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Pro Mujer",
+   "latitude": -16.5031333,
+   "longitude": -68.1673339,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.4994507,
+   "longitude": -68.1260358,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -16.499263,
+   "longitude": -68.1403608,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.491072,
+   "longitude": -68.1722918,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito BCP",
+   "latitude": -16.5233802,
+   "longitude": -68.1519946,
+   "addr:street": "Ciudad Satélite"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -21.5218754,
+   "longitude": -64.7417574,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz S.A.",
+   "latitude": -16.5230274,
+   "longitude": -68.1528695,
+   "addr:street": "Ciudad Satélite"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.3980632,
+   "longitude": -66.1566821,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.3966828,
+   "longitude": -66.1575805,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.39658,
+   "longitude": -66.1570643,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco",
+   "latitude": -15.7729067,
+   "longitude": -68.6494677,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil S.A.",
+   "latitude": -17.8420879,
+   "longitude": -63.1106,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.387255,
+   "longitude": -66.1557221,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Martin de Porres",
+   "latitude": -20.0375178,
+   "longitude": -63.5202173,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.4318029,
+   "longitude": -66.1275767,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol Los Lotes",
+   "latitude": -17.8634666,
+   "longitude": -63.1601329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil S.A.",
+   "latitude": -17.8234102,
+   "longitude": -63.1336851,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.490364,
+   "longitude": -68.2077475,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB SAFI",
+   "latitude": -16.4991295,
+   "longitude": -68.1341709,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -19.0510906,
+   "longitude": -65.2616907,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB LEASING",
+   "latitude": -16.4991116,
+   "longitude": -68.1340703,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz - Agencia",
+   "latitude": -19.0471887,
+   "longitude": -65.2580349,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -19.570224,
+   "longitude": -65.7548127,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -19.5779547,
+   "longitude": -65.7543782,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -19.5876796,
+   "longitude": -65.7548403,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -18.9012412,
+   "longitude": -66.7743691,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -18.9010302,
+   "longitude": -66.7743735,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -18.9014774,
+   "longitude": -66.7747187,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union - Agencia Uyuni",
+   "latitude": -20.4640962,
+   "longitude": -66.8254899,
+   "addr:street": "Uyuni"
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5585835,
+   "longitude": -68.192597,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Prodem",
+   "latitude": -14.441021,
+   "longitude": -67.5287199,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -15.8959379,
+   "longitude": -63.1899115,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.5388447,
+   "longitude": -68.0784035,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.5053479,
+   "longitude": -68.1622336,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -16.5405494,
+   "longitude": -68.0788328,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5096195,
+   "longitude": -68.1603807,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa La Merced Ltda",
+   "latitude": -18.1794774,
+   "longitude": -63.8754073,
+   "addr:street": "Samaipata"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -15.8327823,
+   "longitude": -67.5652601,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito (BCP)",
+   "latitude": -17.7865476,
+   "longitude": -63.1852339,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia (BNB)",
+   "latitude": -17.3912683,
+   "longitude": -66.2385979,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.4995619,
+   "longitude": -68.1399098,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -10.9984998,
+   "longitude": -66.0760577,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "BMSC",
+   "latitude": -10.9983179,
+   "longitude": -66.0749434,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -10.9982433,
+   "longitude": -66.0744501,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -10.9987049,
+   "longitude": -66.0743473,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -10.9983205,
+   "longitude": -66.0743849,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -11.0005532,
+   "longitude": -66.0783036,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -10.9999991,
+   "longitude": -66.0772424,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -10.99916,
+   "longitude": -66.0756569,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -10.9999068,
+   "longitude": -66.0750026,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.9778954,
+   "longitude": -67.1425819,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Cristo Rey",
+   "latitude": -17.3896996,
+   "longitude": -66.1708411,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -10.9994901,
+   "longitude": -66.0757084,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -11.003642,
+   "longitude": -66.0546,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -17.3755683,
+   "longitude": -66.1501455,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.4441698,
+   "longitude": -65.7195947,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia BNB",
+   "latitude": -16.5247485,
+   "longitude": -68.1494298,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4864176,
+   "longitude": -68.1918263,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5420366,
+   "longitude": -68.1983273,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -16.4957687,
+   "longitude": -68.1489271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4962439,
+   "longitude": -68.1166836,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Los Andes ProCredit",
+   "latitude": -17.3729468,
+   "longitude": -66.1582824,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5299287,
+   "longitude": -68.100734,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB MYPE EL TEJAR",
+   "latitude": -16.4959748,
+   "longitude": -68.1488023,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia",
+   "latitude": -16.4955433,
+   "longitude": -68.1448103,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecoguturi",
+   "latitude": -17.2647673,
+   "longitude": -62.5556135,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.266581,
+   "longitude": -62.5565213,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union SA.",
+   "latitude": -17.4018142,
+   "longitude": -63.8828406,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Popular",
+   "latitude": -16.500585,
+   "longitude": -68.1053793,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union S.A",
+   "latitude": -13.2624404,
+   "longitude": -64.0550539,
+   "addr:street": "Magdalena"
+ },
+ {
+   "amenity": "bank",
+   "name": "Inca Huasi",
+   "latitude": -17.3966606,
+   "longitude": -66.1559403,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5486065,
+   "longitude": -68.1915368,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de la Comunidad",
+   "latitude": -17.3737804,
+   "longitude": -66.1453879,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -21.5206733,
+   "longitude": -64.7428005,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Jesús Nazareno",
+   "latitude": -18.123383,
+   "longitude": -63.9579281,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Crédito El Progreso Srl.",
+   "latitude": -18.1233352,
+   "longitude": -63.9579843,
+   "addr:street": "Mairana"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.4401279,
+   "longitude": -66.1175089,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.267897,
+   "longitude": -62.5566516,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -17.2678859,
+   "longitude": -62.5555837,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.3961396,
+   "longitude": -66.3188716,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4982548,
+   "longitude": -68.174696,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.4950273,
+   "longitude": -68.1536156,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BCP",
+   "latitude": -19.0332051,
+   "longitude": -65.2548244,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5168191,
+   "longitude": -68.1655261,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Blanco Union",
+   "latitude": -17.5909227,
+   "longitude": -65.9326463,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Credito San Martin",
+   "latitude": -19.5891193,
+   "longitude": -65.7488961,
+   "addr:street": "Potosí"
+ },
+ {
+   "amenity": "bank",
+   "name": "Pro Mujer",
+   "latitude": -16.4961941,
+   "longitude": -68.1166954,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.4759014,
+   "longitude": -68.2749869,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Sagrada familia",
+   "latitude": -16.475829,
+   "longitude": -68.2725308,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Diaconia",
+   "latitude": -16.4761154,
+   "longitude": -68.2737642,
+   "addr:street": "Municipio El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ganadero",
+   "latitude": -17.342155,
+   "longitude": -63.2564226,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP",
+   "latitude": -17.3429397,
+   "longitude": -63.256027,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.3432495,
+   "longitude": -63.2556407,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3427976,
+   "longitude": -63.2557306,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3427105,
+   "longitude": -63.2556032,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3416634,
+   "longitude": -63.25528,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.3430549,
+   "longitude": -63.2557748,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Bisa",
+   "latitude": -16.4956156,
+   "longitude": -68.1477725,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -16.4955657,
+   "longitude": -68.1477705,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB - Banco Nacional de Bolvia",
+   "latitude": -17.7955024,
+   "longitude": -63.1775079,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "EcoFuturo",
+   "latitude": -16.4905678,
+   "longitude": -68.1401388,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -17.9715266,
+   "longitude": -67.0940667,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.9702361,
+   "longitude": -67.0984594,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "FIE",
+   "latitude": -16.4955918,
+   "longitude": -68.1173429,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.4049906,
+   "longitude": -66.1555002,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.4308745,
+   "longitude": -66.1280596,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "COOPERATIVA PIO XII",
+   "latitude": -17.3778316,
+   "longitude": -66.1587352,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5334733,
+   "longitude": -68.1602244,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.419095,
+   "longitude": -66.1486525,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Diaconia",
+   "latitude": -16.5554319,
+   "longitude": -68.6796106,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3925417,
+   "longitude": -66.15923,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3929788,
+   "longitude": -66.1616995,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.3919993,
+   "longitude": -66.1591115,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE Agencia Heroínas",
+   "latitude": -17.3937222,
+   "longitude": -66.1695376,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.4018215,
+   "longitude": -66.1532043,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Pro Mujer",
+   "latitude": -16.1640223,
+   "longitude": -69.0880567,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -17.5129361,
+   "longitude": -63.1667869,
+   "addr:street": "Warnes"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -14.8342275,
+   "longitude": -64.9038863,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.7489925,
+   "longitude": -63.2155003,
+   "addr:street": "Municipio Porongo (Ayacucho)"
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -19.5777451,
+   "longitude": -65.7658611,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -15.3105166,
+   "longitude": -68.2163238,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -19.8954816,
+   "longitude": -63.7509019,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banca Los Andes PyME",
+   "latitude": -21.5224275,
+   "longitude": -64.7413984,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa de Ahorro y Credito Madre y Maestra",
+   "latitude": -21.5291209,
+   "longitude": -64.7343072,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -21.5399202,
+   "longitude": -64.7245364,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol, ATM SUR",
+   "latitude": -21.5382984,
+   "longitude": -64.7239838,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico - Agencia",
+   "latitude": -17.9707627,
+   "longitude": -67.1122764,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB - Las Torres Mall",
+   "latitude": -16.5092775,
+   "longitude": -68.1233609,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -19.0256478,
+   "longitude": -57.7107957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -19.0280214,
+   "longitude": -57.7105425,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -18.4662905,
+   "longitude": -66.5698511,
+   "addr:street": "Uncía"
+ },
+ {
+   "amenity": "bank",
+   "name": "Autobanco BISA",
+   "latitude": -16.512066,
+   "longitude": -68.1643544,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "DIACONIA",
+   "latitude": -16.5106254,
+   "longitude": -68.1635968,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4860143,
+   "longitude": -68.2065854,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -21.2649584,
+   "longitude": -63.4732272,
+   "addr:street": "Villa Montes"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil SA",
+   "latitude": -22.014867,
+   "longitude": -63.6790038,
+   "addr:street": "Yacuiba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Económico",
+   "latitude": -22.0131534,
+   "longitude": -63.678189,
+   "addr:street": "Yacuiba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.4176203,
+   "longitude": -64.7494591,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -21.4182635,
+   "longitude": -64.7493292,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.4035964,
+   "longitude": -66.0398663,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -15.4981373,
+   "longitude": -67.8795414,
+   "addr:street": "Guanay"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.5784131,
+   "longitude": -68.1683473,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -16.5783796,
+   "longitude": -68.1681553,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "",
+   "latitude": -17.0350367,
+   "longitude": -64.8640042,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -16.5788958,
+   "longitude": -68.1681767,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5789394,
+   "longitude": -68.1681609,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo BDP",
+   "latitude": -17.0844433,
+   "longitude": -66.8196942,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.0410315,
+   "longitude": -68.6852467,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Francisco de Asís",
+   "latitude": -17.0839889,
+   "longitude": -66.8193113,
+   "addr:street": "Independencia"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.5702308,
+   "longitude": -68.0854843,
+   "addr:street": "Municipio Nuestra Señora de La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5698004,
+   "longitude": -68.085764,
+   "addr:street": "Municipio Nuestra Señora de La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.8002271,
+   "longitude": -63.1709184,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Futuro de Bolivia",
+   "latitude": -16.9723804,
+   "longitude": -65.4163587,
+   "addr:street": "Villa Tunari"
+ },
+ {
+   "amenity": "bank",
+   "name": "Ffr",
+   "latitude": -17.8244495,
+   "longitude": -63.2474264,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa La Merced Western Union",
+   "latitude": -15.8953489,
+   "longitude": -63.1883413,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -15.8941986,
+   "longitude": -63.1886234,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco PRODEM",
+   "latitude": -15.8942943,
+   "longitude": -63.1886231,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5370551,
+   "longitude": -68.1779224,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Mercantil Santa Cruz",
+   "latitude": -16.4953203,
+   "longitude": -68.1448516,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB Valores",
+   "latitude": -16.4990742,
+   "longitude": -68.1341238,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4758586,
+   "longitude": -68.2752059,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.2919886,
+   "longitude": -63.8448736,
+   "addr:street": "San Juan de Yapacani"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -17.2918061,
+   "longitude": -63.8448553,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB",
+   "latitude": -18.28774,
+   "longitude": -66.8364466,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7760572,
+   "longitude": -63.1823924,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.5423248,
+   "longitude": -68.0779511,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "DIACONIA",
+   "latitude": -16.5113452,
+   "longitude": -68.1429345,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4741328,
+   "longitude": -68.1502867,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -18.491874,
+   "longitude": -64.1072716,
+   "addr:street": "Vallegrande"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa San Mateo",
+   "latitude": -18.4896437,
+   "longitude": -64.1071285,
+   "addr:street": "Vallegrande"
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Banco Union",
+   "latitude": -16.3603719,
+   "longitude": -58.4016523,
+   "addr:street": "San Matias"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cidre IFD",
+   "latitude": -18.4905336,
+   "longitude": -64.1059704,
+   "addr:street": "Vallegrande"
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Banco Union",
+   "latitude": -18.4903486,
+   "longitude": -64.1084454,
+   "addr:street": "Vallegrande"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.8935045,
+   "longitude": -63.3304583,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -16.4958039,
+   "longitude": -68.1535847,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia El Kenko BancoSol",
+   "latitude": -16.5600547,
+   "longitude": -68.1942734,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Cooperativa Jesus Nazareno",
+   "latitude": -17.7656037,
+   "longitude": -63.1240623,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Banco Fortaleza",
+   "latitude": -17.7823353,
+   "longitude": -63.1628113,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -16.5059648,
+   "longitude": -68.16389,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5363876,
+   "longitude": -68.1648281,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BMSC - Agencia Tiquipaya",
+   "latitude": -17.3385862,
+   "longitude": -66.221244,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo BDP",
+   "latitude": -16.5021647,
+   "longitude": -68.1303514,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem - Agencia",
+   "latitude": -18.0547207,
+   "longitude": -64.1228874,
+   "addr:street": "Los Negros"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -18.1351675,
+   "longitude": -65.763091,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Financiera",
+   "latitude": -17.4011558,
+   "longitude": -66.1533757,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Sembrar Sartawi",
+   "latitude": -16.1887577,
+   "longitude": -67.7279078,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union - Agencia Quillacollo",
+   "latitude": -17.3967937,
+   "longitude": -66.2786518,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.8271432,
+   "longitude": -63.2259427,
+   "addr:street": "Barrio El Bajio"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito BCP - Agencia 25 de Mayo",
+   "latitude": -17.5097843,
+   "longitude": -63.1679241,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Pio X",
+   "latitude": -17.4032849,
+   "longitude": -66.0407025,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fortaleza",
+   "latitude": -17.4040467,
+   "longitude": -66.0387331,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -16.4982272,
+   "longitude": -68.1646584,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -17.7149192,
+   "longitude": -66.2622313,
+   "addr:street": "Capinota"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -17.710013,
+   "longitude": -66.2652298,
+   "addr:street": "Capinota"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -16.4987146,
+   "longitude": -68.1422255,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -16.5649126,
+   "longitude": -68.203104,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa El Chorolque",
+   "latitude": -21.5332185,
+   "longitude": -64.7328475,
+   "addr:street": "Tarija"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -16.299783,
+   "longitude": -68.5321091,
+   "addr:street": "Batallas"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE",
+   "latitude": -16.2991083,
+   "longitude": -68.5314037,
+   "addr:street": "Batallas"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Sol",
+   "latitude": -21.5376539,
+   "longitude": -64.7540544,
+   "addr:street": "Tarija"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.6954312,
+   "longitude": -64.6533781,
+   "addr:street": "Uriondo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Idepro",
+   "latitude": -21.6957131,
+   "longitude": -64.6531771,
+   "addr:street": "Uriondo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -21.695581,
+   "longitude": -64.6532738,
+   "addr:street": "Uriondo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -21.6965436,
+   "longitude": -64.6546762,
+   "addr:street": "Uriondo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -21.5334282,
+   "longitude": -64.7337025,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.6219353,
+   "longitude": -64.8181069,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union",
+   "latitude": -21.5254825,
+   "longitude": -64.1715579,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -21.5255385,
+   "longitude": -64.1723027,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -21.5254549,
+   "longitude": -64.1718025,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Magisterio Rural Limitada",
+   "latitude": -21.5262798,
+   "longitude": -64.1716879,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Union -Agencia Charagua",
+   "latitude": -19.790259,
+   "longitude": -63.1964891,
+   "addr:street": "Charagua"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco EcoFuturo",
+   "latitude": -19.7895598,
+   "longitude": -63.1979638,
+   "addr:street": "Charagua"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -17.407999,
+   "longitude": -66.1563302,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo",
+   "latitude": -16.4107783,
+   "longitude": -67.5250774,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Sembrar Sartawi IFD",
+   "latitude": -20.1020343,
+   "longitude": -65.1340743,
+   "addr:street": "San Lucas"
+ },
+ {
+   "amenity": "bank",
+   "name": "Sembrar Sartawi IFD",
+   "latitude": -16.5379314,
+   "longitude": -68.048896,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia SembrarSartawi IFD",
+   "latitude": -19.0339026,
+   "longitude": -65.2518675,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "bank",
+   "name": "SembrarSartawi IFD",
+   "latitude": -16.1885823,
+   "longitude": -67.7277926,
+   "addr:street": "Coroico"
+ },
+ {
+   "amenity": "bank",
+   "name": "SembrarSartawi IFD",
+   "latitude": -16.5105592,
+   "longitude": -68.1633798,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "bank",
+   "name": "Sembrar Sartawi IFD",
+   "latitude": -15.8325237,
+   "longitude": -67.5649368,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "SembrarSartawi IFD",
+   "latitude": -15.8326956,
+   "longitude": -67.564966,
+   "addr:street": "Caranavi"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Crédito de Bolivia SA",
+   "latitude": -16.4953025,
+   "longitude": -68.1350573,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3969129,
+   "longitude": -66.2804043,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.7951059,
+   "longitude": -63.1348605,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.7978173,
+   "longitude": -63.1343384,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3954248,
+   "longitude": -66.2816204,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BCP - Agencia Quillacollo",
+   "latitude": -17.3958429,
+   "longitude": -66.2813528,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fies",
+   "latitude": -17.3946102,
+   "longitude": -66.2804877,
+   "addr:street": "Quillacollo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Mercantil Santa Cruz",
+   "latitude": -18.1723965,
+   "longitude": -67.0212264,
+   "addr:street": "Machacamarca"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa El Buen Samaritano - Agencia Villa Tunari",
+   "latitude": -16.9740429,
+   "longitude": -65.4182116,
+   "addr:street": "Villa Tunari"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4938367,
+   "longitude": -68.1439997,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BNB - Mini Agencia Tiquipaya",
+   "latitude": -17.3325748,
+   "longitude": -66.2263856,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Cooperativa Loyola Ltda - Agencia Tiquipaya",
+   "latitude": -17.3376832,
+   "longitude": -66.2188441,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -16.499581,
+   "longitude": -68.1335055,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia",
+   "latitude": -17.3943031,
+   "longitude": -66.1694463,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.4935576,
+   "longitude": -68.1398914,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco de Desarrollo Productivo",
+   "latitude": -17.2379743,
+   "longitude": -67.9116114,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.4951584,
+   "longitude": -68.174133,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BANCOMUNIDAD",
+   "latitude": -16.496823,
+   "longitude": -68.1739447,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BANCO NACIONAL DE BOLIVIA S.A.",
+   "latitude": -16.4988675,
+   "longitude": -68.1342529,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco BISA",
+   "latitude": -16.3994714,
+   "longitude": -67.7368032,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -16.6536168,
+   "longitude": -68.3022071,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Prodem",
+   "latitude": -16.6535268,
+   "longitude": -68.3021924,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fie",
+   "latitude": -16.6534002,
+   "longitude": -68.3021687,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.6533256,
+   "longitude": -68.300431,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Nacional de Bolivia - Agencia Simón Lopez",
+   "latitude": -17.366191,
+   "longitude": -66.1707406,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco",
+   "latitude": -17.2215613,
+   "longitude": -62.9027431,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Unión",
+   "latitude": -17.8222253,
+   "longitude": -63.1454222,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.8220593,
+   "longitude": -63.1455791,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Fassil",
+   "latitude": -17.3380237,
+   "longitude": -66.2191946,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico",
+   "latitude": -17.38215,
+   "longitude": -66.1188941,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Aranjuez",
+   "latitude": -21.5500383,
+   "longitude": -64.6943682,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco FIE - Agencia Camargo",
+   "latitude": -20.6412967,
+   "longitude": -65.2105364,
+   "addr:street": "Camargo"
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Sur",
+   "latitude": -21.538132,
+   "longitude": -64.7241155,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Fatima",
+   "latitude": -21.5380078,
+   "longitude": -64.7240809,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Luis de Fuentes",
+   "latitude": -21.5384748,
+   "longitude": -64.7242433,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia SENAC",
+   "latitude": -21.5386226,
+   "longitude": -64.7482935,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia La Tablada",
+   "latitude": -21.537943,
+   "longitude": -64.7493407,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia Mercado Uyuni",
+   "latitude": -19.5795022,
+   "longitude": -65.7527542,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Agencia San Roque",
+   "latitude": -19.5788729,
+   "longitude": -65.7532551,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Oficina Regional Banco FIE",
+   "latitude": -19.0429435,
+   "longitude": -65.2516943,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Bisa",
+   "latitude": -17.777204,
+   "longitude": -63.1422822,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "CIDRE IFD",
+   "latitude": -18.9014996,
+   "longitude": -66.7731171,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Economico - Agencia Los Pinos",
+   "latitude": -16.5456923,
+   "longitude": -68.0702412,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Mutual La Paz - Agencia Los Pinos",
+   "latitude": -16.545701,
+   "longitude": -68.0702953,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "bank",
+   "name": "Banco Ecofuturo",
+   "latitude": -16.5074197,
+   "longitude": -68.1633198,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "La Primera E.F.V.",
+   "latitude": -16.5064329,
+   "longitude": -68.1615495,
+   "addr:street": ""
+ },
+ {
+   "amenity": "bank",
+   "name": "BancoSol",
+   "latitude": -16.5092062,
+   "longitude": -68.1589815,
+   "addr:street": "El Alto"
+ }
+]

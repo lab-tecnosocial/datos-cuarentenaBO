@@ -1,0 +1,131 @@
+type,id,geometry/type,geometry/coordinates/0,geometry/coordinates/1,geometry_name,properties/Nombre,properties/Direccion,properties/Zona,properties/CodMacro,properties/CodDistrito,properties/distrito,properties/owner,properties/usuario,properties/fechaActual,properties/observaciones,properties/IdTipo,properties/Nombreback
+Feature,educacionprivada.1,Point,-68.09277203,-16.55960902,geom,Aranjuez,C. Los Manzanos,Nazareno,6,,20,,clara.revollo,2016-06-02T18:55:54.210Z,,12,Unidad Educativa Aranjuez
+Feature,educacionprivada.2,Point,-68.03769934,-16.0921583,geom,Esperanza,Municipio de Zongo,,0,,23,,clara.revollo,2016-06-22T13:01:35.080Z,,5,Escuela Esperanza
+Feature,educacionprivada.5,Point,-68.11434323,-16.51908962,geom,Los Andes,Av. Los Leones,Obrajes,5,,21,,clara.revollo,2016-07-01T19:45:16.930Z,,5,Escuela de Negocios Los Andes
+Feature,educacionprivada.6,Point,-68.10755057,-16.52881527,geom,Risas y Sonrisas,C. 11,Obrajes,5,,21,,clara.revollo,2016-07-01T19:47:07.633Z,,8,Guardería risas y sorisas
+Feature,educacionprivada.7,Point,-68.10307256,-16.527706,geom,Rosa Gatorno hijas de Santa Ana,Av. 14 de Septiembre,Obrajes,5,,21,,clara.revollo,2016-06-06T19:02:25.740Z,,4,Colegio Rosa Gatorno hijas de Santa Ana
+Feature,educacionprivada.8,Point,-68.09308784,-16.53021543,geom,Jean Piaget,Av. Los Alamos # 100,Bella Vista,5,,21,,clara.revollo,2016-06-11T21:07:09.967Z,,12,Unidad Educativa Jean Piaget
+Feature,educacionprivada.9,Point,-68.04598992,-16.53722862,geom,Montserrat,C. 53 Chasquipampa,CHASQUIPAMPA,5,,19,,clara.revollo,2016-06-06T20:26:56.300Z,,4,Colegio Montserrat
+Feature,educacionprivada.10,Point,-68.04515551,-16.53735854,geom,Boliviano de Técnica Agropecuaria,C. 53 Chasquipampa,CHASQUIPAMPA,5,,19,,clara.revollo,2016-06-06T20:28:06.977Z,,9,Instituto Boliviano de Técnica Agropecuaria
+Feature,educacionprivada.11,Point,-68.06846502,-16.53817725,geom,Facultad de Investigación Física,Av. Andres Bello Campus Universitario UMSA,COTA COTA,5,,18,,clara.revollo,2016-07-01T19:45:52.413Z,,9,Instituto de Investigación Física
+Feature,educacionprivada.12,Point,-68.06785071,-16.53820529,geom,Facultad de Investigación Geológica,Av. Andres Bello Campus Universitario UMSA,COTA COTA,5,,18,,clara.revollo,2016-07-01T19:46:05.800Z,,9,Instituto de Investigación Geológica
+Feature,educacionprivada.13,Point,-68.06816033,-16.53818371,geom,Facultad de Investigación Química,Av. Andres Bello Campus Universitario UMSA,COTA COTA,5,,18,,clara.revollo,2016-07-01T19:46:14.393Z,,9,Instituto de Investigación Química
+Feature,educacionprivada.14,Point,-68.07608366,-16.54194201,geom,Educativo Los Pinos,C. 23 de Calacato,LOS PINOS,5,,18,,clara.revollo,2016-06-06T20:29:38.887Z,,9,Instituto Educativo Los Pinos
+Feature,educacionprivada.15,Point,-68.0775097,-16.53246836,geom,Franco Boliviano,Av. Circuvalación,ACHUMANI,5,,18,,clara.revollo,2016-06-22T13:05:11.180Z,,4,Colegio Franco Boliviano
+Feature,educacionprivada.16,Point,-68.07868055,-16.54575004,geom,Loretto,Av. Mariscal de Montenegro,San Miguel,5,,18,,clara.revollo,2016-06-06T15:27:12.340Z,,4,Colegio Loretto 
+Feature,educacionprivada.17,Point,-68.08937075,-16.54702328,geom,América,C. Benito Juarez,LA RINCONADA,5,,18,,clara.revollo,2016-06-13T12:57:18.363Z,,11,Kinder América
+Feature,educacionprivada.18,Point,-68.08679624,-16.54949752,geom,Saint Andrews,Av. Las Retamas,CALACOTO,5,,18,,clara.revollo,2016-06-22T13:05:29.437Z,,4,Colegio Saint Andrews
+Feature,educacionprivada.19,Point,-68.08166721,-16.50568836,geom,Colesol Saint Germain,C. Las Palmeras # 8,IRPAVI 2,5,,18,,clara.revollo,2017-04-17T14:54:36.640Z,,4,Colesol Saint Germain
+Feature,educacionprivada.22,Point,-68.11181918,-16.52275214,geom,Católica Boliviana,Av. 14 de Septiembre,OBRAJES,5,,21,,clara.revollo,2016-06-06T15:30:19.983Z,,13,Universidad Católica Boliviana
+Feature,educacionprivada.24,Point,-68.1054332,-16.5288178,geom,Colesur,Av. Hector Ormachea,OBRAJES,5,,21,,clara.revollo,2016-06-22T13:06:00.503Z,,4,Colesur
+Feature,educacionprivada.27,Point,-68.09848051,-16.5370222,geom,San Ignacio,Av. Hugo Ernest,OBRAJES,5,,21,,clara.revollo,2016-06-06T15:21:54.987Z,,4,Colegio San Ignacio
+Feature,educacionprivada.28,Point,-68.09719327,-16.54124226,geom,Academia Nacional de Policias,Av. Hugo Ernest V. HUGO ERNEST,OBRAJES,5,,21,,clara.revollo,2016-06-06T19:26:28.600Z,,1,Academia Nacional de Policias
+Feature,educacionprivada.29,Point,-68.08938434,-16.54290602,geom,Calvert,Av. Sanchez Bustamante,CALACOTO,5,,18,,clara.revollo,2016-06-06T15:31:27.950Z,,4,Colegio Calvert
+Feature,educacionprivada.30,Point,-68.09521897,-16.54581006,geom,Vida y Verdad,Av. Hugo Ernest Rivera,SEGUENCOMA,5,,21,,clara.revollo,2016-06-22T13:06:45.277Z,,4,Colegio Vida y Verdad
+Feature,educacionprivada.31,Point,-68.08628705,-16.53600553,geom,Unidad Educativa del Ejercito,Av. Rafael Pavón,CALACOTO,5,,18,,clara.revollo,2017-04-17T14:54:25.680Z,,12,Unidad Educativa del Ejercito
+Feature,educacionprivada.32,Point,-68.08175513,-16.52998043,geom,Escuela Militar de Ingeniería,Av. Los Sauces,IRPAVI,5,,18,,nhuanquiri,2016-07-01T22:53:34.230Z,,5,Escuela Militar de Ingeniería
+Feature,educacionprivada.33,Point,-68.06973767,-16.54730446,geom,Montessori,Av. Costanera,AUQUISAMAÑA,5,,18,,clara.revollo,2016-06-08T16:05:55.100Z,,4,Colegio Montessori
+Feature,educacionprivada.34,Point,-68.06635835,-16.53880451,geom,UMSA - Ciencias Puras,Av. Andres Bello Campus Universitario UMSA,COTA COTA,5,,18,,clara.revollo,2016-06-06T19:20:08.133Z,,13,Ciencias Puras - UMSA
+Feature,educacionprivada.36,Point,-68.06746736,-16.52861027,geom,Alemán Mariscal Braun,Av. Alexander #100,ACHUMANI,5,,18,,clara.revollo,2016-06-22T13:07:25.463Z,,4,Colegio Alemán Mariscal Braun
+Feature,educacionprivada.37,Point,-68.09646674,-16.52596412,geom,Las Américas,Av. Gral. Gonzales # 100,ALTO OBRAJES,5,,21,,clara.revollo,2016-06-11T23:07:03.793Z,,4,Colegio Las Américas
+Feature,educacionprivada.38,Point,-68.10313639,-16.52523913,geom,Arcoiris,C. 14 Obrajes,OBRAJES,5,,21,,clara.revollo,2016-06-06T19:28:26.817Z,,7,Fundación Arcoiris
+Feature,educacionprivada.39,Point,-68.10383618,-16.53502978,geom,Juan Pablo II,C. 5,SEGÜENCOMA,5,,21,,clara.revollo,2016-06-13T13:06:29.773Z,,0,Juan Pablo II
+Feature,educacionprivada.40,Point,-68.15044353,-16.46856807,geom,América,Av. Alonso Ramos Gavilán,ACHACHICALA,3,,11,,clara.revollo,2016-06-13T13:10:10.560Z,,12,Unidad Educativa América
+Feature,educacionprivada.41,Point,-68.1193284,-16.47534259,geom,UMSA - Facultad de Investigaciones Metalúrgicas,C. Santa Rosa,VILLA FATIMA,3,,13,,clara.revollo,2016-07-01T21:33:20.667Z,,9,Instituto de Investigaciones Metalurgicas
+Feature,educacionprivada.42,Point,-68.12032847,-16.47597907,geom,Centro de Terapia de Mujeres,C. Santa Rosa,VILLA FÁTIMA,3,,13,,clara.revollo,2016-07-01T20:43:52.253Z,,3, de Terapia de Mujeres
+Feature,educacionprivada.43,Point,-68.11738814,-16.47440145,geom,Ave María,Av. Las Americas,VILLA FATIMA,3,,13,,clara.revollo,2016-06-22T13:07:46.543Z,,4,Colegio Ave María
+Feature,educacionprivada.44,Point,-68.13214273,-16.4932703,geom,American School,C. Batalla Junín,AGUA DE LA VIDA,3,,11,,clara.revollo,2016-06-13T13:25:57.370Z,,4,Colegio American School
+Feature,educacionprivada.45,Point,-68.13525691,-16.48944983,geom,Samapa,C. Pisagua,ZONA NORTE,3,,11,,clara.revollo,2016-06-13T13:31:57.830Z,,12,Unidad Educativa Samapa
+Feature,educacionprivada.46,Point,-68.13369672,-16.49255355,geom,Jean Pool,C. Genaro Sanjines,ZONA NORTE,3,,11,,clara.revollo,2016-06-13T13:40:02.067Z,,12,Unidad Educativa Jean Pool
+Feature,educacionprivada.47,Point,-68.12075981,-16.47901296,geom,Libano,Av. Las Américas,VILLA FATIMA,3,,13,,clara.revollo,2016-06-13T13:42:29.397Z,,9,Instituto Libano
+Feature,educacionprivada.48,Point,-68.12116188,-16.48337155,geom,Jesús,Av. Gualberto Villarroel,MIRAFLORES,3,,13,,clara.revollo,2016-06-13T13:45:09.727Z,,8,Guardería Jesús
+Feature,educacionprivada.51,Point,-68.11509327,-16.4773627,geom,Petrolero,C. 3,BARRIO PETROLERO,3,,13,,clara.revollo,2016-06-22T13:08:04.997Z,,4,Colegio Petrolero
+Feature,educacionprivada.54,Point,-68.14300955,-16.48581556,geom,Educativo Boliviano Holandes,Av. Chacaltaya,VINO TINTO,3,,11,,clara.revollo,2016-06-13T13:26:52.530Z,,3, Educativo Boliviano Holandes
+Feature,educacionprivada.55,Point,-68.1185262,-16.47425958,geom,Ave María,Av. Las Americas,VILLA FATIMA,3,,13,,clara.revollo,2016-06-06T20:09:53.783Z,,4,Colegio Ave María
+Feature,educacionprivada.56,Point,-68.09268402,-16.45183189,geom,Kalajahuira,Av. Ramiro Castillo,BALLIVIAN,3,,13,,clara.revollo,2016-06-13T13:29:00.780Z,,5,Escuela Kalajahuira
+Feature,educacionprivada.57,Point,-68.13214553,-16.46874192,geom,J. Monje Zapata,C. Calvario,CALVARIO,3,,12,,nhuanquiri,2016-07-01T21:15:34.857Z,,5,Escuela J. Monje Zapata
+Feature,educacionprivada.58,Point,-68.16069034,-16.46113566,geom,Jaime Paz Zamora,Av. Rene Barrientos Ortuño,SAN FRANCISCO,2,,10,,clara.revollo,2016-06-13T13:57:00.557Z,,12,Unidad Educativa Jaime Paz Zamora
+Feature,educacionprivada.59,Point,-68.16581083,-16.47942162,geom,Luis Espinal Camps,Av. Circunvalación,SAID,2,,9,,clara.revollo,2016-06-13T13:57:54.630Z,,4,Colegio Luis Espinal Camps
+Feature,educacionprivada.60,Point,-68.16480047,-16.48886076,geom,CETAL,C. Carlos Quintanilla,LA PORTADA,2,,9,,clara.revollo,2016-06-13T13:58:38.560Z,,0,CETAL
+Feature,educacionprivada.61,Point,-68.15332619,-16.49009856,geom,San José,C. Virrey Toledo,VILLA VICTORIA,2,,8,,clara.revollo,2016-06-13T14:00:45.537Z,,4,Colegio San José
+Feature,educacionprivada.62,Point,-68.14318205,-16.50260843,geom,Adventista,C. Villamil Rada,LOS ANDES,2,,7,,clara.revollo,2016-06-13T14:02:27.183Z,,4,Colegio Adventista
+Feature,educacionprivada.63,Point,-68.14813251,-16.48319116,geom,Italo Boliviano,Av. Vasquez,PURA PURA,2,,10,,nhuanquiri,2016-07-01T22:59:39.333Z,,4,Colegio Italo Boliviano
+Feature,educacionprivada.64,Point,-68.15095527,-16.48786195,geom,Particular Said,C. Salamanca,PURA PURA,2,,10,,clara.revollo,2016-06-13T14:06:45.810Z,,5,Escuela Particular Said
+Feature,educacionprivada.65,Point,-68.14935452,-16.49046556,geom,Santa María Mazzarello,C. Paucarpata,VILLA VICTORIA,2,,8,,clara.revollo,2016-07-01T21:42:03.597Z,,4,Colegio Santa Maria Mazzarello
+Feature,educacionprivada.66,Point,-68.15128616,-16.49017618,geom,Ruma High School,C. Rosendo Rojas,VILLA VICTORIA,2,,8,,clara.revollo,2016-06-13T14:10:31.303Z,,4,Colegio Ruma High School
+Feature,educacionprivada.67,Point,-68.14114331,-16.49965815,geom,"Alcides Argueda, Washington",C. Venancio Burgoa,GRAN PODER,2,,7,,clara.revollo,2016-06-13T14:13:49.777Z,,5,"Escuela Alcides Argueda, Washington"
+Feature,educacionprivada.68,Point,-68.14716235,-16.50018204,geom,Libertad y Ladislao Cabrera,C. Bilbao La Vieja,LOS ANDES,2,,7,,clara.revollo,2016-06-13T14:15:56.867Z,,0,Libertad y Ladislao Cabrera
+Feature,educacionprivada.69,Point,-68.15278132,-16.49001078,geom,Iba María Mazzarello,C. Nuestra Señora de la Asunción,VILLA VICTORIA,2,,8,,clara.revollo,2016-06-22T13:09:08.337Z,,0,Iba María Mazzarello
+Feature,educacionprivada.70,Point,-68.13707833,-16.4977207,geom,San Fernando,C. Murillo,ALTO SAN PEDRO,1,,6,,clara.revollo,2016-06-13T15:51:37.107Z,,4,Colegio San Fernando
+Feature,educacionprivada.71,Point,-68.13621703,-16.49870691,geom,Sagrados Corazones,Av. Mariscal Santa Cruz,CENTRAL,1,,6,,clara.revollo,2016-06-22T13:13:39.423Z,,4,Colegio Sagrados Corazones
+Feature,educacionprivada.72,Point,-68.13410848,-16.5026939,geom,Anglo Americano,C. Cañada Strongest,SAN PEDRO,1,,6,,clara.revollo,2016-06-06T20:11:34.673Z,,4,Colegio Anglo Americano
+Feature,educacionprivada.73,Point,-68.13772803,-16.50271186,geom,María Auxiliadora,C. Almirante Grau,SAN PEDRO,1,,6,,clara.revollo,2016-06-22T13:14:12.990Z,,4,Colegio María Auxiliadora
+Feature,educacionprivada.74,Point,-68.13445868,-16.50390138,geom,Técnico Automotriz,Av. 20 de Octubre,SAN PEDRO,1,,6,,clara.revollo,2016-07-01T20:48:22.470Z,,9,Instituto Tecnico Automotriz
+Feature,educacionprivada.75,Point,-68.1337865,-16.50360577,geom,Bautista Canadiense,C. Cañada Strongest,SAN PEDRO,1,,6,,clara.revollo,2016-06-08T15:13:25.253Z,,4,Colegio Bautista Canadiense
+Feature,educacionprivada.76,Point,-68.13621963,-16.50426694,geom,Saint Peters,C. Batallón Sucre,SAN PEDRO,1,,6,,clara.revollo,2016-06-13T14:56:24.470Z,,4,Colegio Saint Peters
+Feature,educacionprivada.77,Point,-68.12550594,-16.51298828,geom,Pre Escolar Corazón de Jesús,Av. Macario Pinilla,SOPOCACHI,1,,3,,clara.revollo,2016-06-13T15:24:56.830Z,,3, Pre Escolar Corazón de Jesús
+Feature,educacionprivada.81,Point,-68.11855527,-16.49809659,geom,Central,Av. Brasil,MIRAFLORES,1,,2,,clara.revollo,2016-06-08T15:26:49.447Z,,13,Universidad Central
+Feature,educacionprivada.82,Point,-68.13041911,-16.50813996,geom,Hotelera,Av. Sanchez Lima,SOPOCACHI,1,,3,,clara.revollo,2016-06-22T13:15:54.670Z,,5,Escuela Hotelera
+Feature,educacionprivada.83,Point,-68.13195778,-16.50854006,geom,Desmaissieres,C. Agustín Aspiazu,SOPOCACHI,1,,3,,clara.revollo,2016-06-13T15:13:16.317Z,,4,Colegio Desmaissieres
+Feature,educacionprivada.85,Point,-68.13240727,-16.51657687,geom,Gregorio Reynolds,C. Mendez Arcos,SOPOCACHI,1,,3,,clara.revollo,2016-06-13T15:22:00.687Z,,4,Colegio Gregorio Reynolds
+Feature,educacionprivada.86,Point,-68.1233824,-16.52646204,geom,Escolar Guardería,Av. Mario Mercado,BAJO LLOJETA,1,,4,,clara.revollo,2016-06-13T15:30:32.667Z,,2,Área Escolar Guardería
+Feature,educacionprivada.89,Point,-68.12647353,-16.5098705,geom,San Francisco de Asís,Av. 20 de Octubre,SOPOCACHI,1,,3,,clara.revollo,2016-06-06T19:35:13.267Z,,13,Universidad San Francisco de Asís
+Feature,educacionprivada.90,Point,-68.14864736,-16.51876796,geom,Samuel Doria Medina,C. Tupiza,Kenani Pata,1,,4,,clara.revollo,2016-06-13T15:33:45.270Z,,12,Unidad Educativa Samuel Doria Medina
+Feature,educacionprivada.91,Point,-68.12453065,-16.52721486,geom,Rosario,C. Las Retamas Esq. Las Orquideas,BAJO LLOJETA,1,,4,,clara.revollo,2016-06-13T15:37:03.173Z,,0,Rosario
+Feature,educacionprivada.92,Point,-68.13588522,-16.49837024,geom,Sagrado Corazones-CEA,Av. Mariscal Santa Cruz,CENTRAL,1,,6,,clara.revollo,2016-06-13T15:38:44.590Z,,0,CEA Sagrado Corazones
+Feature,educacionprivada.93,Point,-68.1406244,-16.49015626,geom,España,C. Illimani,CHALLAPAMPA,3,,11,,clara.revollo,2016-06-13T15:39:39.930Z,,12,Unidad Educativa España
+Feature,educacionprivada.96,Point,-68.13964761,-16.49432546,geom,Ingles Católico,C. Murillo,EL ROSARIO,7,,1,,clara.revollo,2016-06-13T15:40:26.573Z,,4,Colegio Ingles Católico
+Feature,educacionprivada.100,Point,-68.13126938,-16.4968281,geom,Santa Ana,C. Ramón Loayza,CENTRAL,7,,1,,clara.revollo,2016-06-06T20:01:59.047Z,,4,Colegio Santa Ana
+Feature,educacionprivada.101,Point,-68.12060396,-16.49109458,geom,Flori Nicole,C. Cuba,MIRAFLORES,7,,2,,clara.revollo,2016-06-13T15:42:06.923Z,,11,Kinder Flori Nicole
+Feature,educacionprivada.102,Point,-68.12422846,-16.49178446,geom,Superior de Policias,C. Abel Iturralde,MIRAFLORES,7,,2,,clara.revollo,2016-06-13T15:43:30.273Z,,5,Escuela Superior de Policias
+Feature,educacionprivada.103,Point,-68.12134498,-16.48559803,geom,Técnico Ayacucho,Av. Germán Busch,MIRAFLORES,7,,2,,clara.revollo,2016-07-01T21:39:30.107Z,,4,Colegio Tecnico Ayacucho
+Feature,educacionprivada.104,Point,-68.12126128,-16.500938,geom,Evangélico,Av. Germán Busch,MIRAFLORES,7,,2,,clara.revollo,2016-07-01T21:39:51.860Z,,4,Colegio Evangélico
+Feature,educacionprivada.105,Point,-68.12242862,-16.50493573,geom,Junín,C. Litoral,MIRAFLORES,7,,2,,clara.revollo,2016-06-13T15:46:54.590Z,,4,Colegio Junín
+Feature,educacionprivada.107,Point,-68.12062549,-16.5065794,geom,Bancario,C. Victor Eduardo,MIRAFLORES,7,,2,,clara.revollo,2016-06-22T13:16:19.083Z,,4,Colegio Bancario
+Feature,educacionprivada.108,Point,-68.11973294,-16.50914322,geom,Santa Teresa,Av. Saavedra,MIRAFLORES,7,,2,,clara.revollo,2016-06-22T13:16:40.497Z,,4,Colegio Santa Teresa
+Feature,educacionprivada.110,Point,-68.12894666,-16.5037783,geom,Centro Boliviano Americano - Sucursal Federico Zuazo,C. Fedrico Zuazo No 1985 detras de la UMSA,CENTRAL,7,,1,,clara.revollo,2016-07-01T20:42:20.950Z,2-441508 o 2-440289,3, Boliviano Americano - Sucursal Federico Zuazo
+Feature,educacionprivada.111,Point,-68.11930355,-16.51465455,geom,Amor de Dios,Av. Aniceto Arce,San Jorge,7,,1,,clara.revollo,2016-06-22T13:17:44.330Z,,4,Colegio Amor de Dios
+Feature,educacionprivada.112,Point,-68.13775276,-16.49628745,geom,Fray Bernandino de Cardenas,C. Murillo,EL ROSARIO,7,,1,,clara.revollo,2016-06-13T15:48:41.550Z,,4,Colegio Fray Bernandino de Cardenas
+Feature,educacionprivada.113,Point,-68.13822757,-16.49666995,geom,San Francisco,C. Murillo,EL ROSARIO,7,,1,,clara.revollo,2016-06-13T15:49:20.867Z,,4,Colegio San Francisco
+Feature,educacionprivada.114,Point,-68.12249619,-16.51005457,geom,Centro Boliviano Americano - Casa Central,Av. Arce Parque Zenón Iturralde No 121,SAN JORGE,7,,1,,clara.revollo,2017-04-17T14:57:41.567Z,,3, Boliviano Americano - Casa Central
+Feature,educacionprivada.115,Point,-68.13298781,-16.49757706,geom,Especialización en Computación y Estudios Comerciales S.R.L. -CEC,C. Potosí,CENTRAL,7,,1,,clara.revollo,2016-06-13T15:53:05.370Z,,3,CEC Centro de Especialización en Computación y Estudios Comerciales S.R.L.
+Feature,educacionprivada.117,Point,-68.1200968,-16.50758796,geom,UMSA - Factultad de Odontologia,Av. Bautista Saavedra,CENTRAL,7,,2,,clara.revollo,2016-06-06T19:19:28.820Z,,13,Factultad de Odontologia - UMSA
+Feature,educacionprivada.118,Point,-68.13053371,-16.50315041,geom,Don Bosco,Av. 16 de Julio #1885,CENTRAL,7,,1,,clara.revollo,2016-06-22T13:18:07.730Z,,4,Colegio Don Bosco
+Feature,educacionprivada.119,Point,-68.13812341,-16.49037727,geom,San Jerónimo,Av. Armentia,NORTE,7,,1,,clara.revollo,2016-06-13T15:55:18.057Z,,4,Colegio San Jerónimo
+Feature,educacionprivada.120,Point,-68.13483984,-16.49298675,geom,San Calixto,C. Sucre,Zona Norte,7,,1,,clara.revollo,2016-06-22T13:18:21.037Z,,4,Colegio San Calixto
+Feature,educacionprivada.121,Point,-68.12316145,-16.50266718,geom,Señora de Itai,C. Misael Saracho Esq. Juan de Vargas,MIRAFLORES,7,,2,,clara.revollo,2016-06-13T15:56:32.603Z,,4,Colegio Señora de Itai
+Feature,educacionprivada.122,Point,-68.12042616,-16.4967578,geom,Bolivia Noruego,C. Panamá,MIRAFLORES,7,,2,,clara.revollo,2016-06-06T20:03:31.197Z,,4,Colegio Bolivia Noruego
+Feature,educacionprivada.123,Point,-68.12208781,-16.49203675,geom,Virgen de Copacabana,Av. Estados Unidos,MIRAFLORES,7,,2,,clara.revollo,2016-06-13T15:59:53.150Z,,8,Guardería Virgen de Copacabana
+Feature,educacionprivada.125,Point,-68.12265971,-16.49568878,geom,Andina Simón Bolivar,Av. Heroes del Pacífico,MIRAFLORES,1,,2,,clara.revollo,2016-07-01T20:40:11.783Z,,13,Universidad Andina Simon Bolivar
+Feature,educacionprivada.126,Point,-68.1298955,-16.51472478,geom,Coordillera,C. Mendez Arcos,SOPOCACHI,1,,3,,clara.revollo,2016-06-08T15:43:17.180Z,,13,Universidad Coordillera
+Feature,educacionprivada.127,Point,-68.12451301,-16.51648563,geom,Nazario Pardo Valle,Av. Francisco Bedregal,KANTUTANI,1,,3,,clara.revollo,2016-07-01T19:50:29.150Z,,11,Kinder N Parde Valle
+Feature,educacionprivada.130,Point,-68.11049109,-16.52461644,geom,Universidad Privada Boliviana,Av. Hernando Siles,OBRAJES,,,21,clara.revollo,clara.revollo,2016-07-01T20:46:26Z,,13,Universidad Privada Boliviana
+Feature,educacionprivada.132,Point,-68.11229704,-16.52334347,geom,UCB - Laboratorio de Química,Av. 14 de Septiembre Esq. Luis Espinoza Saravia,OBRAJES,,,21,clara.revollo,clara.revollo,2016-06-08T15:58:13.200Z,,13,Laboratorio de Química - UCB
+Feature,educacionprivada.133,Point,-68.11195919,-16.52349643,geom,UCB,Av. 14 de Septiembre,OBRAJES,,,21,clara.revollo,clara.revollo,2016-06-08T15:57:34.747Z,,13,UCB
+Feature,educacionprivada.134,Point,-68.11129287,-16.52344576,geom,UMSA - CIDES,Av. 14 de Septiembre,OBRAJES,,,21,clara.revollo,clara.revollo,2016-06-08T15:55:01.120Z,,13,CIDES - UMSA
+Feature,educacionprivada.137,Point,-68.11278864,-16.5231562,geom,Católica Boliviana,Av. 14 de Septiembre,OBRAJES,,,21,clara.revollo,clara.revollo,2016-06-08T16:00:47.597Z,,13,Universidad Católica Boliviana
+Feature,educacionprivada.138,Point,-68.10509734,-16.52684384,geom,Americano Obrajes,Av. 14 de Septiembre,OBRAJES,,,21,clara.revollo,clara.revollo,2016-06-08T16:01:53.820Z,,9,Instituto Americano Obrajes
+Feature,educacionprivada.139,Point,-68.09035165,-16.549727,geom,La Salle,C. Arequipa,CALACOTO,,,18,clara.revollo,clara.revollo,2016-06-22T13:18:46.850Z,,4,Colegio La Salle
+Feature,educacionprivada.140,Point,-68.07045852,-16.53836115,geom,San Andres,C. Jose Gabino Villanueva,CALACOTO,,,18,clara.revollo,clara.revollo,2016-06-08T16:07:50.573Z,,4,Colegio San Andres
+Feature,educacionprivada.141,Point,-68.11699238,-16.49008718,geom,Cristo Rey,C. Vicente Burgaleta,Villa Copacabana,,,14,clara.revollo,clara.revollo,2016-06-08T16:09:10.670Z,,4,Colegio Cristo Rey
+Feature,educacionprivada.143,Point,-68.13160723,-16.50642333,geom,Instituto Americano,C. Landaeta,SAN PEDRO,,,3,clara.revollo,clara.revollo,2016-06-08T16:24:04.753Z,,4,Colegio Instituto Americano
+Feature,educacionprivada.144,Point,-68.08454659,-16.53974608,geom,Domingo Savio,,,,,18,clara.revollo,clara.revollo,2016-07-01T19:27:46.360Z,,,
+Feature,educacionprivada.145,Point,-68.12859332,-16.51020842,geom,Acuarela - Sopocachi,C. Rosendo Gutiérrez Nº 551,Sopocachi,,,3,clara.revollo,clara.revollo,2016-08-04T14:36:23.047Z,,,
+Feature,educacionprivada.146,Point,-68.09004637,-16.54199993,geom,Acuarela - Calacoto,Av. Sanchez Bustamante Nº 324,Calacoto,,,18,clara.revollo,clara.revollo,2016-08-04T14:36:45.900Z,,,
+Feature,educacionprivada.147,Point,-68.12204166,-16.5119918,geom,Acuarela - San Jorge,Av. Arce esq. Campos Nº 2698,San Jorge,,,1,clara.revollo,clara.revollo,2016-08-04T14:36:59.733Z,,,
+Feature,educacionprivada.148,Point,-68.0760094,-16.53453357,geom,Acuarela - Achumani,Calle 10 Nº 266,Achumani,,,18,clara.revollo,clara.revollo,2016-08-04T14:36:02.667Z,,,
+Feature,educacionprivada.149,Point,-68.12178491,-16.49798276,geom,Centro Educativo Nicole,C. Estados Unidos Nº 1469 esq. Pasoskanqui,Miraflores,,,2,clara.revollo,clara.revollo,2016-08-04T15:16:38.883Z,,,
+Feature,educacionprivada.150,Point,-68.13276773,-16.50767377,geom,El Jardín Infantil de Luly,"Av. Abdón Saavedra esq, Mártires de la Democracia",Sopocachi,,,3,clara.revollo,clara.revollo,2016-08-04T15:30:46.510Z,,,
+Feature,educacionprivada.151,Point,-68.07537701,-16.5452206,geom,Pasito a Paso,José María Aguirre Achá,Los Pinos,,,18,clara.revollo,clara.revollo,2016-08-04T15:35:44.280Z,,,
+Feature,educacionprivada.152,Point,-68.08817799,-16.54451512,geom,Ceami,Av. Los Sauces Nº 1022,Calacoto,,,18,clara.revollo,clara.revollo,2016-08-04T15:42:29.777Z,,,
+Feature,educacionprivada.153,Point,-68.12362934,-16.51107654,geom,Ceami,C. Pinilla entre Av. Arce y 6 de Agosto,Sopocachi,,,1,clara.revollo,clara.revollo,2016-08-04T15:43:52.683Z,,,
+Feature,educacionprivada.154,Point,-68.12060313,-16.50381505,geom,Crecer,Av. Busch,Miraflores,,,2,clara.revollo,clara.revollo,2016-08-04T15:47:16.720Z,,,
+Feature,educacionprivada.155,Point,-68.1207058,-16.50330106,geom,Crecer - Miraflores,Av. Busch # 2047,Miraflores,,,2,clara.revollo,clara.revollo,2017-04-17T14:56:01.100Z,,,
+Feature,educacionprivada.156,Point,-68.13014944,-16.51037911,geom,Jardín Infantil Angelitos,C. Jacinto Benavente # 2255,Sopocachi,,,3,clara.revollo,clara.revollo,2017-04-17T14:56:11.233Z,,,
+Feature,educacionprivada.157,Point,-68.07738372,-16.5443813,geom,El Vergel,C. Cordero # 8423,San Miguel,,,18,clara.revollo,clara.revollo,2017-04-17T14:56:21.993Z,,,
+Feature,educacionprivada.158,Point,-68.13747749,-16.48992346,geom,Jardín Infantil Camino al Exito,C. Villca Zárate # 847 Esq. Av. Armentia entre Laja y Batallón Victoria,Centro,,,11,clara.revollo,clara.revollo,2017-04-17T14:55:49.697Z,,,
+Feature,educacionprivada.159,Point,-68.13180901,-16.51094,geom,Caminito,C. Abdón Saavedra Pasaje Wigger # 2108,Sopocachi,,,3,clara.revollo,clara.revollo,2017-04-17T14:55:31.047Z,,,
+Feature,educacionprivada.160,Point,-68.08475801,-16.54468453,geom,Huellas,C. 13 # 425,Calacoto,,,18,clara.revollo,clara.revollo,2017-04-17T14:55:19.513Z,,,
+Feature,educacionprivada.161,Point,-68.07634858,-16.54997376,geom,Guarderia Emanuel,C. B # 20,Auquisamaña,,,18,clara.revollo,clara.revollo,2017-04-17T14:57:14.560Z,,,
+Feature,educacionprivada.162,Point,-68.07623773,-16.55010994,geom,Colegio Martín Cardenas,C. A,Auquisamaña,,,18,clara.revollo,clara.revollo,2017-04-17T14:57:05.063Z,,,
+Feature,educacionprivada.163,Point,-68.11456062,-16.4936559,geom,Mi Rinconcito,Av. Esteban Arce,San Antonio,,,15,clara.revollo,clara.revollo,2016-08-05T20:04:56.737Z,,,

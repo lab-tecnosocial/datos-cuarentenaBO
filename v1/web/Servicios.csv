@@ -1,0 +1,468 @@
+Departamento,Alcance,Descripcion del alcance,Latitud,Longitud,Dirección,Tipo de proveedor,Nombre ,Tipo de servicios o productos,Servicios o productos,Dias y horarios de atención,Telefonos,A domicilio,Verificado
+Cochabamba,Nacional,Nacional,NA,NA,null,Público,YPFB: entregas de gas a domicilio,Gas,Gas,null,null,Si,Si
+Cochabamba,Zonal,Villa Busch,-17.392684,-66.199639,Villa Busch,Informal,Pañales de adulto mayor,Higiene personal,Pañales para adulto mayor,null,72251879 - 4282898,No,Si
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio Taxi de la V,Servicios Móviles,Radio Taxi,null,67205906,No,Si
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio Taxi la pirámide,Servicios Móviles,Radio Taxi,null,5254444,No,SI
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio Taxi el Faro,Servicios Móviles,Radio Taxi,null,5273399,Si,No
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio movil SAS Oruro,Servicios Móviles,Radio Taxi,null,5219999,Si,No
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio Móvil tu piloto,Servicios Móviles,Radio Taxi,null,5266166,No,Si
+Oruro,Municipal,Oruro,NA,NA,null,Microempresa,Radio Movil Tours Forever,Servicios Móviles,Radio Taxi,null,8421114,No,Si
+Pando,Municipal,Cobija,NA,NA,null,Microempresa,Servicio Urbano Radio Taxi,Servicios Móviles,Radio Taxi,null,8421588,No,Si
+Pando,Municipal,Pando,NA,NA,null,Microempresa,Expreso departamental,Servicios Móviles,Radio Taxi,null,null,Si,No
+Beni,Municipal,Trinidad,NA,NA,null,Microempresa,Radio Movil Vial Trinidad,Servicios Móviles,Radio Taxi,null,null,Si,No
+Beni,Municipal,Trinidad,NA,NA,null,Microempresa,Radio Taxi German Busch,Servicios Móviles,Radio Taxi,null,null,Si,No
+Cochabamba,Municipal,Cochabamba,NA,NA,Av. General Galindo,Microempresa,Radio Taxi Jardín,Servicios Móviles,Radio Taxi,null,4241111,No,Si
+Cochabamba,Municipal,Cochabamba,-17.371774,-66.150484,Calle Potosí,Microempresa,Radio Taxi H,Servicios Móviles,Radio Taxi,null,4455120,Si,No
+Cochabamba,Municipal,Cochabamba,-17.361546,-66.160843,Felix Lopez de la Vega,Microempresa,Radio Movil HOLIDAY KANTUTA,Servicios Móviles,Radio Taxi,null,4293777,Si,No
+Cochabamba,Municipal,Cochabamba,NA,NA,Oeste,Microempresa,Cochabamba,Servicios Móviles,Radio Taxi,null,65366001,Si,No
+Cochabamba,Municipal,Cochabamba,-17.376329,-66.187595,Av. Thunupa,Microempresa,Radio Movil Aranjuez,Servicios Móviles,Radio Taxi,null,4241212,Si,No
+Cochabamba,Municipal,Cochabamba,-17.397834,-66.137910,"Av. 9 de abril, Cochabamba",Microempresa,Radio Taxi Ejecutivo,Servicios Móviles,Radio Taxi,null,4225050,Si,No
+Cochabamba,Municipal,Cochabamba,-17.385807,-66.141854,Av. Papa Paulo,Microempresa,Radio Movil Incacollo,Servicios Móviles,Radio Taxi,null,4200355,Si,No
+Cochabamba,Municipal,Cochabamba,-17.384349,-66.168059,Av. Tadeo Haenke. no. 1450,Microempresa,Verdecio,Servicios Móviles,Radio Taxi,null,4280000,No,Si
+Cochabamba,Municipal,Cochabamba,-17.367135,-66.133661,null,Microempresa,PERZEO,Servicios Móviles,Radio Taxi,null,76991360,No,Si
+Cochabamba,Municipal,Cochabamba,-17.365238,-66.161960,null,Microempresa,Taxi Ciudad Digital,Servicios Móviles,Radio Taxi,null,61782828,Si,PC
+Cochabamba,Municipal,Cochabamba,NA,NA,Manuel Marin no. 1021,Microempresa,Movil,Servicios Móviles,Radio Taxi,null,4200520,Si,No
+La Paz,Zonal,Calacoto,-16.539065,-68.075553,Av. Gral Ballivian esq. Muñoz Reyes No. 80 Zona Calacoto,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106006 - 72072300,No,Si
+La Paz,Zonal,San Pedro,-16.504065,-68.133668,"Av. 20 de Octubre esq. Machicado No. 434, Zona San Pedro",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106007 - 72072300,No,Si
+La Paz,Zonal,Entre Ríos,-16.498887,-68.152085,"Av. Entre Ríos esq. Ayata No. 1349, Zona el Tejar",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106008 - 72072300,No,Si
+Oruro,Zonal,Morela,NA,NA,Av. 6 de Octubre esq. Héroes del Chaco,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106009 - 72072300,No,Si
+Santa Cruz,Zonal,Cuarto Anillo,NA,NA,Carretera SC-CBBA Km 3 1/2 Zona Cuarto Anillo,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106010 - 72072300,No,Si
+Santa Cruz,Zonal,El Pari,NA,NA,Av. Grigotá Uv. 0029 Dist: 5 Mza 0043 Sec. 3,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106011 - 72072300,No,Si
+Santa Cruz,Zonal,Puerto Quijarro,NA,NA,Av. Brasil s/n Zona Central,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106012 - 72072300,No,Si
+Santa Cruz,Zonal,Mariscal Sucre,NA,NA,Av. Mariscal Sucre s/n Zona Central,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106013 - 72072300,No,Si
+Cochabamba,Zonal,Cala Cala,NA,NA,Av. Simón López entre M. Pérez de Holguín G.R. Moreno No. 0 Zona/Barrio Cala Cala,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106014 - 72072300,No,Si
+Cochabamba,Zonal,Valle Hermoso,NA,NA,Av. Petrolera km 5 1/2 Zona Valle Hermoso,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106015 - 72072300,No,Si
+Cochabamba,Zonal,América,-17.371740,-66.173618,Av. América esq. Pachamama  No. s/n Barrio Cala Cala,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106016 - 72072300,No,Si
+Cochabamba,Zonal,Villa Tunari,NA,NA,Carretera Cbba-Sta Cruz nro. s/n Zona Villa Tunari ,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106017 - 72072300,No,Si
+Cochabamba,Zonal,Ivirgarzama,NA,NA,"Carretera Cochabamba - Santa Cruz km. 221 Zona/Barrio Central, PT, Villarroel",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106018 - 72072300,No,Si
+Tarija,Zonal,Las Américas,NA,NA,"Av. Panamericana, Zona Luis Pizarro",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106019 - 72072300,No,Si
+Tarija,Zonal,Presidente Arce,NA,NA,"Av. Panamericana, Zona Morros Blancos",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106020 - 72072300,No,Si
+Tarija,Zonal,San Martín,NA,NA,Av. San Martín esq. Jacinto Delfín,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106021 - 72072300,No,Si
+Tarija,Zonal,Palos Blancos,NA,NA,Calle Avaroa esq. Chuquisaca,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106022 - 72072300,No,Si
+Tarija,Zonal,Bermejo,NA,NA,Av. Petrolera s/n Carretera a Tarija,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106023 - 72072300,No,Si
+Tarija,Zonal,Caraparí,NA,NA,Carretera Tarija -Yacuiba Zona El Común,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106024 - 72072300,No,Si
+Tarija,Zonal,Padcaya,NA,NA,Carretera a Bermejo Localidad el Padcaya,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106025 - 72072300,No,Si
+Chuquisaca,Zonal,Ostria Gutierrez,-19.039644,-65.249234,"Av. Ostria Gutierrez, esq. Nataniel Aguirre",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106026 - 72072300,No,Si
+Chuquisaca,Zonal,El Tejar,NA,NA,Av. Héroes de la Calancha s/n Salida a Potosí,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106027 - 72072300,No,Si
+Chuquisaca,Zonal,Los Sauces,NA,NA,Av. Piraimiri. s/n Final,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106028 - 72072300,No,Si
+Chuquisaca,Zonal,Monteagudo,NA,NA,"Monteagudo, Zona Zapallar, Salida a Camiri",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106029 - 72072300,No,Si
+Potosí,Zonal,Villa Imperial,-19.583858,-65.755807,Av. Cívica esq. Calle Serrudo s/n,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106030 - 72072300,No,Si
+Potosí,Zonal,Antofagasta,NA,NA,Av. Antofagasta s/n,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106031 - 72072300,No,Si
+Potosí,Zonal,Betanzos,NA,NA,Av. Chorrillos s/n Carretera Sucre-Potosí,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106032 - 72072300,No,Si
+Pando,Zonal,Progreso,NA,NA,Av. Internacional No. 55-2 Zona Central,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106033 - 72072300,No,Si
+Pando,Zonal,Puerto Rico,NA,NA,Av. Alberto Saens No. S/n Barrio San Juan,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106034 - 72072300,No,Si
+Beni,Zonal,Pompeya,NA,NA,"Av. Pedro Ignacio Muiba, Circunvalación Sur s/n Barrio Pompeya",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106035 - 72072300,No,Si
+Beni,Zonal,Santa Ana De Yacuma,NA,NA,"Calle Juan Adad, s/n. Barrio Belén",Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106036 - 72072300,No,Si
+Beni,Zonal,Federico Roman,NA,NA,Av. Federico Román s/n Zona Central,Empresa,YPFB,Gas,Venta de Garrafas de GLP,null,800106037 - 72072300,No,Si
+Beni,Municipal,Baures,NA,NA,CALLE BALLIVIAN SN,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Guayaramerin,NA,NA,CFEDERICO ROMAN FRENTE PLAZA PRINCIPAL GERMAN,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Magdalena,NA,NA,Calle Luis Suarez esq. Nataniel Garcia,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Reyes,NA,NA,CALLE SUCRE ESQ. 18 DE NOVIEMBRE,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Riberalta,NA,NA,INTERSECCION DE LAS C/JUAN DE DIOS MARTINEZ Y MED,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Riberalta,NA,NA,AV. NICOLAS SUAREZ N 481 CASI ESQUINA MEDARDO CHA,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Riberalta,NA,NA,Av.Nicolas Suarez esq placido mendez frente a la,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Riberalta,NA,NA,AV. MAXIMO HENICKEN S/N. RIBERALTA,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Riberalta,NA,NA,Av. Placido Mendez y Gabriel Rene Moreno,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Rurrenabaque,NA,NA,AV. COMERCIO ENTRE CALLE VACA DIEZ Y SANTA CRUZ ,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Rurrenabaque,NA,NA,Calle Bolivar Nro . 32,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Borja,NA,NA,C/LA PAZ MEDIA CUADRA DEL LADO SUR DE LA PLAZA 10,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Borja,NA,NA,PLAZA PRINCIPAL ACERA NORTE,Empresa,CACTRI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Borja,NA,NA,C/ ANTOFAGASTA ENTRE SUCRE Y TARIJA S/N,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Ignacio De Moxos,NA,NA,C Santisteban S frente plaza principal 31 de Julio,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Joaquin,NA,NA,Av.Padre Alfonso Elorriaga entre 18deNoviembre y,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,San Ramon,NA,NA,CALLE 18 DE NOVIEMBRE,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Santa Ana Del Yacuma,NA,NA,C/MANUELITA SUAREZ Y PLAZA BALCAZAR ESPINOZA,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Santa Rosa,NA,NA,Calle German Busch Esquina Beni,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,-14.834604,-64.901653,C. Manuel Limpias No. 76,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,-14.834422,-64.904802,Calle Antonio Vaca Diez,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,NA,NA,Av. Cipriano Baracé # 604,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,-14.830536,-64.895310,Av. Bolivar Esquina Alberto Reyes,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,NA,NA,C. COCHABAMBA No. 100,Empresa,CACTRI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,-14.837849,-64.903807,Calle Joaquin de Sierra esq. Mamore,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,NA,NA,"C. Torope SN, entre calle Hernan Velarde Rojas ",Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,NA,NA,AV. GERMAN BUSCH No. 65,Empresa,LA PROMOTORA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Trinidad,NA,NA,"CALLE RAUL MONJE ROCA #48,MEDIA CUADRA AV.BOLIVAR",Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Yucumo,NA,NA,Carretera a Rurrenabaque sn frente a mercado san,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Yucumo,NA,NA,AV. RURENABAQUE S,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Beni,Municipal,Yucumo,NA,NA,Carretera Principal A Rurrenabaque s/n,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Aiquile,NA,NA,"Calle Sucre, entre Arevalo y Heroes del Chaco",Empresa,COOP.SAN PEDRO DE AIQUILE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Anzaldo,NA,NA,Frente Plaza Principal 12 de Octubre,Empresa,COOP.SAN CARLOS BORROMEO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Arani,NA,NA,Calle Obispo La Fuente N.56,Empresa,COOP.SAN CARLOS BORROMEO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Capinota,NA,NA,Plaza 24 de Septiembre acera Norte s.n,Empresa,COOP.LA CANTERA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Capinota,NA,NA,Plaza Principal acera Sud sn lado H.A.M. de Capin,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Chimore,NA,NA,Avenida Panamericana S y Manzanitos,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.396549,-66.157043,Calle Nataniel Aguirre esq. Calama,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,"Av.Ballivian No.739, entre calles Teniente Ar‚val",Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.396624,-66.157418,c/Calama entre Ayacucho y Nataniel Aguirre No.164,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.394045,-66.155254,"Calle 25 de Mayo, esquina Sucre Nø 0385",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.391764,-66.148338,Plaza Sucre entre Pasteur y Aurelio Melean N.1033,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,C 25 DE MAYO N.818 ENTRE AV. AROMA Y BRAZIL,Empresa,C.A.C. ASUNCION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.390373,-66.159323,Av.Ayacucho N.331,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.396415,-66.179082,Av. Capitan Ustariz Nro. 2003,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,Calle Juan de La Cruz Torrez N.1674,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.410556,-66.150875,Av. Republica Nro. 1947 esq. Av. 6 de agosto,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.386995,-66.154446,C/LANZA No. 548 ENTRE SALAMANCA Y PACCIERI,Empresa,COOP. EMPETROL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.402672,-66.166822,Av. Mancokapac No.924,Empresa,COOP. PIO X,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.372510,-66.163388,Av.Libertador N.1567 casi Av.America,Empresa,COOP. SAN ANTONIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.394598,-66.158511,Av. Ayacucho N.290 Esq.Santivanez,Empresa,COOP. SAN MARTIN DE PORRES,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,Av. Peru Nro. 593,Empresa,COOP. CRISTO REY,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.394506,-66.151763,Antezana No. S-0397 Esq. Jordan,Empresa,COOP. LOYOLA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.407501,-66.150866,Av.Republica N.1644 entre Calle Guayaramerin y Av,Empresa,COOP. SAN CARLOS BORROMEO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,AV. VICTOR USTARIZ No.3119 ESQ. PONANSKI,Empresa,COOP. SAN JOAQUIN LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.360869,-66.170668,"AV. CIRCUNVALACION N.889, ESQUINA AV. CALAMPAMPA",Empresa,COOP. SAN JOAQUIN LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.413206,-66.164108,AV. DE LA PATRIA NO.1961,Empresa,COOP. SAN JOAQUIN LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.371367,-66.176941,AV. AMERICA OESTE Nro. 1386,Empresa,COOP. SARCO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.355340,-66.187019,Av. Simon Lopez N.2685 entre Ma.Ballivian y Humbe,Empresa,COOP. TUKUYPAJ,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.407514,-66.150866,Av. Republica Nro. 1185,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,C/ANTEZANA 216 ENTRE ECUADOR Y COLOMBIA,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.422705,-66.158300,AV. PANAMERICANA 2806,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,AV. BEIJING NRO.285 ESQ. IDELFONSO,Empresa,HOSPICIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.390229,-66.156098,c/25 de Mayo entre Colombia y Ecuador,Empresa,HOSPICIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.392341,-66.156580,c/Espana esq. Heroinas No.0111,Empresa,LA PROMOTORA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,AV. BLANCO GALINDO N.1158 ENTRE AV. PERU Y S. ALB,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Colomi,NA,NA,C. MAN CESPED S.N. KM. 49 CARRETERA CBBA STA. CRU,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Entre Rios,NA,NA,Calle Eduardo Avaroa s esq. Bolívar (Plaza Princip,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Entre Rios,NA,NA,"CARRETERA PRINCIPAL A SCZ Km. 271,ACERA NORTE",Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Entre Rios,NA,NA,Calle Froilan Tejerina y Alianza,Empresa,COOP.MAGISTERIO RURAL TARIJA LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Independencia,NA,NA,PLZ. 6 DE AGOSTO Villa Indep Prov. Ayopaya acera,Empresa,C.A.C. SAN FRANCISCO DE ASIS LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Ivirgarzama,NA,NA,AV. MORTENSSON S.N. PLAZA PRINCIPAL,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Ivirgarzama,NA,NA,AV. MONTESORI ESQ. LEONARDO QUISPE,Empresa,COOP. PIO X,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Mizque,NA,NA,CALLE LITORAL S.N. ENTRE COCHABAMBA Y MORALES,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Mizque,NA,NA,C. Tapia s.n. Plaza Independencia,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Omereque,NA,NA,Plaza 9 de Mayo esq. Bolivar,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Omereque,NA,NA,Plaza 9 de mayo,Empresa,COOP.SAN PEDRO DE AIQUILE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Punata,-17.543816,-65.837360,"Calle Andrés María Torrico, Esquina Ingavi",Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Punata,-17.547026,-65.836225,Av Gualberto Villarroel,Empresa,HOSPICIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Punata,-17.547412,-65.836254,AV. GUALBERTO VILLARROEL NO.107,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,-17.396534,-66.280776,Calle Cochabamba s.n entre Heroes del Acre y Ball,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,Calle 14 de septiembre #E-138,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,-17.393015,-66.282882,Calle Carmela Serruto casi esq.Av.Santa Cruz,Empresa,CAC COOPROLE LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,Av. Albina Pati¤o No.220 entre Av. Sta. Cruz y Co,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,Plaza 27 de mayo,Empresa,COOP.CRISTO REY,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,Plaza Bolivar,Empresa,HOSPICIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,Av. Blanco Galindo entre 23 de Marzo y Suarez Mir,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Quillacollo,NA,NA,CALLE CARMELA SERRUTO N.126 ENTRE W.BALLIVIAN Y S,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,-17.403704,-66.038502,CALLE BOLIVAR Nro. 366 ENTRE AYACUCHO Y COLON,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,NA,NA,AVENIDA BARRIENTOS ESQUINA MONSE¥OR ALCOCER SN,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,-17.403507,-66.040038,Plaza 06 de Agosto acera Norte,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,NA,NA,Calle Junin N.155,Empresa,COOP. PIO X,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,-17.404111,-66.038630,CALLE BOLIVAR 100 ESQ. COLON,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sacaba,NA,NA,Calle Ingavi N. 614 esq. Calle Bolivar,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Shinahota,NA,NA,Av. Panamericana esq. Calle Miraflores,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Sipe Sipe,NA,NA,Plaza 30 de Abril Acera Sud,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Tiraque,NA,NA,Plaza Principla lado oeste,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Tiraque,NA,NA,CALLE SANTA CRUZ S ENTRE CALLES VANDIOLA Y COSTAN,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Totora,NA,NA,Plaza Ladislao Cabrera,Empresa,COOP.CRISTO REY,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Vacas,NA,NA,Calle Junin y Calle Aroma s.n Mercado central ace,Empresa,COOP.SAN CARLOS BORROMEO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Villa Tunari,NA,NA,Av.Integracion esq.Chuquisaca s.n Central,Empresa,COOP. SAN ANTONIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Achacachi,NA,NA,Plaza Mcal. Andres de Santa Cruz No.50,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Achacachi,NA,NA,Maximiiano Paredes N§ 15 esquina Yanacocha,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Apolo,NA,NA,"PLAZA BOLIVAR, ACERA NORTE",Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Arapata Nor Yungas,NA,NA,Avenida 30 de Agosto SN,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Batallas,NA,NA,Plaza Rene Barrientos S/N,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Batallas,NA,NA,PLAZA PRINCIPAL DE LA LOCALIDAD DE BATALLAS,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Cairoma,NA,NA,Plaza 16 de Julio S.N.,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Caranavi,NA,NA,Av. Mariscal Santa Cruz s entre Litoral y Kilómet,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Caranavi,NA,NA,Av. Mcal. Santa Cruz entre c. Batallon de ing.,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Chulumani,NA,NA,"Plaza Martin Villalobos, esq. Gral Pando",Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Copacabana,-16.165757,-69.086505,Av. 6 de Agosto s.n. entre Calles Oruro y Pando,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Coripata,-16.313777,-67.606427,Saturnino Guerra s lado Plaza 16 de Julio,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Coroico,-16.188595,-67.727108,"C. Julio Suazo s.n, Plaza Principal",Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Coroico,NA,NA,C. Tomas Monje esq. pje. Adalid Linares,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,C. 3 No. 1304-CEJA,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.507681,-68.162976,AV. JORGE CARRASCO No.61,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Calle Jorge Carrasco No. 63 Zona 12 de Octubre,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.534346,-68.190648,Av. Bolivia No. 1101 (cruce Villa Adela),Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.490178,-68.207141,Av. Juan Pablo II No.60 (ex tranca Rio Seco),Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Av. Aconcagua No. 8394,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Av. 6 de marzo Nro 41,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.535287,-68.190927,Av. Ladislao Cabrera No.15,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.507522,-68.164169,Av. 6 de marzo Nro 41,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Avenida Juan Pablo II Nø 2885 casi esq. Banzer,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.535136,-68.190794,"Calle Ladislao Cabrera N§ 1017, cruce Villa Adela",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Calle 1 Nø 1 entre Calle Franco Valle y Avenida J,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.489938,-68.172326,AV. ALFONSO UGARTE No. 1230,Empresa,COOP. LA SAGRADA FAMILIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Plan 405 Calle 17 Nro 984,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.500180,-68.173633,Av. Juan Pablo II Nro. 125 esq. Jorge Eulert,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,-16.500180,-68.173633,Av. Franco Valle Nro. 900,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,"Av. Juan Pablo II Nro 60,Zona Rio Seco(Ex-Tranca)",Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Carretera Viacha Nro 11,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,"Z. Tejada Rectangular entre Av. C¡vica,C.9, N.50",Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Av. Alfonso Ugarte,Empresa,HOSPICIO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,AV. 6 DE MARZO. ESQ. CALLE 3 N§. 100. 1er PISO.,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,"Av. Raul Salmon No.24, Zona 12 de Octubre",Empresa,LA PRIMERA EFV,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,"Av. Santiago de Machaca No. 1005, esq. Av. Muro P",Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,AV. JUAN PABLO II CALLE 1 Nº 8 FRENTE A IDENTIFIC,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,CAMINO A VIACHA ESQ AV BOLIVIA N°13,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,"AV.FRANCO VALLE NRO 11 ENTRE C 5 Y 6, ZONA 12 DE",Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,El Alto,NA,NA,Av. 6 de Agosto N. 2125,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Irupana,NA,NA,Plaza Victorio Lanza s Zona Central,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Asunta,-16.125070,-67.194475,Avenida Rene Barrientos S.N.,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Asunta,-16.127574,-67.194246,AV.RENE BARRIENTOS ORTUÑO entre 1 de Enero y Oswa,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,NA,NA,"AVENIDA CAMACHO Nø 1377-1389 ESQ.CALLE LOAYZA, ZO",Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.502531,-68.132431,AV 16 DE JULIO N 1642 ESQ LADISLAO CABRERA,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.540765,-68.079348,Calle Montenegro Nro. 1454 Bloque B3 Zona San Mig,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.501674,-68.136754,C. General Gonzales No.1272,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.546458,-68.076541,Calle 21 Calacoto esq Av. Costanera sn,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.477264,-68.119601,Av. Las Americas No.353,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.512891,-68.120679,Av. Arce n§ 2799 esq. Cordero,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.501170,-68.133181,Av.16 de Julio No.1440 (Plaza Venezuela),Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,NA,NA,"Av. Camacho No.xxx, esq. Colon",Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.498776,-68.134214,Av. Montes N. 515,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.501545,-68.133100,"Avenida 16 de Julio Nro 1544, El Prado",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.499464,-68.133214,Av. Camacho Nø 1416 esq. calle Loayza,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.545125,-68.076870,"C.JOSE AGUIRRE ACHA,NRO.8484,C.21,ESQUINA JOS MA",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.497962,-68.139112,C. Sagarnaga No. 547 EDIF. MARIA.ENTRE CALLE MAX,Empresa,COOP. LA SAGRADA FAMILIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.502297,-68.122036,"AV.SAAVEDRA N.1975,ED.MIRAFLORES ENTRE VILLALOBOS",Empresa,COOP. SAN MARTIN DE PORRES,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.528554,-68.101168,CALLE DEMETRIO CANELAS N.27 ENTRE C 16 Y 17 DE ZO,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.494387,-68.141232,Av. Tumusla Entre plaza Eguino e Isaac Tamayo Nro,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.500214,-68.134328,Av. Mcal. Santa Cruz No.1364,Empresa,LA PRIMERA EFV,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.496571,-68.116533,AV. 31 DE OCTUBRE 1530,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.509344,-68.143483,AV. BUENOS AIRES 1548 TEMBLADERANI,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.537636,-68.048744,AV DEFENSORES DEL CHACO ESQ CALLE 50 N°59,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.511610,-68.127039,CALLE PEDRO SALAZAR Nº 509,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.493578,-68.117300,AV. TITO YUPANQUI ESQ. RAFAEL BALLIVIAN N°1286,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.504657,-68.137110,"CALLE BOQUERON #1500,ENTRE NICOLAS ACOSTA Y OTERO",Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,La Paz,-16.493855,-68.141585,AV MANCO KAPAC Nro 310 PLAZA EGUINO,Empresa,SOLUCREDIT SAN SILVESTRE LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Patacamaya,NA,NA,Av. Panamericana Nro 74 esq. C. Santa Cruz,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Patacamaya,NA,NA,"Calle pasaje florida,S entre Av. Panamericana y V",Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Patacamaya,NA,NA,AV. PANAMERICANA ESQ. PANDO,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+La Paz,Municipal,Viacha,NA,NA,Av. Pando casi Esq. Ingavi No. 47,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,La Bandera esquina Ejercito,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,-18.901098,-66.774464,C. BANDERAS ENTRE C.MURILLO DORADO Y EJERCITO,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,"CALLE EJERCITO S/N, ENTRE VILLARROEL Y ORURO",Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,Calle La Bandera Ejercito Murillo,Empresa,COOP. PAULO VI LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,"C. LA BANDERA S, E. EJERCITO Y MURILLO DORADO (AC",Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,Av. Ladislao Cabrera S entre Beni y La Paz,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Challapata,NA,NA,C/LA PAZ S/N ENTRE LADISLAO CABRERA Y SUCRE,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Huanuni,-18.285260,-66.841375,Ag. 16 de Julio sn.,Empresa,C.A.C. ASUNCION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.970767,-67.113645,C. Soria Galvarro n§ 1625 esq. Bolivar,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.969188,-67.114439,Calle Adolfo Mier nro. 735,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.970238,-67.114505,"C. La Plata No. 6144, entre Bolivar y Sucre",Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.969090,-67.113894,Calle La Plata No. 5959 entre calles Adolfo Mier,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.970554,-67.114658,Calle La Plata 6175 entre Sucre y Bolivar,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.954792,-67.100107,C. CAMPO JORDAN ENTRE EDMUNDO VASQUEZ Y AV. GRAN,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.969503,-67.113278,Calle Soria Galvarro esquina Adolfo Mier Nø 612,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.966146,-67.109153,Pagador 298 esq. Montesinos,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.965921,-67.109144,"C. Pagador 5475, entre Montesinos y Herrera",Empresa,C.A.C. ASUNCION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,NA,NA,6 de Octubre esquina 1 de Noviembre,Empresa,CACEF LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.973806,-67.110845,C.Aldana N§ 240 Entre Velasco Galvarro y Pagador,Empresa,COOP. LA SAGRADA FAMILIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.953088,-67.108578,"6 de Octubre 4285, entre Charcas y campo Jordan",Empresa,COOP. PAULO VI LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.971057,-67.114718,C. La Plata esq. Sucre No. 6177,Empresa,EL PROGRESO EFV.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.963092,-67.110231,CALLE 6 DE OCTUBRE 5191 ENTRE LEON Y RODRIGUEZ,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-17.977119,-67.112138,C/PAGADOR N§ 6338. ENTRE MURGUIA Y ALDANA,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Oruro,Municipal,Oruro,-11.020856,-68.757146,C/Washintong#1480 entre calle Adolfo Mier y Junin,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,-11.020872,-68.757149,,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,-11.027126,-68.760354,Av. 9 de Febrero esq. Av. Internacional,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,-11.035373,-68.767416,,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,NA,NA,AV. 9 DE FEBRERO No.219,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,-11.020645,-68.757054,AV. 9 DE FEBRERO S/N,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Cobija,-11.021950,-68.767381,Av. 27 de Mayo S Frente a Ex Rombol,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,El Sena,-11.484449,-67.246809,AV. NAPOLEON ANTELO HULLMAN ESQ. 1 DE SEPTIEMBRE,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Porvenir,-11.234390,-68.688131,AV. COLUMNA PORVENIR S/N. MUNICIPIO PORVENIR,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Pando,Municipal,Puerto Rico,NA,NA,ALBERTO SAENZ KLINSKI S,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Atocha,-20.936056,-66.220220,Plaza Franz Tamayo - Plaza Central,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Atocha,NA,NA,PLAZA FRANZ TAMAYO S.N.,Empresa,C.A.C. EL CHOROLQUE LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Betanzos,-19.552616,-65.453199,"C. Bolivar No.6, esq. Linares",Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Betanzos,NA,NA,av. Hermanos Pereira casi esquina 6 de agosto,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Betanzos,NA,NA,C. Potosi esq. Modesto Omiste,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Cotagaita,-20.816663,-65.660545,AV.PANAMERICA S/N,Empresa,C.A.C. EL CHOROLQUE LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Llallagua,NA,NA,Calle Campero esq. Baptista No 33,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Llallagua,-18.423274,-66.586763,AV. 10 DE NOVIEMBRE No.13,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Llallagua,-18.423161,-66.585136,PLAZA 6 DE AGOSTO No. 31,Empresa,C.A.C. ASUNCION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Llallagua,-18.422516,-66.585472,CALLE BALLIVIAN ENTRE LINARES Y TUPIZA,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.587679,-65.754676,,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.588072,-65.752565,Calle Matos N§ 71 esquina Boulevar,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.587697,-65.753173,C. Bolivar esq. Junin No.852,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.587483,-65.753197,CALLE BOLIVAR ESQ. JUNIN S/N,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.579835,-65.755620,Av. Litoral,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.579825,-65.755608,Av. Litoral Nro 648 esq. Arce,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.577617,-65.752646,"Calle Smith Nro.296, cerca mercado Uyuni",Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.585229,-65.759520,Calle América Nº 108,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.580329,-65.755682,"Av. Arce, entre 1ro de Abril y Litoral, N 524",Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.588689,-65.754660,C/ BUSTILLOS N§ 1080 ENTRE C/TOMAS FRIAS Y AYACUC,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.589224,-65.752884,PLAZA 6 DE AGOSTO No. 11,Empresa,LA PROMOTORA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,-19.580337,-65.755686,Nro. 507 (entre calles Arce y Av. Santa Cruz),Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Potosi,NA,NA,AV. LITORAL S ENTRE AV ARCE Y CALLE VILLARROEL,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,San Pedro De Buenavista,-18.269549,-65.981448,PLAZA CENTRAL SAN PEDRO DE BUENAVISTA,Empresa,C.A.C. ASUNCION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Tupiza,-21.443973,-65.720349,"Plaza Independencia, esq. Bolivar s.n.",Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Tupiza,-21.444657,-65.719758,Calle Florida No 204 esquina calle,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Tupiza,-21.442772,-65.719842,AV. SANTA CRUZ No.300,Empresa,C.A.C. EL CHOROLQUE LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Uyuni,-20.464130,-66.825378,Av. Potosi no 33 esquina calle Sucre,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Uyuni,NA,NA,CALLE SUCRE Nro 131 ENTRE AV.COLON Y AV.POTOSI,Empresa,CAC. GAINZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Uyuni,-20.460700,-66.824562,Calle Sucre Nø 257 entre calles Colon y Cabrera,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Villazon,-22.090448,-65.595020,"Calle Tarija Calle, Independencia",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Villazon,NA,NA,PLAZA 6 DE AGOSTO S.N.,Empresa,CAC. GAINZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Potosí,Municipal,Villazon,NA,NA,"PLAZA 6 E AGOSTO #125, ENTRE C/20 DE MAYO Y C/IND",Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,4 Cañadas,NA,NA,Carretera Santa Cruz Trinidad esquina Calle San,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Arroyo Concepcion,NA,NA,Avenida Brasil esq. Lu¡s Salazar de la Vega,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Boyuibe,NA,NA,CORDILLERA,Empresa,COOP.A.C.SAN FRANCISCO SOLANO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Charagua,-19.790255,-63.196581,"C Ignacio W y Bolívar, z.1, manzana 31 sn de la z",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Comarapa,-17.915067,-64.529513,"C. Santa Cruz esq. c.Martín Claure s, zona centra",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Comarapa,-17.913847,-64.529497,plaza 11 de Junio #127,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Concepcion,-16.132450,-62.025687,CALLE SATURNINO SAUCEDO ENTRE BENI Y GERMAN BUSCH,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Cotoca,NA,NA,Av. Santa Cruz N. 63 esq.C. Bolivar frente a la p,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,El Carmen Rivero Torrez,NA,NA,Plaza Principal el Carmen Rivero Torrez,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,El Puente,NA,NA,MUNICIPIO EL PUENTE BARRIO SANTA ROSA,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,El Torno,-17.990906,-63.381227,Av.Republica esq. Benjamin Burela,Empresa,COOP. PROGRESO LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,El Torno,NA,NA,MUNICIPIO EL TORNO FRENTE A LA PLAZA PRINCIPAL,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Guarayos,-15.894201,-63.188667,AV.SANTA CRUZ C. ESQ. SAN JOAQUIN,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Guarayos,NA,NA,"AV.BUSH ESQ.CONRADO URAPI,1/2 CUADRA PLAZA PRINCI",Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Guarayos,NA,NA,AV.SANTA CRUZ 2 17S.N. FRENTE A RESID. BOLIVIA,Empresa,FONDECO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Los Negros,NA,NA,CARRETERA ANT.A SANTA CRUZ,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mairana,-18.119899,-63.960173,CALLE PRADO ESQ. AVENIDA AVAROA S - BARRIO COPER,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mairana,-18.122322,-63.960161,C Bolívar entre Av Abaroa y H.del Chaco snbarrio,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mairana,NA,NA,AV.AVAROA NO.18 MAIRANA PROV.FLORIDA-SANTA CRUZ,Empresa,COOPERATIVA SAN MATEO LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mairana,NA,NA,Calle Bolivar S/N(Frente a la ex policia de Maira,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mineros,NA,NA,Av. Santa Cruz media cuadra antes de la plaza pri,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mineros,-17.118808,-63.232251,,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Mineros,-17.118290,-63.232710,"Av. Santa Cruz, entre calles Bélgica y Sucre",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Montero,-17.341647,-63.255322,,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Montero,-17.343273,-63.247838,,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Puerto Suarez,-18.966067,-57.799015,"Avenida Sim¢n Bol¡var, esquina calle Israel Mend¡",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Saipina,NA,NA,PLAZA PRINCIPAL,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Samaipata,-18.179500,-63.875341,"C. Arce entre calles Sucre y Campero, frente a la",Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Ignacio De Velasco,NA,NA,"C. LA PAZ, FRENTE A LA PLAZA PRINCIPAL DE SAN IGN",Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Ignacio De Velasco,NA,NA,"Calle Comercio esq. calle Cochabamba, diagonal de",Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Isidro,NA,NA,CARRETERA ANTIGUA A CBBA.,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Javier,NA,NA,"Av. Padre José de Arce, Zona Mercado 24 de Septi",Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Javier,-16.275074,-62.508286,AV.PADRE JOSE DE ARCE ENTRE CALLE SOROTOCO Y PIÑO,Empresa,FONDECO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Javier,-16.274837,-62.507221,San Javier,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Julian,-16.908969,-62.618619,"Carretera Santa Cruz - Trinidad, barrio Los Cafec",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Julian,NA,NA,Av. Principal Carretera Trinidad Santa Cruz,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Julian,-16.913356,-62.618632,CARR. SCZ-TRINIDAD A 1 CUADRA DE MERC. 24 DE JUNI,Empresa,FONDECO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Julian,-16.908833,-62.618614,"C. 6 de Agosto Mza 1, uv 7",Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,San Ramon,-16.613012,-62.501497,"AV.GUARAYOS, FRENTE HOTEL MANGUARI",Empresa,FONDECO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.771950,-63.168221,Av. Japon,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.746614,-63.174176,Av.Cristo Redentor Nro 4210 entre 4to y 5to anill,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.751835,-63.216324,"av. segunda, ed.torre urub¢ business center, zona",Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.822869,-63.144699,"Av. Plan 3000 S UV 149, MZA 008 (frente Surtidor",Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.832511,-63.185121,"Av. Santos Dumont Esquina 5to Anillo, Barrio Mora",Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.765625,-63.161879,Av. Mutualista esq.Calle 12 Los Ceibos,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.785350,-63.181296,"Gabriel Rene Moreno, n§ 140",Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.780796,-63.172856,Arenales Nro. 779,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.814464,-63.182709,Av. Santos Dumont esquina Tercer anillo externo N,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.779967,-63.184686,calle Seoane entre 21 de mayo y España,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.766813,-63.182083,"Surtidor Cristo Rey Av. Cristo Redentor, Entre 2d",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.789694,-63.171713,"Av Viedma N° 649 casi calle Oruro 1er anillo, z c",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,"C. SUCRE Nro.144, entra calle Chuquisaca y La Paz",Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,AV. CHE GUEVARA Nro.6950 MEDIA CUADRA ROTONDA PLA,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.806819,-63.202073,Doble V¡a la Guardia esq. C Jose Otero,Empresa,COOP. COMARAPA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.785178,-63.194616,Of. Central Av.26 de Feb. Esq. Landivar,Empresa,COOP. SAN MARTIN DE PORRES,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,Av. Mutualista Nº 565 y 3er. Anillo,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.783053,-63.185488,Calle Junín 363 entre España y Santa Barbara,Empresa,COOP.LA MERCED,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,Avenida Isabel la Católica No 449 frente La Ramad,Empresa,COOPERATIVA GRAN GRIGOTA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.774646,-63.176561,Avenida Uruguay No 423 (media cuadra de Cumbre),Empresa,COOPERATIVA GRAN GRIGOTA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.804200,-63.199918,AV.DOBLE VIA LA GUARDIA NO.1050,Empresa,COOPERATIVA SAN MATEO LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.768240,-63.115972,AV. VIRGEN DE COTOCA 550 ENTRE 6to.Y 7mo. ANILLO,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,AV. SANTOS DUMONT 1385,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,"-17.824641,",-63.132249,"AV. 18 DE MARZO, ESQ. PLAN 3000",Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.798585,-63.135439,"Villa 1ø de Mayo, Casi Esq. Calle 11 oeste Nø 4",Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,Avenida Paurita N§ 6055 (Zona Ca¤ada Pailita),Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.798585,-63.135439,"Calle las Cutas Nø 2469, UV 17",Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,-17.833034,-63.184774,AV. SANTOS DUMONT 5to: ANILLO BARRIO LOS OLIVOS,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,AV MUTUALISTA Nº 2420 ESQ. CALLE 12,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,AV ROTONDA S UV 149 MZN 1 BARRIO TORO TORO ROTOND,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Santa Cruz,NA,NA,CALLE RENE MORENO Nº476,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Vallegrande,NA,NA,CALLE SANTA CRUZ ESQUINA CALLE FLORIDA S.N,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Vallegrande,-18.48961,-64.107164,CALLE FLORIDA NO.101 VALLEGRANDE-SANTA CRUZ,Empresa,COOPERATIVA SAN MATEO LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Yapacani,NA,NA,AV. EPIFANIO R.OS SN,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Yapacani,NA,NA,AV. EPIFANIO RIOS 279 PLANTA BAJA,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Santa Cruz,Municipal,Yapacani,NA,NA,"Av. Epifanio Rios, Lote 8, Mz 46",Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Azurduy,NA,NA,"Calle Guemes s (cerca de la plaza 14 de Marzo), z",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Camargo,-20.641470,-65.210606,CALLE AYACUCHO N. 24 ESQ. GRAN CHACO PROV.NOR CIN,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Camargo,-20.64102,-65.210843,Calle Ayacucho Nro. 33,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Camargo,NA,NA,Calle Gran Chaco Nro. 12,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Macharety,NA,NA,LUIS CALVO,Empresa,COOP.A.C.SAN FRANCISCO SOLANO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Monteagudo,-19.804334,-63.957591,Calle Marcelo Arana Nro. 45-47,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Monteagudo,-19.800669,-63.955078,Calle Sucre No. 699,Empresa,CAC SAN ROQUE LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Muyupampa,NA,NA,Calle Ayacucho s entre Calle Sucre y German Busc,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Padilla,-19.307199,-64.302584,Litoral,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Padilla,-19.307782,-64.302921,"BOLIVAR No, 2",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Padilla,NA,NA,,Empresa,CAC SAN ROQUE LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,San Lucas,NA,NA,"Calle Eduardo Avaroa s, localidad San Lucas",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,San Lucas,NA,NA,Plaza Trigo Arce esq. 25 de Mayo,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.034067,-65.252826,GUILLERMO LOAYZA No.504 ESQ. J.PRUDENCIO BUSTILLO,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.047389,-65.258501,C. Espa¤a Nø 64 entre Calvo y San Alberto,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.047708,-65.258714,Plaza 25 de mayo esquina calle Espa¤a,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.047207,-65.257740,Calle San Alberto No.108 esq. Calle Espa¤a,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.047005,-65.258190,c/Espana esq.San Alberto No.106,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.035174,-65.253608,C. GUSTAVO NAVARRO No. 12,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,NA,NA,Calle Man Cesped Nro 510,Empresa,CRECER IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,-19.034278,-65.255099,"Calle Prudenci Bustillos Nro.262, lado Mercado Ca",Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,NA,NA,C. NATANIEL AGUIRRE 391 CASI ESQ. DESTACAMENTO 13,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,NA,NA,Calle Espa¤a N§31,Empresa,LA PRIMERA EFV,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,NA,NA,Calle Marzana Nro. 525.,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Sucre,NA,NA,C. J. Prudencio N§ 530 esq. C. Paraguay,Empresa,SEMBRAR SARTAWI,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Tarabuco,NA,NA,"Plaza 12 de Marzo, esquina calles Bolívar y Sucre",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Villa Charcas,NA,NA,c. Julio Andia S frente a la plaza Principal,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Sucre,Municipal,Villa Serrano,-19.124360,-64.322187,"Avenida Mauro Nuñez S lote L, Zona central",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Bermejo,-22.731686,-64.342941,"Av G. Busch, esq C. Chuquisaca (Plaza Principal)",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Bermejo,-22.731998,-64.342783,CALLE GERMAN BUCH ESQ.LITORAL,Empresa,COOP.SAN JOSE DE BERMEJO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Bermejo,NA,NA,Calle Cochabamba entre Av. Barrientos Ortu¤o y Ca,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Carapari,NA,NA,"C Bolívar SN Esq Junín, Z Norte de Carapari prov",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.529155,-64.734394,AV 29 DE SEPTIEMBRE SN,Empresa,C.A.C ABIERTA MADRE Y MAESTRA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Padcaya,-21.887959,-64.712785,Calle Gilberto Saavedra (a media cuadra de la pla,Empresa,COOP.MAGISTERIO RURAL TARIJA LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.531742,-64.731602,Av.Domingo Paz entre daniel Campos y Colon N.132,Empresa,BANCO ECOFUTURO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.535077,-64.732185,15 de Abril 124,Empresa,BANCO FASSIL,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.533100,-64.733034,Ingavi 246,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.533558,-64.733857,La Madrid,Empresa,BANCO FORTALEZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.521015,-64.742941,Tarija,Empresa,BANCO PRODEM,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.540752,-64.725161,Av. La Paz esquina Av. Victor Paz,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.520859,-64.742592,Zona Mercado Campesino,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.533403,-64.734329,C/MADRID ESQ. GRAL TRIGO NO.390,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.521386,-64.742005,Av. Froylan Tejerina N§ 140,Empresa,C.A.C ABIERTA MADRE Y MAESTRA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.529153,-64.734393,CALLE FRAY MANUEL MINGO Nro. 0573,Empresa,C.A.C ABIERTA MADRE Y MAESTRA LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.533174,-64.732798,"C. INGAVI No.239, edif. CONCORDIA",Empresa,C.A.C. EL CHOROLQUE LTDA.,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.526199,-64.739830,Av. Panamericana S Zona San Jorge,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.535112,-64.727989,C. JUNIN Nro. 625 ENTRE INGAVI Y MADRID,Empresa,CIDRE IFD,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.532086,-64.734927,Calle campero N 726 entre Ingavi y Bolivar,Empresa,COOP.MAGISTERIO RURAL TARIJA LTDA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.521137,-64.742787,Av.Panamericana Nro 1791,Empresa,DIACONIA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.518541,-64.740023,"Av. Froilan Tejerina, entre Ernesto Trigo y Hugo",Empresa,FONDECO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.532837,-64.733927,Calle Ingavi,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Tarija,-21.521865,-64.742354,Zona Mercado Campesino,Empresa,PRO-MUJER,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Uriondo,NA,NA,Avenida Principal frente a la cancha de futbol s.,Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Valle De La Concepcion,NA,NA,"Calle Recreo esquina Bol¡var, Plaza Principal s.n",Empresa,IDEPRO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Villamontes,-21.262999,-63.470134,"Av. Ingavi, entre Av. H del Chaco y C.Cbba sn z.",Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Villamontes,-21.265846,-63.469799,Av. Mendez Arcos Esq. Calle Ismael Montes,Empresa,C.A.C. EDUCADORES GRAN CHACO LTDA ,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Villamontes,-21.265021,-63.472655,AV MENDEZ ARCO ENTRE POTOSI Y ORURO,Empresa,COOP.A.C.SAN FRANCISCO SOLANO,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,-22.016652,-63.679166,CALLE GENERAL CAMPERO ENTRE SANTA CRUZ Y COMERCIO,Empresa,BANCO FIE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,-22.017093,-63.680102,C/GRAL CAMPERO S/N ESQ.MARISCAL STA CRUZ,Empresa,BANCO UNION,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,-22.017245,-63.676283,C/Campero #140 entre c/ Martin Barroso y Av.San M,Empresa,C.A.C. EDUCADORES GRAN CHACO LTDA TRJ,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,NA,NA,C. SANTA CRUZ S.N.,Empresa,CAC. GAINZA,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,-22.014085,-63.678698,CALLE SANTA CRUZ ESQ.CREVAUX,Empresa,COOP. SAN MARTIN DE PORRES,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Tarija,Municipal,Yacuiba,NA,NA,CALLE SUCRE E. COMERCIO Y SANTA CRUZ Nø 329,Empresa,FUBODE,Servicios Financieros,Transacciones bancarias,null,null,No,Si
+Cochabamba,Municipal,Cochabamba,-17.385892,-66.154155,Av Salamanca 681-675,Empresa,Libreria Gisbert,Libreria,Librería,null,69902626,Si,No
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,Farmacorp,Farmacia,Farmacia medicamentos,null,4524244,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,Chavez,Farmacia,Farmacia medicamentos,null,69430074-4522252,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,Dosis Farma,Farmacia,Farmacia medicamentos,null,70730486,Si ,No
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,Zurich,Farmacia,Farmacia medicamentos,null,65707053,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,Genial,Servicios Móviles,Taxi,null,61783111-4200424,Si,No
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,OzLife,Oxigeno,Generadores de oxigeno,null,70725870-70779698,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Empresa,YPFB,Gas,Gas a domicilio,null,72072300-800106006,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,74580911,Si ,Si 
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,76571911,Si ,Si 
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,76902911,Si ,Si 
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,69451911,Si ,Si 
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,69433911,Si ,Si 
+Cochabamba,Municipal,Cochabamba,NA,NA,null,Público,Policía Nacional,Emergencias,Servicio de ayuda a los adultos mayores,NA,69452911,Si ,Si 
+La Paz,Departamental,La Paz,NA,NA,null,Público,FELCV-La Paz,Servicios Legales,Servicios legales contra la violencia,NA,61000523-67008570,Si,Si
+La Paz,Municipal,El Alto,NA,NA,null,Público,FELCV-El Alto,Servicios Legales,Servicios legales contra la violencia,NA,72042202,Si,Si
+Cochabamba,Departamental,Cochabamba,NA,NA,null,Público,FELCV-Cochabamba,Servicios Legales,Servicios legales contra la violencia,NA,60707069,Si,Si
+Santa Cruz,Departamental,Santa Cruz,NA,NA,null,Público,FELCV-Santa Cruz,Servicios Legales,Servicios legales contra la violencia,NA,72048864,Si,Si
+Oruro,Departamental,Oruro,NA,NA,null,Público,FELCV-Oruro,Servicios Legales,Servicios legales contra la violencia,NA,62805818,Si,Si
+Potosí,Departamental,Potosí,NA,NA,null,Público,FELCV-Potosi,Servicios Legales,Servicios legales contra la violencia,NA,72042570,Si,Si
+Chuquisaca,Departamental,Chuquisaca,NA,NA,null,Público,FELCV-Sucre,Servicios Legales,Servicios legales contra la violencia,NA,72042698,Si,Si
+Tarija,Departamental,Tarija,NA,NA,null,Público,FELCV-Tarija,Servicios Legales,Servicios legales contra la violencia,NA,78241690,Si,Si
+Beni,Departamental,Beni,NA,NA,null,Público,FELCV-Trinidad,Servicios Legales,Servicios legales contra la violencia,NA,72042202,Si,Si
+Pando,Departamental,Pando,NA,NA,null,Público,FELCV-Cobija,Servicios Legales,Servicios legales contra la violencia,NA,72042740,Si,Si
+La Paz,Municipal,La Paz,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,156 - 800104100,Si,Si
+La Paz,Municipal,El Alto,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,156 - 69952322 - 69900536,Si,Si
+Cochabamba,Municipal,Cochabamba,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,80014205 - 76425835,Si,Si
+Santa Cruz,Municipal,Santa Cruz de la Sierra,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,156 - 70960050 - 70060050,Si,Si
+Oruro,Municipal,Oruro,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,68351338,Si,Si
+Potosí,Municipal,Potosí,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,72426236,Si,Si
+Chuquisaca,Municipal,Sucre,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,77114241,Si,Si
+Tarija,Municipal,Tarija,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,800140348,Si,Si
+Beni,Municipal,Trinidad,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,69376262,Si,Si
+Pando,Municipal,Cobija,NA,NA,NA,Público,Servicios Legales Municipales,Servicios Legales,Servicios legales contra la violencia,NA,75104501,Si,Si

@@ -1,0 +1,914 @@
+[
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Alalay",
+   "Latitud": "-17,421,917",
+   "Longitud": "-66,137,409"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. ALTO COCHABAMBA",
+   "Latitud": "-17,424,687",
+   "Longitud": "-66,149,130"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "HOSPITAL MATERNOLOGICO GERMAN URQUIDI",
+   "Latitud": "-17,386,659",
+   "Longitud": "-66,148,535"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "HOSPITAL PEDIATRICO M.A. VILLARROEL",
+   "Latitud": "-17,386,174",
+   "Longitud": "-66,148,265"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. BEATO SALOMON",
+   "Latitud": "-17,360,823",
+   "Longitud": "-66,174,445"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. CERRO VERDE",
+   "Latitud": "-17,414,987",
+   "Longitud": "-66,143,665"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. CHAVEZ RANCHO",
+   "Latitud": "-17,394,885",
+   "Longitud": "-66,190,366"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. CHIMBA",
+   "Latitud": "-17,405,736",
+   "Longitud": "-66,181,741"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "INST. GASTROENTEROLOGICO BOLIVIANO-JAPONES",
+   "Latitud": "-17,386,190",
+   "Longitud": "-66,149,165"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "INSTITUTO PSIQUIATRICO SAN JUAN DE DIOS",
+   "Latitud": "-17,391,663",
+   "Longitud": "-66,231,215"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. CONDEBAMBA",
+   "Latitud": "-17,357,187",
+   "Longitud": "-66,177,832"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. JAIHUAYCO",
+   "Latitud": "-17,416,873",
+   "Longitud": "-66,162,925"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. KANATA",
+   "Latitud": "-17,413,307",
+   "Longitud": "-66,159,230"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. LA MAICA",
+   "Latitud": "-17,416,621",
+   "Longitud": "-66,194,587"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. LACMA",
+   "Latitud": "-17,434,458",
+   "Longitud": "-66,156,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. VILLA ISRAEL PUCARA",
+   "Latitud": "-17,486,039",
+   "Longitud": "-66,172,578"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. PUCARITA",
+   "Latitud": "-17,451,883",
+   "Longitud": "-66,201,474"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. ESPAÑA",
+   "Latitud": "-17,457,509",
+   "Longitud": "-66,156,144"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. SARCOBAMBA",
+   "Latitud": "-17,378,976",
+   "Longitud": "-66,188,432"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. SEBASTIAN PAGADOR",
+   "Latitud": "-17,441,744",
+   "Longitud": "-66,116,309"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. TEMPORAL",
+   "Latitud": "-17,360,313",
+   "Longitud": "-66,158,141"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. TICTI NORTE",
+   "Latitud": "-17,349,740",
+   "Longitud": "-66,170,602"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "HOSPITAL VIEDMA",
+   "Latitud": "-17,385,814",
+   "Longitud": "-66,148,868"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. GLORIA ALTO BUENA VISTA",
+   "Latitud": "-17,469,836",
+   "Longitud": "-66,156,082"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. SENNFELD",
+   "Latitud": "-17,406,438",
+   "Longitud": "-66,152,585"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. VILLA MARIA",
+   "Latitud": "-17,394,000",
+   "Longitud": "-66,280,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. EL PASO",
+   "Latitud": "-17,334,000",
+   "Longitud": "-66,266,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. IRONCOLLO",
+   "Latitud": "-17,368,000",
+   "Longitud": "-66,283,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. KAUSAY",
+   "Latitud": "-17,372,000",
+   "Longitud": "-66,258,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. DISTRITO 3",
+   "Latitud": "-17,377,000",
+   "Longitud": "-66,288,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "HOSPITAL QUILLACOLLO",
+   "Latitud": "-17,394,000",
+   "Longitud": "-66,280,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. CALVARIO",
+   "Latitud": "-17,394,000",
+   "Longitud": "-66,280,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S.C.C. MALLCO RANCHO",
+   "Latitud": "-17,419,396",
+   "Longitud": "-66,364,550"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. MONTE NEGRO",
+   "Latitud": "-17,454,000",
+   "Longitud": "-66,339,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. PAYACOLLO",
+   "Latitud": "-17,431,179",
+   "Longitud": "-66,336,658"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S.C.C. SIPE SIPE",
+   "Latitud": "-17,455,169",
+   "Longitud": "-66,352,460"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. VINTO CHICO",
+   "Latitud": "-17,414,686",
+   "Longitud": "-66,326,581"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. LINDE",
+   "Latitud": "-17,353,188",
+   "Longitud": "-66,195,954"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Municipal de Vinto",
+   "Latitud": "-17,397,025",
+   "Longitud": "-66,318,349"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Capacachi",
+   "Latitud": "-17,384,712",
+   "Longitud": "-66,223,042"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Kami",
+   "Latitud": "-17,367,466",
+   "Longitud": "-66,236,312"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Mexico",
+   "Latitud": "-17,400,743",
+   "Longitud": "-66,035,197"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Solomon Klein",
+   "Latitud": "-17,383,045",
+   "Longitud": "-66,109,678"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Minero San Juan de Uspa Uspa",
+   "Latitud": "-17,482,883",
+   "Longitud": "-66,105,355"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Cochabamba",
+   "Latitud": "-17,400,580",
+   "Longitud": "-66,156,062"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Kara Kara",
+   "Latitud": "-17,465,414",
+   "Longitud": "-66,127,004"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Tuscapujio",
+   "Latitud": "-17,414,051",
+   "Longitud": "-66,056,302"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Huayllania",
+   "Latitud": "-17,387,406",
+   "Longitud": "-66,058,340"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Apote",
+   "Latitud": "-17,330,083",
+   "Longitud": "-66,242,200"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Alalay",
+   "Latitud": "-17,419,816",
+   "Longitud": "-66,026,989"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. E Abra",
+   "Latitud": "-17,407,712",
+   "Longitud": "-66,087,801"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Maica Central",
+   "Latitud": "-17,422,269",
+   "Longitud": "-66,202,288"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Machajmarca",
+   "Latitud": "-17,386,859",
+   "Longitud": "-66,345,019"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Villa Oruro",
+   "Latitud": "-17,327,000",
+   "Longitud": "-66,225,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. 4 Esquinas",
+   "Latitud": "-17,361,188",
+   "Longitud": "-66,227,689"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Comunitario Valle Hermoso",
+   "Latitud": "-17,447,116",
+   "Longitud": "-66,126,268"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Nueva Gante",
+   "Latitud": "-17,447,067",
+   "Longitud": "-66,144,399"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Combuyo",
+   "Latitud": "-17,362,206",
+   "Longitud": "-66,340,638"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Callaj Chullpa",
+   "Latitud": "-17,353,456",
+   "Longitud": "-66,243,199"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Hospital Parotani",
+   "Latitud": "-17,563,000",
+   "Longitud": "-66,346,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Viloma",
+   "Latitud": "-17,414,845",
+   "Longitud": "-66,381,721"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Iscaypata",
+   "Latitud": "-17,351,558",
+   "Longitud": "-66,327,291"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Keraya",
+   "Latitud": "-17,297,000",
+   "Longitud": "-66,458,000"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Centro de Salud Chulla",
+   "Latitud": "-17,374,595",
+   "Longitud": "-66,307,043"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Ucuchi",
+   "Latitud": "-17,414,951",
+   "Longitud": "-65,920,996"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Alto Pagador",
+   "Latitud": "-17,450,162",
+   "Longitud": "-66,114,232"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Tajra Itapaya",
+   "Latitud": "-17,582,656",
+   "Longitud": "-66,332,109"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Villa Asunción",
+   "Latitud": "-17,407,624",
+   "Longitud": "-66,294,411"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Kausay",
+   "Latitud": "-17,400,448",
+   "Longitud": "-66,283,237"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Villa Maria",
+   "Latitud": "-17,384,125",
+   "Longitud": "-66,258,318"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Simón Bolivar",
+   "Latitud": "-17,402,595",
+   "Longitud": "-66,235,560"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "Centro de Salud Integral Colcapirhua",
+   "Latitud": "-17,393,254",
+   "Longitud": "-66,227,669"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Ciudad del Niño",
+   "Latitud": "-17,341,771",
+   "Longitud": "-66,191,871"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Pacata D3",
+   "Latitud": "-17,365,761",
+   "Longitud": "-66,124,186"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Pacata",
+   "Latitud": "-17,373,584",
+   "Longitud": "-66,124,244"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Villa El Mar",
+   "Latitud": "-17,359,873",
+   "Longitud": "-66,124,561"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Melga",
+   "Latitud": "-17,427,400",
+   "Longitud": "-65,914,785"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Catachilla",
+   "Latitud": "-17,404,754",
+   "Longitud": "-65,985,254"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Tutimayo",
+   "Latitud": "-17,417,765",
+   "Longitud": "-65,950,038"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Villa Venezuela",
+   "Latitud": "-17,426,660",
+   "Longitud": "-66,127,266"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Combase",
+   "Latitud": "-17,456,157",
+   "Longitud": "-66,160,813"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Guadalupe",
+   "Latitud": "-17,378,273",
+   "Longitud": "-66,074,058"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Laraty",
+   "Latitud": "-17,343,549",
+   "Longitud": "-66,013,188"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Pacatasapanani",
+   "Latitud": "-17,342,245",
+   "Longitud": "-66,054,952"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Pisli",
+   "Latitud": "-17,190,480",
+   "Longitud": "-66,026,739"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Kaluyo Chico",
+   "Latitud": "-17,219,088",
+   "Longitud": "-66,082,494"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Ichucollo",
+   "Latitud": "-17,187,384",
+   "Longitud": "-66,121,404"
+ },
+ {
+   "Tipo": "Publico",
+   "Nombre": "C.S. Palca A",
+   "Latitud": "-17,187,501",
+   "Longitud": "-66,075,569"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Alvares",
+   "Latitud": "-17,396,054",
+   "Longitud": "-66,294,895"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "\"Santa Rosa\" Centro Médico Quirúrgico",
+   "Latitud": "-17,396,939",
+   "Longitud": "-66,286,427"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospitals of Hope",
+   "Latitud": "-17,374,211",
+   "Longitud": "-66,322,918"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Unidad de nutricion y adulto mayor CRIN",
+   "Latitud": "-17,400,029",
+   "Longitud": "-66,316,519"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Posta Hospital Esperanza",
+   "Latitud": "-17,395,735",
+   "Longitud": "-66,315,304"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Los Gemelos",
+   "Latitud": "-17,399,201",
+   "Longitud": "-66,285,428"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja Nacional de Salud, Quillacollo",
+   "Latitud": "-17,396,586",
+   "Longitud": "-66,282,576"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica El Carmen",
+   "Latitud": "-17,388,676",
+   "Longitud": "-66,281,219"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro de Pediatríco Niño Jesús",
+   "Latitud": "-17,390,206",
+   "Longitud": "-66,278,594"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "FISIOSAM",
+   "Latitud": "-17,394,640",
+   "Longitud": "-66,276,482"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Villa Moderna, Quillacollo",
+   "Latitud": "-17,387,782",
+   "Longitud": "-66,281,539"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Bustamante",
+   "Latitud": "-17,389,611",
+   "Longitud": "-66,277,184"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Andres Cushieri",
+   "Latitud": "-17,385,496",
+   "Longitud": "-66,239,705"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Aquaspa",
+   "Latitud": "-17,382,831",
+   "Longitud": "-66,277,689"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Instituto Psiquiatrico San Juan De Dios",
+   "Latitud": "-17,391,663",
+   "Longitud": "-66,231,215"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Posta Sanitaria, Quillacollo",
+   "Latitud": "-17,421,742",
+   "Longitud": "-66,286,890"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Villa Urkupiña, Hospital",
+   "Latitud": "-17,422,097",
+   "Longitud": "-66,286,909"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Policlinico Quillacollo",
+   "Latitud": "-17,392,311",
+   "Longitud": "-66,256,974"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja de Salud CORDES Quillacollo",
+   "Latitud": "-17,393,570",
+   "Longitud": "-66,280,843"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "CNS Quillacollo",
+   "Latitud": "-17,398,821",
+   "Longitud": "-66,281,901"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica San Jose",
+   "Latitud": "-17,392,687",
+   "Longitud": "-66,279,249"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro Médico Quirurgico LOS ANGELES",
+   "Latitud": "-17,393,054",
+   "Longitud": "-66,279,409"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica San Bernardo",
+   "Latitud": "-17,393,389",
+   "Longitud": "-66,277,271"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro de Diagnostico y Rehabilitacion Sakura",
+   "Latitud": "-17,394,815",
+   "Longitud": "-66,227,630"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital de Tiquipaya",
+   "Latitud": "-17,337,060",
+   "Longitud": "-66,217,664"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "CENTRO RADIOLOGICO \"IMAGEN SALUD\"",
+   "Latitud": "-17,340,318",
+   "Longitud": "-66,219,346"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Posta Medica Chilimarca",
+   "Latitud": "-17,334,903",
+   "Longitud": "-66,200,212"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Instituto Oncológico Nacional CPS",
+   "Latitud": "-17,352,724",
+   "Longitud": "-66,200,315"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja Nacional de Salud (Sacaba)",
+   "Latitud": "-17,402,234",
+   "Longitud": "-66,044,726"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro de Hemodiálisis Ma. Esperanza",
+   "Latitud": "-17,383,584",
+   "Longitud": "-66,116,545"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica \"Asuncion Sacaba\"",
+   "Latitud": "-17,399,486",
+   "Longitud": "-66,036,333"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica \"Arebalo\"",
+   "Latitud": "-17,403,124",
+   "Longitud": "-66,043,869"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Salomon Klein ",
+   "Latitud": "-17,383,045",
+   "Longitud": "-66,109,678"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Harry Williams",
+   "Latitud": "-17,419,851",
+   "Longitud": "-66,146,825"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Univalle",
+   "Latitud": "-17,421,234",
+   "Longitud": "-66,132,900"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Univalle Norte",
+   "Latitud": "-17,372,202",
+   "Longitud": "-66,160,836"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital del Sud",
+   "Latitud": "-17,450,202",
+   "Longitud": "-66,149,911"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "ProSalud",
+   "Latitud": "-17,364,575",
+   "Longitud": "-66,179,145"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "ProSalud, Acre",
+   "Latitud": "-17,394,788",
+   "Longitud": "-66,180,625"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Cochabamba",
+   "Latitud": "-17,399,628",
+   "Longitud": "-66,151,999"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Boliviana Americana",
+   "Latitud": "-17,400,758",
+   "Longitud": "-66,153,231"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Guadalupe",
+   "Latitud": "-17,399,301",
+   "Longitud": "-66,152,681"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Los Angeles",
+   "Latitud": "-17,378,568",
+   "Longitud": "-66,164,733"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Aranjuez",
+   "Latitud": "-17,382,315",
+   "Longitud": "-66,153,516"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica San Miguel",
+   "Latitud": "-17,414,286",
+   "Longitud": "-66,160,793"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Los Olivos",
+   "Latitud": "-17,389,608",
+   "Longitud": "-66,179,731"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro Medico Los Olivos",
+   "Latitud": "-17,377,777",
+   "Longitud": "-66,176,236"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Amazonas Cochabamba Bolivia",
+   "Latitud": "-17,396,008",
+   "Longitud": "-66,146,992"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Instituto Oftalmológico Cochabamba",
+   "Latitud": "-17,386,070",
+   "Longitud": "-66,152,300"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Maria de los Angeles S.R.L.",
+   "Latitud": "-17,383,342",
+   "Longitud": "-66,149,073"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Clinica Saavedra",
+   "Latitud": "-17,397,292",
+   "Longitud": "-66,161,201"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Cochabamba",
+   "Latitud": "-17,400,580",
+   "Longitud": "-66,156,062"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "CIES Cochabamba",
+   "Latitud": "-17,398,247",
+   "Longitud": "-66,154,054"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Belga",
+   "Latitud": "-17,387,509",
+   "Longitud": "-66,153,315"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Seguro Social Universitario Cochabamba",
+   "Latitud": "-17,388,533",
+   "Longitud": "-66,148,064"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Albina R. de Patiño",
+   "Latitud": "-17,394,627",
+   "Longitud": "-66,149,613"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro De Nutricion Infantil Cerro Verde - Fundacion Abina R. Patiño.",
+   "Latitud": "-17,416,451",
+   "Longitud": "-66,147,913"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja Nacional de Salud",
+   "Latitud": "-17,393,846",
+   "Longitud": "-66,205,853"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja de Salud CORDES",
+   "Latitud": "-17,376,571",
+   "Longitud": "-66,162,707"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja Nacional De Salud, Ayacucho",
+   "Latitud": "-17,393,957",
+   "Longitud": "-66,158,454"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Caja Petrolera de Salud",
+   "Latitud": "-17,392,936",
+   "Longitud": "-66,154,268"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "P.A.I.S.E Caja Nacional de Salud",
+   "Latitud": "-17,376,575",
+   "Longitud": "-66,153,886"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Hospital Edgar Montaño",
+   "Latitud": "-17,342,679",
+   "Longitud": "-66,179,490"
+ },
+ {
+   "Tipo": "Privado",
+   "Nombre": "Centro Medico San Vicente",
+   "Latitud": "-17,373,898",
+   "Longitud": "-66,144,038"
+ }
+]

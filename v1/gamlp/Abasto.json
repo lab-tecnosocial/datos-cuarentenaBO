@@ -1,0 +1,3462 @@
+{
+    "type": "FeatureCollection",
+    "name": "abasto07042020_wgs84",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Sánchez Lima",
+                "Direccion": "C. Canónigo Ayllón",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELLO HORIZONTE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.136790090108903,
+                    -16.507953939589058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "4 de Abril",
+                "Direccion": "Av. Marcelo Quiroga Santa Cruz, entre C. 14 de Junio y C. Héroes del Chaco",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "PASANKERI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.145819878315876,
+                    -16.522132344557217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Kilómetro 7",
+                "Direccion": "Av. Quiroga Santa Cruz Esq. C. 6 de Agosto",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "PASANKERI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.143296435307334,
+                    -16.522976562346731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Bolívar",
+                "Direccion": "Av. Jaime Freyre Esq. C. Alberto Ostria",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "TEMBLADERANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.141127837207009,
+                    -16.513906193113382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Stronguest",
+                "Direccion": "Av. Víctor Agustín Ugarte",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "COTAHUMA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13988842528893,
+                    -16.515895564085756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Rosas Cotahuma",
+                "Direccion": "Pza. De la Democracia, C. Machicao",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 5,
+                "zona": "COTAHUMA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.144000088254487,
+                    -16.51559973634231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Raúl Salmón",
+                "Direccion": "Av. Mario Mercado Vaca Guzmán Esq. C. 5-Quiswaras",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "BAJO LLOJETA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.123479035366003,
+                    -16.528134494582336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "El Rosal",
+                "Direccion": "Av. Mario Mercado",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "LLOJETA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.133457806141678,
+                    -16.534852319922596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Vergel Llojeta",
+                "Direccion": "Av. Buenos Aires",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "LLOJETA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.140298286321979,
+                    -16.534229876857697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Lomas",
+                "Direccion": "Av. Buenos Aires",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "LAS LOMAS",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.138907249523285,
+                    -16.52261103419583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Popular Pura Pura",
+                "Direccion": "C. Daniel Salamanca",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 10,
+                "zona": "PURA PURA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.150847408549581,
+                    -16.487778742953232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "21 de Enero",
+                "Direccion": "C. 3",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 10,
+                "zona": "CIUDADELA FERROVIARIA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1495658328015,
+                    -16.456727091812528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Haití",
+                "Direccion": "C. Haití Esq. C. Trinidad Tobago",
+                "Tipo": "Mercado",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "MIRAFLORES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.122605761189106,
+                    -16.490875747002367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Miraflores",
+                "Direccion": "C. Díaz Romero",
+                "Tipo": "Mercado",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "MIRAFLORES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12177620384503,
+                    -16.501275240630569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 8,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Busch # 1994",
+                "Tipo": "Supermercado",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "MIRAFLORES SUR",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.121143854231534,
+                    -16.502543070831077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 23,
+                "Nombre": "Fidalga",
+                "Direccion": "Av. Saavedra # 1963",
+                "Tipo": "Supermercado",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "MIRAFLORES SUR",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.122461304178117,
+                    -16.5019027450792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San José de Mallasilla",
+                "Direccion": "Av. Altamirano",
+                "Tipo": "Mercado",
+                "macro_ante": "Mallasa",
+                "distrito": 20,
+                "zona": "MALLASILLA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.100680946144109,
+                    -16.56680922158861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Mallasa",
+                "Direccion": "Av. Florida",
+                "Tipo": "Mercado",
+                "macro_ante": "Mallasa",
+                "distrito": 20,
+                "zona": "MALLASA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.086934899150222,
+                    -16.572214785737884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "La Portada",
+                "Direccion": "C. Justo Germán Esq. C. Yapacani",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 9,
+                "zona": "LA PORTADA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.166959203769906,
+                    -16.489303694848093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Santiago de Munaypata",
+                "Direccion": "Av. Desaguadero Esq. C. Río Calvario",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 9,
+                "zona": "MUNAYPATA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.156329709484794,
+                    -16.489926155468485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San José de Munaypata",
+                "Direccion": "C. Cristo Vencedor Esq. C. San José",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "MUNAYPATA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.158619014827792,
+                    -16.489139354148445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "El Carmen",
+                "Direccion": "Av. Entre Ríos Esq. C. Damas de Cotagaita",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "EL TEJAR",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.156094251662182,
+                    -16.497277713152435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "El Tejar",
+                "Direccion": "C. José María Asín Esq. Av. Kollasuyo",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "EL TEJAR",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.152044226155155,
+                    -16.495325483996268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Nieves",
+                "Direccion": "Av. Utapulpera Esq. C. Echazu",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "EL TEJAR",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.157402773573025,
+                    -16.497148111768379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Villa Victoria",
+                "Direccion": "C. Virrey Toledo",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "VILLA VICTORIA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.151595107336647,
+                    -16.490340924756325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Alto Mariscal Santa Cruz",
+                "Direccion": "Av. Entre Ríos",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "MARISCAL SANTA CRUZ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.160521232289824,
+                    -16.493118495297086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Bajo Mariscal Santa Cruz",
+                "Direccion": "Av. Alcides Arguedas Esq. C. Yacuma",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "MARISCAL SANTA CRUZ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.158346844907541,
+                    -16.492637274388301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Flores",
+                "Direccion": "Av. Bautista Esq. C. Baltazar Alquiza",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 8,
+                "zona": "CALLAMPAYA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.151100637370462,
+                    -16.495342467851167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Vicente Ochoa",
+                "Direccion": "Av. Buenos Aires Esq. C. Vicente Ochoa",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "GRAN PODER",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.144281136222602,
+                    -16.498026027222604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Uruguay",
+                "Direccion": "Av. Max Paredes Esq. C. Graneros",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "14 DE SEPTIEMBRE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.143671727662749,
+                    -16.497217963821676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Calatayud",
+                "Direccion": "C. Calatayud Esq. Av. Baptista",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "14 DE SEPTIEMBRE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.147607446039729,
+                    -16.495483174515748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Los Andes",
+                "Direccion": "C. Manuel Cosio Esq. Av. Los Andes",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "LOS ANDES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.148302074343704,
+                    -16.498750519895825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Obispo Indaburo",
+                "Direccion": "Av. Buenos Aires Esq. C. Antonio Gallardo",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "OBISPO INDABURO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.145534546824706,
+                    -16.501121090674765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Francisco Cernadas",
+                "Direccion": "C. Benigno Loza Esq. C. Juan de la Cruz Monje",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 12,
+                "zona": "MIRAFLORES ALTO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.125440572484209,
+                    -16.483739021186711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 7,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Arce # 2588 Esq. C. Pinilla",
+                "Tipo": "Supermercado",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "SAN JORGE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.123409781176051,
+                    -16.510455275092692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 24,
+                "Nombre": "Fidalga",
+                "Direccion": "C. Capitán Ravel # 2441",
+                "Tipo": "Supermercado",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "SAN JORGE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.124189542635534,
+                    -16.507761350209378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 31,
+                "Nombre": "Fidalga",
+                "Direccion": "C. Colón # 570",
+                "Tipo": "Supermercado",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "CENTRAL",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.132486137053647,
+                    -16.496686468118185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Modelo Yungas",
+                "Direccion": "C. Yungas Esq. C. Uchumayo",
+                "Tipo": "Mercado",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "CENTRAL",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.129298431843281,
+                    -16.497050627384084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Lanza",
+                "Direccion": "Pza. Pérez Velasco, entre C. Evaristo Valle y C. Figueroa",
+                "Tipo": "Mercado",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "SAN SEBASTIAN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.137468130830115,
+                    -16.494751868615833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Camacho",
+                "Direccion": "Av. Simón Bolívar Esq. C. Bueno",
+                "Tipo": "Mercado",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "SANTA BARBARA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.131570679718209,
+                    -16.500445008575316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Concepción Kupini",
+                "Direccion": "Av. Armando Escobar Uría",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "KUPINI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.099896863500888,
+                    -16.50901377817728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "German Jordán",
+                "Direccion": "C. Héroes del Chaco Esq. Av. Costanera",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "VILLA ARMONÍA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.112942650477763,
+                    -16.510019912211423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Villa Armonía",
+                "Direccion": "C. Nieves Linares y C. Juan XXIII",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "VILLA ARMONÍA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.110611799998665,
+                    -16.50875848872068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "8 de Septiembre",
+                "Direccion": "Av. Costanera",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "CUARTO CENTENARIO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.113465820994705,
+                    -16.516875288294699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San Isidro",
+                "Direccion": "C. Nieves Linares Esq. C. Boris Banzer",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "SAN ISIDRO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.106128330451995,
+                    -16.510918106593316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Urkupiña Bajo San Isidro",
+                "Direccion": "C. Donoso Torres Esq. C. Los Sauces",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "SAN ISIDRO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.107632941183553,
+                    -16.512027267223679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 6,
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "C. Rosendo Gutierrez # 469",
+                "Tipo": "Supermercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "SOPOCACHI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.127889889287516,
+                    -16.509483787611696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 9,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Pza. España Esq. C. Méndez Arcos # 710",
+                "Tipo": "Supermercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "SOPOCACHI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.129004995611524,
+                    -16.514544819700561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 21,
+                "Nombre": "Fidalga",
+                "Direccion": "Av. Sánchez Lima # 2362",
+                "Tipo": "Supermercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "SOPOCACHI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.127904126666664,
+                    -16.510509628041632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "El Carmen Sopocachi",
+                "Direccion": "C. Presbitero Medina",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "SOPOCACHI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.126329666968616,
+                    -16.514704747973134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Sopocachi",
+                "Direccion": "C. Fernando Guachalla",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "SOPOCACHI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.129587830753749,
+                    -16.509439448046216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Félix Hinojosa",
+                "Direccion": "Av. Buenos Aires Esq. C. Alcoreza",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 5,
+                "zona": "VILLA NUEVO POTOSÍ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14454232443471,
+                    -16.503351484480316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Villa Nueva Potosí",
+                "Direccion": "C. Villamil de Rada Esq. C. Martin Monje",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 5,
+                "zona": "VILLA NUEVO POTOSÍ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.149346349818856,
+                    -16.505421564724646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Sagrado Corazón de Jesús",
+                "Direccion": "C. Fortunato Pinto Esq. Av. Eduardo Abaroa",
+                "Tipo": "Mercado",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "CHIJINI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.153155562848397,
+                    -16.500787199164861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San Cristóbal",
+                "Direccion": "C. Manuel Jofre Esq. Av. Feliciano Kantuta",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 5,
+                "zona": "TACAGUA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.145647615953393,
+                    -16.510431064204816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Amapola",
+                "Direccion": "C. Zoilo Flores y Pedro Rodríguez",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELÉN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13900775919187,
+                    -16.500674964332404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Belén",
+                "Direccion": "C. Rodríguez y Zoilo Flores Pedro",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELÉN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139463848722244,
+                    -16.500794876714046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Comedor Rodríguez",
+                "Direccion": "C. Max Paredes Esq. C. Emilio Calderón",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELÉN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139660273860542,
+                    -16.500389276059042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Rodríguez",
+                "Direccion": "C. Pedro Rodríguez Esq. C. Maximiliano Paredes",
+                "Tipo": "Mercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELÉN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139011158531858,
+                    -16.500201412287197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 15,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. Almirante Grau # 349",
+                "Tipo": "Supermercado",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "SAN PEDRO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.135929719294694,
+                    -16.501760100528813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "14 de Septiembre",
+                "Direccion": "Av. Monje Gutierrez",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "BELLA VISTA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.099549080061337,
+                    -16.528340142536347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 11,
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. 14 de Septiembre # 6020",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.103400868584416,
+                    -16.528514689434029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 13,
+                "Nombre": "Súper 10",
+                "Direccion": "Av. H. Siles # 455 Esq. C. 10",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.107059405475411,
+                    -16.52659001162278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 16,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. 16 # 460",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.102013689911857,
+                    -16.528917071658569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 30,
+                "Nombre": "Andy´s",
+                "Direccion": "C. 17",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.100703911032809,
+                    -16.529835202994221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "16 de julio",
+                "Direccion": "Av. Héctor Ormachea Zalles Esq. C. Carlos Sánchez Lopera",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.102463327467404,
+                    -16.529874162233924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San Antonio",
+                "Direccion": "Av. 14 de Septiembre entre C. 11 - Mía Duberty Linndeman y C. 12 - Jaime Otero Calderón",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1054744763575,
+                    -16.527049171780142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Corazón de Jesús",
+                "Direccion": "Av. Max Portugal Zamora",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "ALTO OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.103903657118849,
+                    -16.523826389038334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Alto Seguencoma",
+                "Direccion": "Av. del Policía, entre C. 3-B y C. 3-C",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "ALTO SEGUENCOMA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.104221807055197,
+                    -16.533998727262329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "La Merced",
+                "Direccion": "C. 34 de Cota Cota",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "COTA COTA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.058044767695094,
+                    -16.542056938968862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 4,
+                "Nombre": "Andy´s",
+                "Direccion": "Av. Montenegro # 874",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "SAN MIGUEL",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.078220848226522,
+                    -16.542790942490424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 17,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. 21",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "SAN MIGUEL",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.078018381434589,
+                    -16.540316102056526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 12,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Ballivián # 7967",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "CALACOTO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.083884938709062,
+                    -16.539345165045095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Chasquipampa",
+                "Direccion": "Av. Defensores del Chaco Esq. C. Tte. Gilberto Zilveti Antelo",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 19,
+                "zona": "CHASQUIPAMPA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.048609581695715,
+                    -16.537217500835499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 3,
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. José María Aguirre Achá # 85",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "LOS PINOS",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.070130049104023,
+                    -16.545776934085609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "24 de Septiembre",
+                "Direccion": "C. 25 - Arturo Fortunato",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "LOS PINOS",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.072483505688808,
+                    -16.541238205600763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Teófilo Miranda",
+                "Direccion": "Av. 31 de Octubre",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 15,
+                "zona": "SAN ANTONIO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11630594336475,
+                    -16.497169383422747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Modelo San Antonio",
+                "Direccion": "Av. Josefa Mujia",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 15,
+                "zona": "SAN ANTONIO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.108428956688797,
+                    -16.498056569014096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Arapata (La Merced)",
+                "Direccion": "C. Villa Aspiazu Esq. C. Pariguaya",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 13,
+                "zona": "LA MERCED",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.118090319627683,
+                    -16.471054497752586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "15 de Abril",
+                "Direccion": "Av. 15 de Abril, entre C. Chulumani y C. Virgen del Carmen",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 13,
+                "zona": "VILLA FÁTIMA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11803117887905,
+                    -16.47654927464059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Villa Fátima",
+                "Direccion": "Av. Tejada Sorzano Esq. C. Miguel Aparicio",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 13,
+                "zona": "VILLA FÁTIMA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.121200516797728,
+                    -16.480400886702913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Delicias",
+                "Direccion": "Av. Las Delicias Esq. C. San Buenaventura",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 12,
+                "zona": "LAS DELICIAS",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.123548583781883,
+                    -16.476969411423244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Kollasuyo",
+                "Direccion": "Av. Tito Yupanqui",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 14,
+                "zona": "VILLA COPACABANA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.116657215623789,
+                    -16.495176011639654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Calama",
+                "Direccion": "C. Calama Esq. C. Batallón Victoria",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "ZONA NORTE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.137171083132216,
+                    -16.489748279977224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Bolívar Central",
+                "Direccion": "C. Bolívar Esq. C. Catacora",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "ZONA NORTE",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.131748631146294,
+                    -16.493579544684284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Virgen de las Nieves (Achachicala)",
+                "Direccion": "Av. Alfonso Ramos Gavilán Esq. C. Antonio de la Calancha",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "ACHACHICALA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.149405779439917,
+                    -16.47587194992715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Antofagasta",
+                "Direccion": "Av. Chacaltaya Esq. C. Beni",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "CHALLAPAMPA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.140447586814673,
+                    -16.487827450390832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "German Busch",
+                "Direccion": "C. Maximiliano Ortiz",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "VINO TINTO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139838116051436,
+                    -16.482131507508548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Maracaná",
+                "Direccion": "Av. Juan José Torrez",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "VILLA DE LA CRUZ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.137032253473279,
+                    -16.485634647849487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Manuel Hoyos",
+                "Direccion": "Av. Juan José Torres",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "VILLA DE LA CRUZ",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13456841303568,
+                    -16.485864256721271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Killi Killi",
+                "Direccion": "C. Heroínas 16 de Julio Esq. C. Víctor Ustariz",
+                "Tipo": "Mercado",
+                "macro_ante": "Periferica",
+                "distrito": 11,
+                "zona": "VILLA PABÓN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12740397933652,
+                    -16.494507056919964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "10 de Enero",
+                "Direccion": "Av. Circunvalación C. 12",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "PAMPAHASI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10444874251553,
+                    -16.501559928870051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Nuestra Señora de La Paz",
+                "Direccion": "Av. Ciudad del Niño",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "PAMPAHASI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.102877645324526,
+                    -16.495517700641368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "San Juan",
+                "Direccion": "C. D Esq. C. 6",
+                "Tipo": "Mercado",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "PAMPAHASI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.104060545645225,
+                    -16.491144560584395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 10,
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. Strongest # 100",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ACHUMANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.062107246990394,
+                    -16.518882444775077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 29,
+                "Nombre": "Andy´s",
+                "Direccion": "Av. Garcia Lanza #4",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ACHUMANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07255630812648,
+                    -16.53119431247444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Modelo Achumani",
+                "Direccion": "Av. Manuel Víctor García Lanza Esq. C. 16",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ACHUMANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.073525281431017,
+                    -16.530879937572877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 5,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Alexander # 108",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ACHUMANI PORVENIR KANTUTAS",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.071984234688045,
+                    -16.534507259500703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 2,
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Rafael Pabón",
+                "Tipo": "Supermercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "IRPAVI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.086631149085235,
+                    -16.533568446718146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Modelo Irpavi",
+                "Direccion": "Av. Segundo Altamirano Esq. C. 6-Julio de la Vega Iturri",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "IRPAVI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.087262573106187,
+                    -16.524734117756307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Virgen de las Nieves (Irpavi)",
+                "Direccion": "Av. Circunvalación",
+                "Tipo": "Mercado",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ALTO IRPAVI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": null,
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.084395588078067,
+                    -16.516238661251283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Alberto Ostria",
+                "Direccion": "A. Jaimes Freire",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "TEMBLADERANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13758869866237,
+                    -16.515720374024394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Zoilo Flores",
+                "Direccion": "Calle Zoilo Flores esq alm grau",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "SAN PEDRO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139297344421394,
+                    -16.506084472382632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Luis Lara",
+                "Direccion": "Calle Luis Lara",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELEN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.140208046161604,
+                    -16.501955524943551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Benancio Burgoa",
+                "Direccion": "Calle Rodriguez",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELEN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.137963775536917,
+                    -16.49821537800192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Sagarnaga",
+                "Direccion": "General Gonzales y sagarnaga",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 6,
+                "zona": "BELEN",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139742491924025,
+                    -16.499600268815897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Eloy Salmon",
+                "Direccion": "Antonio Gallardo",
+                "Tipo": "Feria",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "GRAN PODER",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.143968584149675,
+                    -16.499158424347634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Munaypata",
+                "Direccion": "Av. Florida",
+                "Tipo": "Feria",
+                "macro_ante": "Max Paredes",
+                "distrito": 9,
+                "zona": "MUNAYPATA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.160406804829805,
+                    -16.487032600569851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Miguel Aparicio",
+                "Direccion": "Av. Tejada Sorzano",
+                "Tipo": "Feria",
+                "macro_ante": "Periferica",
+                "distrito": 12,
+                "zona": "AGUA DE LA VIDA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.127606283677125,
+                    -16.485710262429919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "31 de octubre",
+                "Direccion": "Av. 31 de octubre",
+                "Tipo": "Feria",
+                "macro_ante": "San Antonio",
+                "distrito": 14,
+                "zona": "VILLA COPACABANA",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.116341691195785,
+                    -16.490312259549679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Ciudad del Niño",
+                "Direccion": "Av. Ciudad del Niño",
+                "Tipo": "Feria",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "CIUDAD DEL NIÑO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.098361450873639,
+                    -16.493277634676261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Las Nieves",
+                "Direccion": "Av. Las Nieves",
+                "Tipo": "Feria",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "LAS NIEVES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.098880400626371,
+                    -16.496838550813763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "8 de Calacoto",
+                "Direccion": "Calle 8 de Calacoto",
+                "Tipo": "Feria Itinerante",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "CALACOTO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.091950507740222,
+                    -16.5417811227966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Costanerita",
+                "Direccion": "Av. Costanerita",
+                "Tipo": "Feria Itinerante",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.111512435325025,
+                    -16.5269022168719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "21 de Calacoto",
+                "Direccion": "Av. 21 de Calacoto",
+                "Tipo": "Feria Itinerante",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "CALACOTO",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.077056899320297,
+                    -16.544179242047079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Max Portugal",
+                "Direccion": "Av. Max Portugal",
+                "Tipo": "Feria Itinerante",
+                "macro_ante": "Sur",
+                "distrito": 21,
+                "zona": "ALTO OBRAJES",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.107296018402153,
+                    -16.520387059727987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Achumani",
+                "Direccion": "Calle 15 Achumani",
+                "Tipo": "Feria Itinerante",
+                "macro_ante": "Sur",
+                "distrito": 18,
+                "zona": "ACHUMANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07397281979388,
+                    -16.531819713169956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Bolivar",
+                "Direccion": "Mercado Bolivar",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "TEMBLADERANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.141659029728046,
+                    -16.513325757872799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 0,
+                "Nombre": "Stronguest",
+                "Direccion": "Mercado Stronguest",
+                "Tipo": "Feria",
+                "macro_ante": "Cotahuma",
+                "distrito": 4,
+                "zona": "TEMBLADERANI",
+                "mostrar": "si",
+                "fecha_prop": null,
+                "fecha_crea": "2020\/03\/25",
+                "Afiche": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.139515966672533,
+                    -16.516007886940599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 1,
+                "Nombre": "Valle de la Luna",
+                "Direccion": "Av. Mallasa Altura Banderas",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Mallasa",
+                "distrito": 20,
+                "zona": "Mallasa",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/09",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.100383022553046,
+                    -16.562487456321804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 2,
+                "Nombre": "Plaza Uyuni",
+                "Direccion": "Plaza Uyuni",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "Miraflores",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/10",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.124283763444382,
+                    -16.496956446890575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 3,
+                "Nombre": "Plaza Lira",
+                "Direccion": "Plaza Lira, Sopocachi",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Cotahuma",
+                "distrito": 3,
+                "zona": "Sopocachi",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/07",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.134183938011304,
+                    -16.513545027654612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 4,
+                "Nombre": "Plaza Bolivia",
+                "Direccion": "Plaza Bolivia",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Centro",
+                "distrito": 1,
+                "zona": "San Jorge",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/10",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.126597709009687,
+                    -16.506859597426871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 5,
+                "Nombre": "Mariscal Santa Cruz",
+                "Direccion": "Av. Segundo Bascones",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Max Paredes",
+                "distrito": 9,
+                "zona": "Mariscal Santa Cruz",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/10",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.163040590473784,
+                    -16.493470558034502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 6,
+                "Nombre": "Kupini",
+                "Direccion": "Av. Escobar Uria y Periferica, interseccion Jockoni y Callapa",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "Kupini",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/08",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.094479694343008,
+                    -16.505808121880445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 7,
+                "Nombre": "Jupapina",
+                "Direccion": "Av. Tricentenario c. 5 Jupapina",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Mallasa",
+                "distrito": 20,
+                "zona": "Jupapina",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/09",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.070848152035623,
+                    -16.591345543190343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 8,
+                "Nombre": "Heroes del Chaco",
+                "Direccion": "C. Heroes del Chaco entre 1 y 2",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "San Antonio",
+                "distrito": 17,
+                "zona": "Cuarto Centenario",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/07",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.110634816860554,
+                    -16.51254972406629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 9,
+                "Nombre": "Hernando Siles",
+                "Direccion": "Av. Hernando Siles",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Mallasa",
+                "distrito": 20,
+                "zona": "Sequoia",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/09",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.105029046517373,
+                    -16.557066628952217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 10,
+                "Nombre": "Cosmos 85",
+                "Direccion": "Cosmos 85 parada del pumakatari",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "Villa Salome",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/08",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.094264702288498,
+                    -16.486692615026424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 11,
+                "Nombre": "Chuquiaguillo",
+                "Direccion": "Av. Ramiro Castillo",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Periferica",
+                "distrito": 13,
+                "zona": "Chuquiaguillo",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/08",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.102141861081918,
+                    -16.459413932785331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 12,
+                "Nombre": "Casegural",
+                "Direccion": "Wilacota",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Sur",
+                "distrito": 19,
+                "zona": "Casegural",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/09",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.041232061494881,
+                    -16.532214856794056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 13,
+                "Nombre": "Caja Ferroviaria",
+                "Direccion": "Caja Ferroviaria, Altura Rotonda",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Max Paredes",
+                "distrito": 10,
+                "zona": "Caja Ferroviaria",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/10",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.149186188530322,
+                    -16.450122765038284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 14,
+                "Nombre": "Baden Pawell",
+                "Direccion": "Plaza Baden Pawell (calles Jaimes y Mariaca)",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Centro",
+                "distrito": 2,
+                "zona": "Miraflores Sur",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/10",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.117311537371947,
+                    -16.504685195243052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 15,
+                "Nombre": "9 de abril",
+                "Direccion": "Av. 5 de agosto",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "Max Paredes",
+                "distrito": 7,
+                "zona": "Sagrado Corazon de Jesus",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/16",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.152436079101847,
+                    -16.506103387422073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 16,
+                "Nombre": "24 de junio",
+                "Direccion": "Cancha Zona 24 de junio",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "San Antonio",
+                "distrito": 14,
+                "zona": "24 de junio",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/08",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.108398642648012,
+                    -16.48014978358567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 17,
+                "Nombre": "23 de marzo",
+                "Direccion": "FINAL 23 MARZO (INGRESO VALLE DE LAS FLORES ZONA PAMPAHASI",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "San Antonio",
+                "distrito": 16,
+                "zona": "Valla de Las Flores",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/07",
+                "fecha_crea": "2020\/04\/05",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.099890636781865,
+                    -16.499045076830242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 18,
+                "Nombre": "Plaza Riosinio",
+                "Direccion": "Av. Armentia",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "PERIFERICA",
+                "distrito": 11,
+                "zona": "Zona Norte",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/11",
+                "fecha_crea": "2020\/04\/11",
+                "Afiche": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13563562380692,
+                    -16.491503912098917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 19,
+                "Nombre": "Almirante Grau",
+                "Direccion": "Irpavi calle 5",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 18,
+                "zona": "Irpavi",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/11",
+                "fecha_crea": "2020\/04\/11",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.087410778457766,
+                    -16.524201085944373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 20,
+                "Nombre": "18 de obrajes",
+                "Direccion": "obrajes calle 18",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 21,
+                "zona": "Obrajes",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/11",
+                "fecha_crea": "2020\/04\/11",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.108413169819755,
+                    -16.527139115122893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 21,
+                "Nombre": "Universidad Saleciana",
+                "Direccion": "Av. Chacaltaya, Altura Universidad Saleciana",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "PERIFERICA",
+                "distrito": 11,
+                "zona": "Achachicala",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/15",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.150092011687605,
+                    -16.477503638912125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 22,
+                "Nombre": "Cupilupaca",
+                "Direccion": "Av. Periferica, Zona Cupilupaca",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "PERIFERICA",
+                "distrito": 12,
+                "zona": "Cupilupaca",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/15",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13011756470874,
+                    -16.479604539887518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 23,
+                "Nombre": "Hogares Fatima",
+                "Direccion": "Zona Hogares Fatima",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "PERIFERICA",
+                "distrito": 13,
+                "zona": "La Mercéd",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/15",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.118015254171056,
+                    -16.46943642640538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 24,
+                "Nombre": "Plaza El Condor",
+                "Direccion": "Av. Landaeta, media cuadra mas arriba de la plaza el condor",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "COTAHUMA",
+                "distrito": 3,
+                "zona": "Sopocachi Alto",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/15",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.136047596401724,
+                    -16.509500690501007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 25,
+                "Nombre": "San Lorenzo",
+                "Direccion": "Av. San Lorenzo, Sede Social",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "MAX PAREDES",
+                "distrito": 10,
+                "zona": "Alto Pura Pura San Sebastián",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/16",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.151111277975389,
+                    -16.446718517735786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 26,
+                "Nombre": "Plaza Andrew",
+                "Direccion": "Plaza Andrew",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "COTAHUMA",
+                "distrito": 3,
+                "zona": "Sopocachi Alto",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/16",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.135850084401341,
+                    -16.511144991799441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 27,
+                "Nombre": "Av. Mario Mercado",
+                "Direccion": "Av. Mario Mercado, frente a la UE Hugo Chavez",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "COTAHUMA",
+                "distrito": 4,
+                "zona": "Bajo Llojeta",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/16",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.126576278427436,
+                    -16.531480524566405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 28,
+                "Nombre": "Tres Fuerzas",
+                "Direccion": "Av. Alexander",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 18,
+                "zona": "Achumani Porvenir Kantutas",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/17",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07398091513133,
+                    -16.535860074258061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 29,
+                "Nombre": "Virgen de La Merced",
+                "Direccion": "",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 18,
+                "zona": "Cota Cota",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/17",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.069755563885991,
+                    -16.541535818871903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 30,
+                "Nombre": "Alto Obrajes",
+                "Direccion": "Alto Obrajes Sector D",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 21,
+                "zona": "Alto Obrajes",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/17",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.102962415789193,
+                    -16.520016512021222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 31,
+                "Nombre": "Bajo Seguencoma",
+                "Direccion": "Bajo Seguencoma",
+                "Tipo": "Mercado Movil",
+                "macro_ante": "SUR",
+                "distrito": 21,
+                "zona": "Següencoma Bajo",
+                "mostrar": null,
+                "fecha_prop": "2020\/04\/17",
+                "fecha_crea": "2020\/04\/14",
+                "Afiche": "si"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.095889881204442,
+                    -16.540132163710812
+                ]
+            }
+        }
+    ]
+}

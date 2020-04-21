@@ -1,0 +1,891 @@
+[
+ {
+   "amenity": "doctors",
+   "name": "Centro Médico",
+   "latitude": -17.5909561,
+   "longitude": -65.9349576,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Curandero Escobar",
+   "latitude": -17.589757,
+   "longitude": -65.9346329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Puesto de Salud de Epizana Cruce",
+   "latitude": -17.6370999,
+   "longitude": -65.2289803,
+   "addr:street": "RN7: Epizana-Comarapa"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Medico",
+   "latitude": -17.8440308,
+   "longitude": -60.7437097,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Posta Municipal",
+   "latitude": -17.396528,
+   "longitude": -66.1670119,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Maida",
+   "latitude": -17.3913216,
+   "longitude": -66.1476226,
+   "addr:street": "Calle Aurelio Melean"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Médico Callajchullpa",
+   "latitude": -17.3534349,
+   "longitude": -66.2433597,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -20.4602517,
+   "longitude": -66.8214673,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Medico Hermano Andrés Pedrón",
+   "latitude": -17.4604943,
+   "longitude": -66.1235744,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Javier Rivero",
+   "latitude": -17.3908195,
+   "longitude": -66.148632,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Análisis Clínico FCSH",
+   "latitude": -17.7766904,
+   "longitude": -63.1907833,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud La Familia",
+   "latitude": -17.3966317,
+   "longitude": -66.2767672,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Municipal de Salud San Antonio Bajo",
+   "latitude": -16.4988724,
+   "longitude": -68.116043,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Santa Ana de Condebamba",
+   "latitude": -17.35705,
+   "longitude": -66.1778004,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.3916051,
+   "longitude": -66.1376748,
+   "addr:street": "Avenida Rubén Dario"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Fisioterapia",
+   "latitude": -17.3636621,
+   "longitude": -66.1655388,
+   "addr:street": "Avenida Circunvalación Beijing"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Psicologico Tukuypaj",
+   "latitude": -17.3631279,
+   "longitude": -66.1680116,
+   "addr:street": "Avenida Circunvalación Beijing"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Fisioterapia",
+   "latitude": -17.3959261,
+   "longitude": -66.1549154,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.7831043,
+   "longitude": -63.2095615,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.7845928,
+   "longitude": -63.2096522,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.3873065,
+   "longitude": -66.1549266,
+   "addr:street": "Avenida Salamanca"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Central Médica",
+   "latitude": -17.8079071,
+   "longitude": -63.2056875,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Posta de Salud",
+   "latitude": -17.3912129,
+   "longitude": -66.1182335,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr. Jaime Marañon",
+   "latitude": -17.3829637,
+   "longitude": -66.1529869,
+   "addr:street": "Calle J. Crisóstomo Carrillo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Salud & Vida",
+   "latitude": -17.4086297,
+   "longitude": -66.1509676,
+   "addr:street": "Avenida República"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Germán Melgarejo",
+   "latitude": -17.7716201,
+   "longitude": -63.1544952,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Posta Médica Ovejuyo",
+   "latitude": -16.5355727,
+   "longitude": -68.0388276,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Médico",
+   "latitude": -17.7406508,
+   "longitude": -63.1482158,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Doctora Gaby Camacho Quezada",
+   "latitude": -17.7863608,
+   "longitude": -63.1802296,
+   "addr:street": "Calle Chuquisaca"
+ },
+ {
+   "amenity": "doctors",
+   "name": "OHM",
+   "latitude": -17.7876853,
+   "longitude": -63.1800924,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Doctora Carmen Elsa Calzin de Rueda",
+   "latitude": -17.7753614,
+   "longitude": -63.1810534,
+   "addr:street": "Calle Beni"
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.7862666,
+   "longitude": -63.1749366,
+   "addr:street": "Calle Republiquetas"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr. Jorge B. Verastegui Lijerón",
+   "latitude": -17.7946351,
+   "longitude": -63.1856229,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Médico Santa Ana",
+   "latitude": -17.7957558,
+   "longitude": -63.2095002,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Medico Rayos",
+   "latitude": -16.4918307,
+   "longitude": -68.1512729,
+   "addr:street": "Avenida República"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Endocrinológico Integral - Dr. J. Efraín Castro",
+   "latitude": -17.7629494,
+   "longitude": -63.1686322,
+   "addr:street": "Calle Asai"
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.8004983,
+   "longitude": -63.1589847,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Medico Palacios",
+   "latitude": -17.8120503,
+   "longitude": -63.1326796,
+   "addr:street": "Avenida Adolfo Román Hijo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "GInecologia Consultorio",
+   "latitude": -17.8075339,
+   "longitude": -63.1369496,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Puesto de Salud Choquetanga Grande",
+   "latitude": -16.837814,
+   "longitude": -67.3184762,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Gastroservic",
+   "latitude": -17.7699034,
+   "longitude": -63.1663868,
+   "addr:street": "Avenida Mutualista"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Kineser",
+   "latitude": -17.7585689,
+   "longitude": -63.183578,
+   "addr:street": "Tercer Anillo Externo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Huayllani Chico",
+   "latitude": -17.387995,
+   "longitude": -66.0581154,
+   "addr:street": "Camino Sacaba-Palca"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Medicos Cristianos Solidarios",
+   "latitude": -17.7797879,
+   "longitude": -63.1742522,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud Santa Rosa",
+   "latitude": -16.5358569,
+   "longitude": -68.1674575,
+   "addr:street": "Santa Rosa Calle 4"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Juan de Dios",
+   "latitude": -16.5135252,
+   "longitude": -68.1600859,
+   "addr:street": "Calle 8"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Adolfo Kolping",
+   "latitude": -16.5111059,
+   "longitude": -68.1570879,
+   "addr:street": "Calle C Medina"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Policonsultorio Virgen de Copacabana",
+   "latitude": -16.528602,
+   "longitude": -68.1526338,
+   "addr:street": "Calle 27 B"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro naturopata",
+   "latitude": -17.7884249,
+   "longitude": -63.190328,
+   "addr:street": "Mario Flores"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Bronco-Pulmonar",
+   "latitude": -17.809238,
+   "longitude": -63.1958706,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "ACUMED",
+   "latitude": -17.3914021,
+   "longitude": -66.1532199,
+   "addr:street": "Avenida Heroínas"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud Villa Adela",
+   "latitude": -16.5228198,
+   "longitude": -68.2120547,
+   "addr:street": "Brasilia"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio médico Mi Salud",
+   "latitude": -16.4949861,
+   "longitude": -68.1723768,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Ortopedia Boliviano Aleman",
+   "latitude": -16.5114677,
+   "longitude": -68.1238035,
+   "addr:street": "Avenida 6 de Agosto"
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.2011886,
+   "longitude": -68.9030017,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Mirna",
+   "latitude": -20.4591575,
+   "longitude": -66.8271164,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "APS",
+   "latitude": -17.3791062,
+   "longitude": -66.1540329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Vida Sana",
+   "latitude": -16.5263455,
+   "longitude": -68.1493918,
+   "addr:street": "Calle 20 C"
+ },
+ {
+   "amenity": "doctors",
+   "name": "MEDICAR",
+   "latitude": -17.3732349,
+   "longitude": -66.157377,
+   "addr:street": "Avenida América"
+ },
+ {
+   "amenity": "doctors",
+   "name": "San Francisco de Asís",
+   "latitude": -17.3877595,
+   "longitude": -66.1541322,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Médico Profamilia",
+   "latitude": -17.8261326,
+   "longitude": -63.1332056,
+   "addr:street": "Avenida Plan Tres Mil"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Maria Inmaculada",
+   "latitude": -17.3703472,
+   "longitude": -66.1235401,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio médico integral del Brazo social",
+   "latitude": -16.5037135,
+   "longitude": -68.1612561,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "La Merced",
+   "latitude": -16.4949732,
+   "longitude": -68.1520764,
+   "addr:street": "José María Asin"
+ },
+ {
+   "amenity": "doctors",
+   "name": "ACUHOMED",
+   "latitude": -17.3814939,
+   "longitude": -66.1533362,
+   "addr:street": "Avenida Papa Paulo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.5038915,
+   "longitude": -68.0828271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de salud Cota Cota",
+   "latitude": -16.5436037,
+   "longitude": -68.050753,
+   "addr:street": "4"
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.4798636,
+   "longitude": -68.1206964,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Medico San Pablo",
+   "latitude": -19.8057119,
+   "longitude": -63.9576259,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Credisalud",
+   "latitude": -16.5075843,
+   "longitude": -68.1244782,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "GAES Bolivia",
+   "latitude": -17.3901464,
+   "longitude": -66.151782,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "AudioProd",
+   "latitude": -17.3876097,
+   "longitude": -66.1541622,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -15.51173,
+   "longitude": -67.4281034,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Laboratorio de Análisis Clínicos C.E.D.",
+   "latitude": -17.7790807,
+   "longitude": -63.1849299,
+   "addr:street": "Calle Cuéllar"
+ },
+ {
+   "amenity": "doctors",
+   "name": "AlianSAlud",
+   "latitude": -16.5108614,
+   "longitude": -68.125655,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Médico Mi Pediatra",
+   "latitude": -16.5053388,
+   "longitude": -68.1277686,
+   "addr:street": "Calle Capitán Ravelo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Medico MEDICA CENTRAL",
+   "latitude": -16.5100183,
+   "longitude": -68.1255623,
+   "addr:street": "Avenida 6 de Agosto"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Vecinal B. \"Los Parrales\"",
+   "latitude": -21.5157242,
+   "longitude": -64.758364,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Psicologico",
+   "latitude": -16.5179939,
+   "longitude": -68.1508974,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Enfermería Nazareth",
+   "latitude": -17.7722936,
+   "longitude": -63.1542929,
+   "addr:street": "Tercer Anillo Externo"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio",
+   "latitude": -17.8437264,
+   "longitude": -63.1089637,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.1648896,
+   "longitude": -69.0855812,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Atención Integral en Nefrología",
+   "latitude": -17.3831397,
+   "longitude": -66.1487777,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.5221643,
+   "longitude": -68.2096071,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Medico Genesis",
+   "latitude": -17.7765967,
+   "longitude": -63.1753503,
+   "addr:street": "Pasaje 10 de Agosto"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Belen",
+   "latitude": -17.4725464,
+   "longitude": -66.1710845,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Policlínica Miraflores CNS",
+   "latitude": -16.5039924,
+   "longitude": -68.1202375,
+   "addr:street": "Calle Nicaragua"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Estetica Medica",
+   "latitude": -17.3744931,
+   "longitude": -66.1491176,
+   "addr:street": "Calle Buenos Aires"
+ },
+ {
+   "amenity": "doctors",
+   "name": "San Juan de Dios",
+   "latitude": -17.4118918,
+   "longitude": -66.1426287,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Alianza Cristianas (manos abiertas)",
+   "latitude": -16.6550292,
+   "longitude": -68.2984637,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Medico Oftalmológico \"Sumaj Nayra\"",
+   "latitude": -16.4950307,
+   "longitude": -68.1230078,
+   "addr:street": "Calle Guerrilleros Lanza"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Médico Oftalmólogo",
+   "latitude": -17.387439,
+   "longitude": -66.1457305,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "OncoMedica",
+   "latitude": -17.3843131,
+   "longitude": -66.1522543,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "CEMETRA Centro de Medicina Tradicional",
+   "latitude": -17.8363413,
+   "longitude": -63.2240067,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Parroquial",
+   "latitude": -17.3764995,
+   "longitude": -66.1737373,
+   "addr:street": "Avenida Juan de la Rosa"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Puesto de Salud Vila Vila",
+   "latitude": -17.5574918,
+   "longitude": -67.3619673,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Médico Quirúrgico Bolivar",
+   "latitude": -17.3796621,
+   "longitude": -66.1603501,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Intermedic",
+   "latitude": -17.3808781,
+   "longitude": -66.1662416,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -16.5032326,
+   "longitude": -68.1438904,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dar Salud",
+   "latitude": -16.5019074,
+   "longitude": -68.1335267,
+   "addr:street": "Calle Mexico"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Servicio Móvil de Rayos X",
+   "latitude": -16.495289,
+   "longitude": -68.1176472,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Partos",
+   "latitude": -17.3825417,
+   "longitude": -66.1499007,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.3834615,
+   "longitude": -66.1478701,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Nefrologia",
+   "latitude": -17.3809205,
+   "longitude": -66.14884,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "",
+   "latitude": -17.3909276,
+   "longitude": -66.1562939,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "POLICONSULTORIO MÉDICO GUARDIA AÑEZ -Varimed",
+   "latitude": -14.8203018,
+   "longitude": -64.8978854,
+   "addr:street": "Zona universitaria Calle 3"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro Médico Chimboco",
+   "latitude": -17.3884103,
+   "longitude": -66.0411723,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "C.E.PED.",
+   "latitude": -21.531354,
+   "longitude": -64.7330546,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Blanca Liliana Vaca Diez",
+   "latitude": -17.7562352,
+   "longitude": -63.1697606,
+   "addr:street": "Río Quimorí"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr. Zuna",
+   "latitude": -17.7681927,
+   "longitude": -63.1559061,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Horizontes",
+   "latitude": -15.4362994,
+   "longitude": -67.5866547,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr candia",
+   "latitude": -17.8236362,
+   "longitude": -63.1388198,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "El Carmen",
+   "latitude": -16.6264323,
+   "longitude": -68.1878838,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Rostov",
+   "latitude": -16.5575921,
+   "longitude": -68.1970711,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr.Marquez",
+   "latitude": -16.5444133,
+   "longitude": -68.1899658,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Dr.Sandra Blacutt",
+   "latitude": -16.5088343,
+   "longitude": -68.1639875,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Ginecologo Obstetra",
+   "latitude": -18.4908326,
+   "longitude": -64.1073014,
+   "addr:street": "Calle Sucre"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro TRACIENDE",
+   "latitude": -16.5227106,
+   "longitude": -68.1142073,
+   "addr:street": "Av. Hernando Siles"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud Campo Via",
+   "latitude": -17.0301599,
+   "longitude": -65.6571155,
+   "addr:street": "RN4: Colomi-Villa Tunari"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Casa \"Mi Salud\"",
+   "latitude": -15.8931351,
+   "longitude": -63.1859301,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Médico Vargas",
+   "latitude": -16.5055044,
+   "longitude": -68.1189062,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Consultorio Medico Emanuel",
+   "latitude": -16.5458211,
+   "longitude": -68.1882472,
+   "addr:street": "San José"
+ },
+ {
+   "amenity": "doctors",
+   "name": "CEGNI (Centro de Gastroenterología y Nutrición Infantil)",
+   "latitude": -17.3829523,
+   "longitude": -66.1561481,
+   "addr:street": "Calle Antezana"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud Integral Torrepampa",
+   "latitude": -16.8309926,
+   "longitude": -67.5810987,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "CENTRO MEDIDO DE LA PIEL",
+   "latitude": -21.5366821,
+   "longitude": -64.7330145,
+   "addr:street": "Calle Colon"
+ },
+ {
+   "amenity": "doctors",
+   "name": "Puesto Médico Caja Nacional de Salud",
+   "latitude": -22.735981,
+   "longitude": -64.3322924,
+   "addr:street": ""
+ },
+ {
+   "amenity": "doctors",
+   "name": "Centro de Salud Señor de Mayo",
+   "latitude": -20.4565647,
+   "longitude": -66.8229434,
+   "addr:street": "Calle Perú"
+ }
+]

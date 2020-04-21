@@ -1,0 +1,846 @@
+gid,nombre,distrito,uv,mz,direccion,capacidad,dependencia,servicio,telefono,categoria,horario,red,point_x,point_y
+30,CENTRO DE SALUD TIERRAS NUEVAS,10,135,EQ,"Barrio Tierras Nuevas, Av. Moscú, 5 cuadras antes del Rest. Tutumazo",12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3536010,1,12 Horas,SUR,-63.2152697724,-17.8487724752
+42,CENTRO DE SALUD MONTERO HOYOS,,12,EQ,Localidad de  Montero Hoyos,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 6 9561424,1,12 Horas,NORTE,-62.8244615888,-17.6408827866
+9,CENTRO DE SALUD ZAFRANILLA,6, ,0,Comunidad Zafranilla,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",,0,6 horas,,-62.9887583625,-17.6207508126
+41,CENTRO DE SALUD SAN MIGUEL DE LOS JUNOS,14, ,,Comunidad San Miguel De Los Junos – Zona del Tanque de Agua Elevado,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3226753,1,12 Horas,SUR,-63.0266142171,-17.9324911624
+10,CENTRO DE SALUD PALMASOLA,12,257,EQ,Centro Penitenciario Palmasola,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3562928,0,,,-63.1849190709,-17.8736808318
+8,CENTRO DE SALUD EL DORADO NORTE,6,203,EQ,"B/ El Dorado Norte, llegar a la Av. Virgen de Lujan donde termina el pavimento, ir a la derecha  4 cuadras, luego entrar al lado izquierdo 3 cuadras hasta llegar a una plazuela.",4,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3224388,1,12 Horas,NORTE,-63.0965549515,-17.7392303684
+12,CENTRO DE SALUD EL RETOÑO/LOS CUSIS,6,320,EQ,B/ El Retoño / Los Cusis,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3498786,1,12 Horas,NORTE,-63.0770238114,-17.7356423481
+11,CENTRO DE SALUD LAS GRAMAS/26 DE SEPTIEMBRE,6,207,EQ,B/ Las Gramas / 26 de Septiembre,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3224504,1,12 Horas,NORTE,-63.1048514164,-17.7209564349
+14,CENTRO DE SALUD EL PORVENIR,7,83,EQ,B/ El Porvenir,1,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3621675
+",1,12 Horas,ESTE,-63.1291780084,-17.7870793792
+43,CENTRO DE SALUD ROQUE AGUILERA,1,36,,C/ Santiago Vaca Guzman C/Antoni Barba,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3377366
+",0,12 Horas,CENTRO,-63.1862852422,-17.7660977541
+40,CENTRO DE SALUD EL RECREO,12, ,,URB/ EL RECREO,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",,1,12 Horas,SUR,-63.1013325434,-17.8727671570
+13,CENTRO DE SALUD BUEN SAMARITANO,7,232,EQ,B/ Buen Samaritano,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3226439
+",1,12 Horas,ESTE,-63.0956858438,-17.7951416977
+17,CENTRO DE SALUD SANTIAGO PARADA,7,226,41,B/ Santiago Parada,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3224920,1,12 Horas,ESTE,-63.1068032398,-17.7818453351
+21,CENTRO DE SALUD SAN AGUSTIN,8,164,7,Av. Paurito frente a la plaza San Agustín,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3701909,1,12 Horas,ESTE,-63.1199105279,-17.8400019389
+19,CENTRO DE SALUD SAN LUISITO,8,157,EQ,"B/ San Luisito o Roberto Fernandez, ingresando por la Av.  Espinal Campos entrando C/Mexico, detrás del cementerio. Parada final de la linea 70.",4,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3222191,1,12 Horas,ESTE,-63.1032313303,-17.8283547801
+20,CENTRO DE SALUD MARIA CECILIA,8,102,EQ,Av. Radial 10 Final,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",3621699,1,12 Horas,ESTE,-63.1145381896,-17.8138813174
+33,CENTRO DE SALUD PALMAR DEL ORATORIO,12,247,6,Palmar del Oratorio Frente a la Plaza,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3227404,1,12 Horas,SUR,-63.1509389894,-17.8815783562
+39,CENTRO DE SALUD EL TAJIBO,12,169,EQ,B/ El Tajibo pasando Av. Bolivia del mercado Fortaleza,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3280587,1,12 Horas,SUR,-63.1502014478,-17.8620118614
+38,CENTRO DE SALUD CORTEZ,12,254,69,B/ URB. CORTEZ,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3280532,1,12 Horas,SUR,-63.1735020379,-17.8936582563
+37,CENTRO DE SALUD MAGISTERIO,12,185,EQ,B/ MAGISTERIO,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3280943,1,12 Horas,SUR,-63.1839242760,-17.8687622753
+36,CENTRO DE SALUD PLAN 4000,12,251,4,B/ Plan 4000,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3280563,1,12 Horas,SUR,-63.1746201394,-17.8822421017
+35,CENTRO DE SALUD ROCA Y CORONADO,12,166,61,"B/ Roca y Coronado entrando por Mercado Primavera, pasar el trillo e ingresar 9 cuadras, luego ingresar a la derecha 1 1/2 cuadra.",12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3568829,1,12 Horas,SUR,-63.1577580297,-17.8362392876
+32,CENTRO DE SALUD VILLA BERMUDEZ,10, ,54,"Rad 17/2 -8 Ani, 2 cuadras de Piramide",0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3550468,1,12 Horas,SUR,-63.2490919824,-17.8215114128
+34,CENTRO DE SALUD PEDRO DIEZ,12,181,18,B/Pedro Diez 2 1/2 cuadras Av. Los Lotes,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3227909,1,12 Horas,SUR,-63.1770084088,-17.8604260713
+1,CENTRO DE SALUD VILLA BRIGIDA,1,59,EQ,Barrio Villa Brígida Calle Nª 7,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3418228
+",1,12 Horas,CENTRO,-63.1948877943,-17.7562161878
+4,CENTRO DE SALUD EL PAJONAL,3,46,25,Pajonal lado del Centro Cultural El Pajonal,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3582246
+",1,12 Horas,ESTE,-63.1668341550,-17.8132727874
+3,CENTRO DE SALUD SANTA ISABEL,2,41,EQ,Av. Paraguá pasando el tercer anillo calle Nº 6  lado Colegio  Wenceslao Montero  Barrio Conavi,4,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3475090,1,12 Horas,NORTE,-63.1507050699,-17.7697324205
+2,CENTRO DE SALUD HAMACAS,2,38,EQ,B/  Hamacas C/ Río Blanco 3105 entre C/ 11 y Av. Alemana,4,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3427473,1,12 Horas,NORTE,-63.1689680711,-17.7563257739
+6,CENTRO DE SALUD ANITA SUÁREZ DE LEIGUE,5,68,45,Av. Banzer Km. 4½ al norte detrás Coop. Humberto Leigue,24,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3438531,1,12 Horas,NORTE,-63.1715911143,-17.7370978809
+47,CENTRO DE SALUD NOEL KEMPFF,7,99,,"B/ Noel Kempff Merado, a la Radial 10 5to Anillo",0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3621781
+",0,12 Horas,ESTE,-63.1236659387,-17.8111060929
+44,CENTRO DE SALUD LOS TUSEQUIS,5,71,,,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3469644,0,12 Horas,NORTE,-63.1551689173,-17.7420391826
+26,CENTRO DE SALUD SANTE SUD,9,115,14,B/ Alto Olivo calle Nº 9 entre Radial 13 y Av. Santos Dumont Entrando seis cuadra a mano izquierda,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3560379,1,12 Horas,SUR,-63.1780634401,-17.8338534053
+16,CENTRO DE SALUD ONDULINE GUAPURU,7, ,15,B/ Onduline Guapuru,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3226438
+
+",1,12 Horas,ESTE,-63.1067638373,-17.8097894724
+5,CENTRO DE SALUD CAÑADA EL CARMEN,3,92,EQ,B/ Cañada El Carmen,1,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3556492
+",1,12 Horas,ESTE,-63.1527245314,-17.8105026529
+7,CENTRO DE SALUD POCHOLA TRAPERO,5,74,EQ,B/ Claracuta lado Col. Vertino Candia,24,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+591 3 3442168,1,12 Horas,NORTE,-63.1559482646,-17.7329540080
+23,CENTRO DE SALUD MI SALUD,8,158,EQ,"Barrio  7 de Julio  Av. Campana, lado escuela 7 de julio",0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3628357
+
+",1,12 Horas,ESTE,-63.1128141687,-17.8285948308
+27,CENTRO DE SALUD LA COLORADA,9,106,EQ,B/ La Colorada Calle Nº 6 Radial 13 entre 4º y 5º anillo,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3569872,1,12 Horas,SUR,-63.1719578610,-17.8236147846
+28,CENTRO DE SALUD LAS AMÉRICAS,9,131,EQ,B/El Paraiso Av. Las AmÚricas,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3569332,1,12 Horas,SUR,-63.1941129846,-17.8588339545
+29,CENTRO DE SALUD ANTOFAGASTA,10,118,19,"B/Antofagasta Avenida San Martín entre 5º y 6º anillo, se entra 5 cuadras por la calle B",12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3580418,1,12 Horas,SUR,-63.2105697861,-17.8269199684
+24,CENTRO DE SALUD BARRIO NUEVO/30 DE ENERO,8,236,EQ,B/ NUEVO / 30 ENERO,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",,1,12 Horas,ESTE,-63.0843966545,-17.8306056621
+25,CENTRO DE SALUD EL QUIOR,8,250,EQ,B/ EL QUIOR,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3223616
+",1,12 Horas,ESTE,-63.0837046535,-17.8477212381
+31,CENTRO DE SALUD LOS BOSQUES,10,110,EQ,"B/ Los Bosques, lado del mercado Los Bosques",0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+",+ 591 3 3563252,1,12 Horas,SUR,-63.2148134189,-17.8123011148
+45,CENTRO DE SALUD VIRGEN DE COTOCA,1,63,EQ,Cuarto anillo  y Radial 27 c/ San Pedro lado Guardería PRONIDES Barrio Virgen de Cotoca,12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3425834
+",1,12 Horas,CENTRO,-63.1817933170,-17.7474508448
+46,CENTRO DE SALUD WILLY LEMAITRE,1,33,EQ,"Entre 2° y 3° anillo, Av. Busch, ingresando por la calle 6 esq. Calle Nicolás Ortiz.",12,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3427701
+",1,12 Horas,CENTRO,-63.1979048373,-17.7702283382
+18,CENTRO DE SALUD NUTRICIONAL,7,87,EQ,"Av. Cumavi Final, entre 6º y 7º anillo",0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3476900
+",1,12 Horas,,-63.1228678225,-17.7927444154
+22,CENTRO DE SALUD 12 DE DICIEMBRE,8,147,EQ,B/ 12 de Diciembre C/ Los Sauces final,0,GAMSCS,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Obstetricia - Parto normal, 
+Pediatría.
+
+<br><b>Servicios de Diagnostico</b><br> 
+Ecografía, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia.
+","+591 3 3628161
+
+",1,12 Horas,ESTE,-63.1307574277,-17.8199847679

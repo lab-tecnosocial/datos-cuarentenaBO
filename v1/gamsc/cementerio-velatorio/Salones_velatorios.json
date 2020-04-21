@@ -1,0 +1,98 @@
+[
+    {
+        "gid": "8",
+        "uv": " ",
+        "dm": "4",
+        "mz": " ",
+        "nombre": "SALON VELATORIO DM 8",
+        "point_x": "-63.1740965608",
+        "point_y": "-17.8161762363",
+        "geom": "0101000000E02D90A03A641D410C022BCFEFA15E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "2",
+        "uv": "151",
+        "dm": "6",
+        "mz": "EQ",
+        "nombre": "SALON VELATORIO  DM 6",
+        "point_x": "-63.124095",
+        "point_y": "-17.757262",
+        "geom": "010100000030F8C264A2B51D413480B74849A85E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "1",
+        "uv": "56",
+        "dm": "1",
+        "mz": "30",
+        "nombre": "SALON VELATORIO  DM  1",
+        "point_x": "-63.209700",
+        "point_y": "-17.771738",
+        "geom": "010100000050E3A55B3C281D41EB73B545B4A65E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "4",
+        "uv": "177",
+        "dm": "12",
+        "mz": "EQ",
+        "nombre": "SALON VELATORIO DM 12",
+        "point_x": "-63.167354",
+        "point_y": "-17.852023",
+        "geom": "010100000000780BE4756F1D4146257526E49D5E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "3",
+        "uv": "115",
+        "dm": "9",
+        "mz": "67",
+        "nombre": "SALON VELATORIO  DM 9",
+        "point_x": "-63.175227",
+        "point_y": "-17.844193",
+        "geom": "0101000000E0839E0D84621D416DC5FECAF49E5E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "6",
+        "uv": "139",
+        "dm": "10",
+        "mz": "EQ",
+        "nombre": "SALON VELATORIO DM 10",
+        "point_x": "-63.239886",
+        "point_y": "-17.828329",
+        "geom": "0101000000D09AE65D56F11C4105C58F7533A15E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "5",
+        "uv": "84",
+        "dm": "7",
+        "mz": "4",
+        "nombre": "SALON VELATORIO DM 7",
+        "point_x": "-63.124089",
+        "point_y": "-17.787369",
+        "geom": "0101000000C09F1AEF15B71D41E9482E6B17A55E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    },
+    {
+        "gid": "7",
+        "uv": " ",
+        "dm": "14",
+        "mz": "FRENTE A MZ 136",
+        "nombre": "SALON VELATORIO DM 14",
+        "point_x": "-62.930485",
+        "point_y": "-17.885543",
+        "geom": "010100000030CD3B4E1FE11E41CD3B4E95A89A5E41",
+        "dependencia": "GAMSCS",
+        "direccion": ""
+    }
+]

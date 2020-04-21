@@ -1,0 +1,151 @@
+type,properties/Id,properties/Nombre,properties/Direccion,properties/Tipo,properties/macro_ante,properties/distrito,properties/zona,properties/mostrar,properties/fecha_prop,properties/fecha_crea,properties/Afiche,geometry/type,geometry/coordinates/0,geometry/coordinates/1
+Feature,0,Sánchez Lima,C. Canónigo Ayllón,Mercado,Cotahuma,6,BELLO HORIZONTE,si,,,,Point,-68.1367900901089,-16.507953939589058
+Feature,0,4 de Abril,"Av. Marcelo Quiroga Santa Cruz, entre C. 14 de Junio y C. Héroes del Chaco",Mercado,Cotahuma,4,PASANKERI,si,,,,Point,-68.14581987831588,-16.522132344557217
+Feature,0,Kilómetro 7,Av. Quiroga Santa Cruz Esq. C. 6 de Agosto,Mercado,Cotahuma,4,PASANKERI,si,,,,Point,-68.14329643530733,-16.52297656234673
+Feature,0,Bolívar,Av. Jaime Freyre Esq. C. Alberto Ostria,Mercado,Cotahuma,4,TEMBLADERANI,si,,,,Point,-68.14112783720701,-16.51390619311338
+Feature,0,Stronguest,Av. Víctor Agustín Ugarte,Mercado,Cotahuma,4,COTAHUMA,si,,,,Point,-68.13988842528893,-16.515895564085756
+Feature,0,Las Rosas Cotahuma,"Pza. De la Democracia, C. Machicao",Mercado,Cotahuma,5,COTAHUMA,si,,,,Point,-68.14400008825449,-16.51559973634231
+Feature,0,Raúl Salmón,Av. Mario Mercado Vaca Guzmán Esq. C. 5-Quiswaras,Mercado,Cotahuma,4,BAJO LLOJETA,si,,,,Point,-68.123479035366,-16.528134494582336
+Feature,0,El Rosal,Av. Mario Mercado,Mercado,Cotahuma,4,LLOJETA,si,,,,Point,-68.13345780614168,-16.534852319922596
+Feature,0,Vergel Llojeta,Av. Buenos Aires,Mercado,Cotahuma,4,LLOJETA,si,,,,Point,-68.14029828632198,-16.534229876857697
+Feature,0,Las Lomas,Av. Buenos Aires,Mercado,Cotahuma,4,LAS LOMAS,si,,,,Point,-68.13890724952329,-16.52261103419583
+Feature,0,Popular Pura Pura,C. Daniel Salamanca,Mercado,Max Paredes,10,PURA PURA,si,,,,Point,-68.15084740854958,-16.487778742953232
+Feature,0,21 de Enero,C. 3,Mercado,Max Paredes,10,CIUDADELA FERROVIARIA,si,,,,Point,-68.1495658328015,-16.456727091812528
+Feature,0,Haití,C. Haití Esq. C. Trinidad Tobago,Mercado,Centro,2,MIRAFLORES,si,,,,Point,-68.1226057611891,-16.490875747002367
+Feature,0,Miraflores,C. Díaz Romero,Mercado,Centro,2,MIRAFLORES,si,,,,Point,-68.12177620384503,-16.50127524063057
+Feature,8,Ketal S.A.,Av. Busch # 1994,Supermercado,Centro,2,MIRAFLORES SUR,si,,,,Point,-68.12114385423153,-16.502543070831077
+Feature,23,Fidalga,Av. Saavedra # 1963,Supermercado,Centro,2,MIRAFLORES SUR,si,,,,Point,-68.12246130417812,-16.5019027450792
+Feature,0,San José de Mallasilla,Av. Altamirano,Mercado,Mallasa,20,MALLASILLA,si,,,,Point,-68.10068094614411,-16.56680922158861
+Feature,0,Mallasa,Av. Florida,Mercado,Mallasa,20,MALLASA,si,,,,Point,-68.08693489915022,-16.572214785737884
+Feature,0,La Portada,C. Justo Germán Esq. C. Yapacani,Mercado,Max Paredes,9,LA PORTADA,si,,,,Point,-68.1669592037699,-16.489303694848093
+Feature,0,Santiago de Munaypata,Av. Desaguadero Esq. C. Río Calvario,Mercado,Max Paredes,9,MUNAYPATA,si,,,,Point,-68.1563297094848,-16.489926155468485
+Feature,0,San José de Munaypata,C. Cristo Vencedor Esq. C. San José,Mercado,Max Paredes,8,MUNAYPATA,si,,,,Point,-68.15861901482779,-16.489139354148445
+Feature,0,El Carmen,Av. Entre Ríos Esq. C. Damas de Cotagaita,Mercado,Max Paredes,8,EL TEJAR,si,,,,Point,-68.15609425166218,-16.497277713152435
+Feature,0,El Tejar,C. José María Asín Esq. Av. Kollasuyo,Mercado,Max Paredes,8,EL TEJAR,si,,,,Point,-68.15204422615516,-16.495325483996268
+Feature,0,Las Nieves,Av. Utapulpera Esq. C. Echazu,Mercado,Max Paredes,8,EL TEJAR,si,,,,Point,-68.15740277357303,-16.49714811176838
+Feature,0,Villa Victoria,C. Virrey Toledo,Mercado,Max Paredes,8,VILLA VICTORIA,si,,,,Point,-68.15159510733665,-16.490340924756325
+Feature,0,Alto Mariscal Santa Cruz,Av. Entre Ríos,Mercado,Max Paredes,8,MARISCAL SANTA CRUZ,si,,,,Point,-68.16052123228982,-16.493118495297086
+Feature,0,Bajo Mariscal Santa Cruz,Av. Alcides Arguedas Esq. C. Yacuma,Mercado,Max Paredes,8,MARISCAL SANTA CRUZ,si,,,,Point,-68.15834684490754,-16.4926372743883
+Feature,0,Las Flores,Av. Bautista Esq. C. Baltazar Alquiza,Mercado,Max Paredes,8,CALLAMPAYA,si,,,,Point,-68.15110063737046,-16.495342467851167
+Feature,0,Vicente Ochoa,Av. Buenos Aires Esq. C. Vicente Ochoa,Mercado,Max Paredes,7,GRAN PODER,si,,,,Point,-68.1442811362226,-16.498026027222604
+Feature,0,Uruguay,Av. Max Paredes Esq. C. Graneros,Mercado,Max Paredes,7,14 DE SEPTIEMBRE,si,,,,Point,-68.14367172766275,-16.497217963821676
+Feature,0,Calatayud,C. Calatayud Esq. Av. Baptista,Mercado,Max Paredes,7,14 DE SEPTIEMBRE,si,,,,Point,-68.14760744603973,-16.495483174515748
+Feature,0,Los Andes,C. Manuel Cosio Esq. Av. Los Andes,Mercado,Max Paredes,7,LOS ANDES,si,,,,Point,-68.1483020743437,-16.498750519895825
+Feature,0,Obispo Indaburo,Av. Buenos Aires Esq. C. Antonio Gallardo,Mercado,Max Paredes,7,OBISPO INDABURO,si,,,,Point,-68.1455345468247,-16.501121090674765
+Feature,0,Francisco Cernadas,C. Benigno Loza Esq. C. Juan de la Cruz Monje,Mercado,Periferica,12,MIRAFLORES ALTO,si,,,,Point,-68.12544057248421,-16.48373902118671
+Feature,7,Ketal S.A.,Av. Arce # 2588 Esq. C. Pinilla,Supermercado,Centro,1,SAN JORGE,si,,,,Point,-68.12340978117605,-16.510455275092692
+Feature,24,Fidalga,C. Capitán Ravel # 2441,Supermercado,Centro,1,SAN JORGE,si,,,,Point,-68.12418954263553,-16.50776135020938
+Feature,31,Fidalga,C. Colón # 570,Supermercado,Centro,1,CENTRAL,si,,,,Point,-68.13248613705365,-16.496686468118185
+Feature,0,Modelo Yungas,C. Yungas Esq. C. Uchumayo,Mercado,Centro,1,CENTRAL,si,,,,Point,-68.12929843184328,-16.497050627384084
+Feature,0,Lanza,"Pza. Pérez Velasco, entre C. Evaristo Valle y C. Figueroa",Mercado,Centro,1,SAN SEBASTIAN,si,,,,Point,-68.13746813083011,-16.494751868615833
+Feature,0,Camacho,Av. Simón Bolívar Esq. C. Bueno,Mercado,Centro,2,SANTA BARBARA,si,,,,Point,-68.13157067971821,-16.500445008575316
+Feature,0,Concepción Kupini,Av. Armando Escobar Uría,Mercado,San Antonio,17,KUPINI,si,,,,Point,-68.09989686350089,-16.50901377817728
+Feature,0,German Jordán,C. Héroes del Chaco Esq. Av. Costanera,Mercado,San Antonio,17,VILLA ARMONÍA,si,,,,Point,-68.11294265047776,-16.510019912211423
+Feature,0,Villa Armonía,C. Nieves Linares y C. Juan XXIII,Mercado,San Antonio,17,VILLA ARMONÍA,si,,,,Point,-68.11061179999867,-16.50875848872068
+Feature,0,8 de Septiembre,Av. Costanera,Mercado,San Antonio,17,CUARTO CENTENARIO,si,,,,Point,-68.1134658209947,-16.5168752882947
+Feature,0,San Isidro,C. Nieves Linares Esq. C. Boris Banzer,Mercado,San Antonio,17,SAN ISIDRO,si,,,,Point,-68.106128330452,-16.510918106593316
+Feature,0,Urkupiña Bajo San Isidro,C. Donoso Torres Esq. C. Los Sauces,Mercado,San Antonio,17,SAN ISIDRO,si,,,,Point,-68.10763294118355,-16.51202726722368
+Feature,6,Hipermaxi S.A.,C. Rosendo Gutierrez # 469,Supermercado,Cotahuma,3,SOPOCACHI,si,,,,Point,-68.12788988928752,-16.509483787611696
+Feature,9,Ketal S.A.,Pza. España Esq. C. Méndez Arcos # 710,Supermercado,Cotahuma,3,SOPOCACHI,si,,,,Point,-68.12900499561152,-16.51454481970056
+Feature,21,Fidalga,Av. Sánchez Lima # 2362,Supermercado,Cotahuma,3,SOPOCACHI,si,,,,Point,-68.12790412666666,-16.510509628041632
+Feature,0,El Carmen Sopocachi,C. Presbitero Medina,Mercado,Cotahuma,3,SOPOCACHI,si,,,,Point,-68.12632966696862,-16.514704747973134
+Feature,0,Sopocachi,C. Fernando Guachalla,Mercado,Cotahuma,3,SOPOCACHI,si,,,,Point,-68.12958783075375,-16.509439448046216
+Feature,0,Félix Hinojosa,Av. Buenos Aires Esq. C. Alcoreza,Mercado,Cotahuma,5,VILLA NUEVO POTOSÍ,si,,,,Point,-68.14454232443471,-16.503351484480316
+Feature,0,Villa Nueva Potosí,C. Villamil de Rada Esq. C. Martin Monje,Mercado,Cotahuma,5,VILLA NUEVO POTOSÍ,si,,,,Point,-68.14934634981886,-16.505421564724646
+Feature,0,Sagrado Corazón de Jesús,C. Fortunato Pinto Esq. Av. Eduardo Abaroa,Mercado,Max Paredes,7,CHIJINI,si,,,,Point,-68.1531555628484,-16.50078719916486
+Feature,0,San Cristóbal,C. Manuel Jofre Esq. Av. Feliciano Kantuta,Mercado,Cotahuma,5,TACAGUA,si,,,,Point,-68.1456476159534,-16.510431064204816
+Feature,0,Amapola,C. Zoilo Flores y Pedro Rodríguez,Mercado,Cotahuma,6,BELÉN,si,,,,Point,-68.13900775919187,-16.500674964332404
+Feature,0,Belén,C. Rodríguez y Zoilo Flores Pedro,Mercado,Cotahuma,6,BELÉN,si,,,,Point,-68.13946384872224,-16.500794876714046
+Feature,0,Comedor Rodríguez,C. Max Paredes Esq. C. Emilio Calderón,Mercado,Cotahuma,6,BELÉN,si,,,,Point,-68.13966027386054,-16.500389276059042
+Feature,0,Rodríguez,C. Pedro Rodríguez Esq. C. Maximiliano Paredes,Mercado,Cotahuma,6,BELÉN,si,,,,Point,-68.13901115853186,-16.500201412287197
+Feature,15,Ketal S.A.,C. Almirante Grau # 349,Supermercado,Cotahuma,6,SAN PEDRO,si,,,,Point,-68.1359297192947,-16.501760100528813
+Feature,0,14 de Septiembre,Av. Monje Gutierrez,Mercado,Sur,21,BELLA VISTA,si,,,,Point,-68.09954908006134,-16.528340142536347
+Feature,11,Hipermaxi S.A.,Av. 14 de Septiembre # 6020,Supermercado,Sur,21,OBRAJES,si,,,,Point,-68.10340086858442,-16.52851468943403
+Feature,13,Súper 10,Av. H. Siles # 455 Esq. C. 10,Supermercado,Sur,21,OBRAJES,si,,,,Point,-68.10705940547541,-16.52659001162278
+Feature,16,Ketal S.A.,C. 16 # 460,Supermercado,Sur,21,OBRAJES,si,,,,Point,-68.10201368991186,-16.52891707165857
+Feature,30,Andy´s,C. 17,Supermercado,Sur,21,OBRAJES,si,,,,Point,-68.10070391103281,-16.52983520299422
+Feature,0,16 de julio,Av. Héctor Ormachea Zalles Esq. C. Carlos Sánchez Lopera,Mercado,Sur,21,OBRAJES,si,,,,Point,-68.1024633274674,-16.529874162233924
+Feature,0,San Antonio,Av. 14 de Septiembre entre C. 11 - Mía Duberty Linndeman y C. 12 - Jaime Otero Calderón,Mercado,Sur,21,OBRAJES,si,,,,Point,-68.1054744763575,-16.527049171780142
+Feature,0,Corazón de Jesús,Av. Max Portugal Zamora,Mercado,Sur,21,ALTO OBRAJES,si,,,,Point,-68.10390365711885,-16.523826389038334
+Feature,0,Alto Seguencoma,"Av. del Policía, entre C. 3-B y C. 3-C",Mercado,Sur,21,ALTO SEGUENCOMA,si,,,,Point,-68.1042218070552,-16.53399872726233
+Feature,0,La Merced,C. 34 de Cota Cota,Mercado,Sur,18,COTA COTA,si,,,,Point,-68.0580447676951,-16.542056938968862
+Feature,4,Andy´s,Av. Montenegro # 874,Supermercado,Sur,18,SAN MIGUEL,si,,,,Point,-68.07822084822652,-16.542790942490424
+Feature,17,Ketal S.A.,C. 21,Supermercado,Sur,18,SAN MIGUEL,si,,,,Point,-68.07801838143459,-16.540316102056526
+Feature,12,Ketal S.A.,Av. Ballivián # 7967,Supermercado,Sur,18,CALACOTO,si,,,,Point,-68.08388493870906,-16.539345165045095
+Feature,0,Chasquipampa,Av. Defensores del Chaco Esq. C. Tte. Gilberto Zilveti Antelo,Mercado,Sur,19,CHASQUIPAMPA,si,,,,Point,-68.04860958169571,-16.5372175008355
+Feature,3,Hipermaxi S.A.,Av. José María Aguirre Achá # 85,Supermercado,Sur,18,LOS PINOS,si,,,,Point,-68.07013004910402,-16.54577693408561
+Feature,0,24 de Septiembre,C. 25 - Arturo Fortunato,Mercado,Sur,18,LOS PINOS,si,,,,Point,-68.07248350568881,-16.541238205600763
+Feature,0,Teófilo Miranda,Av. 31 de Octubre,Mercado,San Antonio,15,SAN ANTONIO,si,,,,Point,-68.11630594336475,-16.497169383422747
+Feature,0,Modelo San Antonio,Av. Josefa Mujia,Mercado,San Antonio,15,SAN ANTONIO,si,,,,Point,-68.1084289566888,-16.498056569014096
+Feature,0,Arapata (La Merced),C. Villa Aspiazu Esq. C. Pariguaya,Mercado,Periferica,13,LA MERCED,si,,,,Point,-68.11809031962768,-16.471054497752586
+Feature,0,15 de Abril,"Av. 15 de Abril, entre C. Chulumani y C. Virgen del Carmen",Mercado,Periferica,13,VILLA FÁTIMA,si,,,,Point,-68.11803117887905,-16.47654927464059
+Feature,0,Villa Fátima,Av. Tejada Sorzano Esq. C. Miguel Aparicio,Mercado,Periferica,13,VILLA FÁTIMA,si,,,,Point,-68.12120051679773,-16.480400886702913
+Feature,0,Las Delicias,Av. Las Delicias Esq. C. San Buenaventura,Mercado,Periferica,12,LAS DELICIAS,si,,,,Point,-68.12354858378188,-16.476969411423244
+Feature,0,Kollasuyo,Av. Tito Yupanqui,Mercado,San Antonio,14,VILLA COPACABANA,si,,,,Point,-68.11665721562379,-16.495176011639654
+Feature,0,Calama,C. Calama Esq. C. Batallón Victoria,Mercado,Periferica,11,ZONA NORTE,si,,,,Point,-68.13717108313222,-16.489748279977224
+Feature,0,Bolívar Central,C. Bolívar Esq. C. Catacora,Mercado,Periferica,11,ZONA NORTE,si,,,,Point,-68.1317486311463,-16.493579544684284
+Feature,0,Virgen de las Nieves (Achachicala),Av. Alfonso Ramos Gavilán Esq. C. Antonio de la Calancha,Mercado,Periferica,11,ACHACHICALA,si,,,,Point,-68.14940577943992,-16.47587194992715
+Feature,0,Antofagasta,Av. Chacaltaya Esq. C. Beni,Mercado,Periferica,11,CHALLAPAMPA,si,,,,Point,-68.14044758681467,-16.48782745039083
+Feature,0,German Busch,C. Maximiliano Ortiz,Mercado,Periferica,11,VINO TINTO,si,,,,Point,-68.13983811605144,-16.482131507508548
+Feature,0,Maracaná,Av. Juan José Torrez,Mercado,Periferica,11,VILLA DE LA CRUZ,si,,,,Point,-68.13703225347328,-16.485634647849487
+Feature,0,Manuel Hoyos,Av. Juan José Torres,Mercado,Periferica,11,VILLA DE LA CRUZ,si,,,,Point,-68.13456841303568,-16.48586425672127
+Feature,0,Killi Killi,C. Heroínas 16 de Julio Esq. C. Víctor Ustariz,Mercado,Periferica,11,VILLA PABÓN,si,,,,Point,-68.12740397933652,-16.494507056919964
+Feature,0,10 de Enero,Av. Circunvalación C. 12,Mercado,San Antonio,16,PAMPAHASI,si,,,,Point,-68.10444874251553,-16.50155992887005
+Feature,0,Nuestra Señora de La Paz,Av. Ciudad del Niño,Mercado,San Antonio,16,PAMPAHASI,si,,,,Point,-68.10287764532453,-16.49551770064137
+Feature,0,San Juan,C. D Esq. C. 6,Mercado,San Antonio,16,PAMPAHASI,si,,,,Point,-68.10406054564523,-16.491144560584395
+Feature,10,Hipermaxi S.A.,Av. Strongest # 100,Supermercado,Sur,18,ACHUMANI,si,,,,Point,-68.0621072469904,-16.518882444775077
+Feature,29,Andy´s,Av. Garcia Lanza #4,Supermercado,Sur,18,ACHUMANI,si,,,,Point,-68.07255630812648,-16.53119431247444
+Feature,0,Modelo Achumani,Av. Manuel Víctor García Lanza Esq. C. 16,Mercado,Sur,18,ACHUMANI,si,,,,Point,-68.07352528143102,-16.530879937572877
+Feature,5,Ketal S.A.,Av. Alexander # 108,Supermercado,Sur,18,ACHUMANI PORVENIR KANTUTAS,si,,,,Point,-68.07198423468805,-16.534507259500703
+Feature,2,Ketal S.A.,Av. Rafael Pabón,Supermercado,Sur,18,IRPAVI,si,,,,Point,-68.08663114908524,-16.533568446718146
+Feature,0,Modelo Irpavi,Av. Segundo Altamirano Esq. C. 6-Julio de la Vega Iturri,Mercado,Sur,18,IRPAVI,si,,,,Point,-68.08726257310619,-16.524734117756307
+Feature,0,Virgen de las Nieves (Irpavi),Av. Circunvalación,Mercado,Sur,18,ALTO IRPAVI,si,,,,Point,-68.08439558807807,-16.516238661251283
+Feature,0,Alberto Ostria,A. Jaimes Freire,Feria,Cotahuma,4,TEMBLADERANI,si,,2020/03/25,,Point,-68.13758869866237,-16.515720374024394
+Feature,0,Zoilo Flores,Calle Zoilo Flores esq alm grau,Feria,Cotahuma,6,SAN PEDRO,si,,2020/03/25,,Point,-68.1392973444214,-16.506084472382632
+Feature,0,Luis Lara,Calle Luis Lara,Feria,Cotahuma,6,BELEN,si,,2020/03/25,,Point,-68.1402080461616,-16.50195552494355
+Feature,0,Benancio Burgoa,Calle Rodriguez,Feria,Cotahuma,6,BELEN,si,,2020/03/25,,Point,-68.13796377553692,-16.49821537800192
+Feature,0,Sagarnaga,General Gonzales y sagarnaga,Feria,Cotahuma,6,BELEN,si,,2020/03/25,,Point,-68.13974249192403,-16.499600268815897
+Feature,0,Eloy Salmon,Antonio Gallardo,Feria,Max Paredes,7,GRAN PODER,si,,2020/03/25,,Point,-68.14396858414968,-16.499158424347634
+Feature,0,Munaypata,Av. Florida,Feria,Max Paredes,9,MUNAYPATA,si,,2020/03/25,,Point,-68.1604068048298,-16.48703260056985
+Feature,0,Miguel Aparicio,Av. Tejada Sorzano,Feria,Periferica,12,AGUA DE LA VIDA,si,,2020/03/25,,Point,-68.12760628367712,-16.48571026242992
+Feature,0,31 de octubre,Av. 31 de octubre,Feria,San Antonio,14,VILLA COPACABANA,si,,2020/03/25,,Point,-68.11634169119579,-16.49031225954968
+Feature,0,Ciudad del Niño,Av. Ciudad del Niño,Feria,San Antonio,16,CIUDAD DEL NIÑO,si,,2020/03/25,,Point,-68.09836145087364,-16.49327763467626
+Feature,0,Las Nieves,Av. Las Nieves,Feria,San Antonio,16,LAS NIEVES,si,,2020/03/25,,Point,-68.09888040062637,-16.496838550813763
+Feature,0,8 de Calacoto,Calle 8 de Calacoto,Feria Itinerante,Sur,18,CALACOTO,si,,2020/03/25,,Point,-68.09195050774022,-16.5417811227966
+Feature,0,Costanerita,Av. Costanerita,Feria Itinerante,Sur,21,OBRAJES,si,,2020/03/25,,Point,-68.11151243532503,-16.5269022168719
+Feature,0,21 de Calacoto,Av. 21 de Calacoto,Feria Itinerante,Sur,18,CALACOTO,si,,2020/03/25,,Point,-68.0770568993203,-16.54417924204708
+Feature,0,Max Portugal,Av. Max Portugal,Feria Itinerante,Sur,21,ALTO OBRAJES,si,,2020/03/25,,Point,-68.10729601840215,-16.520387059727987
+Feature,0,Achumani,Calle 15 Achumani,Feria Itinerante,Sur,18,ACHUMANI,si,,2020/03/25,,Point,-68.07397281979388,-16.531819713169956
+Feature,0,Bolivar,Mercado Bolivar,Feria,Cotahuma,4,TEMBLADERANI,si,,2020/03/25,,Point,-68.14165902972805,-16.5133257578728
+Feature,0,Stronguest,Mercado Stronguest,Feria,Cotahuma,4,TEMBLADERANI,si,,2020/03/25,,Point,-68.13951596667253,-16.5160078869406
+Feature,1,Valle de la Luna,Av. Mallasa Altura Banderas,Mercado Movil,Mallasa,20,Mallasa,,2020/04/09,2020/04/05,si,Point,-68.10038302255305,-16.562487456321804
+Feature,2,Plaza Uyuni,Plaza Uyuni,Mercado Movil,Centro,2,Miraflores,,2020/04/10,2020/04/05,si,Point,-68.12428376344438,-16.496956446890575
+Feature,3,Plaza Lira,"Plaza Lira, Sopocachi",Mercado Movil,Cotahuma,3,Sopocachi,,2020/04/07,2020/04/05,si,Point,-68.1341839380113,-16.51354502765461
+Feature,4,Plaza Bolivia,Plaza Bolivia,Mercado Movil,Centro,1,San Jorge,,2020/04/10,2020/04/05,si,Point,-68.12659770900969,-16.50685959742687
+Feature,5,Mariscal Santa Cruz,Av. Segundo Bascones,Mercado Movil,Max Paredes,9,Mariscal Santa Cruz,,2020/04/10,2020/04/05,si,Point,-68.16304059047378,-16.493470558034502
+Feature,6,Kupini,"Av. Escobar Uria y Periferica, interseccion Jockoni y Callapa",Mercado Movil,San Antonio,17,Kupini,,2020/04/08,2020/04/05,si,Point,-68.09447969434301,-16.505808121880445
+Feature,7,Jupapina,Av. Tricentenario c. 5 Jupapina,Mercado Movil,Mallasa,20,Jupapina,,2020/04/09,2020/04/05,si,Point,-68.07084815203562,-16.591345543190343
+Feature,8,Heroes del Chaco,C. Heroes del Chaco entre 1 y 2,Mercado Movil,San Antonio,17,Cuarto Centenario,,2020/04/07,2020/04/05,si,Point,-68.11063481686055,-16.51254972406629
+Feature,9,Hernando Siles,Av. Hernando Siles,Mercado Movil,Mallasa,20,Sequoia,,2020/04/09,2020/04/05,si,Point,-68.10502904651737,-16.557066628952217
+Feature,10,Cosmos 85,Cosmos 85 parada del pumakatari,Mercado Movil,San Antonio,16,Villa Salome,,2020/04/08,2020/04/05,si,Point,-68.0942647022885,-16.486692615026424
+Feature,11,Chuquiaguillo,Av. Ramiro Castillo,Mercado Movil,Periferica,13,Chuquiaguillo,,2020/04/08,2020/04/05,si,Point,-68.10214186108192,-16.45941393278533
+Feature,12,Casegural,Wilacota,Mercado Movil,Sur,19,Casegural,,2020/04/09,2020/04/05,si,Point,-68.04123206149488,-16.532214856794056
+Feature,13,Caja Ferroviaria,"Caja Ferroviaria, Altura Rotonda",Mercado Movil,Max Paredes,10,Caja Ferroviaria,,2020/04/10,2020/04/05,si,Point,-68.14918618853032,-16.450122765038284
+Feature,14,Baden Pawell,Plaza Baden Pawell (calles Jaimes y Mariaca),Mercado Movil,Centro,2,Miraflores Sur,,2020/04/10,2020/04/05,si,Point,-68.11731153737195,-16.504685195243052
+Feature,15,9 de abril,Av. 5 de agosto,Mercado Movil,Max Paredes,7,Sagrado Corazon de Jesus,,2020/04/16,2020/04/14,si,Point,-68.15243607910185,-16.506103387422073
+Feature,16,24 de junio,Cancha Zona 24 de junio,Mercado Movil,San Antonio,14,24 de junio,,2020/04/08,2020/04/05,si,Point,-68.10839864264801,-16.48014978358567
+Feature,17,23 de marzo,FINAL 23 MARZO (INGRESO VALLE DE LAS FLORES ZONA PAMPAHASI,Mercado Movil,San Antonio,16,Valla de Las Flores,,2020/04/07,2020/04/05,si,Point,-68.09989063678186,-16.499045076830242
+Feature,18,Plaza Riosinio,Av. Armentia,Mercado Movil,PERIFERICA,11,Zona Norte,,2020/04/11,2020/04/11,no,Point,-68.13563562380692,-16.491503912098917
+Feature,19,Almirante Grau,Irpavi calle 5,Mercado Movil,SUR,18,Irpavi,,2020/04/11,2020/04/11,si,Point,-68.08741077845777,-16.524201085944373
+Feature,20,18 de obrajes,obrajes calle 18,Mercado Movil,SUR,21,Obrajes,,2020/04/11,2020/04/11,si,Point,-68.10841316981976,-16.527139115122893
+Feature,21,Universidad Saleciana,"Av. Chacaltaya, Altura Universidad Saleciana",Mercado Movil,PERIFERICA,11,Achachicala,,2020/04/15,2020/04/14,si,Point,-68.1500920116876,-16.477503638912125
+Feature,22,Cupilupaca,"Av. Periferica, Zona Cupilupaca",Mercado Movil,PERIFERICA,12,Cupilupaca,,2020/04/15,2020/04/14,si,Point,-68.13011756470874,-16.479604539887518
+Feature,23,Hogares Fatima,Zona Hogares Fatima,Mercado Movil,PERIFERICA,13,La Mercéd,,2020/04/15,2020/04/14,si,Point,-68.11801525417106,-16.46943642640538
+Feature,24,Plaza El Condor,"Av. Landaeta, media cuadra mas arriba de la plaza el condor",Mercado Movil,COTAHUMA,3,Sopocachi Alto,,2020/04/15,2020/04/14,si,Point,-68.13604759640172,-16.509500690501007
+Feature,25,San Lorenzo,"Av. San Lorenzo, Sede Social",Mercado Movil,MAX PAREDES,10,Alto Pura Pura San Sebastián,,2020/04/16,2020/04/14,si,Point,-68.15111127797539,-16.446718517735786
+Feature,26,Plaza Andrew,Plaza Andrew,Mercado Movil,COTAHUMA,3,Sopocachi Alto,,2020/04/16,2020/04/14,si,Point,-68.13585008440134,-16.51114499179944
+Feature,27,Av. Mario Mercado,"Av. Mario Mercado, frente a la UE Hugo Chavez",Mercado Movil,COTAHUMA,4,Bajo Llojeta,,2020/04/16,2020/04/14,si,Point,-68.12657627842744,-16.531480524566405
+Feature,28,Tres Fuerzas,Av. Alexander,Mercado Movil,SUR,18,Achumani Porvenir Kantutas,,2020/04/17,2020/04/14,si,Point,-68.07398091513133,-16.53586007425806
+Feature,29,Virgen de La Merced,,Mercado Movil,SUR,18,Cota Cota,,2020/04/17,2020/04/14,si,Point,-68.06975556388599,-16.541535818871903
+Feature,30,Alto Obrajes,Alto Obrajes Sector D,Mercado Movil,SUR,21,Alto Obrajes,,2020/04/17,2020/04/14,si,Point,-68.1029624157892,-16.520016512021222
+Feature,31,Bajo Seguencoma,Bajo Seguencoma,Mercado Movil,SUR,21,Següencoma Bajo,,2020/04/17,2020/04/14,si,Point,-68.09588988120444,-16.540132163710812

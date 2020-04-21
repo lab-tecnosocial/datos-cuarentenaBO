@@ -1,0 +1,246 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 9,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "puntosverdes.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08736085,
+                    -16.524059
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B. Plaza Almirante Grau - Irpavi",
+                "Direccion": "Plaza Almirante Grau Calle 5 Irpavi",
+                "Zona": "Irpavi",
+                "Este": "598907.28",
+                "Sur": "8172090.54",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:21:47.490Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09158008,
+                    -16.54185761
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B. Plaza Humboldt",
+                "Direccion": "Av. Arequipa Esq. Calle 8",
+                "Zona": "",
+                "Este": "596930.44",
+                "Sur": "8170907.04",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:30:28.327Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07767838,
+                    -16.53921535
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B. Iglesia San Miguel",
+                "Direccion": "Av. Ballivian Esq. Calle 21",
+                "Zona": "",
+                "Este": "598415.23",
+                "Sur": "8171192.61",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:30:56.503Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12680282,
+                    -16.51063509
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B  Plaza Abaroa",
+                "Direccion": "Av. 20 de Octubre y Esq. Belisario Salinas",
+                "Zona": "",
+                "Este": "593186.82",
+                "Sur": "8174377.85",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:31:33.633Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14137567,
+                    -16.51364621
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B  Estadio Bolivar",
+                "Direccion": "Esq. Alberto Ostria y Jaymes Freyre",
+                "Zona": "",
+                "Este": "591630.10",
+                "Sur": "8174051.41",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:31:56.693Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15076422,
+                    -16.4920229
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B  Huallparrimachi",
+                "Direccion": "Esq. J.M. Asin y Republica",
+                "Zona": "",
+                "Este": "590638.19",
+                "Sur": "8176447.84",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:33:13.027Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11602908,
+                    -16.49664286
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "P.V.B  Niño Jesus",
+                "Direccion": "Plaza Niño Jesús Villa San Antonio",
+                "Zona": "",
+                "Este": "594252.53",
+                "Sur": "8176017.69",
+                "Tipo": "Punto de Recoleccion Barrial",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 15,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T15:59:42.957Z",
+                "observaciones": "Los Puntos Verdes Barriales funcionan los dias Domingos de 9:00 a 13:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12808414,
+                    -16.55252616
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Relleno sanitario de Alpacoma",
+                "Direccion": "Calle Alpacoma Entrada al relleno sanitario de Alpacoma",
+                "Zona": "",
+                "Este": "593030.00",
+                "Sur": "8169744.00",
+                "Tipo": "Planta de Clasificacion",
+                "TipoActividad": "Clasificacion por tipologia de Residuos  Solidos Reciclables Inorganicos",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:38:59.297Z",
+                "observaciones": "La Planta de Clasificion trabaja de Lunes a Jueves de 8:30 a 16:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "puntosverdes.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12601271,
+                    -16.50468271
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Predio en propiedad Municipal",
+                "Direccion": "Av. Del Poeta casi esquina calle Montevideo",
+                "Zona": "",
+                "Este": "593274.00 ",
+                "Sur": "8175036.00",
+                "Tipo": "PUNTO VERDE CENTRAL",
+                "TipoActividad": "Acopio de materiales inorganicos reciclables(plasticos en sus diferentes gamas, carton , papel, latas de aluminio, vidrio, RAEES)",
+                "distrito": 0,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-09T19:39:01.703Z",
+                "observaciones": "El Punto Verde central, funciona de Lunes a Viernes de 8:00 a 12:00 y de 14:30 a 18:30"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

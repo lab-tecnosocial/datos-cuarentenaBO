@@ -1,0 +1,658 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 34,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1311,
+                    -16.4957
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "GAS CENTRO",
+                "Direccion": "LOAYZA E INDABUROI",
+                "CodMacro": "7",
+                "CodDistrito": "1",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1165,
+                    -16.4981
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "RACING GAS SRL EXANGELITA",
+                "Direccion": "LA PAZ CALLE VENEZUELA N 22 ZONA VILLA SAN ANTONIO BAJO",
+                "CodMacro": "4",
+                "CodDistrito": "15",
+                "Macrodistrito": "SAN ANTONIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1281,
+                    -16.4961
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "MOTORECO SRL MOTORIZACION ECOLOGICA SRL",
+                "Direccion": "CALLE SUCRE N 1597 ZONA CENTRAL",
+                "CodMacro": "3",
+                "CodDistrito": "11",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1455,
+                    -16.4829
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "CRISTO AUTOGAS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+                "Direccion": "AVENIDA CHACALTAYA NRO804 ZONA ACHACHICALA",
+                "CodMacro": "3",
+                "CodDistrito": "11",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.138,
+                    -16.5153
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO JAIMES FREYRE",
+                "Direccion": "LA PAZ C JAIMES FREYRE 840 ZONA COTAHUMA",
+                "CodMacro": "1",
+                "CodDistrito": "4",
+                "Macrodistrito": "COTAHUMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0875,
+                    -16.539
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "AUTOMOVIL CLUB BOLIVIANO CALACOTO",
+                "Direccion": "CALACOTO CALLE 12 ESQ GRAL INOFUENTES N 7823",
+                "CodMacro": "5",
+                "CodDistrito": "19",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0571,
+                    -16.5397
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO CHASQUIPAMPA SRL",
+                "Direccion": "COTACOTA AVMUOZ REYES ESQUINA CALLE 35 NSN",
+                "CodMacro": "5",
+                "CodDistrito": "19",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1199,
+                    -16.5151
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "AUTOMOVIL CLUB BOLIVIANO SAN JORGE",
+                "Direccion": "SAN JORGE AV 6 DE AGOSTO 2993",
+                "CodMacro": "7",
+                "CodDistrito": "1",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1006,
+                    -16.5294
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "CARBURANTES DEL SUR SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+                "Direccion": "CALLE 17 DE OBRAJES ESQUINA AVENIDA 14 DE SEPTIEMBRE NÂº 40 - ZONA OBRAJES",
+                "CodMacro": "5",
+                "CodDistrito": "21",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.071,
+                    -16.4292
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO CHALY",
+                "Direccion": "LA PAZ AVENIDA RAMIRO CASTILLO N 20 ZONA URUJARA",
+                "CodMacro": "3",
+                "CodDistrito": "13",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.079,
+                    -16.436
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "EESS MARANATHA",
+                "Direccion": "DIRECCION DE PRUEBA",
+                "CodMacro": "3",
+                "CodDistrito": "13",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.095,
+                    -16.5627
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "SALIDA LTDA",
+                "Direccion": "LA PAZ AV ALTAMIRANO NRO3 UV SN MZNO SN ZONA MALLASILLA",
+                "CodMacro": "6",
+                "CodDistrito": "20",
+                "Macrodistrito": "MALLASA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0765,
+                    -16.545
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESUR GHS LTDA",
+                "Direccion": "LA PAZ 21 CALACOTO NO 8475 ZONA CALACOTO",
+                "CodMacro": "5",
+                "CodDistrito": "19",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1186,
+                    -16.4969
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "EMPRESA COMERCIALIZADORA SERVICIO A FULL SRL SERVIFULL SRL",
+                "Direccion": "LA PAZ PASOSKANKI PDO BRASIL N 1650 ZONA MIRAFLORES",
+                "CodMacro": "7",
+                "CodDistrito": "2",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1212,
+                    -16.5038
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "SIEMPRE A FULL MIRAFLORES SRL",
+                "Direccion": "PLAZA SAN MARTIN NO 1313 Z MIRAFLORES",
+                "CodMacro": "7",
+                "CodDistrito": "2",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1211,
+                    -16.4889
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO KANTUTA",
+                "Direccion": "AVENIDA BUSCH ESQ CALLE HONDURAS N 885 ZONA MIRAFLORES",
+                "CodMacro": "7",
+                "CodDistrito": "2",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0704,
+                    -16.6009
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "SURTIDORES UNITOURS LTDA",
+                "Direccion": "LA PAZ AV PRINCIPAL NRO SN ZONA JUPAPINA",
+                "CodMacro": "6",
+                "CodDistrito": "20",
+                "Macrodistrito": "MALLASA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1058,
+                    -16.5004
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "SOCIEDAD INDUSTRIAL COMERCIALIZADORA Y EXPORTADORA GLPH LTDA",
+                "Direccion": "LA PAZ AV CIRCUNVALACION ESQUINA CALLE VARGAS N 51 ZONA PAMPAHASI",
+                "CodMacro": "4",
+                "CodDistrito": "16",
+                "Macrodistrito": "SAN ANTONIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1118,
+                    -16.5268
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO COSTANERA SRL",
+                "Direccion": "AVENIDA COSTANERITA CALLE N 5 N 333 ZONA OBRAJES",
+                "CodMacro": "5",
+                "CodDistrito": "21",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1401,
+                    -16.4913
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIOS VOLCAN SRL",
+                "Direccion": "AV MONTES ESQ PANDO NO 101 ZONA SAN SEBASTIAN",
+                "CodMacro": "7",
+                "CodDistrito": "1",
+                "Macrodistrito": "CENTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.125,
+                    -16.514
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "EMPRESA COMERCIALIZADORA DE HIDROCARBUROS TUPAC KATARI S.R.L.",
+                "Direccion": "C/ SANCHEZ LIMA NÂº 100 Z/ SOPOCACHI",
+                "CodMacro": "1",
+                "CodDistrito": "3",
+                "Macrodistrito": "COTAHUMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0358,
+                    -16.6534
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "TERRAGAS LASCARRERAS",
+                "Direccion": "MECAPACA KM 17 ZONA LAS CARRERAS",
+                "CodMacro": null,
+                "CodDistrito": null,
+                "Macrodistrito": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1137,
+                    -16.4678
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO JACHA INTI",
+                "Direccion": "LA PAZAVRAMIRO CASTILLO NO 40 ZONA VILLA EL CARMEN",
+                "CodMacro": "3",
+                "CodDistrito": "13",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0999,
+                    -16.4561
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "GASMAY SRL",
+                "Direccion": "LA PAZ AV LA PAZ CARRETERA A YUNGAS NRO 8 ZONA CHUQUIAGUILLO",
+                "CodMacro": "3",
+                "CodDistrito": "13",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1365,
+                    -16.5019
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "YUPANQUI QUISPE MARCOS",
+                "Direccion": "LA PAZGENERAL GONZALES NRO 1317 Z SAN PEDRO",
+                "CodMacro": "1",
+                "CodDistrito": "6",
+                "Macrodistrito": "COTAHUMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1736,
+                    -16.5721
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO LOS ROSALES",
+                "Direccion": "ACHOCALLA CARRETERA PRINCIPAL Nro 77 ZONA BOLIVAR",
+                "CodMacro": null,
+                "CodDistrito": null,
+                "Macrodistrito": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.115,
+                    -16.5219
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "EESS BASSAM",
+                "Direccion": "DIRECCION",
+                "CodMacro": "5",
+                "CodDistrito": "21",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1394,
+                    -16.491
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "YPFB URUGUAY",
+                "Direccion": "NORTE MONTES ESQ URUGUAY MONTES ESQ URUGUAY 539",
+                "CodMacro": "3",
+                "CodDistrito": "11",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1523,
+                    -16.4985
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ENTRE RIOS YPFB",
+                "Direccion": "ENTRE RIOSTEJAR ENTRES RIOS MEJILLONES 1349",
+                "CodMacro": "2",
+                "CodDistrito": "8",
+                "Macrodistrito": "MAX PAREDES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1306,
+                    -16.4867
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "YPFB PERIFERICA",
+                "Direccion": "AV PERIFERICA ESQ CALLE LITORAL",
+                "CodMacro": "3",
+                "CodDistrito": "12",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1309,
+                    -16.4866
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO GNV COSMOS 79",
+                "Direccion": "DIRECCION DE PRUEBA",
+                "CodMacro": "3",
+                "CodDistrito": "12",
+                "Macrodistrito": "PERIFERICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.134,
+                    -16.5043
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "YPFB SAN PEDRO LA PAZ",
+                "Direccion": "SAN PEDRO 20 DE OCTUBRE 20 DE OCTUBRE Y SANTOS MACHICADO 434",
+                "CodMacro": "1",
+                "CodDistrito": "6",
+                "Macrodistrito": "COTAHUMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0751,
+                    -16.5394
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "CALACOTO YPFB",
+                "Direccion": "CALACOTO BALLIVIAN AV BALLIVIAN NRO 80 80",
+                "CodMacro": "5",
+                "CodDistrito": "19",
+                "Macrodistrito": "SUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesservicio.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.101,
+                    -16.5307
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Nombre": "ESTACION DE SERVICIO SEGUENCOMA SRL",
+                "Direccion": "AV COSTANERA 100 BARRIO BAJO SEGUENCOMA",
+                "CodMacro": "5",
+                "CodDistrito": "21",
+                "Macrodistrito": "SUR"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "gid": "1",
+        "nombre": "Centro Cultural Villa 1ro de Mayo",
+        "distrito": "7",
+        "uv": "86",
+        "mz": "EQ",
+        "barrio": "B\/Villa 1ro de Mayo",
+        "direccion": "C\/ 3 Oste",
+        "auditorio": "1",
+        "sala_expo": "1",
+        "salon_mult": "1",
+        "aul_aprend": "6",
+        "escenario": "1",
+        "camerino": "1",
+        "area_espar": "1",
+        "area_servi": "Bateria de ba\u00f1os",
+        "sup_constr": "2.037,19 m2",
+        "point_x": "485421.744777",
+        "point_y": "8032689.10701"
+    }
+]

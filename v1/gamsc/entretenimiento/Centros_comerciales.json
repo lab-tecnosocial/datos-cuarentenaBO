@@ -1,0 +1,92 @@
+[
+    {
+        "gid": "1",
+        "nombre": "Las Brisas Centro Comercial",
+        "direccion": "Av. Cristo Redentor y, Santa Cruz de la Sierra",
+        "point_x": "-63.1759406000",
+        "point_y": "-17.7492126000",
+        "geom": "01010000C0E884B93885964FC040C09E65CCBF31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "2",
+        "nombre": "Centro Comercial Ventura Mall",
+        "direccion": "Cuarto Anillo, Santa Cruz de la Sierra",
+        "point_x": "-63.1995553000",
+        "point_y": "-17.7544244000",
+        "geom": "01010000C0289F2F078B994FC0E04D1DF521C131C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "3",
+        "nombre": "Centro Comercial Norte",
+        "direccion": "3er anillo ,entre av.Mutualista y, Av Alemania, Santa Cruz de la Sierra",
+        "point_x": "-63.1656062000",
+        "point_y": "-17.7612760000",
+        "geom": "01010000C0E0817E9532954FC0C03AE3FBE2C231C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "4",
+        "nombre": "Shopping NEVAL",
+        "direccion": "Av. Roque Aguilera, Santa Cruz de la Sierra",
+        "point_x": "-63.2051115000",
+        "point_y": "-17.7910941000",
+        "geom": "01010000C04844F817419A4FC0F08E972485CA31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "5",
+        "nombre": "Centro Comercial Chiriguano",
+        "direccion": "Av. Radial 19 3er. Anillo Interno Externo, Santa Cruz de la Sierra",
+        "point_x": "-63.2055678000",
+        "point_y": "-17.7906034000",
+        "geom": "01010000C0280EB10B509A4FC0301B03FC64CA31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "6",
+        "nombre": "Patio Design Lifestyle Center",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.2018724000",
+        "point_y": "-17.7716138000",
+        "geom": "01010000C080FB6DF4D6994FC06024647B88C531C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "7",
+        "nombre": "Centro Comercial Ca\u00f1oto",
+        "direccion": "Buenos Aires, Santa Cruz de la Sierra",
+        "point_x": "-63.1897747000",
+        "point_y": "-17.7806156000",
+        "geom": "01010000C0D80D91894A984FC050BF886CD6C731C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "8",
+        "nombre": "Garota Pink Centro Comercial Norte Pasillo 1 local 21",
+        "direccion": "Nte Interno",
+        "point_x": "-63.1658894000",
+        "point_y": "-17.7613779000",
+        "geom": "01010000C060E025DD3B954FC0A0657CA9E9C231C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "9",
+        "nombre": "Centro Comercial Los Pozos",
+        "direccion": "Calle Quijarro entre Suarez Arana, 6 de Agosto y, Santa Cruz de la Sierra",
+        "point_x": "-63.1777622000",
+        "point_y": "-17.7785369000",
+        "geom": "01010000C080BB69E9C0964FC0A03ABC314EC731C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "10",
+        "nombre": "Ventura Mall",
+        "direccion": "Calle Rosa Carm\u00edn & Calle 4 & Calle 2 & Calle 1, Santa Cruz de la Sierra, Calle Rosa Carm\u00edn, Santa Cruz de la Sierra",
+        "point_x": "-63.1997923000",
+        "point_y": "-17.7545528000",
+        "geom": "01010000C0083F49CB92994FC0E01A4F5F2AC131C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    }
+]

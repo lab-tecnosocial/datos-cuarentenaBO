@@ -1,0 +1,207 @@
+gid,telefono,nombre,dependencia,dm,uv,mz,direccion,capacidad,servicio,categoria,red,horario,referencia,point_x,point_y
+3,‎+591 3 3621402,HOSPITAL PLAN 3000,GAMSCS,8,162,EQ,B/ Piraicito Av. Prefectural Diagonal Mercado Los Pocitos A 2 Cuadras De La Av. Paurito,0,"<b>Consulta Externa,</b><br>
+Cirugía, Medicina interna,  Pediatría, Ginecología - Obstetricia,  Urología, Nefrología,  Cardiología,  Traumatología, Psicología, Psiquiatría, Oftalmología, Vacunas, Odontología.<br>
+<b>Atención de emergencia</b><br>
+Medicina general, Cirugía general, Ginecología - Obstetricia, Medicina interna, Pediatría, Traumatología.<br>
+<b>Servicios de internación,</b><br>
+Cirugía, Medicina interna, Pediatría, Ginecología - Obstetricia, Neonatología, UCI, Sala de parto<br>
+<b>Servicios Quirúrgicos,</b><br>
+Cirugía general, Urología, Traumatología, Ginecología.<br>
+<b>Servicios de Diagnóstico </b><br>
+Rayos X, Tomografía, Ecografía, Mamografía, Densitometría, Laboratorios, Monitoreo Fetal, Papanicolaou.
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia, Servicio de hemodiálisis, Fisioterapia, Unidad Transfusional.",2,ESTE,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.1100058469,-17.8391450394
+4,+591 3 3518973,HOSPITAL FRANCÉS,GAMSCS,9,129,EQ,"Av. Santos Dumont 6to anillo, B/Paititi C/1 entre C/ Mático y C/1",10,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna, 
+Pediatría, 
+Ginecología - Obstetricia, 
+Urología, 
+Nefrología, 
+Cardiología, 
+Traumatología, 
+Psicología, 
+Psiquiatría,
+Oftalmología, 
+Vacunas.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Cirugía general, 
+Ginecología - Obstetricia, 
+Medicina interna, 
+Pediatría, 
+Traumatología.
+
+<br><b>Servicios de internación</b><br>
+Cirugía, 
+Medicina interna, 
+Pediatría,
+Ginecología - Obstetricia,
+Neonatología, 
+UCI, 
+Sala de parto.
+
+<br><b>Servicios Quirúrgicos</b><br>
+Cirugía general, 
+Urología, 
+Traumatología, 
+Ginecología.
+
+<br><b>Servicios de Diagnóstico</b><br> 
+Rayos X,
+Tomografía, 
+Ecografía, 
+Mamografía, 
+Densitometría, 
+Laboratorios, 
+Monitoreo Fetal, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia,
+Servicio de hemodiálisis,
+Fisioterapia, 
+Unidad Transfusional.",2,SUR,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.1891097167,-17.8548050981
+2,800121700,HOSPITAL VILLA 1ro DE MAYO,GAMSCS,7,ET36,UM3,7mo anillo entre Cumavi y Av. 3 pasos al frente. B/ Libertad Av.  La Tradición A Una Cuadra De La Av. Libertadores,0,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina interna,
+Pediatría,
+Ginecología - Obstetricia, 
+Urología,
+Nefrología,
+Cardiología,
+Traumatología,
+Oftalmología, 
+Vacunas,
+Neurología,
+Odontología.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Cirugía general, 
+Ginecología - Obstetricia, 
+Medicina interna, 
+Pediatría, 
+Traumatología.
+
+<br><b>Servicios de internación</b><br>
+Cirugía, 
+Medicina interna, 
+Pediatría,
+Ginecología - Obstetricia,
+Neonatología, 
+UCI, 
+Sala de parto.
+
+<br><b>Servicios Quirúrgicos</b><br>
+Cirugía general, 
+Urología, 
+Traumatología, 
+Ginecología.
+
+<br><b>Servicios de Diagnóstico</b><br>
+Rayos X,
+Tomografía, 
+Ecografía, 
+Mamografía, 
+Densitometría, 
+Laboratorios, 
+Monitoreo Fetal, 
+Papanicolaou.
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia,
+Servicio de hemodiálisis,
+Fisioterapia, 
+Unidad Transfusional.",2,ESTE,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.1183210931,-17.7995595505
+6, ,HOSPITAL OBRERO 400 CAMAS,CNS,2,ET4,ET4, ,0, ,2, ,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.1573980436,-17.7671960837
+1,‎+591 3 3494008,HOSPITAL PAMPA DE LA ISLA,GAMSCS,6,198,ET 57,B/ Bolinter Av. Montecristo A 5 Cuadras De La Av. Los Chacos,0,"<b>Consulta Externa</b><br>
+Pediatría,
+Genealogía - Obstetricia,
+Nefrología,
+Cardiología,
+Traumatología,
+Fisioterapia,
+Odontología,
+Geriatría.
+
+<br><b>Atención de emergencia</b><br>
+Medicina General,
+Cirugía general,
+Pediatría, 
+Ginecología – Obstetricia.
+
+<br><b>Servicios de Internación</b><br>
+Pediatría,
+Ginecología - Obstetricia,
+
+<br><b>Servicios Quirúrgicos</b><br>
+Ginecología.
+
+<br><b>Servicios de Diagnóstico</b><br> 
+Rayos X,
+Tomografía, 
+Ecografía, 
+Mamografía, 
+Laboratorios, 
+Monitoreo Fetal, 
+Papanicolaou. 
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia,
+Servicio de hemodiálisis.",2,NORTE,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.1071752061,-17.7594904029
+5,+591 3 3555008,HOSPITAL EL BAJÍO DEL ORIENTE,GAMSCS,10,118,EQ,B/ Urb. Santa Cruz Av. Simon Bolivar Calle Eslovaquia A 2 Cuadras Del 6To Anillo.,0,"<b>Consulta Externa</b><br>
+Cirugía,
+Medicina Interna,
+Pediatría,
+Ginecología - Obstetricia,
+Urología,
+Nefrología,
+Cardiología,
+Endocrinología,
+Geriatría,
+Oftalmología,
+Fisioterapia,
+Neumología,
+Traumatología,
+Odontología.
+
+<br><b>Atención de emergencia</b><br>
+Medicina general, 
+Cirugía general, 
+Ginecología - Obstetricia, 
+Medicina interna, 
+Pediatría, 
+Traumatología. 
+
+<br><b>Servicios de internación</b><br>
+Cirugía, 
+Medicina interna, 
+Pediatría,
+Ginecología - Obstetricia,
+Neonatología, 
+UCI, 
+Sala de parto.
+
+<br><b>Servicios Quirúrgicos</b><br>
+Cirugía general, 
+Urología, 
+Traumatología, 
+Ginecología. 
+
+<br><b>Servicios de Diagnóstico</b><br> 
+Rayos X,
+Tomografía, 
+Ecografía, 
+Mamografía, 
+Densitometría, 
+Laboratorios, 
+Monitoreo Fetal, 
+Papanicolaou. 
+
+<br><b>Servicios complementarios</b><br>
+Servicio de farmacia,
+Servicio de hemodiálisis,
+Fisioterapia, 
+Unidad Transfusional.",2,SUR,24 Horas,2 NIVEL HOSPITAL DE 24 HORAS,-63.2094327328,-17.8320555973

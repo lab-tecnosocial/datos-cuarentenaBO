@@ -1,0 +1,782 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 31,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "supermercados.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13632146,
+                    -16.4946219
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CECOM S.R.L.",
+                "Direccion": "C. Comercio # 830",
+                "Zona": "CENTRAL",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 1",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-06-16T19:37:54.863Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08663115,
+                    -16.53356845
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Rafael Pabón",
+                "Zona": "Irpavi",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 18",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T21:14:16.410Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07013005,
+                    -16.54577693
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. José María Aguirre Achá # 85",
+                "Zona": "LOS PINOS",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-13T23:16:37.907Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07822085,
+                    -16.54279094
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Andy´s",
+                "Direccion": "Av. Montenegro # 874",
+                "Zona": "San Miguel",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-07-25T23:13:11.527Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07198423,
+                    -16.53450726
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Alexander # 108",
+                "Zona": "Achumani",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 18",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2017-10-04T18:51:10.720Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12788989,
+                    -16.50948379
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "C. Rosendo Gutierrez # 469",
+                "Zona": "Sopocachi",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 3",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T19:26:02.733Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12340978,
+                    -16.51045528
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Arce # 2588 Esq. C. Pinilla",
+                "Zona": "Sopocachi",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 1",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T19:27:24.137Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12114385,
+                    -16.50254307
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Busch # 1994",
+                "Zona": "Miraflores",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 2",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T19:32:54.217Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.129005,
+                    -16.51454482
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Pza. España Esq. C. Méndez Arcos # 710",
+                "Zona": "Sopocachi",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 3",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T19:34:47.277Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06210725,
+                    -16.51888244
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. Strongest # 100",
+                "Zona": "ACHUMANI",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 18",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-06-16T19:40:18.667Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10340087,
+                    -16.52851469
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hipermaxi S.A.",
+                "Direccion": "Av. 14 de Septiembre # 6020",
+                "Zona": "Obrajes",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 21",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2017-10-04T18:43:48.043Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08388494,
+                    -16.53934517
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "Av. Ballivián # 7967",
+                "Zona": "calacoto",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-13T23:16:59.300Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10705941,
+                    -16.52659001
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Súper 10",
+                "Direccion": "Av. H. Siles # 455 Esq. C. 10",
+                "Zona": "Obrajes",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 21",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T20:13:03.240Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.14",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Nova Shop Inversiones S.R.L.",
+                "Direccion": "C. Sánchez Lima # 2398",
+                "Zona": "SOPOCACHI",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 3",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13592972,
+                    -16.5017601
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. Almirante Grau # 349",
+                "Zona": "SAN PEDRO",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 6",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-06-03T00:40:04.153Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10201369,
+                    -16.52891707
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. 16 # 460",
+                "Zona": "Obrajes",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 21",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T20:21:39.070Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07801838,
+                    -16.5403161
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. 21",
+                "Zona": "Calacoto",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T20:24:26.203Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.18",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ketal S.A.",
+                "Direccion": "C. 19 Esq. Av. Max Fernández # 16",
+                "Zona": "BAJO LLOJETA",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 4",
+                "distrito": 0,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-06-22T16:07:00.673Z",
+                "observaciones": "No atiende, es solo la panaderia central y almacenes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.19",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Venta por Mayor de Variedad de Productos",
+                "Direccion": "C. Capitán Víctor Ustáriz # 1489",
+                "Zona": "VILLA PABON (PERIFERICA)",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "PERIFERICA",
+                "DistritoVarchar": "DISTRITO 11",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.20",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Súper Mercado",
+                "Direccion": "Av. Ballivián # 7991",
+                "Zona": "CALACOTO",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12790413,
+                    -16.51050963
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fidalga",
+                "Direccion": "Av. Sánchez Lima # 2362",
+                "Zona": "Sopocachi",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "COTAHUMA",
+                "DistritoVarchar": "DISTRITO 3",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T20:38:31.470Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.22",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Venta de Productos",
+                "Direccion": "C. 23 # 7676",
+                "Zona": "CALACOTO",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "SUR",
+                "DistritoVarchar": "DISTRITO 19",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1224613,
+                    -16.50190275
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fidalga",
+                "Direccion": "Av. Saavedra # 1963",
+                "Zona": "Miraflores",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 2",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T20:49:21.757Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12418954,
+                    -16.50776135
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fidalga",
+                "Direccion": "C. Capitán Ravel # 2441",
+                "Zona": "Sopocachi Bajo",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 1",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-13T23:17:20.600Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13909443,
+                    -16.49341025
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Salvadora Hermanos S.R.L.",
+                "Direccion": "Pza. Alonso de Mendoza # 569",
+                "Zona": "SAN SEBASTIAN",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "CENTRO",
+                "DistritoVarchar": "DISTRITO 1",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-06-22T16:08:23.057Z",
+                "observaciones": "No es supermercado, vende vajillas, globos, menaje del hogar."
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14317555,
+                    -16.49622518
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Salvadora Hermanos S.R.L.",
+                "Direccion": "Psj Adolfo Ortega # 670",
+                "Zona": "14 de Septiembre",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENT.P/MAYOR DE VARIE.DE PROD.S/ESPECIAL.SUPERMER",
+                "MacroDistrito": "MAX PAREDES",
+                "DistritoVarchar": "DISTRITO 7",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T21:03:13.557Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.27",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Zhonghua",
+                "Direccion": "C. Matías Terrazas # 17",
+                "Zona": "VILLA FATIMA",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "PERIFERICA",
+                "DistritoVarchar": "DISTRITO 13",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12007137,
+                    -16.47779073
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la China",
+                "Direccion": "Av. Las Américas # 343",
+                "Zona": "Villa Fatima",
+                "Tipo": "Comercio y Servicios",
+                "ActividadEconomica": "VENTA POR MAYOR Y MENOR DE PRODUCTOS  (SUPERMERCADOS)",
+                "MacroDistrito": "PERIFERICA",
+                "DistritoVarchar": "DISTRITO 13",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-06T21:09:44.033Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07255631,
+                    -16.53119431
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Andy´s",
+                "Direccion": "Av. Garcia Lanza #4",
+                "Zona": "ACHUMANI",
+                "Tipo": null,
+                "ActividadEconomica": null,
+                "MacroDistrito": null,
+                "DistritoVarchar": null,
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2017-10-04T19:00:28.047Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10070391,
+                    -16.5298352
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Andy´s",
+                "Direccion": "C. 17",
+                "Zona": "OBRAJES",
+                "Tipo": null,
+                "ActividadEconomica": null,
+                "MacroDistrito": null,
+                "DistritoVarchar": null,
+                "distrito": 21,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-07-25T23:18:29.910Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "supermercados.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13248614,
+                    -16.49668647
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fidalga",
+                "Direccion": "C. Colón # 570",
+                "Zona": "CENTRAL",
+                "Tipo": null,
+                "ActividadEconomica": null,
+                "MacroDistrito": null,
+                "DistritoVarchar": null,
+                "distrito": 1,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-07-26T15:27:25.450Z",
+                "observaciones": "ZZZ"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

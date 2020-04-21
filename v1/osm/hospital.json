@@ -1,0 +1,3061 @@
+[
+ {
+   "amenity": "hospital",
+   "name": "Hospital Camiri",
+   "latitude": -20.0360771,
+   "longitude": -63.528736,
+   "addr:street": "Camiri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -20.0418707,
+   "longitude": -63.5155784,
+   "addr:street": "Camiri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. San Juan de Dios",
+   "latitude": -17.084742,
+   "longitude": -66.8198271,
+   "addr:street": "Independencia"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Posta de Salud Villa Tunari",
+   "latitude": -16.9713685,
+   "longitude": -65.4185804,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Rodeo Chico",
+   "latitude": -17.6505895,
+   "longitude": -65.1806094,
+   "addr:street": "Rodeo Chico"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS de Moya Pampa",
+   "latitude": -17.714189,
+   "longitude": -65.2071171,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Antakawa",
+   "latitude": -17.8730791,
+   "longitude": -65.1382289,
+   "addr:street": "Anta Qhawa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Sauce Pila Pata",
+   "latitude": -17.8428134,
+   "longitude": -65.0725234,
+   "addr:street": "Sauce Pila Pata"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Pataicuna",
+   "latitude": -17.3834513,
+   "longitude": -65.1339917,
+   "addr:street": "Pataicuna"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Pro Salud La Madre",
+   "latitude": -17.7904753,
+   "longitude": -63.2106758,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Tejawasi (1er Nivel)",
+   "latitude": -17.8094911,
+   "longitude": -65.2260518,
+   "addr:street": "Tika Pampa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Japones",
+   "latitude": -17.7729979,
+   "longitude": -63.1545521,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Japonés",
+   "latitude": -17.2179404,
+   "longitude": -62.8945944,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Seguro Social Universitario",
+   "latitude": -16.5119648,
+   "longitude": -68.1237096,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital General - Hospital Municipal Alfonso Gumucio R.",
+   "latitude": -17.3406836,
+   "longitude": -63.2512831,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Clinica Norte",
+   "latitude": -17.3511899,
+   "longitude": -63.2511513,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Valle Sacta",
+   "latitude": -17.1192148,
+   "longitude": -64.7695485,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Chimeo",
+   "latitude": -21.188771,
+   "longitude": -63.4377809,
+   "addr:street": "Chimeo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Ipa",
+   "latitude": -21.060965,
+   "longitude": -63.4166876,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Puesto Garcia (1er Nivel)",
+   "latitude": -21.1301648,
+   "longitude": -63.3977334,
+   "addr:street": "Puesto Garcia"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Valle del Medio",
+   "latitude": -21.6030314,
+   "longitude": -64.1501596,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Torno Kasa (1er Nivel)",
+   "latitude": -17.9687874,
+   "longitude": -65.9973278,
+   "addr:street": "Torno Ckasa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Collpa Uno (1er Nivel)",
+   "latitude": -20.9243122,
+   "longitude": -65.5678347,
+   "addr:street": "Collpa Uno"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Lequepalca",
+   "latitude": -17.6294206,
+   "longitude": -66.9556258,
+   "addr:street": "Leque Palca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Rafael Pabón",
+   "latitude": -17.981638,
+   "longitude": -67.1049447,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Chacopampa",
+   "latitude": -21.5427962,
+   "longitude": -65.7758895,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Chipihuayco",
+   "latitude": -21.8050786,
+   "longitude": -65.8171372,
+   "addr:street": "Chipihuayco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Pelca (1er Nivel)",
+   "latitude": -20.0442814,
+   "longitude": -66.1680005,
+   "addr:street": "Estancia Pelca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Viluyo",
+   "latitude": -21.5263381,
+   "longitude": -66.3408267,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Metodista",
+   "latitude": -16.526997,
+   "longitude": -68.1047799,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Biblioteca (1er Nivel)",
+   "latitude": -16.5048616,
+   "longitude": -68.1497841,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Barrios Mineros",
+   "latitude": -17.9538713,
+   "longitude": -67.1173977,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.9623136,
+   "longitude": -67.1106406,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Clinica Virgen de Fatima",
+   "latitude": -17.8151266,
+   "longitude": -63.1991973,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Tiquipaya",
+   "latitude": -17.337096,
+   "longitude": -66.217684,
+   "addr:street": "Tiquipaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Policlínico Manuel Ascencio Villarroel",
+   "latitude": -17.3939176,
+   "longitude": -66.1584453,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Cordes",
+   "latitude": -17.3764324,
+   "longitude": -66.162835,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "ProSalud",
+   "latitude": -17.3647362,
+   "longitude": -66.1792204,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "San Vicente de Paul",
+   "latitude": -17.3877021,
+   "longitude": -66.1587326,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Clínica María de los Ángeles",
+   "latitude": -17.3833722,
+   "longitude": -66.1490961,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -17.3928562,
+   "longitude": -66.1542563,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Pro Salud",
+   "latitude": -16.4937043,
+   "longitude": -68.2086689,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital del Sur",
+   "latitude": -16.5262024,
+   "longitude": -68.223469,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital 3 de noviembre",
+   "latitude": -14.9933049,
+   "longitude": -65.6417354,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Vinarasirare",
+   "latitude": -14.9945122,
+   "longitude": -65.641156,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Consejo de Salud Rural Andino - Centro de Salud Villa Cochabamba",
+   "latitude": -17.337384,
+   "longitude": -63.2486638,
+   "addr:street": "Montero"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Fundación Rosa Vera - La Escuelita Mi Hogar",
+   "latitude": -17.3365927,
+   "longitude": -63.2695748,
+   "addr:street": "Montero"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Plan 3000",
+   "latitude": -17.8391327,
+   "longitude": -63.1094329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Francés",
+   "latitude": -17.8548202,
+   "longitude": -63.1897168,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Bajío del Oriente",
+   "latitude": -17.8321153,
+   "longitude": -63.2092698,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Padcoyo",
+   "latitude": -20.2365211,
+   "longitude": -65.1549176,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Huancane",
+   "latitude": -16.3782692,
+   "longitude": -67.5362355,
+   "addr:street": "Huancane"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -18.3333408,
+   "longitude": -59.7467397,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Aranjuez",
+   "latitude": -17.3822715,
+   "longitude": -66.1534813,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CEMES",
+   "latitude": -16.5142316,
+   "longitude": -68.1210088,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Virgen de la Asunción",
+   "latitude": -16.514392,
+   "longitude": -68.1209289,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Arco Iris",
+   "latitude": -16.4842534,
+   "longitude": -68.1203636,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Benito",
+   "latitude": -19.5939563,
+   "longitude": -65.757816,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Saint Jude",
+   "latitude": -19.5682894,
+   "longitude": -65.767859,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Sagrada Familia",
+   "latitude": -19.5727297,
+   "longitude": -65.7494006,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Central",
+   "latitude": -14.8324611,
+   "longitude": -64.9046878,
+   "addr:street": "Trinidad"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Nueva Gante",
+   "latitude": -17.4471135,
+   "longitude": -66.1443827,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de Caminos y Ramas Anexas",
+   "latitude": -17.3807966,
+   "longitude": -66.1681155,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de la Banca Privada",
+   "latitude": -17.3955835,
+   "longitude": -66.1606462,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de la Banca Privada",
+   "latitude": -17.3882558,
+   "longitude": -66.1564419,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de Camino",
+   "latitude": -11.0269885,
+   "longitude": -68.7611484,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Señor de Milagros",
+   "latitude": -17.4551208,
+   "longitude": -66.352521,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Niños",
+   "latitude": -18.4139923,
+   "longitude": -66.5622427,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud",
+   "latitude": -19.5847356,
+   "longitude": -65.7576002,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Caja Nacional de Salud",
+   "latitude": -18.3283588,
+   "longitude": -59.7535412,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal El Torno",
+   "latitude": -18.005564,
+   "longitude": -63.3871131,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud de Alto Seco",
+   "latitude": -18.8709628,
+   "longitude": -64.0743791,
+   "addr:street": "Alto Seco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Virgen del Rosario",
+   "latitude": -18.541396,
+   "longitude": -65.4261478,
+   "addr:street": "Poroma"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Luis Espinal",
+   "latitude": -16.5168577,
+   "longitude": -68.1985592,
+   "addr:street": "El Alto"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud CORDES",
+   "latitude": -19.0437473,
+   "longitude": -65.2431244,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Cruz Roja",
+   "latitude": -19.0492488,
+   "longitude": -65.2482111,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Instituto Oncológico del Oriente Boliviano",
+   "latitude": -17.763328,
+   "longitude": -63.1939422,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Lorenzo",
+   "latitude": -21.4204189,
+   "longitude": -64.751563,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud Sacaba",
+   "latitude": -17.4021135,
+   "longitude": -66.0446756,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Policlínico Odontológico Cordes",
+   "latitude": -17.3880715,
+   "longitude": -66.1448269,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital dermatólogo",
+   "latitude": -18.0725072,
+   "longitude": -63.4413132,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -10.9985708,
+   "longitude": -66.0794709,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Cordes",
+   "latitude": -17.3911244,
+   "longitude": -66.1489127,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de Caminos",
+   "latitude": -16.5088729,
+   "longitude": -68.1275822,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.5676471,
+   "longitude": -66.3461399,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Casa Vanesa",
+   "latitude": -17.776413,
+   "longitude": -63.1749657,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Aguas Calientes",
+   "latitude": -18.4531598,
+   "longitude": -59.5032118,
+   "addr:street": "Aguas Calientes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Instituto de Gastroenterologia Boliviano Japones",
+   "latitude": -19.0453277,
+   "longitude": -65.2674658,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Casa Melo",
+   "latitude": -17.8925993,
+   "longitude": -63.1687246,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Policlinica",
+   "latitude": -17.9571224,
+   "longitude": -67.1070847,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Cliza",
+   "latitude": -17.5882196,
+   "longitude": -65.9362004,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Endoven",
+   "latitude": -16.5277016,
+   "longitude": -68.148959,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Cruz Roja Boliviana",
+   "latitude": -16.4998837,
+   "longitude": -68.1317318,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Dr. Marco Rojas",
+   "latitude": -19.3075398,
+   "longitude": -64.2996048,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Instituto Nacional de Oftalmología",
+   "latitude": -16.5065001,
+   "longitude": -68.1188641,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Jesús Obrero",
+   "latitude": -16.5295345,
+   "longitude": -68.197049,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Mairana (2do.Nivel)",
+   "latitude": -18.1191539,
+   "longitude": -63.956828,
+   "addr:street": "Mairana"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS San Jorge",
+   "latitude": -19.1192184,
+   "longitude": -64.7004861,
+   "addr:street": "Zudáñez"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Misca Mayu (1er Nivel)",
+   "latitude": -17.5392549,
+   "longitude": -65.461027,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Huayapacha (1er Nivel)",
+   "latitude": -17.5521812,
+   "longitude": -65.4079756,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Los Olivos",
+   "latitude": -17.8287993,
+   "longitude": -63.1808136,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "San Antonio de los Sauces",
+   "latitude": -19.789824,
+   "longitude": -63.9545133,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud",
+   "latitude": -19.8077943,
+   "longitude": -63.9582982,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Caranavi",
+   "latitude": -15.8312635,
+   "longitude": -67.5643872,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Nuestra Señora del Rosario",
+   "latitude": -17.5067049,
+   "longitude": -63.1670974,
+   "addr:street": "Warnes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Boliviano Holandés",
+   "latitude": -16.5223957,
+   "longitude": -68.153615,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Yotala",
+   "latitude": -19.1629739,
+   "longitude": -65.2626724,
+   "addr:street": "Yotala"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Obrero",
+   "latitude": -14.8254053,
+   "longitude": -64.8952023,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Francisco de Asis",
+   "latitude": -16.4697073,
+   "longitude": -68.1144249,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Virgen de las Angustias (2do Nivel)",
+   "latitude": -17.4276551,
+   "longitude": -65.7215561,
+   "addr:street": "Tiraque"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Martin de Porres - Ibuelo (2do Nivel)",
+   "latitude": -16.9681408,
+   "longitude": -65.3399327,
+   "addr:street": "Ibuelo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS German Busch",
+   "latitude": -16.4706612,
+   "longitude": -68.1830539,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Roque",
+   "latitude": -16.4758172,
+   "longitude": -68.27123,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Huayna Potosi",
+   "latitude": -16.4794998,
+   "longitude": -68.1917989,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salu dLotes y Servicios",
+   "latitude": -16.4962763,
+   "longitude": -68.2141957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Avaroa",
+   "latitude": -16.5294672,
+   "longitude": -68.1858568,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud 1ro de Mayo",
+   "latitude": -16.5377662,
+   "longitude": -68.1998124,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Nuevos Horizontes",
+   "latitude": -16.5443142,
+   "longitude": -68.1874976,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Distrital Villa 1ro de Mayo",
+   "latitude": -17.7994925,
+   "longitude": -63.1179348,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Hospital Civil de Atocha",
+   "latitude": -20.9331925,
+   "longitude": -66.2197775,
+   "addr:street": "Atocha"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Prosalud Especialidades Médicas",
+   "latitude": -17.7662787,
+   "longitude": -63.1710972,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Irán",
+   "latitude": -16.5136492,
+   "longitude": -68.1603,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Rehabilitación y Salud Mental San Juan de Dios",
+   "latitude": -16.497721,
+   "longitude": -68.0839148,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Reyes (3er Nivel)",
+   "latitude": -14.3034934,
+   "longitude": -67.3309226,
+   "addr:street": "Reyes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Universitario",
+   "latitude": -19.5813158,
+   "longitude": -65.7570481,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Mapaizo",
+   "latitude": -17.7473807,
+   "longitude": -63.0529162,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Sunchu Pampa",
+   "latitude": -17.5585316,
+   "longitude": -65.9198922,
+   "addr:street": "Sunchu Pampa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Bolognia",
+   "latitude": -16.5257095,
+   "longitude": -68.0872012,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Colonia Japonesa San Juan",
+   "latitude": -17.2921496,
+   "longitude": -63.8432928,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.2928569,
+   "longitude": -63.847951,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Eterazama (1er Nivel)",
+   "latitude": -16.8329636,
+   "longitude": -65.5169614,
+   "addr:street": "Eterazama"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Aeropuerto",
+   "latitude": -22.7312586,
+   "longitude": -64.3374756,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Korea",
+   "latitude": -16.5461515,
+   "longitude": -68.2004144,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS San Juan del Rosario - Potosi (1er Nivel)",
+   "latitude": -20.9008685,
+   "longitude": -67.7652443,
+   "addr:street": "San Juan"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Virgen del Rosario",
+   "latitude": -19.6296329,
+   "longitude": -64.312365,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Virgen del Rosario (1er Nivel)",
+   "latitude": -20.7810344,
+   "longitude": -64.869067,
+   "addr:street": "Incahuasi"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Pablo de Huacareta",
+   "latitude": -20.3687085,
+   "longitude": -64.0050018,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Chacaltaya",
+   "latitude": -16.4851773,
+   "longitude": -68.1732094,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Materno Infantil Cochabamba",
+   "latitude": -17.4005774,
+   "longitude": -66.1560983,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Bolivia",
+   "latitude": -17.3779039,
+   "longitude": -66.1613114,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Rumy Campana",
+   "latitude": -17.950578,
+   "longitude": -67.1252025,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud Regional Oruro",
+   "latitude": -17.9392223,
+   "longitude": -67.1152818,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Centro de Salud Sebastian Pagador de Policias",
+   "latitude": -17.9372094,
+   "longitude": -67.1160682,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Rehabilitación Infantil Juana Azurduy de Padilla",
+   "latitude": -16.5024936,
+   "longitude": -68.1177957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Tomatas",
+   "latitude": -21.5572409,
+   "longitude": -65.6307914,
+   "addr:street": "Tomatas"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Calamarca",
+   "latitude": -16.9069756,
+   "longitude": -68.1168186,
+   "addr:street": "Calamarca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Urmiri de Quillacas",
+   "latitude": -19.2274595,
+   "longitude": -66.7205142,
+   "addr:street": "Urmiri de Quillacas"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Catilla Huma",
+   "latitude": -19.1399455,
+   "longitude": -66.7139443,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. San Juan Bautista",
+   "latitude": -17.8522303,
+   "longitude": -63.3055113,
+   "addr:street": "Porongo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Lahuachaca",
+   "latitude": -17.3764918,
+   "longitude": -67.6763248,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Konani",
+   "latitude": -17.4389835,
+   "longitude": -67.5185848,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Panduro (1er Nivel)",
+   "latitude": -17.4957512,
+   "longitude": -67.4428908,
+   "addr:street": "Panduro"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolero de Salud",
+   "latitude": -19.0373119,
+   "longitude": -65.2599436,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de niños",
+   "latitude": -17.3472583,
+   "longitude": -63.2521657,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Pomanasa",
+   "latitude": -18.5796502,
+   "longitude": -65.3342111,
+   "addr:street": "Pomanaza"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Mamerto Eguez (2do Nivel)",
+   "latitude": -19.7901846,
+   "longitude": -63.1970849,
+   "addr:street": "Charagua"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Viru Viru (1er Nivel)",
+   "latitude": -18.3836122,
+   "longitude": -65.652794,
+   "addr:street": "Viru Viru"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Forense Fiscalía de El Alto.",
+   "latitude": -16.4898131,
+   "longitude": -68.187711,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Villa Adela",
+   "latitude": -16.5227098,
+   "longitude": -68.2120816,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Chijmuri",
+   "latitude": -18.8108384,
+   "longitude": -65.3975267,
+   "addr:street": "Chijmuri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -21.9638844,
+   "longitude": -63.6604523,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Palmar Chico",
+   "latitude": -21.8785175,
+   "longitude": -63.6106826,
+   "addr:street": "Palmar Chico"
+ },
+ {
+   "amenity": "hospital",
+   "name": "San José de Pocitos",
+   "latitude": -22.0491238,
+   "longitude": -63.681264,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San José Obrero",
+   "latitude": -17.36093,
+   "longitude": -66.284298,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -16.5293992,
+   "longitude": -68.1102437,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Escara",
+   "latitude": -18.8579575,
+   "longitude": -68.1705665,
+   "addr:street": "Escara"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Especialidades Médicas",
+   "latitude": -16.5260801,
+   "longitude": -68.110354,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Jacobo Abularach A.",
+   "latitude": -13.7453394,
+   "longitude": -65.4299853,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Juan XXIII",
+   "latitude": -16.4871831,
+   "longitude": -68.1578755,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -16.0402504,
+   "longitude": -67.8156016,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.9719222,
+   "longitude": -67.1028287,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Arroyito",
+   "latitude": -17.8305197,
+   "longitude": -63.0843273,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital natividad",
+   "latitude": -17.9737348,
+   "longitude": -67.102148,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Oruro - Corea",
+   "latitude": -17.976385,
+   "longitude": -67.099951,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Microhospital Hugo Casal (Todos Santos II)",
+   "latitude": -17.3142947,
+   "longitude": -63.278141,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Irupana (1er Nivel)",
+   "latitude": -16.4661079,
+   "longitude": -67.4552426,
+   "addr:street": "Irupana"
+ },
+ {
+   "amenity": "hospital",
+   "name": "centro de salud 16 de febrero",
+   "latitude": -16.5010404,
+   "longitude": -68.2289259,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS El Dorado",
+   "latitude": -19.7911158,
+   "longitude": -64.3288141,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS El Salto (1er Nivel)",
+   "latitude": -19.8556328,
+   "longitude": -64.4874551,
+   "addr:street": "El Salto"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Tarvita",
+   "latitude": -19.9251447,
+   "longitude": -64.4841181,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Materno Infantil Germán Urquidi",
+   "latitude": -17.3865297,
+   "longitude": -66.1483725,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Candelaria (1er nivel)",
+   "latitude": -19.299575,
+   "longitude": -64.7908565,
+   "addr:street": "Candelaria"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS El Paredon (1er Nivel)",
+   "latitude": -19.251166,
+   "longitude": -64.8370203,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Villa Barrientos (1er Nivel)",
+   "latitude": -16.6298061,
+   "longitude": -67.267287,
+   "addr:street": "Villa Barrientos"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Licoma (1er Nivel)",
+   "latitude": -16.8062863,
+   "longitude": -67.2021027,
+   "addr:street": "Licoma"
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.8477657,
+   "longitude": -63.0838317,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Kuti",
+   "latitude": -16.9771668,
+   "longitude": -66.9573675,
+   "addr:street": "Kuti"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Pozos",
+   "latitude": -19.062251,
+   "longitude": -64.1366212,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Calizaya",
+   "latitude": -18.4882036,
+   "longitude": -65.3522874,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Palajla",
+   "latitude": -18.4513741,
+   "longitude": -65.4661162,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Soicoco",
+   "latitude": -18.5024386,
+   "longitude": -65.507322,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Instituto Gastroenterológico Boliviano Japonés",
+   "latitude": -17.3862749,
+   "longitude": -66.1492194,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Francisco Viedma",
+   "latitude": -17.3856251,
+   "longitude": -66.1485487,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Sebastian Pagador",
+   "latitude": -17.4417833,
+   "longitude": -66.1163377,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Magdalena",
+   "latitude": -13.2559115,
+   "longitude": -64.0547271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud Dr. Benigno Inchausti",
+   "latitude": -21.4438112,
+   "longitude": -65.71865,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Riberalta",
+   "latitude": -11.0018802,
+   "longitude": -66.0594441,
+   "addr:street": "Riberalta"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Villa Yunguyo",
+   "latitude": -16.4922815,
+   "longitude": -68.2191822,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Inmaculada Concepción",
+   "latitude": -19.5923055,
+   "longitude": -65.7466977,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Tolar",
+   "latitude": -17.0073202,
+   "longitude": -68.0646565,
+   "addr:street": "Tolar"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Sica Sica",
+   "latitude": -17.3353567,
+   "longitude": -67.7430795,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -18.3802519,
+   "longitude": -66.9689989,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital del Sur",
+   "latitude": -17.4504824,
+   "longitude": -66.150302,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro Médico Aeronaútico Cochabamba",
+   "latitude": -17.4483743,
+   "longitude": -66.1402786,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Pazña (1er Nivel)",
+   "latitude": -18.5964013,
+   "longitude": -66.9197554,
+   "addr:street": "Pazña"
+ },
+ {
+   "amenity": "hospital",
+   "name": "SSU",
+   "latitude": -19.0488855,
+   "longitude": -65.2658538,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Caja Nacional de Salud",
+   "latitude": -19.0479938,
+   "longitude": -65.2642876,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Gíneco Obstétrico Jaime Sánchez Porcel",
+   "latitude": -19.0454094,
+   "longitude": -65.2682948,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Jaime Mendoza",
+   "latitude": -19.0458657,
+   "longitude": -65.2675894,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Juan del Rosario",
+   "latitude": -20.9014092,
+   "longitude": -67.7651706,
+   "addr:street": "San Juan"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Sopachuy",
+   "latitude": -19.4856644,
+   "longitude": -64.4731845,
+   "addr:street": "Sopachuy"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Clinica Chihuahua",
+   "latitude": -17.2190032,
+   "longitude": -62.1186892,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "I.P.T.K.",
+   "latitude": -19.0453778,
+   "longitude": -65.2577633,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Aguila Orko",
+   "latitude": -18.5280849,
+   "longitude": -65.2920086,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Juan de Orcas",
+   "latitude": -18.7331291,
+   "longitude": -65.3121012,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud El Ajial",
+   "latitude": -18.4969124,
+   "longitude": -65.2889519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Irocota",
+   "latitude": -18.6852503,
+   "longitude": -65.3680839,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CIDIMEDIC",
+   "latitude": -16.543728,
+   "longitude": -68.0702179,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Posta de Salud de Quirpinchaca",
+   "latitude": -19.0382518,
+   "longitude": -65.2694938,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Pongo B2 (1er Nivel)",
+   "latitude": -16.9963067,
+   "longitude": -67.25879,
+   "addr:street": "Pongo B2"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Micro Hospital",
+   "latitude": -17.5481335,
+   "longitude": -63.1909205,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal",
+   "latitude": -17.8501136,
+   "longitude": -60.7393618,
+   "addr:street": "San Jose de Chiquitos"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Copavillque",
+   "latitude": -18.6231834,
+   "longitude": -65.2856534,
+   "addr:street": "Copa Vilque"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Yanani",
+   "latitude": -18.5980359,
+   "longitude": -65.4371082,
+   "addr:street": "Yanani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud CIMFA Fila Galindo",
+   "latitude": -17.3926993,
+   "longitude": -66.1699894,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Villa Busch",
+   "latitude": -11.0878004,
+   "longitude": -68.7816595,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CIMFA Miraflores",
+   "latitude": -16.5039801,
+   "longitude": -68.1201732,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Kolping",
+   "latitude": -17.5144044,
+   "longitude": -63.1707622,
+   "addr:street": "Warnes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS El Desengaño (1er Nivel)",
+   "latitude": -14.2735373,
+   "longitude": -65.4469658,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. La Viña",
+   "latitude": -18.1326416,
+   "longitude": -64.8901937,
+   "addr:street": "La Viña"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS San Jose Charapaqui",
+   "latitude": -16.5377141,
+   "longitude": -68.2161829,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Covendo (1er Nivel)",
+   "latitude": -15.7926008,
+   "longitude": -66.9798396,
+   "addr:street": "Covendo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Chejje (1er Nivel)",
+   "latitude": -15.8079183,
+   "longitude": -68.6561313,
+   "addr:street": "Ilabaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Inquisivi (1er Nivel)",
+   "latitude": -16.9071038,
+   "longitude": -67.1383612,
+   "addr:street": "Inquisivi"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Kalla Baja (1er Nivel)",
+   "latitude": -16.7736463,
+   "longitude": -68.7671485,
+   "addr:street": "Kalla Baja"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA La Lloja (1er Nivel)",
+   "latitude": -16.7448913,
+   "longitude": -67.5732906,
+   "addr:street": "La Lloja"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Lambate (1er Nivel)",
+   "latitude": -16.6029518,
+   "longitude": -67.7043026,
+   "addr:street": "Lambate"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Millipaya (1er Nivel)",
+   "latitude": -15.8729592,
+   "longitude": -68.6182734,
+   "addr:street": "Millipaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Moco Moco (1er Nivel)",
+   "latitude": -15.4590898,
+   "longitude": -68.9970967,
+   "addr:street": "Mocomoco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Puerto Perez",
+   "latitude": -16.2856558,
+   "longitude": -68.6001643,
+   "addr:street": "Puerto Perez"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Tablachaca (1er Nivel)",
+   "latitude": -17.1765292,
+   "longitude": -67.3380622,
+   "addr:street": "Tablachaca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Tajocachi (1er Nivel)",
+   "latitude": -16.0877195,
+   "longitude": -68.8852448,
+   "addr:street": "Tajocachi"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Tuni (1er Nivel)",
+   "latitude": -16.6694629,
+   "longitude": -68.1390827,
+   "addr:street": "Tuni"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Tuquia (1er Nivel)",
+   "latitude": -16.21326,
+   "longitude": -68.4660173,
+   "addr:street": "Tuquia"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Ulloma Lerco (1er Nivel)",
+   "latitude": -17.4903242,
+   "longitude": -68.4891454,
+   "addr:street": "Ulloma"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Villa Concepcion",
+   "latitude": -15.831752,
+   "longitude": -66.9486174,
+   "addr:street": "Villa Concepcion"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Villa Remedios (1er Nivel)",
+   "latitude": -16.7733034,
+   "longitude": -68.1740537,
+   "addr:street": "Villa Remedios"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Materno Infantil Oruro (2do Nivel)",
+   "latitude": -17.9601247,
+   "longitude": -67.1100388,
+   "addr:street": "Oruro"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Henry K. Beye",
+   "latitude": -13.0371306,
+   "longitude": -64.6700166,
+   "addr:street": "San Joaquin del Beni"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -16.4979418,
+   "longitude": -68.132382,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Timboy (1er Nivel)",
+   "latitude": -21.1715504,
+   "longitude": -64.0643908,
+   "addr:street": "Timboy"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Policlínico del Sur",
+   "latitude": -17.3992108,
+   "longitude": -66.1622715,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Pojo (1er Nivel)",
+   "latitude": -17.7570119,
+   "longitude": -64.8645667,
+   "addr:street": "Pojo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Cayara (1er nivel)",
+   "latitude": -19.5528879,
+   "longitude": -65.8799162,
+   "addr:street": "Cayara"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Los Andes (1er Nivel)",
+   "latitude": -16.8864078,
+   "longitude": -63.8309128,
+   "addr:street": "Los Andes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Jampina Huasi (1er Nivel)",
+   "latitude": -17.2736386,
+   "longitude": -66.2154027,
+   "addr:street": "Jampina Huasi"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CNS Regional La Paz",
+   "latitude": -16.4997579,
+   "longitude": -68.1317781,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Gabriel",
+   "latitude": -16.4914012,
+   "longitude": -68.1166949,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud Villa Mar (1er Nivel)",
+   "latitude": -21.7553364,
+   "longitude": -67.4817772,
+   "addr:street": "Villa Mar"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Quetena Grande",
+   "latitude": -22.2301697,
+   "longitude": -67.3574034,
+   "addr:street": "Quetena Grande"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Santa Fe de Yapacani",
+   "latitude": -17.3981816,
+   "longitude": -63.8284771,
+   "addr:street": "Santa Fe de Yapacani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Los Negros",
+   "latitude": -18.0508025,
+   "longitude": -64.1216022,
+   "addr:street": "Los Negros"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Oploca (1er Nivel)",
+   "latitude": -21.3372958,
+   "longitude": -65.8043794,
+   "addr:street": "Oploca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Ckochis (1er Nivel)",
+   "latitude": -19.1330153,
+   "longitude": -65.2061788,
+   "addr:street": "Ckochis"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Real Machacamarca (1er Nivel)",
+   "latitude": -18.7512201,
+   "longitude": -67.689548,
+   "addr:street": "Real Machacamarca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Villa Copacabana (1er Nivel)",
+   "latitude": -18.3357651,
+   "longitude": -67.5855941,
+   "addr:street": "Villa Copacabana"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Acacio",
+   "latitude": -18.0241762,
+   "longitude": -66.0586907,
+   "addr:street": "Acasio"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Piriquina (1er Nivel)",
+   "latitude": -18.0792313,
+   "longitude": -66.0166096,
+   "addr:street": "Piriquina"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Anzaldo (1er Nivel)",
+   "latitude": -17.778997,
+   "longitude": -65.9334373,
+   "addr:street": "Anzaldo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Luis",
+   "latitude": -19.6501076,
+   "longitude": -63.6762112,
+   "addr:street": "Lagunillas"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Vladimir Bejarano",
+   "latitude": -19.4218629,
+   "longitude": -63.5294301,
+   "addr:street": "Gutierrez"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Alto Linares (1er Nivel)",
+   "latitude": -17.2666973,
+   "longitude": -64.6189667,
+   "addr:street": "Alto Linares"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Pata Morochata (1er Nivel)",
+   "latitude": -17.2724754,
+   "longitude": -66.4922005,
+   "addr:street": "Pata Morochata"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS El Choro (1er Nivel)",
+   "latitude": -16.7936535,
+   "longitude": -66.6505484,
+   "addr:street": "Choro"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Cocapata",
+   "latitude": -16.7999269,
+   "longitude": -66.668432,
+   "addr:street": "Cocapata"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Micani (1er Nivel)",
+   "latitude": -18.3699049,
+   "longitude": -65.8343324,
+   "addr:street": "Micani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Soico",
+   "latitude": -18.8032281,
+   "longitude": -65.2761993,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Instituto Nacional de Torax",
+   "latitude": -16.5066848,
+   "longitude": -68.1182092,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Pedro Claver (2do Nivel)",
+   "latitude": -19.0075266,
+   "longitude": -65.3066695,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Ayoma (1er Nivel)",
+   "latitude": -18.8694284,
+   "longitude": -66.1491751,
+   "addr:street": "Ayoma"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud de la Banca Privada",
+   "latitude": -16.5113966,
+   "longitude": -68.1660199,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.0906349,
+   "longitude": -68.0020666,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro Medico Internacional Hope",
+   "latitude": -16.5470569,
+   "longitude": -68.0891688,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Psiquiatría",
+   "latitude": -16.5025745,
+   "longitude": -68.1205257,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Florida (2do Nivel)",
+   "latitude": -18.1772947,
+   "longitude": -63.870214,
+   "addr:street": "Samaipata"
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.3460819,
+   "longitude": -66.1657352,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -17.3826846,
+   "longitude": -66.1477853,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "dentista",
+   "latitude": -17.3835086,
+   "longitude": -66.1476945,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Bancaria Estatal de Salud",
+   "latitude": -16.4969205,
+   "longitude": -68.1236805,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospitales de la Esperanza",
+   "latitude": -17.3740687,
+   "longitude": -66.3229356,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Bancaria",
+   "latitude": -16.4971378,
+   "longitude": -68.1235484,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Luis Espinal",
+   "latitude": -19.0255249,
+   "longitude": -65.2391325,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Mauro",
+   "latitude": -19.1866274,
+   "longitude": -64.4627138,
+   "addr:street": "Tomina"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Viacha",
+   "latitude": -16.6505728,
+   "longitude": -68.2876076,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Servicio Integral de Rehabilitación Viacha",
+   "latitude": -16.6499956,
+   "longitude": -68.287413,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Policonsultorio Norte Caja Petrolera de Salud",
+   "latitude": -17.3777005,
+   "longitude": -66.1646827,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Mayaya (1er Nivel)",
+   "latitude": -15.4115183,
+   "longitude": -67.6108724,
+   "addr:street": "Mayaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Rodeo Porvenir (1er Nivel)",
+   "latitude": -19.0582946,
+   "longitude": -64.5879942,
+   "addr:street": "Rodeo Porvenir"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Posta comunal de Juntas",
+   "latitude": -21.8059614,
+   "longitude": -64.7947853,
+   "addr:street": "Municipio Uriondo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "",
+   "latitude": -18.0009522,
+   "longitude": -67.1072094,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Cazon (1er Nivel)",
+   "latitude": -20.9188135,
+   "longitude": -65.6733608,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Cerrillos (1er Nivel)",
+   "latitude": -21.4177693,
+   "longitude": -66.4849211,
+   "addr:street": "Cerrillos"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Challacollo",
+   "latitude": -19.7661375,
+   "longitude": -68.2636445,
+   "addr:street": "Challacollo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "HOSPITAL PALMARCITO",
+   "latitude": -21.5311328,
+   "longitude": -64.7112903,
+   "addr:street": "TARIJA-CERCADO"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Barrio Avaroa",
+   "latitude": -21.5169594,
+   "longitude": -64.7311811,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Tabladita",
+   "latitude": -21.5396819,
+   "longitude": -64.7453816,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja de Salud Cordes",
+   "latitude": -21.5294103,
+   "longitude": -64.7349939,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Nacional de Salud",
+   "latitude": -21.5322273,
+   "longitude": -64.7323492,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Pablo",
+   "latitude": -21.5358959,
+   "longitude": -64.7217327,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -21.5373095,
+   "longitude": -64.7341007,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Materno Infantil",
+   "latitude": -21.5119213,
+   "longitude": -64.7299969,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. San Matias (1er Nivel)",
+   "latitude": -16.3618294,
+   "longitude": -58.3955311,
+   "addr:street": "San Matias"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Villa El Carmen",
+   "latitude": -21.7868349,
+   "longitude": -63.5722267,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "centro de salud Aranjuez",
+   "latitude": -21.5259284,
+   "longitude": -64.752087,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Santa Rosa de la Boca del Chapare",
+   "latitude": -15.9419466,
+   "longitude": -64.7574943,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de salud maria loreto",
+   "latitude": -15.1953425,
+   "longitude": -64.7602495,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Monte Azul 2 (1er Nivel)",
+   "latitude": -12.0952569,
+   "longitude": -64.919149,
+   "addr:street": "Monte Azul"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Integral Cachuela Esperanza",
+   "latitude": -10.5386821,
+   "longitude": -65.5793999,
+   "addr:street": "Cachuela Esperanza"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. San Antonio",
+   "latitude": -17.7764665,
+   "longitude": -63.1224504,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Bolinter",
+   "latitude": -17.7630339,
+   "longitude": -63.1140049,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. El Dorado Norte",
+   "latitude": -17.7391157,
+   "longitude": -63.0965031,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. 26 de Septiembre",
+   "latitude": -17.7209687,
+   "longitude": -63.1048332,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Los Cusis",
+   "latitude": -17.7356208,
+   "longitude": -63.0769892,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Sajama",
+   "latitude": -18.1345814,
+   "longitude": -68.9747932,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Hospital San Juan de Dios de Arque (1er Nivel)",
+   "latitude": -17.8215896,
+   "longitude": -66.4034473,
+   "addr:street": "Arque"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Chapisirca",
+   "latitude": -17.1514928,
+   "longitude": -66.1457985,
+   "addr:street": "Chapisirca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Virgen Maria",
+   "latitude": -21.2625533,
+   "longitude": -63.4834441,
+   "addr:street": "Villamontes"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Keraya (1er Nivel)",
+   "latitude": -17.2984619,
+   "longitude": -66.4585984,
+   "addr:street": "Keraya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Icari (1er Nivel)",
+   "latitude": -17.0197176,
+   "longitude": -66.3467313,
+   "addr:street": "Icari"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Tanil Vinto",
+   "latitude": -20.6057992,
+   "longitude": -67.5833063,
+   "addr:street": "Tanil Vinto"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Km 21 (1er Nivel)",
+   "latitude": -16.766725,
+   "longitude": -65.333485,
+   "addr:street": "San Francisco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud",
+   "latitude": -19.6341787,
+   "longitude": -67.676422,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSA Viscachani",
+   "latitude": -17.1810038,
+   "longitude": -67.9529039,
+   "addr:street": "Viscachani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Huerta Mayu",
+   "latitude": -17.6373264,
+   "longitude": -66.1144577,
+   "addr:street": "Huerta Mayu"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. El Remanzo",
+   "latitude": -17.714507,
+   "longitude": -63.1786982,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Cocani (1er Nivel)",
+   "latitude": -21.2197236,
+   "longitude": -66.5518386,
+   "addr:street": "Cocani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Villa Fatima",
+   "latitude": -21.4348642,
+   "longitude": -65.7230864,
+   "addr:street": "Tupiza"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Gerardo",
+   "latitude": -21.4307453,
+   "longitude": -65.7305415,
+   "addr:street": "Tupiza"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Juan de Dios",
+   "latitude": -20.6411629,
+   "longitude": -65.21318,
+   "addr:street": "Camargo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. San Vicente",
+   "latitude": -21.2669272,
+   "longitude": -66.3135639,
+   "addr:street": "San Vicente"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Supira",
+   "latitude": -21.5960017,
+   "longitude": -65.5223086,
+   "addr:street": "Supira"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.A. Santo Domingo",
+   "latitude": -15.6703762,
+   "longitude": -67.649473,
+   "addr:street": "Santo Domingo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Villa Pacheco (1er Nivel)",
+   "latitude": -21.695843,
+   "longitude": -65.3045516,
+   "addr:street": "Villa Pacheco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Carrizal",
+   "latitude": -21.4391118,
+   "longitude": -65.2384167,
+   "addr:street": "Carrizal"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CS Iscayachi (1er Nivel)",
+   "latitude": -21.485179,
+   "longitude": -64.9693643,
+   "addr:street": "Iscayachi"
+ },
+ {
+   "amenity": "hospital",
+   "name": "PS Curqui (1er Nivel)",
+   "latitude": -21.4925263,
+   "longitude": -65.0692074,
+   "addr:street": "Curqui"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Reynecillas (1er Nivel)",
+   "latitude": -21.5804072,
+   "longitude": -65.2547445,
+   "addr:street": "Reynecillas"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.A. Santa Isabel (1er Nivel)",
+   "latitude": -16.4201797,
+   "longitude": -58.6417448,
+   "addr:street": "Santa Isabel"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. El Trigal (1er Nivel)",
+   "latitude": -18.306268,
+   "longitude": -64.150524,
+   "addr:street": "Trigal"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Mataral (1er Nivel)",
+   "latitude": -18.1152977,
+   "longitude": -64.2149398,
+   "addr:street": "Mataral"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. San Isidro (1er Nivel)",
+   "latitude": -18.0424116,
+   "longitude": -64.4334104,
+   "addr:street": "San Isidro"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Pucara (1er Nivel)",
+   "latitude": -18.715199,
+   "longitude": -64.1854172,
+   "addr:street": "Pucara"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Masicuri (1er Nivel)",
+   "latitude": -18.8304374,
+   "longitude": -63.7817,
+   "addr:street": "Masicuri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Ipita (1er Nivel)",
+   "latitude": -19.3546148,
+   "longitude": -63.5050084,
+   "addr:street": "Ipita"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Santa Ana de Velasco (1er Nivel)",
+   "latitude": -16.5845074,
+   "longitude": -60.688363,
+   "addr:street": "Santa Ana de Velasco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital del Niño Sor Teresa Huarte Tama (3er Nivel)",
+   "latitude": -19.0082638,
+   "longitude": -65.3074552,
+   "addr:street": "Sucre"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Carlos Machicado (1er Nivel)",
+   "latitude": -19.6981429,
+   "longitude": -66.571823,
+   "addr:street": "Carlos Machicado"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S.Bermejo (1er Nivel)",
+   "latitude": -18.1302492,
+   "longitude": -63.6332148,
+   "addr:street": "Bermejo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.A. Villa Florida (1er Nivel)",
+   "latitude": -15.6532842,
+   "longitude": -67.7247004,
+   "addr:street": "Villa Florida"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. Guanay (1er Nivel)",
+   "latitude": -15.496387,
+   "longitude": -67.8801781,
+   "addr:street": "Guanay"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Clinica San Clemente",
+   "latitude": -20.6390581,
+   "longitude": -65.2080657,
+   "addr:street": "Camargo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Yocalla (1er Nivel)",
+   "latitude": -19.3901749,
+   "longitude": -65.9093828,
+   "addr:street": "Yocalla"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Virgen Milagrosa",
+   "latitude": -17.8251884,
+   "longitude": -63.1325179,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Virgen Milagrosa",
+   "latitude": -17.8251742,
+   "longitude": -63.1325179,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Virgen Milagrosa",
+   "latitude": -17.8252126,
+   "longitude": -63.1325715,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Municipal Cañada el Carmen",
+   "latitude": -17.8093386,
+   "longitude": -63.1538687,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Mataral",
+   "latitude": -18.1142855,
+   "longitude": -64.215815,
+   "addr:street": "Mataral"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Pampa Grande",
+   "latitude": -18.0891789,
+   "longitude": -64.1123468,
+   "addr:street": "Pampa Grande"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Los Negros",
+   "latitude": -18.0558997,
+   "longitude": -64.1229034,
+   "addr:street": "Los Negros"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Maternidad Percy Boland",
+   "latitude": -17.7783518,
+   "longitude": -63.1871329,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Saipina (1er Nivel)",
+   "latitude": -18.0943286,
+   "longitude": -64.584264,
+   "addr:street": "Saipina"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. La Comuna",
+   "latitude": -17.9062232,
+   "longitude": -66.4781386,
+   "addr:street": "La Comuna"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Bolivar (1er Nivel)",
+   "latitude": -17.9693101,
+   "longitude": -66.5375606,
+   "addr:street": "Bolivar"
+ },
+ {
+   "amenity": "hospital",
+   "name": "CSI Umala (1er Nivel)",
+   "latitude": -17.3729804,
+   "longitude": -68.0212786,
+   "addr:street": "Umala"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Tomaycuri",
+   "latitude": -18.8588708,
+   "longitude": -65.9090468,
+   "addr:street": "Tomaycuri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Macha",
+   "latitude": -18.8182241,
+   "longitude": -66.0382569,
+   "addr:street": "Macha"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Huancarani",
+   "latitude": -18.7344614,
+   "longitude": -66.1406692,
+   "addr:street": "Huancarani"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Santa Barbara de Pocoata",
+   "latitude": -18.6997632,
+   "longitude": -66.1670888,
+   "addr:street": "Pocoata"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Crucero Belen",
+   "latitude": -18.2045338,
+   "longitude": -67.1605837,
+   "addr:street": "Crucero Belen"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. Papel Pampa",
+   "latitude": -17.8193283,
+   "longitude": -67.7705093,
+   "addr:street": "Papel Pampa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Japo",
+   "latitude": -17.6942777,
+   "longitude": -66.7637328,
+   "addr:street": "Japo Kasa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Confital",
+   "latitude": -17.679386,
+   "longitude": -66.7294684,
+   "addr:street": "Confital"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Patamanta",
+   "latitude": -16.3772346,
+   "longitude": -68.3790658,
+   "addr:street": "Patamanta"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. Palcoco",
+   "latitude": -16.3342626,
+   "longitude": -68.4159012,
+   "addr:street": "Palcoco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. Batallas",
+   "latitude": -16.2988209,
+   "longitude": -68.5316573,
+   "addr:street": "Batallas"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.I. Huarina",
+   "latitude": -16.1904576,
+   "longitude": -68.6018625,
+   "addr:street": "Huarina"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud Sivingal (1er Nivel)",
+   "latitude": -21.330408,
+   "longitude": -64.2037572,
+   "addr:street": "Sivingal"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital San Andres",
+   "latitude": -21.6216886,
+   "longitude": -64.8172668,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud San Luis",
+   "latitude": -21.5652353,
+   "longitude": -64.7058962,
+   "addr:street": "tarija"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Quinori (1er Nivel)",
+   "latitude": -18.5040903,
+   "longitude": -64.3979889,
+   "addr:street": "Quinori"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Pasorapa (1er Nivel)",
+   "latitude": -18.3209174,
+   "longitude": -64.6772004,
+   "addr:street": "Pasorapa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Esmeralda",
+   "latitude": -18.0837903,
+   "longitude": -64.9238742,
+   "addr:street": "Esmeralda"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Omereque (1er Nivel)",
+   "latitude": -18.1051839,
+   "longitude": -64.9071652,
+   "addr:street": "Omereque"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Huanacuni Chico (1er Nivel)",
+   "latitude": -17.9260596,
+   "longitude": -64.9867656,
+   "addr:street": "Huanacuni Chico"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. San Lorenzo (1er Nivel)",
+   "latitude": -19.6484935,
+   "longitude": -63.1237876,
+   "addr:street": "San Lorenzo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Lagarpampa (1er Nivel)",
+   "latitude": -18.4556184,
+   "longitude": -64.9901758,
+   "addr:street": "Lagarpampa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Raqay Pampa (1er Nivel)",
+   "latitude": -18.1892499,
+   "longitude": -65.3829853,
+   "addr:street": "Raqay Pampa"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S.A. Alto Tacagua",
+   "latitude": -16.5131355,
+   "longitude": -68.1496216,
+   "addr:street": "Municipio Nuestra Señora de La Paz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. San Antonio Quime",
+   "latitude": -16.9819556,
+   "longitude": -67.215881,
+   "addr:street": "Quime"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Copachuncho (1er Nivel)",
+   "latitude": -17.7170518,
+   "longitude": -65.0904194,
+   "addr:street": "Copa Chuncho A"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Villa Pereira",
+   "latitude": -17.4468158,
+   "longitude": -66.7870998,
+   "addr:street": "Villa Pereira"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital de Hemodiálisis",
+   "latitude": -17.3848613,
+   "longitude": -66.2229666,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Espinal",
+   "latitude": -18.5465684,
+   "longitude": -64.2944913,
+   "addr:street": "Espinal"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Campamento (1er Nivel)",
+   "latitude": -15.1774754,
+   "longitude": -61.018444,
+   "addr:street": "Comunidad Campamento"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Palca",
+   "latitude": -17.1890904,
+   "longitude": -66.0758377,
+   "addr:street": "Palca"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C. S. Kaluyo Chico",
+   "latitude": -17.2188556,
+   "longitude": -66.0822778,
+   "addr:street": "Kaluyo Chico"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro De Salud El Porvenir",
+   "latitude": -17.7870716,
+   "longitude": -63.129238,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Sachojere",
+   "latitude": -14.9847749,
+   "longitude": -64.7526479,
+   "addr:street": "Sachojere"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. San Lorenzo",
+   "latitude": -15.0365254,
+   "longitude": -64.7198262,
+   "addr:street": "San Lorenzo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Apharumiri (1er Nivel)",
+   "latitude": -17.5299114,
+   "longitude": -66.5209597,
+   "addr:street": "Apharumiri"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Tapacari",
+   "latitude": -17.5167942,
+   "longitude": -66.6181935,
+   "addr:street": "Tapacari"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de Salud de Ixiamas",
+   "latitude": -13.7683319,
+   "longitude": -68.1203058,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Kollpa Pucho Belen Alto (1er Nivel)",
+   "latitude": -17.3665299,
+   "longitude": -67.5576634,
+   "addr:street": "Colpapucho Belen Alto"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Turqui (1er Nivel)",
+   "latitude": -19.4079106,
+   "longitude": -65.9785383,
+   "addr:street": "Turqui"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Centro de  Salud Chojlla",
+   "latitude": -16.4067019,
+   "longitude": -67.776143,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Materno Infantil",
+   "latitude": -14.8221306,
+   "longitude": -64.8959969,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Elvira Wunderlich",
+   "latitude": -17.8021283,
+   "longitude": -63.1834029,
+   "addr:street": "Santa Cruz de la Sierra"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Yayani",
+   "latitude": -17.211817,
+   "longitude": -66.6560191,
+   "addr:street": "Yayani Alto"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Tiquirpaya",
+   "latitude": -17.1145612,
+   "longitude": -66.7304303,
+   "addr:street": "Tiquirpaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Jatun Pampa",
+   "latitude": -17.4675314,
+   "longitude": -66.6778569,
+   "addr:street": "Jatunpampa y Churco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital del Niño Ovidio Aligia Uria",
+   "latitude": -16.5082654,
+   "longitude": -68.1179785,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Puesto de Salud La Ventolera",
+   "latitude": -21.6938553,
+   "longitude": -64.6009562,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Los Batos",
+   "latitude": -17.7713308,
+   "longitude": -63.2448457,
+   "addr:street": "Los Batos"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. San Antonio de Esmoruco",
+   "latitude": -21.9488264,
+   "longitude": -66.5176593,
+   "addr:street": "San Antonio de Esmoruco"
+ },
+ {
+   "amenity": "hospital",
+   "name": "San Agustin de Hipona",
+   "latitude": -17.9774282,
+   "longitude": -67.1018209,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "GAVADENT Clínica Dental",
+   "latitude": -17.7362732,
+   "longitude": -63.1035935,
+   "addr:street": "Santa Cruz"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Comanche",
+   "latitude": -16.955481,
+   "longitude": -68.4280711,
+   "addr:street": "Comanche"
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital Cotahuma",
+   "latitude": -16.5155582,
+   "longitude": -68.1395111,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Don Lorenzo",
+   "latitude": -17.803051,
+   "longitude": -62.8784191,
+   "addr:street": "Don Lorenzo"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Pisiga Bolivar (1er Nivel)",
+   "latitude": -19.2725402,
+   "longitude": -68.6150722,
+   "addr:street": "Pisiga Bolívar"
+ },
+ {
+   "amenity": "hospital",
+   "name": "C.S. Sabaya",
+   "latitude": -19.0157071,
+   "longitude": -68.3728202,
+   "addr:street": "Sabaya"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Yunguyo del Litoral",
+   "latitude": -18.8536682,
+   "longitude": -68.3200174,
+   "addr:street": "Yunguyo del Litoral"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Negrillos (1er Nivel)",
+   "latitude": -18.8283572,
+   "longitude": -68.6105581,
+   "addr:street": "Negrillos"
+ },
+ {
+   "amenity": "hospital",
+   "name": "centro de salud",
+   "latitude": -16.4910617,
+   "longitude": -68.155899,
+   "addr:street": ""
+ },
+ {
+   "amenity": "hospital",
+   "name": "Hospital del Niño Manuel Ascencio Villarroel",
+   "latitude": -17.3881842,
+   "longitude": -66.1504292,
+   "addr:street": "Cochabamba"
+ },
+ {
+   "amenity": "hospital",
+   "name": "P.S. Calama (1er Nivel)",
+   "latitude": -18.7589763,
+   "longitude": -67.6767332,
+   "addr:street": "Calama"
+ },
+ {
+   "amenity": "hospital",
+   "name": "SUSA Seguro Universal de Salud Sutónomo del Beni",
+   "latitude": -14.8305522,
+   "longitude": -64.906018,
+   "addr:street": ""
+ }
+]

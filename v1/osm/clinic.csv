@@ -1,0 +1,379 @@
+amenity,name,latitude,longitude,addr:street
+clinic,Clínica San Pedro,-17.3911446,-66.1478541,Calle Aurelio Melean
+clinic,CS Abra Punta,-17.6778366,-65.0892426,
+clinic,PS Teraki,-17.6711013,-65.0967491,
+clinic,Clínica Alemana,-16.5137223,-68.1214622,Avenida 6 de Agosto
+clinic,Clínica Santa María,-16.510082,-68.1253032,Calle Pedro Salazar
+clinic,C.S. Colchani,-20.3036501,-66.9333989,
+clinic,Clínica Virgen de Copacabana,-17.3921057,-66.1487586,
+clinic,Los Lauros,-17.3919553,-66.1632231,
+clinic,San Francisco,-17.3927216,-66.1487473,Calle Sucre
+clinic,Clínica J. Iriarte,-17.3913677,-66.1468146,Calle Victor Cabrera
+clinic,Del Niño,-17.3914464,-66.1475452,Calle Bolivar
+clinic,Centro de Salud Villa Nueva Potosí,-16.507398,-68.14385,
+clinic,San Jorge,-21.5519875,-64.6972253,
+clinic,Centro de Salud Obrajes,-16.5298342,-68.1026113,
+clinic,Centro Salud Niño Kollo,-16.5100372,-68.1491671,
+clinic,Clinica Cobija,-17.3866274,-66.1665096,Avenida Tadeo Haenke
+clinic,Clínica San Jose,-16.4914902,-68.1663872,
+clinic,Clínica Socorro,-16.4965903,-68.1485032,José María Achá
+clinic,Policlínico de Atención Integral en Salud de Especialidades,-17.3767322,-66.1538306,Calle Potosí
+clinic,Clínica Los Olivos,-17.3893248,-66.1796473,
+clinic,Clínica Copacabana,-17.3778151,-66.1541933,Calle Potosí
+clinic,Centro Medico La Florida,-16.5453403,-68.0916007,Avenida Arequipa
+clinic,Laser,-17.3893805,-66.1491109,
+clinic,Centro del Accidentado,-17.3908922,-66.1488245,Calle Pasteur
+clinic,Clínica ProSalud,-17.3947509,-66.1805459,
+clinic,Centro de Flebología LASER,-17.3756922,-66.1638614,Calle Teófilo Vargas
+clinic,Nuestra Señora de Lourdes,-17.3881022,-66.1449525,Calle C. D'avis
+clinic,Bustillos,-16.5054782,-68.1334753,Calle Heroes del Acre
+clinic,Consejo de Salud Rural Andino - Centro de Salud Cruz Roja,-17.3456851,-63.2629454,Calle Bolívar
+clinic,Talentum Garden Clinic,-16.5611828,-68.0962713,
+clinic,Clínica Luis Morales Arnez,-17.3801742,-66.1418861,Avenida General Galindo
+clinic,Clínica de Ojos,-17.386266,-66.1560722,Calle Chuquisaca
+clinic,Urkupiña,-17.3980689,-66.2763305,
+clinic,,-17.4014358,-66.1535063,Calle Honduras
+clinic,Caja Petrolera,-11.0285451,-68.7584831,
+clinic,"Instituto Nacional de Neurología, Neurocirugía y Columna Vertebral",-17.3764074,-66.1537997,Calle Potosí
+clinic,CIES,-16.5037778,-68.1370976,
+clinic,Clinica Boliviana Americana,-17.4011022,-66.153171,Calle San Martín
+clinic,Santa Clara,-11.0314417,-68.7739566,Avenida Pando
+clinic,Centro de Salud Tarope,-17.7698455,-63.0161263,
+clinic,Laboratorio Clínico Sabin,-19.5792706,-65.7554832,
+clinic,Las Carmelitas,-20.4604234,-66.8212855,Calle Santa Cruz
+clinic,,-18.4130594,-66.5624921,
+clinic,Centro de Salud y Bienestar Santa Rosa Lima,-16.4570596,-68.1674861,
+clinic,Clinica Los Ángeles,-17.3786859,-66.1645383,Avenida Juan de la Rosa
+clinic,PoliClínico 10 de Noviembre,-19.5840657,-65.7582558,
+clinic,Instituto Oftalmológico Cochabamba,-17.3859363,-66.1522512,Calle 16 de Julio
+clinic,Centro de Salud Lazareto,-17.7837352,-63.1595856,
+clinic,Caja Nacional de Salud,-19.0094983,-66.7760172,
+clinic,Laboratorio DIAGNOSUR,-21.5322525,-64.7377529,Calle Ramón Rojas
+clinic,Clínica Urbarí,-17.7970784,-63.1974749,
+clinic,Clínica INCOR,-17.7880461,-63.1951865,
+clinic,Clínica Kamiya,-17.7731626,-63.1826674,
+clinic,Clínica Atie,-21.534356,-64.7264955,Calle Bolívar
+clinic,Centro de Salud,-18.1416398,-63.4799754,
+clinic,JC Prado,-16.5554751,-68.2403523,
+clinic,Caja de Salud de Caminos y Ramas Afines,-17.3901192,-66.1523822,Calle Colombia
+clinic,CIES,-16.4979897,-68.1707822,Luis Torres
+clinic,Prosalud,-21.5311331,-64.718893,
+clinic,Centro de Salud Arbieto,-17.5832097,-66.0182483,
+clinic,San Rafael,-17.8019566,-63.1238743,
+clinic,Clínica de Cliza,-17.5908113,-65.9332513,
+clinic,San Joaquín,-17.5910133,-65.9326371,
+clinic,Clínica Solidaria FIDES,-16.4908635,-68.1769047,Avenida René Vargas
+clinic,CSA Policlínico 9 de Abril,-16.4820638,-68.1207692,
+clinic,Centro Medico Ecologia,-16.5063962,-68.1633796,Avenida 6 de Marzo
+clinic,Centro Medico De La Piel,-16.5067167,-68.1634352,Avenida 6 de Marzo
+clinic,Clinica de Ojos,-16.5118248,-68.1651507,Avenida 6 de Marzo
+clinic,Clínica Maurer,-17.7828301,-63.1712258,Av. Melchor Pinto
+clinic,Centro de Salud Familiar,-16.5354134,-68.1907851,
+clinic,Centro Medico y Ecografia,-16.5338009,-68.1912953,Avenida Bolivia
+clinic,Centro Medico Y Dental,-16.4931579,-68.1414105,Avenida America
+clinic,Clinica de Ojos Codes,-16.5117567,-68.1263136,Avenida Sánchez Lima
+clinic,Clinica San Pablo,-16.5039395,-68.1376548,Calle Boqueron
+clinic,Johrei Center,-16.511307,-68.1265074,Calle Pedro Salazar
+clinic,Clinica 6 De Agosto,-16.5145309,-68.1211076,Avenida 6 de Agosto
+clinic,Centro Especialidades Medicas Miraflores,-16.495934,-68.121052,
+clinic,Centro Medico,-16.5254548,-68.109172,Avenida Hernando Siles
+clinic,Clinica De Varices,-16.525508,-68.109058,Avenida Hernando Siles
+clinic,Illimani,-16.5141562,-68.1204895,Calle Clavijo
+clinic,Colchões Ortobom,-17.7823988,-63.1676504,
+clinic,Medico,-16.5205186,-68.1574603,
+clinic,Centro Medico Divino Jesus,-16.528115,-68.1607236,
+clinic,Centro Medico Trinidad,-16.5339981,-68.1897728,
+clinic,Centro de Salud Avaroa,-16.5295549,-68.1856931,
+clinic,Centro Medico De Atención,-16.5340392,-68.1907101,
+clinic,Clinica Dental,-16.5236926,-68.1803008,
+clinic,Consultorio Dental,-16.5334155,-68.1916447,
+clinic,Clínica Dental,-16.5313282,-68.1938758,
+clinic,Clinica Dental,-16.521934,-68.2040722,
+clinic,Centro De Fisioterapia,-16.5185624,-68.2084111,
+clinic,Centro Medico Dental San Gabriel,-16.525424,-68.2012815,
+clinic,Rhesus,-16.5417217,-68.078774,Calle Gabriel René Moreno
+clinic,Mi Salud,-16.5413778,-68.0798811,Calle Gabriel René Moreno
+clinic,Analisis Clinico Alfa & Omega,-16.5352992,-68.0753229,Avenida Manuel Víctor García Lanza
+clinic,Consultorio Medico San Marcos,-16.5335516,-68.2156037,
+clinic,Clinica Gonzalo Delgadillo,-16.5468273,-68.0725266,Avenida Costanera
+clinic,Urgencia Medica Senor De La Cruz,-16.5255941,-68.2009887,
+clinic,,-16.5248542,-68.1993158,
+clinic,PS Pocoata,-17.6102031,-65.7264042,
+clinic,P.S. Saga Saga,-17.6545626,-65.6842794,
+clinic,Caja Salud Arani,-17.5705212,-65.775609,
+clinic,Policonsultorio Centro Social Japonés,-17.7693708,-63.1782451,Avenida Beni
+clinic,Centro de Salud 12 de Octubre,-16.5203155,-68.1661349,
+clinic,Clinica Virgen de Urkupiña,-16.4958147,-68.1468246,Avenida Mariano Bautista
+clinic,,-17.7679381,-63.1583028,
+clinic,Medico,-16.5145311,-68.1563531,
+clinic,Clinica,-16.5144974,-68.1565957,
+clinic,Clínica 4 de Noviembre,-17.7792027,-63.2036038,Tercer Anillo Interno
+clinic,Centro Medico,-16.5092355,-68.159507,
+clinic,Consultorio Medico Gabriel,-16.5085691,-68.1598937,
+clinic,Consultorio Medico Gabriel,-16.5083717,-68.1599751,
+clinic,Consultorio Medico,-16.509414,-68.1586283,
+clinic,Consultorio Medico De Pediatria,-16.5073093,-68.1606591,
+clinic,Clinica Dental,-16.5102296,-68.1593957,
+clinic,Consultorio Dental,-16.5091954,-68.1592786,
+clinic,Consultorio Medico,-16.506115,-68.1608321,
+clinic,Centro Medico,-16.5060648,-68.1608363,
+clinic,Consultorio Medico,-16.505988,-68.1608474,
+clinic,Centro Medico Universal,-16.5059573,-68.1608634,
+clinic,Centro Medico Ecografia,-16.4962955,-68.1442796,Avenida Buenos Aires
+clinic,Hospicio,-16.4970032,-68.1743261,
+clinic,Consultorio Médico,-17.7778622,-63.1719668,
+clinic,Centro Medico Familiar,-16.498041,-68.1446175,Calle Chorolque
+clinic,Ecografia,-16.504086,-68.16154,
+clinic,Clinica,-16.5073224,-68.1429678,Avenida Buenos Aires
+clinic,Clinica De Estetica Dental,-16.4983841,-68.1743618,
+clinic,Clinica Farmacia Fray Martin,-16.4980565,-68.1742826,Avenida Alfonso Ugarte
+clinic,Fisiterapia,-16.4904125,-68.2069001,
+clinic,Clinica Cruz Azul,-16.49034,-68.2072533,
+clinic,Centro Medico,-16.4897643,-68.2076079,
+clinic,Centro Medico De Especialidades,-16.5491721,-68.1915519,
+clinic,,-16.5025827,-68.1221202,
+clinic,Skin Spa,-17.7648683,-63.1722475,Avenida Los Cusis
+clinic,Prosalud - Clínica 1,-17.7666117,-63.1706199,Calle Sao
+clinic,Laboratorio de Análisis Clínico Urey,-17.7650817,-63.1580782,
+clinic,Centro Medico,-17.7600106,-63.1571893,
+clinic,Clínica Dental,-17.7620073,-63.1589244,
+clinic,Clinica Brasil,-17.7739176,-63.1538442,
+clinic,Enfermeria Salud,-17.7789005,-63.1830947,Calle Libertad
+clinic,Pil,-16.5375326,-68.0482732,Avenida Héroes del Chaco
+clinic,Centro Medico del Sur,-16.5392565,-68.07828,Calle 21
+clinic,Clinica Bethel,-17.7751858,-63.1786795,
+clinic,Diagnos Lab,-16.5460777,-68.0764369,Calle 21
+clinic,Labclinics,-16.5405996,-68.0776183,Calle 21
+clinic,Embriovid,-16.5405472,-68.0776236,Calle 21
+clinic,Neo Medic,-17.7585885,-63.1836825,Tercer Anillo Externo
+clinic,Centro de Medicina y Estética Embellece,-17.7587909,-63.185093,Tercer Anillo Externo
+clinic,INCOR Salud,-17.788786,-63.1943466,
+clinic,Clinica Nuclear,-17.7824263,-63.1872924,
+clinic,Consultorio Medico,-17.7935635,-63.1915535,
+clinic,SportsClinics,-17.775714,-63.1903085,Calle Guatemala
+clinic,Centro Médico Foianini,-17.7668968,-63.1987996,Tercer Anillo Interno
+clinic,Ecografia,-17.7785945,-63.1750932,Calle Suárez Arana
+clinic,Centro Ginemast,-17.7849078,-63.172692,Calle Ñuflo de Chávez
+clinic,Ecografias- Rayos,-17.7811451,-63.1863702,Calle Buenos Aires
+clinic,Enfermeria,-17.7608726,-63.1631726,Calle Capitan Manuel Tovar
+clinic,Bebe Clinica,-17.784651,-63.1936885,Avenida Landivar
+clinic,Kanata,-17.4132695,-66.1590988,Avenida 6 de Agosto
+clinic,NEFRODIAL,-17.373586,-66.1594456,Calle Buenos Aires
+clinic,Laboratorio Clínico INMUNOLAB S.R.L.,-17.7671945,-63.1697477,Avenida Alemania
+clinic,Centro de Salud SAFCI + Mi Salud,-16.5457298,-68.1742207,
+clinic,Centro de Salud Rosas Pampa,-16.5421203,-68.1721512,Calle 25
+clinic,Centro de Salud Anexo Rosas Pampa,-16.5444561,-68.165975,
+clinic,Centro de Salud Villa Exaltación,-16.5362146,-68.1576704,Calle Alfredo Alexander
+clinic,Centro de Salud Maria Madre de Dios,-16.5076379,-68.158555,Calle 3
+clinic,Centro de Salud Boliviano Japones,-16.5844352,-68.1859835,
+clinic,Centro de Salud Mercedes G,-16.5670934,-68.2041703,
+clinic,Centro de Salud Atipiris,-16.5902068,-68.1808974,
+clinic,Torrecillas,-21.5523102,-64.677036,RN1: Tarija-Padcaya
+clinic,Centro de Salud San Carlos,-17.756329,-63.1803013,
+clinic,CODES,-16.5117075,-68.1278007,Calle Presbítero Medina
+clinic,Clínica del Ojo,-16.5430871,-68.0782025,Avenida Montenegro
+clinic,SISME,-17.8049985,-63.1473849,Avenida Sudamericana
+clinic,Santa Lucía,-17.3844668,-66.1547028,
+clinic,1 de Mayo,-19.5852889,-65.7567485,
+clinic,PS Las Pampitas,-17.7668701,-63.1192855,
+clinic,Rehabilitación Integral Especializada Ríe,-17.7893243,-63.1724157,Calle Oruro
+clinic,Alto Pampahasi,-16.49117,-68.1038087,
+clinic,Cruz Roja,-17.1198741,-63.2332783,
+clinic,Ecografía,-16.5175592,-68.1514153,Calle 5
+clinic,Willie Lemaitre,-17.7702134,-63.1978562,
+clinic,Laboratorio de Anàlisis Clìnico Central,-19.0447625,-65.2585272,Avenida H. Siles
+clinic,Clínica 4 de Diciembre,-11.0045763,-66.0647412,Avenida Ruben Castedo Barba
+clinic,Policlinico 25 de Mayo CNS,-19.0459734,-65.2593971,Capitán Agustín Ravelo
+clinic,Laboratorio BIOSLAB,-16.5236695,-68.152112,Avenida Satélite
+clinic,Caja Cordes,-21.2663546,-63.4747309,La Paz
+clinic,Clínica Nieves,-16.5134097,-68.1441003,
+clinic,Centro de Salud Villa Victoria,-16.4911682,-68.1555225,
+clinic,Dr. Arancibia,-17.8678701,-63.1669967,Avenida El Palmar del Oratorio
+clinic,Clinica Preventiva Sur,-17.8304423,-63.122914,Calle San Antonio
+clinic,Cruz roja Potosí,-19.5857323,-65.7567211,
+clinic,Centro de Salud Candelaria,-17.9483806,-67.1061161,
+clinic,Clínica San Felipe,-17.951257,-67.1100239,
+clinic,Centro Médico,-17.9505874,-67.1131083,
+clinic,Clínica Remar,-17.9397191,-67.1157197,
+clinic,Servicio de Salud Integral Luz y Vida,-17.9286929,-67.1192475,
+clinic,Consultorio Medico Junta de Vecinos Los Pinos,-17.926563,-67.1303853,
+clinic,Servisio de Salud,-17.9673993,-67.1379097,
+clinic,Posta de Salud Plan 500,-17.9791987,-67.1422807,
+clinic,Consultorio Médico Zonal,-17.9812151,-67.1337734,
+clinic,Centro de Salud Integral Apiterapia,-17.9871363,-67.1336661,
+clinic,Fraternidad Cristiana de Personas Discapacitadas,-17.9787777,-67.1289253,
+clinic,Consultorio Medico,-17.9784205,-67.1337962,
+clinic,Centro de Salud Chiripujio,-17.9774,-67.1362021,
+clinic,Consultorio Medico Becerra,-17.9525042,-67.1123947,
+clinic,Fisio Sana,-17.3725739,-66.1723039,
+clinic,Centro de Rehabilitación Infantil Profesor Mario Parma,-16.4867596,-68.1572259,Avenida Naciones Unidas
+clinic,Huari,-19.0111543,-66.776556,
+clinic,Santa Catalina,-17.8672898,-63.1407621,
+clinic,Caja Nacional de Salud,-21.8278635,-63.7450033,
+clinic,Centro de Salud Integral Sica Sica,-17.3332754,-67.7411832,
+clinic,Centro de Salud Caracollo,-17.637219,-67.2173522,
+clinic,Centro de Salud de Bella Vista,-16.5303923,-68.0949132,
+clinic,Consultorio Naturista Kolpin,-17.7536923,-62.995199,
+clinic,Villa Rosario,-19.0574614,-65.2710794,Av. Destacamento Chuquisaca
+clinic,Embriovid,-17.7706414,-63.1936783,Enrique Finot
+clinic,BioEstética,-16.5286251,-68.0877082,Calle Gaspar Jurado
+clinic,Centro de Salud 8 de Diciembre,-16.5183515,-68.1331403,
+clinic,Munaypata,-16.4873895,-68.1595369,
+clinic,Puesto de Salud Tablas Monte,-17.0801593,-65.9998144,
+clinic,Terapia de parbiomagnetismo,-17.348852,-63.281005,
+clinic,Clínica El Trompillo,-17.8010941,-63.1716915,Zoilo Flores
+clinic,Centro de Salud Thola Pampa,-18.4586652,-65.594244,
+clinic,San Martin,-22.0878869,-65.5961382,
+clinic,Divino Maestro,-16.5237693,-68.1059386,
+clinic,España,-17.4574338,-66.1561083,
+clinic,,-17.4099413,-66.1510374,Manuripi
+clinic,Clínica Médica Aranes,-17.8476191,-63.0903086,
+clinic,Los Olivos,-17.3776905,-66.1763088,Avenida Melchor Pérez de Olguín
+clinic,Centro de Salud San Juan Kenko,-16.5668781,-68.1931747,
+clinic,Primeros Auxilios,-16.4947469,-68.1736518,Calle Plaza Libertad
+clinic,Caja Nacional de Salud,-22.0332555,-63.6808011,Calle El Retiro
+clinic,Clínica San Roque,-22.0199661,-63.6776959,Calle Juan XXIII
+clinic,AudioCien,-17.3897524,-66.1506889,
+clinic,Recupel Medicina Capilar,-16.5422765,-68.0797007,Calle Enrique Penaranda
+clinic,Orthosystem,-17.7677239,-63.1883876,Guillermo B. Rodrígez
+clinic,Centro de Salud Kupini,-16.5118003,-68.0987426,
+clinic,Centro de Salud Lacma,-17.4344673,-66.1560302,Calle Virgen del Carmen
+clinic,Pacata,-17.3735606,-66.1242667,Avenida Circunvalación Beijing
+clinic,Clínica Villa México,-17.4387214,-66.1570468,Calle Virgen de Urkupiña
+clinic,Kinesio Vida,-14.8349561,-64.9034897,
+clinic,Insumos Medicos IS MARCE,-14.8312793,-64.8998058,
+clinic,Policlínica Especialidades La Paz,-16.5015613,-68.1204576,
+clinic,Odonto Molina,-17.7930184,-63.1794885,
+clinic,Aranda,-16.4966723,-68.124205,
+clinic,Centro de salud Los Bosques,-17.8122018,-63.2147835,
+clinic,Laboratorio Clínico BIO-EXAM,-16.5191743,-68.1518266,Avenida Diego de Portugal
+clinic,Cantuta,-17.3971189,-66.194008,
+clinic,CS Enrique Aponte,-17.7662363,-63.186337,
+clinic,PROSALUD 16 de Julio,-16.5011825,-68.1711319,Avenida Juan Pablo II
+clinic,Clinica Dental,-21.5381779,-64.7116694,Avenida Circunvalación
+clinic,Centro de Salud,-16.1334784,-62.0246527,
+clinic,PS Molleni,-19.7797464,-64.4622959,
+clinic,Centro de Salud Padre Kolbe,-17.3413713,-63.2657519,
+clinic,FisioPlus,-17.3763067,-66.1558449,
+clinic,Consultorio de Pediatría,-19.5742525,-65.7630769,Avenida Unión
+clinic,Cruz Roja Boliviana Filial Municipal El Alto,-16.5320562,-68.1518843,Avenida José Agustín
+clinic,CENFIDE Centro de Nutricion con Formato Integral de Especialidades San Antonio,-16.5270451,-68.1578367,Avenida Escalona y Aguero
+clinic,Centro de Ecografia,-18.9025328,-66.77152,
+clinic,Centro de Salud Bartolina Sisa,-16.4919652,-68.137294,
+clinic,Centro Municipal de Salud,-16.5002104,-68.1310759,
+clinic,SERMEDE,-16.5103641,-68.1291724,Avenida Ecuador
+clinic,Centro de Salud Lahuachaca,-17.3724836,-67.6785548,
+clinic,,-17.3863522,-67.6416025,
+clinic,Centro de Salud San Juan de Dios,-20.4702365,-66.8309875,Avenida Potosí
+clinic,,-20.7414901,-67.6596058,
+clinic,Centro de Especialidades Clínicas Vida,-16.4944501,-68.1341868,
+clinic,,-17.6247375,-62.7071046,
+clinic,Centro de Especialidades Del Norte,-16.4970376,-68.1846285,Avenida La Paz
+clinic,,-17.3847143,-66.159948,
+clinic,Paracelsus,-17.3866421,-66.1586241,
+clinic,Fisio,-17.3852572,-66.1611747,
+clinic,La Paz,-17.3866359,-66.1584586,
+clinic,Centro de Salud Juana Azurduy de Padilla,-17.3360539,-63.274765,
+clinic,CS de Turco,-18.1804979,-68.1936733,
+clinic,Policonsultorio Anexo 32,-17.3982502,-66.157703,
+clinic,Policonsultorio Regional La Paz,-16.5054916,-68.1279813,Calle Capitán Ravelo
+clinic,Bioclinic's,-16.5189359,-68.116592,Avenida del Libertador
+clinic,,-17.3720872,-66.1428197,Avenida General Galindo
+clinic,,-17.3797333,-66.0746699,
+clinic,CS Roque Aguilera,-17.766024,-63.1863867,Santiago Vaca Guzmán
+clinic,Clínica Santo Tomas,-16.4777795,-68.1839441,
+clinic,C.Medico Noruego Bolivariano,-16.4959048,-68.2110438,
+clinic,C.Medico Noruego,-16.4959084,-68.2118437,
+clinic,Policlínico Villa Adela,-16.524011,-68.2109705,
+clinic,Clínica San Francisco,-16.5174721,-68.160158,
+clinic,Hospital Monseñor Jesus Perez,-19.0508124,-65.2552088,Calle Daniel Calvo
+clinic,PROMED SRL,-17.7832686,-63.1663961,Ballivián
+clinic,Clinica Gaer,-16.4915886,-68.1168959,Calle M. Nuñez del Prado
+clinic,Clínica Europa,-16.4992477,-68.1206463,Calle Carrasco
+clinic,Chavez Rancho,-17.3949634,-66.1895139,
+clinic,Instituto Boliviano de Radioterapia y Oncología IBRO,-16.5106781,-68.1671907,Avenida Unión
+clinic,Centro de Salud Pacata,-17.3656597,-66.1240989,
+clinic,Centro de Salud Villa Fátima,-21.4477246,-65.7165075,
+clinic,Clinica Prosalud,-16.4986707,-68.1207418,Avenida German Busch
+clinic,Centro médico internacional hope,-16.5470196,-68.0892311,Calle Las Retamas
+clinic,Posta de Salud Tuska Pujio,-17.4139613,-66.055814,
+clinic,Centro de Salud Potosí,-19.5892485,-65.7488483,Calle Linares
+clinic,Centros Médicos Chávez,-17.7892271,-63.1874169,
+clinic,Oncomed,-16.5000463,-68.1181961,
+clinic,Oncoclinic,-16.5079858,-68.1271986,
+clinic,Centro Medico Punata,-17.3747859,-66.2008934,
+clinic,Posta de Salud Petrolero,-10.9983286,-66.0480018,
+clinic,Policlínico Consultorio Cristo Rey,-17.3904393,-66.1717883,
+clinic,,-17.3811592,-66.1483684,
+clinic,,-17.4010398,-66.1720251,
+clinic,Caja de Seguro Social de Choferes,-17.3838004,-66.1592385,
+clinic,ARTRO CENTRO,-17.7924662,-63.1949356,Calle Aruma
+clinic,Asistencia publica,-17.9688922,-67.1158132,
+clinic,DarSalud,-16.5040358,-68.1341321,Avenida 20 de Octubre
+clinic,Be - Medicina Estética,-16.5202691,-68.0878946,Avenida Alfredo Ovando Candia
+clinic,C. de Salud,-19.5891441,-65.7561221,
+clinic,Tembladerani,-16.510684,-68.1425878,Calle Canonigo Ayllon
+clinic,FISIOTERAPIA,-16.6476936,-68.2935412,Calle La Paz
+clinic,Centro de salud Mallasa,-16.5692062,-68.0895503,
+clinic,Centro Medico Villa Bolivar,-16.5243552,-68.1805402,Calle 135
+clinic,"Centro de Salud ""Prefectural""",-16.5248958,-68.180349,Calle 135
+clinic,Clínica de la CSBP,-16.5246261,-68.1126353,Avenida Héctor Ormachea
+clinic,Clínica Cordes,-16.5419084,-68.0796552,
+clinic,Caja de Salud de la Banca Privada,-17.815723,-63.2103516,Calle Eucaliptos
+clinic,Fundación CEREFE,-16.5102755,-68.1578948,Calle 6
+clinic,Centro de Urología,-21.5263432,-64.7400545,
+clinic,Laboratorio San Roque,-21.5296898,-64.7331378,
+clinic,"Clínica de Ojos ""Dr. Aguirre Perez""",-21.5396639,-64.7185894,
+clinic,Centro de Salud 3 de Mayo,-21.514388,-64.7344789,
+clinic,,-21.5224315,-64.7365844,
+clinic,Centro de Salud 4 Esquinas,-17.3610954,-66.2278098,
+clinic,Perpetuo Socorro,-17.7745313,-63.2097522,
+clinic,Centro de Medicina Tradicional Kallawaya,-17.445606,-66.1253499,Avenida Siglo XX
+clinic,DermaSalud,-17.7874708,-63.179767,Calle Republiquetas
+clinic,Socorro Médico,-16.5152919,-68.154636,Avenida Cívica
+clinic,Prosalud,-17.8182482,-63.2020164,Calle La Colina
+clinic,Clinica Rengel,-16.5152294,-68.1288658,Calle Victor Sanjines
+clinic,Clinica San Camilo,-15.8917861,-63.1885784,Avenida Santa Cruz
+clinic,San Juan de Dios,-17.9774893,-67.1019098,
+clinic,Primeros Auxilios,-16.522611,-68.1693056,
+clinic,Clínica del Sur,-16.5256734,-68.1086741,
+clinic,Centro Medico,-19.0417754,-65.2621626,Avenida Venezuela
+clinic,Caja Nacional de Salud,-18.4657082,-66.5702368,Calle Colquechaqua
+clinic,Delizias,-16.5503471,-68.2092753,
+clinic,Kolping - San Luis Tasa,-16.5263415,-68.1985536,
+clinic,Caja Petrolera de Salud,-17.7893061,-63.1827229,Calle Monseñor Salvatierra
+clinic,Clinica Dr. Agustin Mendez,-18.4909362,-64.1078739,Calle Señor de Malta
+clinic,Centro Ginecologico Pro-Mujer,-17.7564011,-63.1655209,Avenida Alemania
+clinic,Clinica Buena Salud,-17.7710726,-63.1250802,RN4: Santa Cruz-Cotoca
+clinic,Clinica Virgen de Cotoca,-17.7708408,-63.1226692,Calle Santa Barbara
+clinic,Centro de Salud San Martin,-17.7651673,-63.1243014,Avenida San Felipe
+clinic,Clinica Medica Viara Srl,-17.7828676,-63.1637583,Avenida Pando
+clinic,Centro de salud COPACABANA,-16.5403214,-68.1864707,
+clinic,OneDay,-17.7907289,-63.2234367,Calle El Paúro
+clinic,Centro Médico Buen Samaritano,-16.5190364,-68.1588838,Calle Isaac Arias
+clinic,Centro de Salud Calama,-16.5227858,-68.1986169,
+clinic,Centro de Salud 3 de Mayo,-16.5509033,-68.211763,Calle Luis Taborga
+clinic,Brain Balance,-17.7586108,-63.1693375,Avenida República del Japón
+clinic,NEWLIFE,-16.5257898,-68.1529321,Avenida del Policía
+clinic,MedicLife - Diagnóstico Médico,-17.9541167,-67.1094124,Avenida Germán Busch
+clinic,Consultorio Medico y Enefermeria Virgen la Merced,-21.5123222,-64.7355357,"Avenida Froilan Tejerina frente al mercado abasto de norte, Shopin Ely"
+clinic,insudent,-21.5348728,-64.7235203,
+clinic,Centro de salud de Chua Cocani,-16.1895395,-68.7488755,
+clinic,Clinica del dolor,-16.5451319,-68.0757943,
+clinic,Prosalud - Policonsultorio Colcapirhua,-17.3877132,-66.2173338,Avenida Gualberto Villarroel
+clinic,Clínica Santa Teresa,-16.4956404,-68.1194828,
+clinic,ESPERANZA,-16.5243395,-68.1516721,
+clinic,Oftamológico San Andrés,-16.5249331,-68.1519035,
+clinic,Centro Medico Verdolago,-11.0185232,-66.0488206,
+clinic,Clinica para Diabéticos,-11.0042164,-66.0656582,Avenida Juan Carlos Menini
+clinic,Marie Stopes Bolivia,-16.5017922,-68.1342625,Calle Nicolas Acosta
+clinic,Centro de Salud Alto Miraflores 3,-16.479183,-68.1260085,Calle Adriana Pariente
+clinic,Policlinico Central CNS,-16.4950686,-68.1339606,Calle Ingavi
+clinic,Caja de Ferroviarios,-16.4979668,-68.1344004,Calle Mercado
+clinic,Primeros Auxilios,-16.4902776,-68.1368873,Avenida Armentia
+clinic,VIRGEN DE COPACABANA,-16.4964906,-68.208923,
+clinic,BIOS-LAB,-16.5237479,-68.1521731,Calle de las Culturas 17 B
+clinic,Fisioterapia Violeta,-17.3751565,-66.1957555,Avenida José Manuel Villavicencio
+clinic,Primeros Auxilios,-16.5192904,-68.1498999,Avenida Panorámica
+clinic,Endoscopias,-16.5192276,-68.1518426,Avenida Diego de Portugal
+clinic,Rayos X,-16.5225883,-68.1529949,Avenida Diego de Portugal

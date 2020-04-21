@@ -1,0 +1,202 @@
+[
+    {
+        "gid": "1",
+        "nombre": "Surtidor Biopetrol",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1635473000",
+        "point_y": "-17.7824398000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0A86C301EEF944FC0B01688F94DC831C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "2",
+        "nombre": "ES Alemania Biopetrol",
+        "direccion": "Totai, Santa Cruz de la Sierra",
+        "point_x": "-63.1710182000",
+        "point_y": "-17.7690763000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0A002A4ECE3954FC0E0A0342FE2C431C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "3",
+        "nombre": "Asociacion De Surtidores ASOSUR Santa Cruz",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1693026000",
+        "point_y": "-17.7844901000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0581025B5AB954FC02089DB57D4C831C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "4",
+        "nombre": "Surtidor los mangales",
+        "direccion": "Cuarto Anillo, Santa Cruz de la Sierra",
+        "point_x": "-63.2170805000",
+        "point_y": "-17.7942826000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0B00C384BC99B4FC020C8BE1A56CB31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "5",
+        "nombre": "Estaci\u00f3n De Servicio Rivero",
+        "direccion": "esquina, Av. Cristo Redentor, Santa Cruz de la Sierra",
+        "point_x": "-63.1804821000",
+        "point_y": "-17.7624684000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0B08196091A974FC0B03B0A2131C331C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "6",
+        "nombre": "Surtidor La Ca\u00f1ada",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1618027000",
+        "point_y": "-17.8111824000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0C0736CF3B5944FC0301757A6A9CF31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "7",
+        "nombre": "Estaci\u00f3n de Servicio 8 de Noviembre",
+        "direccion": "Av. Moscu # 5358. Barrio Villa Ortu\u00f1o entre Quinto y, Sexto anillo, Santa Cruz de la Sierra",
+        "point_x": "-63.2072200000",
+        "point_y": "-17.8341735000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C0D889592F869A4FC090B0FD648CD531C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "8",
+        "nombre": "Surtidor Yotau",
+        "direccion": "Doble v\u00eda La Guardia, Santa Cruz de la Sierra",
+        "point_x": "-63.2316077000",
+        "point_y": "-17.8320373000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C038803452A59D4FC0508D806500D531C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "9",
+        "nombre": "Surtidor La Gotera",
+        "direccion": "Centro,, Santa Cruz de la Sierra",
+        "point_x": "-63.1943213000",
+        "point_y": "-17.7885420000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C040353685DF984FC0B08575E3DDC931C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "10",
+        "nombre": "San Luis",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1546896000",
+        "point_y": "-17.8059258000",
+        "estado": "SURTIDOR",
+        "geom": "01010000C000846ADECC934FC0A0003A2751CE31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "12",
+        "nombre": "Estaci\u00f3n de Servicio Vardona",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1749076000",
+        "point_y": "-17.7505521000",
+        "estado": "ESTACION",
+        "geom": "01010000C030E94A5F63964FC0A071B32E24C031C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "11",
+        "nombre": "Estaci\u00f3n De Servicio Rivero",
+        "direccion": "esquina, Av. Cristo Redentor, Santa Cruz de la Sierra",
+        "point_x": "-63.1804821000",
+        "point_y": "-17.7624684000",
+        "estado": "ESTACION",
+        "geom": "01010000C0B08196091A974FC0B03B0A2131C331C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "14",
+        "nombre": "Estacion de Servicio Orsa - GNV Oficina Central",
+        "direccion": "Barrio Juan Macias, Calle Nicolas Suares esquina, Av. Alemana, Santa Cruz de la Sierra",
+        "point_x": "-63.1634210000",
+        "point_y": "-17.7523566000",
+        "estado": "ESTACION",
+        "geom": "01010000C0603DB5FAEA944FC0F0ED2F719AC031C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "13",
+        "nombre": "Genex",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1579722000",
+        "point_y": "-17.7601776000",
+        "estado": "ESTACION",
+        "geom": "01010000C0A856DC6E38944FC0D026CBFF9AC231C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "16",
+        "nombre": "Estaci\u00f3n de Servicio La Cima",
+        "direccion": "Avenida Crist\u00f3bal De Mendoza, Santa Cruz de la Sierra",
+        "point_x": "-63.1907873000",
+        "point_y": "-17.7733702000",
+        "estado": "ESTACION",
+        "geom": "01010000C0F8FEDEB76B984FC060B3E496FBC531C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "15",
+        "nombre": "Estacion De Servicio Tero Tero",
+        "direccion": "Av. Paragu\u00e1, Santa Cruz de la Sierra",
+        "point_x": "-63.1569184000",
+        "point_y": "-17.7709102000",
+        "estado": "ESTACION",
+        "geom": "01010000C0F811F2E615944FC01027F15E5AC531C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "18",
+        "nombre": "Estaci\u00f3n De Servicio Dicor",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1277589000",
+        "point_y": "-17.8010737000",
+        "estado": "ESTACION",
+        "geom": "01010000C0E8A254675A904FC0802F7F2A13CD31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "17",
+        "nombre": "Estaci\u00f3n de Servicio Miragas",
+        "direccion": "Avenida El Trompillo & Melquiades Barbery, Santa Cruz de la Sierra",
+        "point_x": "-63.1701980000",
+        "point_y": "-17.7991020000",
+        "estado": "ESTACION",
+        "geom": "01010000C018EC4D0CC9954FC0002BDCF291CC31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "20",
+        "nombre": "Estacion De Servicio Tres Ases S.R.L.",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1504849000",
+        "point_y": "-17.7306037000",
+        "estado": "ESTACION",
+        "geom": "01010000C05805D61643934FC020D615D808BB31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    },
+    {
+        "gid": "19",
+        "nombre": "Estacion de Servicio GENEX",
+        "direccion": "Av Roque Aguilera, Santa Cruz de la Sierra",
+        "point_x": "-63.1998549000",
+        "point_y": "-17.8037295000",
+        "estado": "ESTACION",
+        "geom": "01010000C0F8B869D894994FC090546D37C1CD31C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "PRIVADO"
+    }
+]

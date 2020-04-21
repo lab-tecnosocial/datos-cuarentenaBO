@@ -1,0 +1,130 @@
+Departamento,Alcance,Descripción del alcance,Latitud,Longitud,Dirección,Nombre,Especialidad,Telefonos,Horarios de atención,A domilicio,Consulta a distancia,Verificado
+Cochabamba,Zonal,Cochabamba,NA,NA,Z/ Hipódromo,Mauricio Camacho,Veterinario,69448268,24 hrs,Sí,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Z/ Chimba,Cristian Herrera,Veterinario,75910589,NA,No,No,Si
+Cochabamba,Zonal,Cochabamba,-17.357125,-66.175947,Circunvalación y Beijing,Mauricio Catorceno,Veterinario,70765804,NA,No,No,Si
+Cochabamba,Zonal,Cochabamba,-17.382859,-66.180372,Tadeo Haenke y Antofagasta,Veterinaria Hospicio Animal,Veterinario,76472124,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Z/ Muyurina,Radiografia Digital Malluicy,Veterinario,75900858 - 72743200,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,-17.377125,-66.161148,Av. Libertador Simón Bolivar #1314,Veterinaria ExoVet,Veterinario,60393960 - 4424177,07:00-12:00,No,SI,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Puente Cobija,Jasmine Torrico,Veterinario,70794078,NA,No,No,No 
+Cochabamba,Zonal,Cochabamba,NA,NA,Z/ Mesadilla - Pacata,Monica Montes,Veterinario,77417339,NA,No,Si,Si
+Cochabamba,Zonal,Cochabamba,-17.386414,-66.159959,Ayacucho norte - Costanera,Veterinaria Ameridog,Veterinario,70727814 - 70750372,07:00-12:00,No,No,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Av. Víctor Ustariz,José Luis M,Veterinario,71460528,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Circunvalación Km. 7 - Sacaba,Lorena Rojas,Veterinario,76454466,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Z/ Sud - Base Aérea,Veterinaria Don Animales,Veterinario,70352125 -  4739462,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Villa Granado,Veterinaria Vasan,Veterinario,78364101,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,-17.399437,-66.144656,Z/ Las Cuadras av. 9 de Abril,Veterinaria Patushino,Veterinario,71412435,07:00-12:00,No,No,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Av. Huaynakapac - Z/ Villa Coronilla,Veterinaria Lulyvet,Veterinario,NA,NA,No,Si,No
+Cochabamba,Zonal,Cochabamba,-17.367883,-66.171076,Los Ceibos,Veterinaria Paraiso de los Animales,Veterinario,79790979,07:00-12:00,No,Si,Si
+Cochabamba,Municipal ,Cochabamba,-17.366189,-66.169723,Simon Lopez- Z/ Cala Cala,Veterinaria Dulces Mascotas,Veterinario,77413146,07:00-12:00,Si,Si,SI
+Cochabamba,Zonal,Cochabamba,-17.388979,-66.110836,"Z/Quintanilla, Av. Chapare.",Veterinaria CINAVET,Veterinario,71771720,07:00-12:00,No,Si,Si 
+Cochabamba,Zonal,Cochabamba,-17.37465,-66.142739,Av. General Galindo y America,Veterinaria Punto Pets,Veterinario,77480497,07:00-12:00,No,Si,Si
+Cochabamba,Zonal,Cochabamba,NA,NA,Villavivencio y Av. Dorbigni,Veterinaria VetCat,Veterinario - emergencias,72773969 - 74834384,24 hrs,No,Si,Si
+Cochabamba,Zonal,Cochabamba,-17.344612,-66.172317,"Z/ Norte. Candelaria, Segunda Circunvalación. Av. Los Ángeles calle 3",Carmen Morales,Veterinario,79983827,8:00 am - 12:00 pm,No,No,Si
+La Paz,Municipal ,La Paz,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,70169907 - 76217775,8:00 am - 12:00 pm,No,No,Si
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,71554627 - 71554670,8:00 am - 12:00 pm,No,No,Si
+Tarija,Municipal ,Tarija,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,72949005 - 71554631,8:00 am - 12:00 pm,No,No,Si
+Oruro,Municipal ,Oruro,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,72329947 - 78603180,8:00 am - 12:00 pm,No,No,Si
+Santa Cruz,Municipal ,Santa Cruz,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,3431222 - 3530008,8:00 am - 12:00 pm,No,No,Si
+El Alto,Municipal ,El Alto,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,71948831 - 78848039,8:00 am - 12:00 pm,No,No,Si
+Chuquisaca,Municipal ,Sucre,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,77117444 - 68660082,8:00 am - 12:00 pm,No,No,Si
+Beni,Municipal ,Trinidad,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,75895532 - 73934734,8:00 am - 12:00 pm,No,No,Si
+Pando,Municipal ,Cobija,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,72697370 - 72938540,8:00 am - 12:00 pm,No,No,Si
+Potosí,Municipal ,Potosí,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,72365931 - 79436705,8:00 am - 12:00 pm,No,No,Si
+Beni,Municipal ,Trinidad,NA,NA,NA,SEDEM,Equipos de Bioseguridad para empresas públicas,77841467 - 73216064,8:00 am - 12:00 pm,No,No,Si
+La Paz,Zonal,Z/ Calacoto,NA,NA,Z/ Calacoto,Veterinaria Del Sur,Veterinario,70616221,NA,No,Si,Si 
+La Paz,Zonal,Z/ Calacoto,NA,NA,Av. Montenegro,Animal Centro Médico,Veterinario,73006002,NA,No,Si,Si 
+La Paz,Zonal,Z/ Ciudad Satélite,-16.523415,-68.148859,NA,Dogtora Osita,Veterinario,78910774,NA,No,No,Si 
+La Paz,Zonal,Z/ Central,-16.487455,-68.142825,C/Teniente Oquendo N°290,San José,Veterinario,71247989,NA,No,No,Si 
+La Paz,Zonal,Z/ Sopocachi,-16.510631,-68.130081,C/Juanito Benavente,Wolf Vet,Veterinario,75206916,NA,No,Si,Si 
+La Paz,Zonal,Z/ Miraflores,NA,NA,Av. Sánchez Lima,Petite Pompom,Veterinario,71503365,NA,No,No,Si 
+La Paz,Zonal,Z/ Chasquipampa,NA,NA,Z/Chasquipampa,Veterinaria Fátima,Veterinario,72849127,NA,No,SI,Si 
+La Paz,Zonal,Z/ Villa Fátima,NA,NA,Z/Villa Fátima,Veterinaria Mejor Amigo,Veterinario,71246688,NA,No,No,Si 
+La Paz,Zonal,Z/ Villa Fátima,-16.484212,-68.121062,Plaza Villarroel,Canis y Feliz,Veterinario,68044781,NA,No,SI,Si 
+La Paz,Zonal,Z/ Villa Copacabana,-16.493207,-68.117341,Av. Tito Hupanqui,Sabuezo,Veterinario,77244537,NA,No,Si,Si 
+La Paz,Zonal,Z/ Miraflores,NA,NA,Av. Iturralde,Bigotes,Veterinario,70144342,NA,No,Si,Si 
+La Paz,Municipal ,La Paz,NA,NA,C/Colombia,Animalandia,Veterinario,70149500,NA,Si ,Si,Si 
+La Paz,Zonal,Zona Chuquisaca,NA,NA,Z/Chuquisaca,Peñaranda,Veterinario,79130429,NA,No,Si,Si 
+La Paz,Zonal,Bajo Llojeta,-16.510168,-68.132681,Z/Bajo Llojeta,Animal Town,Veterinario,76242259,NA,No,Si,Si 
+La Paz,Zonal,Z/ Miraflores,-16.505554,-68.119471,C/Claudio Sanjinez,Doberman,Veterinario,72539572,NA,No,No,Si 
+La Paz,Zonal,Plaza Villarroel,NA,NA,Plaza Villarroel,Mariano Rubín de Celiz,Veterinario,75823142,NA,No,Si,Si 
+La Paz,Zonal,NA,-16.482388,-68.141914,Av. Baltazar de Salas,Engreidogs,Veterinario,78923498,NA,No,Si,Si 
+La Paz,Zonal,Ciudad Satélite,NA,NA,Ciudad Satélite,Veterinaria Ciudad Satélite,Veterinario,78801673,NA,No,Si,Si 
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Alex Orozco,NA,68463810,NA,Si ,Si,Si 
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Verónica Suarez,NA,72277875,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Claudia Alejandra Huanca Villca,NA,72961505,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Daniela Bazoalto,NA,70754241,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Katherinne Carolina Espinoza,NA,70722190,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Paola Salazar Rodríguez,NA,70399894,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Rosimeri Flores Camacho,NA,70399894,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Viviana Aliaga,NA,73089123,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Maryfrance del Granado,NA,76955012,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Jaime Escobar,NA,67406531,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Josimar Rodríguez,NA,79491961,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Nestor Hugo Mendieta,NA,68503743,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Daniel Flores Mamani,NA,70385187,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Carla Copaititi Montaño,Bioquímico - emergencias,70765979,24 hrs,No,Sí,Si
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Carmen Lucía Paz,Bioquímico,60721909,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Cuper Maldonado Panozo,Bioquímico - emergencias,68444923,24 hrs,NA,Sí,NA
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,María René San Martín,Psicología,67436061,24 hrs,NA,Sí,SI
+Cochabamba,Municipal ,Cochabamba,NA,NA,NA,Albana Escobar,Odontóloga,76454928,24 hrs,No,Sí,Si
+Cochabamba,Municipal,Cochabamba,-17.390496,-66.153997,Calle Colombia 641 entre Lanza y Antezana,CentralVet,Veterinario,4230865 - 65368404 - 65368404,NA,NA,Sí,Sí
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Anacarola Mustafa Urquidi,Psicología,67060866,"Lunes, Miércoles y Viernes: 08:30 - 12:00",No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Guery Zabala Gumucio,Psicología,76736012,Jueves a Domingo: 14:20 - 20:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Vanessa Loayza Nuñez,Psicología,76285229,Lunes y Jueves: 14:30 - 19:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Carmiña Guzman Cortez,Psicología,73736110,Miércoles y Jueves: 09:30 - 12:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Edwin Pocoaca Machaca,Psicología,70148022,Miércoles: 09:00 - 13:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Alejandra Ramirez Tube,Psicología - Emergencias,76103623,Sábados y Domingos: 14:00 - 19:00,No,Si,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Zelma Ochoa Portugal,Psicología,67133153,Lunes 09:30 - 12:30 y Miércoles 15:30 - 19:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Indira Aguirre Nuñez,Psicología,68002876,Sábados: 09:00 - 15:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Elba Elena Prado,Psicología,72088676,Miércoles: 08:00 - 12:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Monica Sebastian,Psicología,72547766,Viernes: 15:00 - 18:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Eve Gomez Ferrufino,Psicología,76731602,"Lunes, Jueves y Viernes: 09:00 - 10:00",No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Eliana Exalto Ruiz,Psicología,78931042,Viernes a Domingo: 13:00 - 19:00,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Dra. Miriam Parada,Médico General,72551657,NA,No,Sí,NA
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Est. Fabrizzio Mora ,Médico General - Emergencias,69927946,24 hrs.,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Dra. Marisol Molina,Médico General,70615300,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Dra. Gabriela Hinojosa,Médico General,75820290,NA,No,SI,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Dra. Daniela Cordero,Médico General,77754204,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Nadia Espinoza,Médico General,77233318,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ricardo Guaraz,Médico General,70549270,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Raquel Guzman,Médico General,73026287,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Monica Alvarez,Médico General,68139939,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Mitel Aliaga,Médico General,73089923,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ruddy Blanco,Médico General - Emergencias,73036035,24 hrs.,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Fabrizzio Mora Polo,Médico General - Emergencias,69927946,24 hrs.,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Jhonathan Alexis Balcazar,Médico General,77500727,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Kerly Villca Miranda,Médico General,73274652,NA,No,Sí,NA
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Luis Martinez,Médico General,79617517,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Yanela Vargas,Médico General,69762232,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Dora Cadena,Médico General,73749045,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Aramis Ardaya,Médico General,73218160,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Vanessa Chino,Médico General,76273572,NA,No,Sí,NA
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Carolina Bustillos,Médico General,68666681,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Pablo Baldiviezo,Médico General,71176825,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Gabriela Hinojosa ,Ginecología y obstetricia,75820290,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Marcelo Uriarte,Cirugía Plástica,72065657,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Claudia Hernández ,Pediatría,75227906,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Maria Lourdes Escalera,Medicina Interna,77789985,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Roxana Miranda,Medicina Interna,69852255,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Rosario Ruiz ,Medicina Interna,72557017,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ivonne Orihuela ,Medicina Familiar,73710247,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Daniela Cordero ,Oncología,77754204,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Marco Sanchez,Imagenología,76250797,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Adriana Sanchez ,Cardiología,61011221,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Victor Jorge Rocha,Traumatología - Ortopedia,70149600,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Miriam Parada,Fisioterapia - Kinesiología,72551657,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ronald Alborta,Fisioterapia - Kinesiología,72088995,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Sheyla Aguilar,Fisioterapia - Kinesiología,69752802,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ines Laura,Fisioterapia - Kinesiología,75228102,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Pamela Prieto,Fisioterapia - Kinesiología,70197881,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Hernesto Hernández,Fisioterapia - Kinesiología,65582563,NA,Si,Sí,No
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Ximena Tantani,Fisioterapia - Kinesiología,77583202,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Aydee Pinto ,Fisioterapia - Kinesiología,70646633,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Tania Cahuaya,Enfermería,65639198,NA,No,SI,NA
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Cristian Aguilar,Odontología,72092920,NA,No,Sí,NA
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Jacqueline Ustarez,Odontología,77216026,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Marisol Molina,Bioquímica y Farmacia,70615300,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Gabriela Eduardo,Psicología,72552688,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Guisela Chain,Psicología,77774871,NA,No,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Lucio Córdova,Nutrición,70039537,NA,Si,Sí,Si
+La Paz,Municipal,Nuestra Señora de La Paz,NA,NA,null,Pamela Mamani,Psicomotricidad,79676634,NA,No,Sí,Si

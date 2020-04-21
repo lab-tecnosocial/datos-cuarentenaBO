@@ -1,0 +1,67 @@
+[
+    {
+        "gid": "2",
+        "nombre": "RED EST\u00c9 GERENCIA",
+        "telefono": "+591 3 3498786",
+        "direccion": "Radial 10 y 6to anillo Barrio Villa Bolivia entre Calle Cruz del Sur y Calle 9",
+        "point_x": "-63.1347407937",
+        "point_y": "-17.8151650174",
+        "geom": "010100000070006FC164A51D41166A4DA30CA25E41",
+        "distrito": "8",
+        "uv": "147",
+        "mz": " ",
+        "dependencia": "GAMSCS"
+    },
+    {
+        "gid": "1",
+        "nombre": "RED CENTRO GERENCIA",
+        "telefono": "+591 3 3415933\r\n",
+        "direccion": "Entre 3\u00ba y 4\u00ba anillo calle los guapos radial 27",
+        "point_x": "-63.1848402709",
+        "point_y": "-17.7550867220",
+        "geom": "0101000000F0F44AD955521D418A8EE42E89A85E41",
+        "distrito": "1",
+        "uv": " ",
+        "mz": " ",
+        "dependencia": "GAMSCS"
+    },
+    {
+        "gid": "4",
+        "nombre": "RED SUR GERENCIA",
+        "telefono": "+591 3 3517042",
+        "direccion": "Av. Santos Dumonts entre 6to y 7mo anillo Urbanizaci\u00f3n Guadalupe",
+        "point_x": "-63.1863975841",
+        "point_y": "-17.8463551613",
+        "geom": "0101000000E0F97EAAE94F1D41F7E461C9AC9E5E41",
+        "distrito": "9",
+        "uv": "122",
+        "mz": "EQ",
+        "dependencia": "GAMSCS"
+    },
+    {
+        "gid": "3",
+        "nombre": "RED NORTE GERENCIA",
+        "telefono": "591 3 3492704",
+        "direccion": "Barrio Venezuela",
+        "point_x": "-63.1267995800",
+        "point_y": "-17.7764038802",
+        "geom": "010100000070AC8B5B7FB21D41780B24DC3CA65E41",
+        "distrito": "6",
+        "uv": "141",
+        "mz": "EQ",
+        "dependencia": "GAMSCS"
+    },
+    {
+        "gid": "5",
+        "nombre": "SISME",
+        "telefono": "+591 3 3475779",
+        "direccion": "8vo anillo sobre el trillo una cuadra en direcci\u00f3n poniente, detr\u00e1s de Plaxbur",
+        "point_x": "-63.1480032315",
+        "point_y": "-17.8048307307",
+        "geom": "0101000000E0F21F526B8F1D41827346342AA35E41",
+        "distrito": " ",
+        "uv": " ",
+        "mz": " ",
+        "dependencia": "GAMSCS"
+    }
+]

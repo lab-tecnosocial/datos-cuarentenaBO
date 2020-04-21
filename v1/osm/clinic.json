@@ -1,0 +1,2648 @@
+[
+ {
+   "amenity": "clinic",
+   "name": "Clínica San Pedro",
+   "latitude": -17.3911446,
+   "longitude": -66.1478541,
+   "addr:street": "Calle Aurelio Melean"
+ },
+ {
+   "amenity": "clinic",
+   "name": "CS Abra Punta",
+   "latitude": -17.6778366,
+   "longitude": -65.0892426,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "PS Teraki",
+   "latitude": -17.6711013,
+   "longitude": -65.0967491,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Alemana",
+   "latitude": -16.5137223,
+   "longitude": -68.1214622,
+   "addr:street": "Avenida 6 de Agosto"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Santa María",
+   "latitude": -16.510082,
+   "longitude": -68.1253032,
+   "addr:street": "Calle Pedro Salazar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "C.S. Colchani",
+   "latitude": -20.3036501,
+   "longitude": -66.9333989,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Virgen de Copacabana",
+   "latitude": -17.3921057,
+   "longitude": -66.1487586,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Los Lauros",
+   "latitude": -17.3919553,
+   "longitude": -66.1632231,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Francisco",
+   "latitude": -17.3927216,
+   "longitude": -66.1487473,
+   "addr:street": "Calle Sucre"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica J. Iriarte",
+   "latitude": -17.3913677,
+   "longitude": -66.1468146,
+   "addr:street": "Calle Victor Cabrera"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Del Niño",
+   "latitude": -17.3914464,
+   "longitude": -66.1475452,
+   "addr:street": "Calle Bolivar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Villa Nueva Potosí",
+   "latitude": -16.507398,
+   "longitude": -68.14385,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Jorge",
+   "latitude": -21.5519875,
+   "longitude": -64.6972253,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Obrajes",
+   "latitude": -16.5298342,
+   "longitude": -68.1026113,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Salud Niño Kollo",
+   "latitude": -16.5100372,
+   "longitude": -68.1491671,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Cobija",
+   "latitude": -17.3866274,
+   "longitude": -66.1665096,
+   "addr:street": "Avenida Tadeo Haenke"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica San Jose",
+   "latitude": -16.4914902,
+   "longitude": -68.1663872,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Socorro",
+   "latitude": -16.4965903,
+   "longitude": -68.1485032,
+   "addr:street": "José María Achá"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlínico de Atención Integral en Salud de Especialidades",
+   "latitude": -17.3767322,
+   "longitude": -66.1538306,
+   "addr:street": "Calle Potosí"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Los Olivos",
+   "latitude": -17.3893248,
+   "longitude": -66.1796473,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Copacabana",
+   "latitude": -17.3778151,
+   "longitude": -66.1541933,
+   "addr:street": "Calle Potosí"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico La Florida",
+   "latitude": -16.5453403,
+   "longitude": -68.0916007,
+   "addr:street": "Avenida Arequipa"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laser",
+   "latitude": -17.3893805,
+   "longitude": -66.1491109,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro del Accidentado",
+   "latitude": -17.3908922,
+   "longitude": -66.1488245,
+   "addr:street": "Calle Pasteur"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica ProSalud",
+   "latitude": -17.3947509,
+   "longitude": -66.1805459,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Flebología LASER",
+   "latitude": -17.3756922,
+   "longitude": -66.1638614,
+   "addr:street": "Calle Teófilo Vargas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Nuestra Señora de Lourdes",
+   "latitude": -17.3881022,
+   "longitude": -66.1449525,
+   "addr:street": "Calle C. D'avis"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Bustillos",
+   "latitude": -16.5054782,
+   "longitude": -68.1334753,
+   "addr:street": "Calle Heroes del Acre"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consejo de Salud Rural Andino - Centro de Salud Cruz Roja",
+   "latitude": -17.3456851,
+   "longitude": -63.2629454,
+   "addr:street": "Calle Bolívar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Talentum Garden Clinic",
+   "latitude": -16.5611828,
+   "longitude": -68.0962713,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Luis Morales Arnez",
+   "latitude": -17.3801742,
+   "longitude": -66.1418861,
+   "addr:street": "Avenida General Galindo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica de Ojos",
+   "latitude": -17.386266,
+   "longitude": -66.1560722,
+   "addr:street": "Calle Chuquisaca"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Urkupiña",
+   "latitude": -17.3980689,
+   "longitude": -66.2763305,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.4014358,
+   "longitude": -66.1535063,
+   "addr:street": "Calle Honduras"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Petrolera",
+   "latitude": -11.0285451,
+   "longitude": -68.7584831,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Instituto Nacional de Neurología, Neurocirugía y Columna Vertebral",
+   "latitude": -17.3764074,
+   "longitude": -66.1537997,
+   "addr:street": "Calle Potosí"
+ },
+ {
+   "amenity": "clinic",
+   "name": "CIES",
+   "latitude": -16.5037778,
+   "longitude": -68.1370976,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Boliviana Americana",
+   "latitude": -17.4011022,
+   "longitude": -66.153171,
+   "addr:street": "Calle San Martín"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Santa Clara",
+   "latitude": -11.0314417,
+   "longitude": -68.7739566,
+   "addr:street": "Avenida Pando"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Tarope",
+   "latitude": -17.7698455,
+   "longitude": -63.0161263,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio Clínico Sabin",
+   "latitude": -19.5792706,
+   "longitude": -65.7554832,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Las Carmelitas",
+   "latitude": -20.4604234,
+   "longitude": -66.8212855,
+   "addr:street": "Calle Santa Cruz"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -18.4130594,
+   "longitude": -66.5624921,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud y Bienestar Santa Rosa Lima",
+   "latitude": -16.4570596,
+   "longitude": -68.1674861,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Los Ángeles",
+   "latitude": -17.3786859,
+   "longitude": -66.1645383,
+   "addr:street": "Avenida Juan de la Rosa"
+ },
+ {
+   "amenity": "clinic",
+   "name": "PoliClínico 10 de Noviembre",
+   "latitude": -19.5840657,
+   "longitude": -65.7582558,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Instituto Oftalmológico Cochabamba",
+   "latitude": -17.3859363,
+   "longitude": -66.1522512,
+   "addr:street": "Calle 16 de Julio"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Lazareto",
+   "latitude": -17.7837352,
+   "longitude": -63.1595856,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Nacional de Salud",
+   "latitude": -19.0094983,
+   "longitude": -66.7760172,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio DIAGNOSUR",
+   "latitude": -21.5322525,
+   "longitude": -64.7377529,
+   "addr:street": "Calle Ramón Rojas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Urbarí",
+   "latitude": -17.7970784,
+   "longitude": -63.1974749,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica INCOR",
+   "latitude": -17.7880461,
+   "longitude": -63.1951865,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Kamiya",
+   "latitude": -17.7731626,
+   "longitude": -63.1826674,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Atie",
+   "latitude": -21.534356,
+   "longitude": -64.7264955,
+   "addr:street": "Calle Bolívar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud",
+   "latitude": -18.1416398,
+   "longitude": -63.4799754,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "JC Prado",
+   "latitude": -16.5554751,
+   "longitude": -68.2403523,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja de Salud de Caminos y Ramas Afines",
+   "latitude": -17.3901192,
+   "longitude": -66.1523822,
+   "addr:street": "Calle Colombia"
+ },
+ {
+   "amenity": "clinic",
+   "name": "CIES",
+   "latitude": -16.4979897,
+   "longitude": -68.1707822,
+   "addr:street": "Luis Torres"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Prosalud",
+   "latitude": -21.5311331,
+   "longitude": -64.718893,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Arbieto",
+   "latitude": -17.5832097,
+   "longitude": -66.0182483,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Rafael",
+   "latitude": -17.8019566,
+   "longitude": -63.1238743,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica de Cliza",
+   "latitude": -17.5908113,
+   "longitude": -65.9332513,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Joaquín",
+   "latitude": -17.5910133,
+   "longitude": -65.9326371,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Solidaria FIDES",
+   "latitude": -16.4908635,
+   "longitude": -68.1769047,
+   "addr:street": "Avenida René Vargas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "CSA Policlínico 9 de Abril",
+   "latitude": -16.4820638,
+   "longitude": -68.1207692,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Ecologia",
+   "latitude": -16.5063962,
+   "longitude": -68.1633796,
+   "addr:street": "Avenida 6 de Marzo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico De La Piel",
+   "latitude": -16.5067167,
+   "longitude": -68.1634352,
+   "addr:street": "Avenida 6 de Marzo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica de Ojos",
+   "latitude": -16.5118248,
+   "longitude": -68.1651507,
+   "addr:street": "Avenida 6 de Marzo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Maurer",
+   "latitude": -17.7828301,
+   "longitude": -63.1712258,
+   "addr:street": "Av. Melchor Pinto"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Familiar",
+   "latitude": -16.5354134,
+   "longitude": -68.1907851,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico y Ecografia",
+   "latitude": -16.5338009,
+   "longitude": -68.1912953,
+   "addr:street": "Avenida Bolivia"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Y Dental",
+   "latitude": -16.4931579,
+   "longitude": -68.1414105,
+   "addr:street": "Avenida America"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica de Ojos Codes",
+   "latitude": -16.5117567,
+   "longitude": -68.1263136,
+   "addr:street": "Avenida Sánchez Lima"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica San Pablo",
+   "latitude": -16.5039395,
+   "longitude": -68.1376548,
+   "addr:street": "Calle Boqueron"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Johrei Center",
+   "latitude": -16.511307,
+   "longitude": -68.1265074,
+   "addr:street": "Calle Pedro Salazar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica 6 De Agosto",
+   "latitude": -16.5145309,
+   "longitude": -68.1211076,
+   "addr:street": "Avenida 6 de Agosto"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Especialidades Medicas Miraflores",
+   "latitude": -16.495934,
+   "longitude": -68.121052,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -16.5254548,
+   "longitude": -68.109172,
+   "addr:street": "Avenida Hernando Siles"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica De Varices",
+   "latitude": -16.525508,
+   "longitude": -68.109058,
+   "addr:street": "Avenida Hernando Siles"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Illimani",
+   "latitude": -16.5141562,
+   "longitude": -68.1204895,
+   "addr:street": "Calle Clavijo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Colchões Ortobom",
+   "latitude": -17.7823988,
+   "longitude": -63.1676504,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Medico",
+   "latitude": -16.5205186,
+   "longitude": -68.1574603,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Divino Jesus",
+   "latitude": -16.528115,
+   "longitude": -68.1607236,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Trinidad",
+   "latitude": -16.5339981,
+   "longitude": -68.1897728,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Avaroa",
+   "latitude": -16.5295549,
+   "longitude": -68.1856931,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico De Atención",
+   "latitude": -16.5340392,
+   "longitude": -68.1907101,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Dental",
+   "latitude": -16.5236926,
+   "longitude": -68.1803008,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Dental",
+   "latitude": -16.5334155,
+   "longitude": -68.1916447,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Dental",
+   "latitude": -16.5313282,
+   "longitude": -68.1938758,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Dental",
+   "latitude": -16.521934,
+   "longitude": -68.2040722,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro De Fisioterapia",
+   "latitude": -16.5185624,
+   "longitude": -68.2084111,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Dental San Gabriel",
+   "latitude": -16.525424,
+   "longitude": -68.2012815,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Rhesus",
+   "latitude": -16.5417217,
+   "longitude": -68.078774,
+   "addr:street": "Calle Gabriel René Moreno"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Mi Salud",
+   "latitude": -16.5413778,
+   "longitude": -68.0798811,
+   "addr:street": "Calle Gabriel René Moreno"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Analisis Clinico Alfa & Omega",
+   "latitude": -16.5352992,
+   "longitude": -68.0753229,
+   "addr:street": "Avenida Manuel Víctor García Lanza"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico San Marcos",
+   "latitude": -16.5335516,
+   "longitude": -68.2156037,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Gonzalo Delgadillo",
+   "latitude": -16.5468273,
+   "longitude": -68.0725266,
+   "addr:street": "Avenida Costanera"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Urgencia Medica Senor De La Cruz",
+   "latitude": -16.5255941,
+   "longitude": -68.2009887,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -16.5248542,
+   "longitude": -68.1993158,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "PS Pocoata",
+   "latitude": -17.6102031,
+   "longitude": -65.7264042,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "P.S. Saga Saga",
+   "latitude": -17.6545626,
+   "longitude": -65.6842794,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Salud Arani",
+   "latitude": -17.5705212,
+   "longitude": -65.775609,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policonsultorio Centro Social Japonés",
+   "latitude": -17.7693708,
+   "longitude": -63.1782451,
+   "addr:street": "Avenida Beni"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud 12 de Octubre",
+   "latitude": -16.5203155,
+   "longitude": -68.1661349,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Virgen de Urkupiña",
+   "latitude": -16.4958147,
+   "longitude": -68.1468246,
+   "addr:street": "Avenida Mariano Bautista"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.7679381,
+   "longitude": -63.1583028,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Medico",
+   "latitude": -16.5145311,
+   "longitude": -68.1563531,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica",
+   "latitude": -16.5144974,
+   "longitude": -68.1565957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica 4 de Noviembre",
+   "latitude": -17.7792027,
+   "longitude": -63.2036038,
+   "addr:street": "Tercer Anillo Interno"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -16.5092355,
+   "longitude": -68.159507,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico Gabriel",
+   "latitude": -16.5085691,
+   "longitude": -68.1598937,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico Gabriel",
+   "latitude": -16.5083717,
+   "longitude": -68.1599751,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico",
+   "latitude": -16.509414,
+   "longitude": -68.1586283,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico De Pediatria",
+   "latitude": -16.5073093,
+   "longitude": -68.1606591,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Dental",
+   "latitude": -16.5102296,
+   "longitude": -68.1593957,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Dental",
+   "latitude": -16.5091954,
+   "longitude": -68.1592786,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico",
+   "latitude": -16.506115,
+   "longitude": -68.1608321,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -16.5060648,
+   "longitude": -68.1608363,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico",
+   "latitude": -16.505988,
+   "longitude": -68.1608474,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Universal",
+   "latitude": -16.5059573,
+   "longitude": -68.1608634,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Ecografia",
+   "latitude": -16.4962955,
+   "longitude": -68.1442796,
+   "addr:street": "Avenida Buenos Aires"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Hospicio",
+   "latitude": -16.4970032,
+   "longitude": -68.1743261,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Médico",
+   "latitude": -17.7778622,
+   "longitude": -63.1719668,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Familiar",
+   "latitude": -16.498041,
+   "longitude": -68.1446175,
+   "addr:street": "Calle Chorolque"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Ecografia",
+   "latitude": -16.504086,
+   "longitude": -68.16154,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica",
+   "latitude": -16.5073224,
+   "longitude": -68.1429678,
+   "addr:street": "Avenida Buenos Aires"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica De Estetica Dental",
+   "latitude": -16.4983841,
+   "longitude": -68.1743618,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Farmacia Fray Martin",
+   "latitude": -16.4980565,
+   "longitude": -68.1742826,
+   "addr:street": "Avenida Alfonso Ugarte"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fisiterapia",
+   "latitude": -16.4904125,
+   "longitude": -68.2069001,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Cruz Azul",
+   "latitude": -16.49034,
+   "longitude": -68.2072533,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -16.4897643,
+   "longitude": -68.2076079,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico De Especialidades",
+   "latitude": -16.5491721,
+   "longitude": -68.1915519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -16.5025827,
+   "longitude": -68.1221202,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Skin Spa",
+   "latitude": -17.7648683,
+   "longitude": -63.1722475,
+   "addr:street": "Avenida Los Cusis"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Prosalud - Clínica 1",
+   "latitude": -17.7666117,
+   "longitude": -63.1706199,
+   "addr:street": "Calle Sao"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio de Análisis Clínico Urey",
+   "latitude": -17.7650817,
+   "longitude": -63.1580782,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -17.7600106,
+   "longitude": -63.1571893,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Dental",
+   "latitude": -17.7620073,
+   "longitude": -63.1589244,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Brasil",
+   "latitude": -17.7739176,
+   "longitude": -63.1538442,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Enfermeria Salud",
+   "latitude": -17.7789005,
+   "longitude": -63.1830947,
+   "addr:street": "Calle Libertad"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Pil",
+   "latitude": -16.5375326,
+   "longitude": -68.0482732,
+   "addr:street": "Avenida Héroes del Chaco"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico del Sur",
+   "latitude": -16.5392565,
+   "longitude": -68.07828,
+   "addr:street": "Calle 21"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Bethel",
+   "latitude": -17.7751858,
+   "longitude": -63.1786795,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Diagnos Lab",
+   "latitude": -16.5460777,
+   "longitude": -68.0764369,
+   "addr:street": "Calle 21"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Labclinics",
+   "latitude": -16.5405996,
+   "longitude": -68.0776183,
+   "addr:street": "Calle 21"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Embriovid",
+   "latitude": -16.5405472,
+   "longitude": -68.0776236,
+   "addr:street": "Calle 21"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Neo Medic",
+   "latitude": -17.7585885,
+   "longitude": -63.1836825,
+   "addr:street": "Tercer Anillo Externo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Medicina y Estética Embellece",
+   "latitude": -17.7587909,
+   "longitude": -63.185093,
+   "addr:street": "Tercer Anillo Externo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "INCOR Salud",
+   "latitude": -17.788786,
+   "longitude": -63.1943466,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Nuclear",
+   "latitude": -17.7824263,
+   "longitude": -63.1872924,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico",
+   "latitude": -17.7935635,
+   "longitude": -63.1915535,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "SportsClinics",
+   "latitude": -17.775714,
+   "longitude": -63.1903085,
+   "addr:street": "Calle Guatemala"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Médico Foianini",
+   "latitude": -17.7668968,
+   "longitude": -63.1987996,
+   "addr:street": "Tercer Anillo Interno"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Ecografia",
+   "latitude": -17.7785945,
+   "longitude": -63.1750932,
+   "addr:street": "Calle Suárez Arana"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Ginemast",
+   "latitude": -17.7849078,
+   "longitude": -63.172692,
+   "addr:street": "Calle Ñuflo de Chávez"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Ecografias- Rayos",
+   "latitude": -17.7811451,
+   "longitude": -63.1863702,
+   "addr:street": "Calle Buenos Aires"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Enfermeria",
+   "latitude": -17.7608726,
+   "longitude": -63.1631726,
+   "addr:street": "Calle Capitan Manuel Tovar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Bebe Clinica",
+   "latitude": -17.784651,
+   "longitude": -63.1936885,
+   "addr:street": "Avenida Landivar"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Kanata",
+   "latitude": -17.4132695,
+   "longitude": -66.1590988,
+   "addr:street": "Avenida 6 de Agosto"
+ },
+ {
+   "amenity": "clinic",
+   "name": "NEFRODIAL",
+   "latitude": -17.373586,
+   "longitude": -66.1594456,
+   "addr:street": "Calle Buenos Aires"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio Clínico INMUNOLAB S.R.L.",
+   "latitude": -17.7671945,
+   "longitude": -63.1697477,
+   "addr:street": "Avenida Alemania"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud SAFCI + Mi Salud",
+   "latitude": -16.5457298,
+   "longitude": -68.1742207,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Rosas Pampa",
+   "latitude": -16.5421203,
+   "longitude": -68.1721512,
+   "addr:street": "Calle 25"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Anexo Rosas Pampa",
+   "latitude": -16.5444561,
+   "longitude": -68.165975,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Villa Exaltación",
+   "latitude": -16.5362146,
+   "longitude": -68.1576704,
+   "addr:street": "Calle Alfredo Alexander"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Maria Madre de Dios",
+   "latitude": -16.5076379,
+   "longitude": -68.158555,
+   "addr:street": "Calle 3"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Boliviano Japones",
+   "latitude": -16.5844352,
+   "longitude": -68.1859835,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Mercedes G",
+   "latitude": -16.5670934,
+   "longitude": -68.2041703,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Atipiris",
+   "latitude": -16.5902068,
+   "longitude": -68.1808974,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Torrecillas",
+   "latitude": -21.5523102,
+   "longitude": -64.677036,
+   "addr:street": "RN1: Tarija-Padcaya"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud San Carlos",
+   "latitude": -17.756329,
+   "longitude": -63.1803013,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "CODES",
+   "latitude": -16.5117075,
+   "longitude": -68.1278007,
+   "addr:street": "Calle Presbítero Medina"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica del Ojo",
+   "latitude": -16.5430871,
+   "longitude": -68.0782025,
+   "addr:street": "Avenida Montenegro"
+ },
+ {
+   "amenity": "clinic",
+   "name": "SISME",
+   "latitude": -17.8049985,
+   "longitude": -63.1473849,
+   "addr:street": "Avenida Sudamericana"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Santa Lucía",
+   "latitude": -17.3844668,
+   "longitude": -66.1547028,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "1 de Mayo",
+   "latitude": -19.5852889,
+   "longitude": -65.7567485,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "PS Las Pampitas",
+   "latitude": -17.7668701,
+   "longitude": -63.1192855,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Rehabilitación Integral Especializada Ríe",
+   "latitude": -17.7893243,
+   "longitude": -63.1724157,
+   "addr:street": "Calle Oruro"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Alto Pampahasi",
+   "latitude": -16.49117,
+   "longitude": -68.1038087,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Cruz Roja",
+   "latitude": -17.1198741,
+   "longitude": -63.2332783,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Ecografía",
+   "latitude": -16.5175592,
+   "longitude": -68.1514153,
+   "addr:street": "Calle 5"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Willie Lemaitre",
+   "latitude": -17.7702134,
+   "longitude": -63.1978562,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio de Anàlisis Clìnico Central",
+   "latitude": -19.0447625,
+   "longitude": -65.2585272,
+   "addr:street": "Avenida H. Siles"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica 4 de Diciembre",
+   "latitude": -11.0045763,
+   "longitude": -66.0647412,
+   "addr:street": "Avenida Ruben Castedo Barba"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlinico 25 de Mayo CNS",
+   "latitude": -19.0459734,
+   "longitude": -65.2593971,
+   "addr:street": "Capitán Agustín Ravelo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio BIOSLAB",
+   "latitude": -16.5236695,
+   "longitude": -68.152112,
+   "addr:street": "Avenida Satélite"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Cordes",
+   "latitude": -21.2663546,
+   "longitude": -63.4747309,
+   "addr:street": "La Paz"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Nieves",
+   "latitude": -16.5134097,
+   "longitude": -68.1441003,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Villa Victoria",
+   "latitude": -16.4911682,
+   "longitude": -68.1555225,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Dr. Arancibia",
+   "latitude": -17.8678701,
+   "longitude": -63.1669967,
+   "addr:street": "Avenida El Palmar del Oratorio"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Preventiva Sur",
+   "latitude": -17.8304423,
+   "longitude": -63.122914,
+   "addr:street": "Calle San Antonio"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Cruz roja Potosí",
+   "latitude": -19.5857323,
+   "longitude": -65.7567211,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Candelaria",
+   "latitude": -17.9483806,
+   "longitude": -67.1061161,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica San Felipe",
+   "latitude": -17.951257,
+   "longitude": -67.1100239,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Médico",
+   "latitude": -17.9505874,
+   "longitude": -67.1131083,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Remar",
+   "latitude": -17.9397191,
+   "longitude": -67.1157197,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Servicio de Salud Integral Luz y Vida",
+   "latitude": -17.9286929,
+   "longitude": -67.1192475,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico Junta de Vecinos Los Pinos",
+   "latitude": -17.926563,
+   "longitude": -67.1303853,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Servisio de Salud",
+   "latitude": -17.9673993,
+   "longitude": -67.1379097,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Posta de Salud Plan 500",
+   "latitude": -17.9791987,
+   "longitude": -67.1422807,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Médico Zonal",
+   "latitude": -17.9812151,
+   "longitude": -67.1337734,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Integral Apiterapia",
+   "latitude": -17.9871363,
+   "longitude": -67.1336661,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fraternidad Cristiana de Personas Discapacitadas",
+   "latitude": -17.9787777,
+   "longitude": -67.1289253,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico",
+   "latitude": -17.9784205,
+   "longitude": -67.1337962,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Chiripujio",
+   "latitude": -17.9774,
+   "longitude": -67.1362021,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico Becerra",
+   "latitude": -17.9525042,
+   "longitude": -67.1123947,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fisio Sana",
+   "latitude": -17.3725739,
+   "longitude": -66.1723039,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Rehabilitación Infantil Profesor Mario Parma",
+   "latitude": -16.4867596,
+   "longitude": -68.1572259,
+   "addr:street": "Avenida Naciones Unidas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Huari",
+   "latitude": -19.0111543,
+   "longitude": -66.776556,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Santa Catalina",
+   "latitude": -17.8672898,
+   "longitude": -63.1407621,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Nacional de Salud",
+   "latitude": -21.8278635,
+   "longitude": -63.7450033,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Integral Sica Sica",
+   "latitude": -17.3332754,
+   "longitude": -67.7411832,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Caracollo",
+   "latitude": -17.637219,
+   "longitude": -67.2173522,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud de Bella Vista",
+   "latitude": -16.5303923,
+   "longitude": -68.0949132,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Naturista Kolpin",
+   "latitude": -17.7536923,
+   "longitude": -62.995199,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Villa Rosario",
+   "latitude": -19.0574614,
+   "longitude": -65.2710794,
+   "addr:street": "Av. Destacamento Chuquisaca"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Embriovid",
+   "latitude": -17.7706414,
+   "longitude": -63.1936783,
+   "addr:street": "Enrique Finot"
+ },
+ {
+   "amenity": "clinic",
+   "name": "BioEstética",
+   "latitude": -16.5286251,
+   "longitude": -68.0877082,
+   "addr:street": "Calle Gaspar Jurado"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud 8 de Diciembre",
+   "latitude": -16.5183515,
+   "longitude": -68.1331403,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Munaypata",
+   "latitude": -16.4873895,
+   "longitude": -68.1595369,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Puesto de Salud Tablas Monte",
+   "latitude": -17.0801593,
+   "longitude": -65.9998144,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Terapia de parbiomagnetismo",
+   "latitude": -17.348852,
+   "longitude": -63.281005,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica El Trompillo",
+   "latitude": -17.8010941,
+   "longitude": -63.1716915,
+   "addr:street": "Zoilo Flores"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Thola Pampa",
+   "latitude": -18.4586652,
+   "longitude": -65.594244,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Martin",
+   "latitude": -22.0878869,
+   "longitude": -65.5961382,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Divino Maestro",
+   "latitude": -16.5237693,
+   "longitude": -68.1059386,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "España",
+   "latitude": -17.4574338,
+   "longitude": -66.1561083,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.4099413,
+   "longitude": -66.1510374,
+   "addr:street": "Manuripi"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Médica Aranes",
+   "latitude": -17.8476191,
+   "longitude": -63.0903086,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Los Olivos",
+   "latitude": -17.3776905,
+   "longitude": -66.1763088,
+   "addr:street": "Avenida Melchor Pérez de Olguín"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud San Juan Kenko",
+   "latitude": -16.5668781,
+   "longitude": -68.1931747,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Primeros Auxilios",
+   "latitude": -16.4947469,
+   "longitude": -68.1736518,
+   "addr:street": "Calle Plaza Libertad"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Nacional de Salud",
+   "latitude": -22.0332555,
+   "longitude": -63.6808011,
+   "addr:street": "Calle El Retiro"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica San Roque",
+   "latitude": -22.0199661,
+   "longitude": -63.6776959,
+   "addr:street": "Calle Juan XXIII"
+ },
+ {
+   "amenity": "clinic",
+   "name": "AudioCien",
+   "latitude": -17.3897524,
+   "longitude": -66.1506889,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Recupel Medicina Capilar",
+   "latitude": -16.5422765,
+   "longitude": -68.0797007,
+   "addr:street": "Calle Enrique Penaranda"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Orthosystem",
+   "latitude": -17.7677239,
+   "longitude": -63.1883876,
+   "addr:street": "Guillermo B. Rodrígez"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Kupini",
+   "latitude": -16.5118003,
+   "longitude": -68.0987426,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Lacma",
+   "latitude": -17.4344673,
+   "longitude": -66.1560302,
+   "addr:street": "Calle Virgen del Carmen"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Pacata",
+   "latitude": -17.3735606,
+   "longitude": -66.1242667,
+   "addr:street": "Avenida Circunvalación Beijing"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Villa México",
+   "latitude": -17.4387214,
+   "longitude": -66.1570468,
+   "addr:street": "Calle Virgen de Urkupiña"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Kinesio Vida",
+   "latitude": -14.8349561,
+   "longitude": -64.9034897,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Insumos Medicos IS MARCE",
+   "latitude": -14.8312793,
+   "longitude": -64.8998058,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlínica Especialidades La Paz",
+   "latitude": -16.5015613,
+   "longitude": -68.1204576,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Odonto Molina",
+   "latitude": -17.7930184,
+   "longitude": -63.1794885,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Aranda",
+   "latitude": -16.4966723,
+   "longitude": -68.124205,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de salud Los Bosques",
+   "latitude": -17.8122018,
+   "longitude": -63.2147835,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio Clínico BIO-EXAM",
+   "latitude": -16.5191743,
+   "longitude": -68.1518266,
+   "addr:street": "Avenida Diego de Portugal"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Cantuta",
+   "latitude": -17.3971189,
+   "longitude": -66.194008,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "CS Enrique Aponte",
+   "latitude": -17.7662363,
+   "longitude": -63.186337,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "PROSALUD 16 de Julio",
+   "latitude": -16.5011825,
+   "longitude": -68.1711319,
+   "addr:street": "Avenida Juan Pablo II"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Dental",
+   "latitude": -21.5381779,
+   "longitude": -64.7116694,
+   "addr:street": "Avenida Circunvalación"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud",
+   "latitude": -16.1334784,
+   "longitude": -62.0246527,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "PS Molleni",
+   "latitude": -19.7797464,
+   "longitude": -64.4622959,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Padre Kolbe",
+   "latitude": -17.3413713,
+   "longitude": -63.2657519,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "FisioPlus",
+   "latitude": -17.3763067,
+   "longitude": -66.1558449,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio de Pediatría",
+   "latitude": -19.5742525,
+   "longitude": -65.7630769,
+   "addr:street": "Avenida Unión"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Cruz Roja Boliviana Filial Municipal El Alto",
+   "latitude": -16.5320562,
+   "longitude": -68.1518843,
+   "addr:street": "Avenida José Agustín"
+ },
+ {
+   "amenity": "clinic",
+   "name": "CENFIDE Centro de Nutricion con Formato Integral de Especialidades San Antonio",
+   "latitude": -16.5270451,
+   "longitude": -68.1578367,
+   "addr:street": "Avenida Escalona y Aguero"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Ecografia",
+   "latitude": -18.9025328,
+   "longitude": -66.77152,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Bartolina Sisa",
+   "latitude": -16.4919652,
+   "longitude": -68.137294,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Municipal de Salud",
+   "latitude": -16.5002104,
+   "longitude": -68.1310759,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "SERMEDE",
+   "latitude": -16.5103641,
+   "longitude": -68.1291724,
+   "addr:street": "Avenida Ecuador"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Lahuachaca",
+   "latitude": -17.3724836,
+   "longitude": -67.6785548,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.3863522,
+   "longitude": -67.6416025,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud San Juan de Dios",
+   "latitude": -20.4702365,
+   "longitude": -66.8309875,
+   "addr:street": "Avenida Potosí"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -20.7414901,
+   "longitude": -67.6596058,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Especialidades Clínicas Vida",
+   "latitude": -16.4944501,
+   "longitude": -68.1341868,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.6247375,
+   "longitude": -62.7071046,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Especialidades Del Norte",
+   "latitude": -16.4970376,
+   "longitude": -68.1846285,
+   "addr:street": "Avenida La Paz"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.3847143,
+   "longitude": -66.159948,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Paracelsus",
+   "latitude": -17.3866421,
+   "longitude": -66.1586241,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fisio",
+   "latitude": -17.3852572,
+   "longitude": -66.1611747,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "La Paz",
+   "latitude": -17.3866359,
+   "longitude": -66.1584586,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Juana Azurduy de Padilla",
+   "latitude": -17.3360539,
+   "longitude": -63.274765,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "CS de Turco",
+   "latitude": -18.1804979,
+   "longitude": -68.1936733,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policonsultorio Anexo 32",
+   "latitude": -17.3982502,
+   "longitude": -66.157703,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policonsultorio Regional La Paz",
+   "latitude": -16.5054916,
+   "longitude": -68.1279813,
+   "addr:street": "Calle Capitán Ravelo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Bioclinic's",
+   "latitude": -16.5189359,
+   "longitude": -68.116592,
+   "addr:street": "Avenida del Libertador"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.3720872,
+   "longitude": -66.1428197,
+   "addr:street": "Avenida General Galindo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.3797333,
+   "longitude": -66.0746699,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "CS Roque Aguilera",
+   "latitude": -17.766024,
+   "longitude": -63.1863867,
+   "addr:street": "Santiago Vaca Guzmán"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Santo Tomas",
+   "latitude": -16.4777795,
+   "longitude": -68.1839441,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "C.Medico Noruego Bolivariano",
+   "latitude": -16.4959048,
+   "longitude": -68.2110438,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "C.Medico Noruego",
+   "latitude": -16.4959084,
+   "longitude": -68.2118437,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlínico Villa Adela",
+   "latitude": -16.524011,
+   "longitude": -68.2109705,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica San Francisco",
+   "latitude": -16.5174721,
+   "longitude": -68.160158,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Hospital Monseñor Jesus Perez",
+   "latitude": -19.0508124,
+   "longitude": -65.2552088,
+   "addr:street": "Calle Daniel Calvo"
+ },
+ {
+   "amenity": "clinic",
+   "name": "PROMED SRL",
+   "latitude": -17.7832686,
+   "longitude": -63.1663961,
+   "addr:street": "Ballivián"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Gaer",
+   "latitude": -16.4915886,
+   "longitude": -68.1168959,
+   "addr:street": "Calle M. Nuñez del Prado"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Europa",
+   "latitude": -16.4992477,
+   "longitude": -68.1206463,
+   "addr:street": "Calle Carrasco"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Chavez Rancho",
+   "latitude": -17.3949634,
+   "longitude": -66.1895139,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Instituto Boliviano de Radioterapia y Oncología IBRO",
+   "latitude": -16.5106781,
+   "longitude": -68.1671907,
+   "addr:street": "Avenida Unión"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Pacata",
+   "latitude": -17.3656597,
+   "longitude": -66.1240989,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Villa Fátima",
+   "latitude": -21.4477246,
+   "longitude": -65.7165075,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Prosalud",
+   "latitude": -16.4986707,
+   "longitude": -68.1207418,
+   "addr:street": "Avenida German Busch"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro médico internacional hope",
+   "latitude": -16.5470196,
+   "longitude": -68.0892311,
+   "addr:street": "Calle Las Retamas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Posta de Salud Tuska Pujio",
+   "latitude": -17.4139613,
+   "longitude": -66.055814,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Potosí",
+   "latitude": -19.5892485,
+   "longitude": -65.7488483,
+   "addr:street": "Calle Linares"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centros Médicos Chávez",
+   "latitude": -17.7892271,
+   "longitude": -63.1874169,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Oncomed",
+   "latitude": -16.5000463,
+   "longitude": -68.1181961,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Oncoclinic",
+   "latitude": -16.5079858,
+   "longitude": -68.1271986,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Punata",
+   "latitude": -17.3747859,
+   "longitude": -66.2008934,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Posta de Salud Petrolero",
+   "latitude": -10.9983286,
+   "longitude": -66.0480018,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlínico Consultorio Cristo Rey",
+   "latitude": -17.3904393,
+   "longitude": -66.1717883,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.3811592,
+   "longitude": -66.1483684,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -17.4010398,
+   "longitude": -66.1720251,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja de Seguro Social de Choferes",
+   "latitude": -17.3838004,
+   "longitude": -66.1592385,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "ARTRO CENTRO",
+   "latitude": -17.7924662,
+   "longitude": -63.1949356,
+   "addr:street": "Calle Aruma"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Asistencia publica",
+   "latitude": -17.9688922,
+   "longitude": -67.1158132,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "DarSalud",
+   "latitude": -16.5040358,
+   "longitude": -68.1341321,
+   "addr:street": "Avenida 20 de Octubre"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Be - Medicina Estética",
+   "latitude": -16.5202691,
+   "longitude": -68.0878946,
+   "addr:street": "Avenida Alfredo Ovando Candia"
+ },
+ {
+   "amenity": "clinic",
+   "name": "C. de Salud",
+   "latitude": -19.5891441,
+   "longitude": -65.7561221,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Tembladerani",
+   "latitude": -16.510684,
+   "longitude": -68.1425878,
+   "addr:street": "Calle Canonigo Ayllon"
+ },
+ {
+   "amenity": "clinic",
+   "name": "FISIOTERAPIA",
+   "latitude": -16.6476936,
+   "longitude": -68.2935412,
+   "addr:street": "Calle La Paz"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de salud Mallasa",
+   "latitude": -16.5692062,
+   "longitude": -68.0895503,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Villa Bolivar",
+   "latitude": -16.5243552,
+   "longitude": -68.1805402,
+   "addr:street": "Calle 135"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud \"Prefectural\"",
+   "latitude": -16.5248958,
+   "longitude": -68.180349,
+   "addr:street": "Calle 135"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica de la CSBP",
+   "latitude": -16.5246261,
+   "longitude": -68.1126353,
+   "addr:street": "Avenida Héctor Ormachea"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Cordes",
+   "latitude": -16.5419084,
+   "longitude": -68.0796552,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja de Salud de la Banca Privada",
+   "latitude": -17.815723,
+   "longitude": -63.2103516,
+   "addr:street": "Calle Eucaliptos"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fundación CEREFE",
+   "latitude": -16.5102755,
+   "longitude": -68.1578948,
+   "addr:street": "Calle 6"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Urología",
+   "latitude": -21.5263432,
+   "longitude": -64.7400545,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Laboratorio San Roque",
+   "latitude": -21.5296898,
+   "longitude": -64.7331378,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica de Ojos \"Dr. Aguirre Perez\"",
+   "latitude": -21.5396639,
+   "longitude": -64.7185894,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud 3 de Mayo",
+   "latitude": -21.514388,
+   "longitude": -64.7344789,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "",
+   "latitude": -21.5224315,
+   "longitude": -64.7365844,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud 4 Esquinas",
+   "latitude": -17.3610954,
+   "longitude": -66.2278098,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Perpetuo Socorro",
+   "latitude": -17.7745313,
+   "longitude": -63.2097522,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Medicina Tradicional Kallawaya",
+   "latitude": -17.445606,
+   "longitude": -66.1253499,
+   "addr:street": "Avenida Siglo XX"
+ },
+ {
+   "amenity": "clinic",
+   "name": "DermaSalud",
+   "latitude": -17.7874708,
+   "longitude": -63.179767,
+   "addr:street": "Calle Republiquetas"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Socorro Médico",
+   "latitude": -16.5152919,
+   "longitude": -68.154636,
+   "addr:street": "Avenida Cívica"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Prosalud",
+   "latitude": -17.8182482,
+   "longitude": -63.2020164,
+   "addr:street": "Calle La Colina"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Rengel",
+   "latitude": -16.5152294,
+   "longitude": -68.1288658,
+   "addr:street": "Calle Victor Sanjines"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica San Camilo",
+   "latitude": -15.8917861,
+   "longitude": -63.1885784,
+   "addr:street": "Avenida Santa Cruz"
+ },
+ {
+   "amenity": "clinic",
+   "name": "San Juan de Dios",
+   "latitude": -17.9774893,
+   "longitude": -67.1019098,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Primeros Auxilios",
+   "latitude": -16.522611,
+   "longitude": -68.1693056,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica del Sur",
+   "latitude": -16.5256734,
+   "longitude": -68.1086741,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico",
+   "latitude": -19.0417754,
+   "longitude": -65.2621626,
+   "addr:street": "Avenida Venezuela"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Nacional de Salud",
+   "latitude": -18.4657082,
+   "longitude": -66.5702368,
+   "addr:street": "Calle Colquechaqua"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Delizias",
+   "latitude": -16.5503471,
+   "longitude": -68.2092753,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Kolping - San Luis Tasa",
+   "latitude": -16.5263415,
+   "longitude": -68.1985536,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja Petrolera de Salud",
+   "latitude": -17.7893061,
+   "longitude": -63.1827229,
+   "addr:street": "Calle Monseñor Salvatierra"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Dr. Agustin Mendez",
+   "latitude": -18.4909362,
+   "longitude": -64.1078739,
+   "addr:street": "Calle Señor de Malta"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Ginecologico Pro-Mujer",
+   "latitude": -17.7564011,
+   "longitude": -63.1655209,
+   "addr:street": "Avenida Alemania"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Buena Salud",
+   "latitude": -17.7710726,
+   "longitude": -63.1250802,
+   "addr:street": "RN4: Santa Cruz-Cotoca"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Virgen de Cotoca",
+   "latitude": -17.7708408,
+   "longitude": -63.1226692,
+   "addr:street": "Calle Santa Barbara"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud San Martin",
+   "latitude": -17.7651673,
+   "longitude": -63.1243014,
+   "addr:street": "Avenida San Felipe"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica Medica Viara Srl",
+   "latitude": -17.7828676,
+   "longitude": -63.1637583,
+   "addr:street": "Avenida Pando"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de salud COPACABANA",
+   "latitude": -16.5403214,
+   "longitude": -68.1864707,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "OneDay",
+   "latitude": -17.7907289,
+   "longitude": -63.2234367,
+   "addr:street": "Calle El Paúro"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Médico Buen Samaritano",
+   "latitude": -16.5190364,
+   "longitude": -68.1588838,
+   "addr:street": "Calle Isaac Arias"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Calama",
+   "latitude": -16.5227858,
+   "longitude": -68.1986169,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud 3 de Mayo",
+   "latitude": -16.5509033,
+   "longitude": -68.211763,
+   "addr:street": "Calle Luis Taborga"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Brain Balance",
+   "latitude": -17.7586108,
+   "longitude": -63.1693375,
+   "addr:street": "Avenida República del Japón"
+ },
+ {
+   "amenity": "clinic",
+   "name": "NEWLIFE",
+   "latitude": -16.5257898,
+   "longitude": -68.1529321,
+   "addr:street": "Avenida del Policía"
+ },
+ {
+   "amenity": "clinic",
+   "name": "MedicLife - Diagnóstico Médico",
+   "latitude": -17.9541167,
+   "longitude": -67.1094124,
+   "addr:street": "Avenida Germán Busch"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Consultorio Medico y Enefermeria Virgen la Merced",
+   "latitude": -21.5123222,
+   "longitude": -64.7355357,
+   "addr:street": "Avenida Froilan Tejerina frente al mercado abasto de norte, Shopin Ely"
+ },
+ {
+   "amenity": "clinic",
+   "name": "insudent",
+   "latitude": -21.5348728,
+   "longitude": -64.7235203,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de salud de Chua Cocani",
+   "latitude": -16.1895395,
+   "longitude": -68.7488755,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica del dolor",
+   "latitude": -16.5451319,
+   "longitude": -68.0757943,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Prosalud - Policonsultorio Colcapirhua",
+   "latitude": -17.3877132,
+   "longitude": -66.2173338,
+   "addr:street": "Avenida Gualberto Villarroel"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clínica Santa Teresa",
+   "latitude": -16.4956404,
+   "longitude": -68.1194828,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "ESPERANZA",
+   "latitude": -16.5243395,
+   "longitude": -68.1516721,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Oftamológico San Andrés",
+   "latitude": -16.5249331,
+   "longitude": -68.1519035,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro Medico Verdolago",
+   "latitude": -11.0185232,
+   "longitude": -66.0488206,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "Clinica para Diabéticos",
+   "latitude": -11.0042164,
+   "longitude": -66.0656582,
+   "addr:street": "Avenida Juan Carlos Menini"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Marie Stopes Bolivia",
+   "latitude": -16.5017922,
+   "longitude": -68.1342625,
+   "addr:street": "Calle Nicolas Acosta"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Centro de Salud Alto Miraflores 3",
+   "latitude": -16.479183,
+   "longitude": -68.1260085,
+   "addr:street": "Calle Adriana Pariente"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Policlinico Central CNS",
+   "latitude": -16.4950686,
+   "longitude": -68.1339606,
+   "addr:street": "Calle Ingavi"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Caja de Ferroviarios",
+   "latitude": -16.4979668,
+   "longitude": -68.1344004,
+   "addr:street": "Calle Mercado"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Primeros Auxilios",
+   "latitude": -16.4902776,
+   "longitude": -68.1368873,
+   "addr:street": "Avenida Armentia"
+ },
+ {
+   "amenity": "clinic",
+   "name": "VIRGEN DE COPACABANA",
+   "latitude": -16.4964906,
+   "longitude": -68.208923,
+   "addr:street": ""
+ },
+ {
+   "amenity": "clinic",
+   "name": "BIOS-LAB",
+   "latitude": -16.5237479,
+   "longitude": -68.1521731,
+   "addr:street": "Calle de las Culturas 17 B"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Fisioterapia Violeta",
+   "latitude": -17.3751565,
+   "longitude": -66.1957555,
+   "addr:street": "Avenida José Manuel Villavicencio"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Primeros Auxilios",
+   "latitude": -16.5192904,
+   "longitude": -68.1498999,
+   "addr:street": "Avenida Panorámica"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Endoscopias",
+   "latitude": -16.5192276,
+   "longitude": -68.1518426,
+   "addr:street": "Avenida Diego de Portugal"
+ },
+ {
+   "amenity": "clinic",
+   "name": "Rayos X",
+   "latitude": -16.5225883,
+   "longitude": -68.1529949,
+   "addr:street": "Avenida Diego de Portugal"
+ }
+]

@@ -1,0 +1,840 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 36,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08498524,
+                    -16.54016206
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Programa de Las Naciones Unidas para El Desarrollo - PNUD",
+                "Telefono": "2624030 FX. 2795822",
+                "Direccion": "C.14 de Calacoto Ed. Metrobol II, piso 5",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T16:06:42.600Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12558517,
+                    -16.51299308
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Asociación de Instituciones y Educación - AIPE",
+                "Telefono": "2419723",
+                "Direccion": "C. Macario Pinilla #525",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:50:53.303Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12177356,
+                    -16.51380937
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Banco Interamericano de Desarrollo en Bolivia - BID",
+                "Telefono": "2177700",
+                "Direccion": "Av. 6 de Agosto Esq. Cordero # 2818",
+                "Zona": "SAN JORGE",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:02:39.940Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12360224,
+                    -16.51291303
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fondo Monetario Internacional -FMI",
+                "Telefono": "2430013 FX. 2430017",
+                "Direccion": "Av. 20 de octubre #2665 Esq. Campos Ed. Torre Azul",
+                "Zona": "SAN JORGE",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:19:43.217Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12907156,
+                    -16.51433633
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CESO SACO",
+                "Telefono": "2150700 FX.",
+                "Direccion": "C. Victor Sanjinez #2678 Ed. Barcelona piso 2",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:20:06.067Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12366212,
+                    -16.51282718
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alto Comisionado de Las Naciones Unidas",
+                "Telefono": "2624000",
+                "Direccion": "Av. 20 de Octubre Esq. Campos Torre Azul Piso 10",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:20:18.253Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11987309,
+                    -16.51408455
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Corporación Andina de Fomento - CAF",
+                "Telefono": "2433333",
+                "Direccion": "Av. Arce #2915 Esq. Clavijo",
+                "Zona": "SAN JORGE",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:20:36.750Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12547374,
+                    -16.51158755
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cooperatione Internacionale - COOPI",
+                "Telefono": "2119103-2117462",
+                "Direccion": "C. Lisímaco Gutierrez #379 entre 6 de Agosto y 20 de Octubre",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:20:56.440Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13094602,
+                    -16.51207033
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "HELVETAS Swiss Intercooperación en Bolivia",
+                "Telefono": "2115477",
+                "Direccion": "C. Rosendo Gutierrez #704 entre Ecuador y Abdón Saavedra",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:21:09.190Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08768349,
+                    -16.54210654
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Organización de La Sociedad Civil Danesa - IBIS",
+                "Telefono": "2773523",
+                "Direccion": "C.12 #10 entre Sánchez Bustamante y Julio Patiño",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:21:23.780Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13512771,
+                    -16.49930468
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Udape",
+                "Telefono": "2379493 FX.  2372333",
+                "Direccion": "Av. Mariscal Santa Cruz",
+                "Zona": "SAN PEDRO",
+                "distrito": "6",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:21:59.930Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08110205,
+                    -16.53905938
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cooperación Internacional de Corea - KOICA",
+                "Telefono": "2971577-2971578",
+                "Direccion": "C. 18 Ed. parque 18 piso 6",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:23:22.727Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07748508,
+                    -16.54260104
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Help Age",
+                "Telefono": "2794966",
+                "Direccion": "C. 21 Edificio Monroy Velez Piso 6 of 4",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:27:02.297Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10929872,
+                    -16.52582256
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Programa Pacivur IRD Bolivia",
+                "Telefono": "",
+                "Direccion": "Av. Hernando Siles #5290",
+                "Zona": "OBRAJES",
+                "distrito": "21",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:26:52.270Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08607299,
+                    -16.54133288
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Coordinadora de Organizaciones No Gubernamentales Internacionales - COGNI",
+                "Telefono": "2119103 TEL y FAX  - 2771380  - 2117462",
+                "Direccion": "C. 13 de Calacoto #8008",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:27:33.357Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08608848,
+                    -16.54004987
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Servicio Holandés de Cooperación al Desarrollo - SNV",
+                "Telefono": "",
+                "Direccion": "C. 13 Torre Lucía",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:27:53.803Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07879696,
+                    -16.53732729
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Naciones Unidas para La Infancia - UNICEF",
+                "Telefono": "2770222-FX. 2772101",
+                "Direccion": "C. 20 de Calacoto",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:28:06.153Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12519176,
+                    -16.50995128
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fundación Tierra",
+                "Telefono": "2430145-2432263   FX. 2111216",
+                "Direccion": "C.Hemanos Manchego # 2566 entre Pedro Salazar y Av. Arce",
+                "Zona": "SOPOCACHI",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:28:41.467Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07470476,
+                    -16.5401115
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Wildlife Conservation Society",
+                "Telefono": "",
+                "Direccion": "C. Gabino Villanueva #340",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:29:25.410Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12917456,
+                    -16.50861309
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "International Finance Corporation",
+                "Telefono": "2790404 2422221 - 2114278",
+                "Direccion": "C. Fernando Guachalla #342 Ed. Victor piso 8",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:34:43.627Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13639181,
+                    -16.49746929
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fundación Milenio",
+                "Telefono": "2312788-2314563-2392341",
+                "Direccion": "Av. 16 de Julio Ed. Cosmos piso 7",
+                "Zona": "SAN PEDRO",
+                "distrito": "6",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:35:06.887Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08139465,
+                    -16.53957297
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cooperación Técnica Alemana - G.I.Z.",
+                "Telefono": "2771380",
+                "Direccion": "C. Julio Patiño N° 1178",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:36:03.310Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07727614,
+                    -16.54011792
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Agencia de Cooperación Internacional del Japon - JICA",
+                "Telefono": "",
+                "Direccion": "C. 22 de Calacoto Edificio EmpResarial Piso 1",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:36:40.473Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1209535,
+                    -16.51259587
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Programa de Investigación Estratégica en Bolivia",
+                "Telefono": "2624030    FX. 2795821",
+                "Direccion": "Av. Arce Edif. Fortaleza P 6 -601 (frente de la Embajada americana)",
+                "Zona": "SOPOCACHI",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:37:23.863Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12977167,
+                    -16.51492902
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ayuda en Acción Bolivia",
+                "Telefono": "",
+                "Direccion": "C. Miguel de Cervantes 2750",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:37:45.330Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10427264,
+                    -16.52696086
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Suiza En Bolivia - COSUDE",
+                "Telefono": "2751001 - 2750820 - 2750890",
+                "Direccion": "C. 13 No. 455 Esq. 14 de Septiembre",
+                "Zona": "OBRAJES",
+                "distrito": "21",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:49:45.233Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12766641,
+                    -16.50831068
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CARE - Bolvia",
+                "Telefono": "2409022 - 2408585",
+                "Direccion": "Av. 6 de Agosto y 20 de Octubre - Pasaje Jáuregui Ed. Quipus piso 3",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:38:47.960Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11998271,
+                    -16.51297336
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fundación para el Desarrollo del Sistema Nacional de Áreas Protegidas - FUNDESNAP",
+                "Telefono": "2113364",
+                "Direccion": "Prolongación Cordero #127",
+                "Zona": "SAN JORGE",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:40:15.973Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12073828,
+                    -16.51360105
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Agencia Española de Cooperación Internacional - AECID",
+                "Telefono": "2433515",
+                "Direccion": "Av. Arce #2856 entre Cordero y Clavijo",
+                "Zona": "SAN JORGE",
+                "distrito": "1",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:40:49.190Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09115702,
+                    -16.54176607
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fundación Konrad Adenauer",
+                "Telefono": "2786831-2786910-2125577   FX. Int. 115",
+                "Direccion": "Av. Walter Guevara #8037",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:41:18.030Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12454157,
+                    -16.51114682
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Coperazione Internazionale",
+                "Telefono": "",
+                "Direccion": "C. Lisímaco Gutierrez #379",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:42:13.187Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10817854,
+                    -16.52637522
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Prodena",
+                "Telefono": "",
+                "Direccion": "Av. Hernando Siles",
+                "Zona": "OBRAJES",
+                "distrito": "21",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:43:01.340Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12910724,
+                    -16.50857358
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Banco Mundial",
+                "Telefono": "2153344 - 2153300 - 2441991",
+                "Direccion": "C. Fernando Guachalla 342",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:45:44.507Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0867672,
+                    -16.54073885
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fundación para el Desarrollo Participativo Comuniatario - FUNDEPCO",
+                "Telefono": "2771137",
+                "Direccion": "C. 12 Calacoto # 635 Esq. Julio Patiño",
+                "Zona": "CALACOTO",
+                "distrito": "18",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:47:39.570Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10513856,
+                    -16.52797783
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Oxfam",
+                "Telefono": "2788323 - 2147965",
+                "Direccion": "Av. Hernado Siles #5826 entre C. 12 y 13 Obrajes",
+                "Zona": "OBRAJES",
+                "distrito": "21",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:48:10.367Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "agenciascooperacion.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13109324,
+                    -16.50974861
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cooperación Suiza - Swisscontac",
+                "Telefono": "2434666 - 2112141",
+                "Direccion": "C. Jacinto Benavente #2176 entre Guachalla y Aspiazu",
+                "Zona": "SOPOCACHI",
+                "distrito": "3",
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T17:48:54.953Z",
+                "observaciones": ""
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "gid": "5",
+        "nombre": "Parque Regional Lomas de Arena",
+        "direccion": "Santa Cruz de la Sierra",
+        "point_x": "-63.1600785000",
+        "point_y": "-17.9405216000",
+        "geom": "01010000C07025C9737D944FC0702E0906C6F031C00000000000000000FFFFFFFFFFFFEFFF",
+        "dependencia": "GAMSCS"
+    }
+]

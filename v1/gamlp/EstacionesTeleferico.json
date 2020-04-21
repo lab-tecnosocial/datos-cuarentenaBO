@@ -1,0 +1,624 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 36,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.20973029,
+                    -16.48993383
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Azul",
+                "Direccion": "Av. Juan Pablo II y ruta a Laja",
+                "Nombre": "Estacion Rio Seco"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.19328126,
+                    -16.48951447
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Azul",
+                "Direccion": "Av. 16 de Julio entre Sucre A y B. Universidad Pública de El Alto",
+                "Nombre": "Estacion U.P.E.A."
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.18320182,
+                    -16.49221364
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Azul",
+                "Direccion": "Plaza La Paz",
+                "Nombre": "Estacion La Paz"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.17357541,
+                    -16.49478766
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Azul",
+                "Direccion": "Plaza Libertad",
+                "Nombre": "Estacion Plaza Libertad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.164385,
+                    -16.49764039
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Azul",
+                "Direccion": "16 de Julio, Av. Panoramica Norte,(lado de Bolivia TV)",
+                "Nombre": "Estacion 16 de Julio"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15282372,
+                    -16.49817296
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Roja",
+                "Direccion": "Cementerio, Av. Entre Rios y C. Mejillones, (detras del Cementerio General)",
+                "Nombre": "Estacion Cementerio"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14464691,
+                    -16.49129495
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Roja",
+                "Direccion": "Gran Estacion Central, Av. Manco Kapac entre Av. Republica y Av. Ismael Vasquez",
+                "Nombre": "Estacion Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15003547,
+                    -16.51841255
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Amarilla",
+                "Direccion": "Parque Mirador, Av. Panoramica Sur, colindante Barrio Tupac Amaru",
+                "Nombre": "Estacion Parque Mirador"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14410971,
+                    -16.5154199
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Amarilla",
+                "Direccion": "Buenos Aires, Av. Buenos Aires y C. Moxos",
+                "Nombre": "Estacion Buenos Aires"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13033864,
+                    -16.51473046
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Amarilla",
+                "Direccion": "Sopocachi, calle Miguel de Cervantes y calle Mendez Arcos",
+                "Nombre": "Estacion Sopocachi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11611617,
+                    -16.51910946
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Amarilla",
+                "Direccion": "Ciudad Empresarial, Av. Libertador y Av. Los Leones (Curva de Holguin)",
+                "Nombre": "Estacion Libertador"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11602304,
+                    -16.51914494
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Verde",
+                "Direccion": "Ciudad Empresarial, Av. Libertador y Av. Los Leones (Curva de Holguin)",
+                "Nombre": "Estacion Libertador"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11042344,
+                    -16.52138686
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Verde",
+                "Direccion": "Alto Obrajes, Final Av. Costanera y Av. Del Maestro",
+                "Nombre": "Estacion Alto Obrajes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10075286,
+                    -16.52682848
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Verde",
+                "Direccion": "Obrajes 17, Av. Max Portugal (altura Puente Esperanza)",
+                "Nombre": "Estacion Obrajes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08725609,
+                    -16.53814359
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Verde",
+                "Direccion": "Irpavi, Av. Pabon Esq. Inofuentes",
+                "Nombre": "Estacion Irpavi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12110186,
+                    -16.510765
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Blanca",
+                "Direccion": "Avenida del Poeta",
+                "Nombre": "Estacion Jalsuri"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12087287,
+                    -16.50415565
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Blanca",
+                "Direccion": "Plaza Triangular, Avenida Busch",
+                "Nombre": "Estacion Kimsachaca"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12137713,
+                    -16.49373637
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Blanca",
+                "Direccion": "Cerca al Monumento Busch, Avenida Busch",
+                "Nombre": "Estacion Qhuirwa Uma"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12182351,
+                    -16.48451151
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Blanca",
+                "Direccion": "Plaza Villarroel",
+                "Nombre": "Estacion Inalmama"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13681452,
+                    -16.49038738
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Naranja",
+                "Direccion": "Plaza Villarroel",
+                "Nombre": "Estacion Inalmama"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13128913,
+                    -16.48650924
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Naranja",
+                "Direccion": "Cementerio de la Llamita, Avenida Periferica",
+                "Nombre": "Estacion Periferica"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1447094,
+                    -16.4921322
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Naranja",
+                "Direccion": "Avenida Armentia, cerca al mercado Calama",
+                "Nombre": "Estacion Armentia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12185273,
+                    -16.48451809
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Naranja",
+                "Direccion": "Ex Estacion de Ferrocarriles",
+                "Nombre": "Estacion Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16429691,
+                    -16.49764324
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Roja",
+                "Direccion": "El Alto, Avenida Panoramica Norte",
+                "Nombre": "Estacion 16 de julio"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.132601,
+                    -16.50051003
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Celeste",
+                "Direccion": "A media cuadra de El Prado paceño, sobre la calle Bueno",
+                "Nombre": "Estacion Prado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12607734,
+                    -16.50415636
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Celeste",
+                "Direccion": "En la rotonda Montevideo sobre la avenida Del Poeta, próxima al Teatro al Aire Libre",
+                "Nombre": "Estacion Cancha Zapata"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12021861,
+                    -16.51120567
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Celeste",
+                "Direccion": "Avenida del poeta",
+                "Nombre": "Estación Jalsuri"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11607446,
+                    -16.51864277
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Celeste",
+                "Direccion": "Av. Libertador, a la altura de la Curva de Holguín (comienzo de la zona de Obrajes).",
+                "Nombre": "Estación Chuqui Apu"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16945524,
+                    -16.52261445
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Morada",
+                "Direccion": "Avenida 6 de marzo, al frente del Regimiento Ingavi",
+                "Nombre": "Estacion Jacha Thaki"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15365275,
+                    -16.51228621
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Morada",
+                "Direccion": "Faro Murillo, Avenida Cívica. Ciudad de El Alto",
+                "Nombre": "Estacion Tiquira"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13512749,
+                    -16.50001996
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Morada",
+                "Direccion": "Calles Murillo y Almirante Grau",
+                "Nombre": "Estacion Utjawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16440773,
+                    -16.49841286
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Plateada",
+                "Direccion": "El Alto, Avenida Panoramica Norte",
+                "Nombre": "Estacion Jacha Qhatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15371738,
+                    -16.51227558
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Plateada",
+                "Direccion": "Faro Murillo, Avenida Cívica. Ciudad de El Alto",
+                "Nombre": "Estacion Tiquira"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15016996,
+                    -16.51829026
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Plateada",
+                "Direccion": "El Alto, Av. Panorámica. Zona Ciudad Satélite.",
+                "Nombre": "Estacion Qhana Pata"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12086217,
+                    -16.49382384
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Cafe",
+                "Direccion": "Cerca al Monumento a Busch, Avenida Busch, Zona Miraflores",
+                "Nombre": "Estacion Qhuirwa Uma"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "estacionesteleferico.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11513393,
+                    -16.49773913
+                ]
+            },
+            "geometry_name": "Shape",
+            "properties": {
+                "Estacion": "Estacion Cafe",
+                "Direccion": "Avenida 31 de Octubre entre las calles 1 y 2, Zona Bajo San Antonio",
+                "Nombre": "Estacion Pallqa Thaki"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,438 @@
+amenity,name,latitude,longitude,addr:street
+hospital,Hospital Camiri,-20.0360771,-63.528736,Camiri
+hospital,Caja Petrolera de Salud,-20.0418707,-63.5155784,Camiri
+hospital,C.S. San Juan de Dios,-17.084742,-66.8198271,Independencia
+hospital,Posta de Salud Villa Tunari,-16.9713685,-65.4185804,
+hospital,P.S. Rodeo Chico,-17.6505895,-65.1806094,Rodeo Chico
+hospital,PS de Moya Pampa,-17.714189,-65.2071171,
+hospital,P.S. Antakawa,-17.8730791,-65.1382289,Anta Qhawa
+hospital,P.S. Sauce Pila Pata,-17.8428134,-65.0725234,Sauce Pila Pata
+hospital,P.S. Pataicuna,-17.3834513,-65.1339917,Pataicuna
+hospital,Pro Salud La Madre,-17.7904753,-63.2106758,
+hospital,C.S. Tejawasi (1er Nivel),-17.8094911,-65.2260518,Tika Pampa
+hospital,Hospital Japones,-17.7729979,-63.1545521,
+hospital,Hospital Japonés,-17.2179404,-62.8945944,
+hospital,Hospital Seguro Social Universitario,-16.5119648,-68.1237096,La Paz
+hospital,Hospital General - Hospital Municipal Alfonso Gumucio R.,-17.3406836,-63.2512831,
+hospital,Clinica Norte,-17.3511899,-63.2511513,
+hospital,CS Valle Sacta,-17.1192148,-64.7695485,
+hospital,PS Chimeo,-21.188771,-63.4377809,Chimeo
+hospital,PS Ipa,-21.060965,-63.4166876,
+hospital,CS Puesto Garcia (1er Nivel),-21.1301648,-63.3977334,Puesto Garcia
+hospital,PS Valle del Medio,-21.6030314,-64.1501596,
+hospital,P.S. Torno Kasa (1er Nivel),-17.9687874,-65.9973278,Torno Ckasa
+hospital,CS Collpa Uno (1er Nivel),-20.9243122,-65.5678347,Collpa Uno
+hospital,C.S. Lequepalca,-17.6294206,-66.9556258,Leque Palca
+hospital,Rafael Pabón,-17.981638,-67.1049447,Oruro
+hospital,Puesto de Salud Chacopampa,-21.5427962,-65.7758895,
+hospital,PS Chipihuayco,-21.8050786,-65.8171372,Chipihuayco
+hospital,PS Pelca (1er Nivel),-20.0442814,-66.1680005,Estancia Pelca
+hospital,PS Viluyo,-21.5263381,-66.3408267,
+hospital,Hospital Metodista,-16.526997,-68.1047799,
+hospital,Centro de Salud Biblioteca (1er Nivel),-16.5048616,-68.1497841,La Paz
+hospital,Hospital Barrios Mineros,-17.9538713,-67.1173977,
+hospital,,-17.9623136,-67.1106406,
+hospital,Clinica Virgen de Fatima,-17.8151266,-63.1991973,
+hospital,Hospital de Tiquipaya,-17.337096,-66.217684,Tiquipaya
+hospital,Policlínico Manuel Ascencio Villarroel,-17.3939176,-66.1584453,
+hospital,Cordes,-17.3764324,-66.162835,Cochabamba
+hospital,ProSalud,-17.3647362,-66.1792204,Cochabamba
+hospital,San Vicente de Paul,-17.3877021,-66.1587326,Cochabamba
+hospital,Clínica María de los Ángeles,-17.3833722,-66.1490961,
+hospital,Caja Petrolera de Salud,-17.3928562,-66.1542563,
+hospital,Pro Salud,-16.4937043,-68.2086689,
+hospital,Hospital del Sur,-16.5262024,-68.223469,
+hospital,Hospital 3 de noviembre,-14.9933049,-65.6417354,
+hospital,Centro de Salud Vinarasirare,-14.9945122,-65.641156,
+hospital,Consejo de Salud Rural Andino - Centro de Salud Villa Cochabamba,-17.337384,-63.2486638,Montero
+hospital,Fundación Rosa Vera - La Escuelita Mi Hogar,-17.3365927,-63.2695748,Montero
+hospital,Hospital Municipal Plan 3000,-17.8391327,-63.1094329,
+hospital,Hospital Municipal Francés,-17.8548202,-63.1897168,
+hospital,Hospital Municipal Bajío del Oriente,-17.8321153,-63.2092698,Santa Cruz de la Sierra
+hospital,CS Padcoyo,-20.2365211,-65.1549176,
+hospital,P.S. Huancane,-16.3782692,-67.5362355,Huancane
+hospital,Caja Petrolera de Salud,-18.3333408,-59.7467397,
+hospital,Hospital Aranjuez,-17.3822715,-66.1534813,Cochabamba
+hospital,CEMES,-16.5142316,-68.1210088,La Paz
+hospital,Hospital Virgen de la Asunción,-16.514392,-68.1209289,La Paz
+hospital,Hospital Arco Iris,-16.4842534,-68.1203636,
+hospital,Centro de Salud San Benito,-19.5939563,-65.757816,
+hospital,Saint Jude,-19.5682894,-65.767859,
+hospital,C.S. Sagrada Familia,-19.5727297,-65.7494006,
+hospital,Centro de Salud Central,-14.8324611,-64.9046878,Trinidad
+hospital,Nueva Gante,-17.4471135,-66.1443827,
+hospital,Caja de Salud de Caminos y Ramas Anexas,-17.3807966,-66.1681155,
+hospital,Caja de Salud de la Banca Privada,-17.3955835,-66.1606462,Cochabamba
+hospital,Caja de Salud de la Banca Privada,-17.3882558,-66.1564419,
+hospital,Caja de Salud de Camino,-11.0269885,-68.7611484,
+hospital,Señor de Milagros,-17.4551208,-66.352521,
+hospital,Hospital de Niños,-18.4139923,-66.5622427,
+hospital,Caja Nacional de Salud,-19.5847356,-65.7576002,
+hospital,Hospital Caja Nacional de Salud,-18.3283588,-59.7535412,
+hospital,Hospital Municipal El Torno,-18.005564,-63.3871131,
+hospital,Centro de Salud de Alto Seco,-18.8709628,-64.0743791,Alto Seco
+hospital,CS Virgen del Rosario,-18.541396,-65.4261478,Poroma
+hospital,Luis Espinal,-16.5168577,-68.1985592,El Alto
+hospital,Caja de Salud CORDES,-19.0437473,-65.2431244,
+hospital,Cruz Roja,-19.0492488,-65.2482111,
+hospital,Instituto Oncológico del Oriente Boliviano,-17.763328,-63.1939422,Santa Cruz de la Sierra
+hospital,Hospital San Lorenzo,-21.4204189,-64.751563,
+hospital,Caja Nacional de Salud Sacaba,-17.4021135,-66.0446756,
+hospital,Policlínico Odontológico Cordes,-17.3880715,-66.1448269,
+hospital,Hospital dermatólogo,-18.0725072,-63.4413132,
+hospital,,-10.9985708,-66.0794709,
+hospital,Caja Cordes,-17.3911244,-66.1489127,
+hospital,Caja de Salud de Caminos,-16.5088729,-68.1275822,
+hospital,,-17.5676471,-66.3461399,
+hospital,Casa Vanesa,-17.776413,-63.1749657,
+hospital,P.S. Aguas Calientes,-18.4531598,-59.5032118,Aguas Calientes
+hospital,Instituto de Gastroenterologia Boliviano Japones,-19.0453277,-65.2674658,Sucre
+hospital,Casa Melo,-17.8925993,-63.1687246,
+hospital,Policlinica,-17.9571224,-67.1070847,
+hospital,Hospital de Cliza,-17.5882196,-65.9362004,
+hospital,Hospital Endoven,-16.5277016,-68.148959,
+hospital,Hospital Cruz Roja Boliviana,-16.4998837,-68.1317318,La Paz
+hospital,Hospital Municipal Dr. Marco Rojas,-19.3075398,-64.2996048,
+hospital,Instituto Nacional de Oftalmología,-16.5065001,-68.1188641,La Paz
+hospital,Jesús Obrero,-16.5295345,-68.197049,
+hospital,Hospital de Mairana (2do.Nivel),-18.1191539,-63.956828,Mairana
+hospital,CS San Jorge,-19.1192184,-64.7004861,Zudáñez
+hospital,PS Misca Mayu (1er Nivel),-17.5392549,-65.461027,
+hospital,CS Huayapacha (1er Nivel),-17.5521812,-65.4079756,
+hospital,Los Olivos,-17.8287993,-63.1808136,
+hospital,San Antonio de los Sauces,-19.789824,-63.9545133,
+hospital,Caja Nacional de Salud,-19.8077943,-63.9582982,
+hospital,Hospital Caranavi,-15.8312635,-67.5643872,
+hospital,Hospital Municipal Nuestra Señora del Rosario,-17.5067049,-63.1670974,Warnes
+hospital,Hospital Boliviano Holandés,-16.5223957,-68.153615,
+hospital,C.S. Yotala,-19.1629739,-65.2626724,Yotala
+hospital,Hospital Obrero,-14.8254053,-64.8952023,
+hospital,Hospital San Francisco de Asis,-16.4697073,-68.1144249,
+hospital,Virgen de las Angustias (2do Nivel),-17.4276551,-65.7215561,Tiraque
+hospital,Hospital San Martin de Porres - Ibuelo (2do Nivel),-16.9681408,-65.3399327,Ibuelo
+hospital,CS German Busch,-16.4706612,-68.1830539,
+hospital,Centro de Salud San Roque,-16.4758172,-68.27123,
+hospital,Centro de Salud Huayna Potosi,-16.4794998,-68.1917989,
+hospital,Centro de Salu dLotes y Servicios,-16.4962763,-68.2141957,
+hospital,Centro de Salud Avaroa,-16.5294672,-68.1858568,
+hospital,Centro de Salud 1ro de Mayo,-16.5377662,-68.1998124,
+hospital,Centro de Salud Nuevos Horizontes,-16.5443142,-68.1874976,
+hospital,Hospital Municipal Distrital Villa 1ro de Mayo,-17.7994925,-63.1179348,
+hospital,CS Hospital Civil de Atocha,-20.9331925,-66.2197775,Atocha
+hospital,Prosalud Especialidades Médicas,-17.7662787,-63.1710972,
+hospital,Hospital de Irán,-16.5136492,-68.1603,
+hospital,Centro de Rehabilitación y Salud Mental San Juan de Dios,-16.497721,-68.0839148,
+hospital,Hospital de Reyes (3er Nivel),-14.3034934,-67.3309226,Reyes
+hospital,Hospital Universitario,-19.5813158,-65.7570481,
+hospital,Mapaizo,-17.7473807,-63.0529162,
+hospital,PS Sunchu Pampa,-17.5585316,-65.9198922,Sunchu Pampa
+hospital,Centro de Salud Bolognia,-16.5257095,-68.0872012,La Paz
+hospital,Hospital Colonia Japonesa San Juan,-17.2921496,-63.8432928,
+hospital,,-17.2928569,-63.847951,
+hospital,C.S. Eterazama (1er Nivel),-16.8329636,-65.5169614,Eterazama
+hospital,P.S. Aeropuerto,-22.7312586,-64.3374756,Bermejo
+hospital,Hospital Korea,-16.5461515,-68.2004144,
+hospital,CS San Juan del Rosario - Potosi (1er Nivel),-20.9008685,-67.7652443,San Juan
+hospital,CS Virgen del Rosario,-19.6296329,-64.312365,
+hospital,C.S. Virgen del Rosario (1er Nivel),-20.7810344,-64.869067,Incahuasi
+hospital,Hospital San Pablo de Huacareta,-20.3687085,-64.0050018,
+hospital,Hospital Chacaltaya,-16.4851773,-68.1732094,
+hospital,Hospital Materno Infantil Cochabamba,-17.4005774,-66.1560983,Cochabamba
+hospital,Bolivia,-17.3779039,-66.1613114,
+hospital,Centro de Salud Rumy Campana,-17.950578,-67.1252025,
+hospital,Caja Nacional de Salud Regional Oruro,-17.9392223,-67.1152818,
+hospital,Hospital Centro de Salud Sebastian Pagador de Policias,-17.9372094,-67.1160682,
+hospital,Centro de Rehabilitación Infantil Juana Azurduy de Padilla,-16.5024936,-68.1177957,
+hospital,P.S. Tomatas,-21.5572409,-65.6307914,Tomatas
+hospital,Centro de Salud Calamarca,-16.9069756,-68.1168186,Calamarca
+hospital,PS Urmiri de Quillacas,-19.2274595,-66.7205142,Urmiri de Quillacas
+hospital,PS Catilla Huma,-19.1399455,-66.7139443,
+hospital,C.S. San Juan Bautista,-17.8522303,-63.3055113,Porongo
+hospital,Centro de Salud Lahuachaca,-17.3764918,-67.6763248,
+hospital,Centro de Salud Konani,-17.4389835,-67.5185848,
+hospital,PS Panduro (1er Nivel),-17.4957512,-67.4428908,Panduro
+hospital,Caja Petrolero de Salud,-19.0373119,-65.2599436,
+hospital,Hospital de niños,-17.3472583,-63.2521657,
+hospital,CS Pomanasa,-18.5796502,-65.3342111,Pomanaza
+hospital,Hospital Mamerto Eguez (2do Nivel),-19.7901846,-63.1970849,Charagua
+hospital,PS Viru Viru (1er Nivel),-18.3836122,-65.652794,Viru Viru
+hospital,Forense Fiscalía de El Alto.,-16.4898131,-68.187711,
+hospital,Centro de Salud Villa Adela,-16.5227098,-68.2120816,
+hospital,C.S. Chijmuri,-18.8108384,-65.3975267,Chijmuri
+hospital,,-21.9638844,-63.6604523,
+hospital,Centro de Salud Palmar Chico,-21.8785175,-63.6106826,Palmar Chico
+hospital,San José de Pocitos,-22.0491238,-63.681264,
+hospital,Hospital San José Obrero,-17.36093,-66.284298,
+hospital,,-16.5293992,-68.1102437,
+hospital,CSI Escara,-18.8579575,-68.1705665,Escara
+hospital,Centro de Especialidades Médicas,-16.5260801,-68.110354,
+hospital,Hospital Jacobo Abularach A.,-13.7453394,-65.4299853,
+hospital,Hospital Juan XXIII,-16.4871831,-68.1578755,
+hospital,,-16.0402504,-67.8156016,
+hospital,,-17.9719222,-67.1028287,
+hospital,Centro de Salud Arroyito,-17.8305197,-63.0843273,
+hospital,Hospital natividad,-17.9737348,-67.102148,
+hospital,Hospital Oruro - Corea,-17.976385,-67.099951,
+hospital,Microhospital Hugo Casal (Todos Santos II),-17.3142947,-63.278141,
+hospital,CS Irupana (1er Nivel),-16.4661079,-67.4552426,Irupana
+hospital,centro de salud 16 de febrero,-16.5010404,-68.2289259,
+hospital,CS El Dorado,-19.7911158,-64.3288141,
+hospital,CS El Salto (1er Nivel),-19.8556328,-64.4874551,El Salto
+hospital,CS Tarvita,-19.9251447,-64.4841181,
+hospital,Hospital Materno Infantil Germán Urquidi,-17.3865297,-66.1483725,
+hospital,CS Candelaria (1er nivel),-19.299575,-64.7908565,Candelaria
+hospital,PS El Paredon (1er Nivel),-19.251166,-64.8370203,
+hospital,PS Villa Barrientos (1er Nivel),-16.6298061,-67.267287,Villa Barrientos
+hospital,CS Licoma (1er Nivel),-16.8062863,-67.2021027,Licoma
+hospital,,-17.8477657,-63.0838317,
+hospital,P.S. Kuti,-16.9771668,-66.9573675,Kuti
+hospital,CS Pozos,-19.062251,-64.1366212,
+hospital,Puesto de Salud Calizaya,-18.4882036,-65.3522874,
+hospital,Puesto de Salud Palajla,-18.4513741,-65.4661162,
+hospital,Centro de Salud Soicoco,-18.5024386,-65.507322,
+hospital,Instituto Gastroenterológico Boliviano Japonés,-17.3862749,-66.1492194,
+hospital,Hospital Francisco Viedma,-17.3856251,-66.1485487,
+hospital,Sebastian Pagador,-17.4417833,-66.1163377,
+hospital,Hospital de Magdalena,-13.2559115,-64.0547271,
+hospital,Caja Nacional de Salud Dr. Benigno Inchausti,-21.4438112,-65.71865,
+hospital,C.S. Riberalta,-11.0018802,-66.0594441,Riberalta
+hospital,Villa Yunguyo,-16.4922815,-68.2191822,
+hospital,Hospital Inmaculada Concepción,-19.5923055,-65.7466977,
+hospital,C.S. Tolar,-17.0073202,-68.0646565,Tolar
+hospital,Centro de Salud Sica Sica,-17.3353567,-67.7430795,
+hospital,,-18.3802519,-66.9689989,
+hospital,Hospital del Sur,-17.4504824,-66.150302,
+hospital,Centro Médico Aeronaútico Cochabamba,-17.4483743,-66.1402786,
+hospital,P.S. Pazña (1er Nivel),-18.5964013,-66.9197554,Pazña
+hospital,SSU,-19.0488855,-65.2658538,Sucre
+hospital,Hospital Caja Nacional de Salud,-19.0479938,-65.2642876,Sucre
+hospital,Hospital Gíneco Obstétrico Jaime Sánchez Porcel,-19.0454094,-65.2682948,Sucre
+hospital,Hospital Jaime Mendoza,-19.0458657,-65.2675894,Sucre
+hospital,Centro de Salud San Juan del Rosario,-20.9014092,-67.7651706,San Juan
+hospital,C.S. Sopachuy,-19.4856644,-64.4731845,Sopachuy
+hospital,Clinica Chihuahua,-17.2190032,-62.1186892,
+hospital,I.P.T.K.,-19.0453778,-65.2577633,
+hospital,Puesto de Salud Aguila Orko,-18.5280849,-65.2920086,
+hospital,Centro de Salud San Juan de Orcas,-18.7331291,-65.3121012,
+hospital,Puesto de Salud El Ajial,-18.4969124,-65.2889519,
+hospital,Puesto de Salud Irocota,-18.6852503,-65.3680839,
+hospital,CIDIMEDIC,-16.543728,-68.0702179,La Paz
+hospital,Posta de Salud de Quirpinchaca,-19.0382518,-65.2694938,
+hospital,PS Pongo B2 (1er Nivel),-16.9963067,-67.25879,Pongo B2
+hospital,Micro Hospital,-17.5481335,-63.1909205,
+hospital,Hospital Municipal,-17.8501136,-60.7393618,San Jose de Chiquitos
+hospital,CS Copavillque,-18.6231834,-65.2856534,Copa Vilque
+hospital,CS Yanani,-18.5980359,-65.4371082,Yanani
+hospital,Caja Nacional de Salud CIMFA Fila Galindo,-17.3926993,-66.1699894,
+hospital,CS Villa Busch,-11.0878004,-68.7816595,
+hospital,CIMFA Miraflores,-16.5039801,-68.1201732,
+hospital,Hospital Kolping,-17.5144044,-63.1707622,Warnes
+hospital,CS El Desengaño (1er Nivel),-14.2735373,-65.4469658,
+hospital,P.S. La Viña,-18.1326416,-64.8901937,La Viña
+hospital,CS San Jose Charapaqui,-16.5377141,-68.2161829,
+hospital,CSI Covendo (1er Nivel),-15.7926008,-66.9798396,Covendo
+hospital,PS Chejje (1er Nivel),-15.8079183,-68.6561313,Ilabaya
+hospital,CSI Inquisivi (1er Nivel),-16.9071038,-67.1383612,Inquisivi
+hospital,CSA Kalla Baja (1er Nivel),-16.7736463,-68.7671485,Kalla Baja
+hospital,CSA La Lloja (1er Nivel),-16.7448913,-67.5732906,La Lloja
+hospital,CSI Lambate (1er Nivel),-16.6029518,-67.7043026,Lambate
+hospital,CSA Millipaya (1er Nivel),-15.8729592,-68.6182734,Millipaya
+hospital,CSI Moco Moco (1er Nivel),-15.4590898,-68.9970967,Mocomoco
+hospital,CSI Puerto Perez,-16.2856558,-68.6001643,Puerto Perez
+hospital,CSI Tablachaca (1er Nivel),-17.1765292,-67.3380622,Tablachaca
+hospital,CSI Tajocachi (1er Nivel),-16.0877195,-68.8852448,Tajocachi
+hospital,CSI Tuni (1er Nivel),-16.6694629,-68.1390827,Tuni
+hospital,CSA Tuquia (1er Nivel),-16.21326,-68.4660173,Tuquia
+hospital,CSA Ulloma Lerco (1er Nivel),-17.4903242,-68.4891454,Ulloma
+hospital,CSA Villa Concepcion,-15.831752,-66.9486174,Villa Concepcion
+hospital,CSI Villa Remedios (1er Nivel),-16.7733034,-68.1740537,Villa Remedios
+hospital,Hospital Materno Infantil Oruro (2do Nivel),-17.9601247,-67.1100388,Oruro
+hospital,PS Henry K. Beye,-13.0371306,-64.6700166,San Joaquin del Beni
+hospital,Caja Petrolera de Salud,-16.4979418,-68.132382,
+hospital,PS Timboy (1er Nivel),-21.1715504,-64.0643908,Timboy
+hospital,Policlínico del Sur,-17.3992108,-66.1622715,
+hospital,CS Pojo (1er Nivel),-17.7570119,-64.8645667,Pojo
+hospital,C.S. Cayara (1er nivel),-19.5528879,-65.8799162,Cayara
+hospital,CS Los Andes (1er Nivel),-16.8864078,-63.8309128,Los Andes
+hospital,C.S. Jampina Huasi (1er Nivel),-17.2736386,-66.2154027,Jampina Huasi
+hospital,CNS Regional La Paz,-16.4997579,-68.1317781,
+hospital,Hospital San Gabriel,-16.4914012,-68.1166949,
+hospital,Puesto de Salud Villa Mar (1er Nivel),-21.7553364,-67.4817772,Villa Mar
+hospital,PS Quetena Grande,-22.2301697,-67.3574034,Quetena Grande
+hospital,C.S. Santa Fe de Yapacani,-17.3981816,-63.8284771,Santa Fe de Yapacani
+hospital,Hospital Municipal Los Negros,-18.0508025,-64.1216022,Los Negros
+hospital,PS Oploca (1er Nivel),-21.3372958,-65.8043794,Oploca
+hospital,CS Ckochis (1er Nivel),-19.1330153,-65.2061788,Ckochis
+hospital,P.S. Real Machacamarca (1er Nivel),-18.7512201,-67.689548,Real Machacamarca
+hospital,PS Villa Copacabana (1er Nivel),-18.3357651,-67.5855941,Villa Copacabana
+hospital,CS Acacio,-18.0241762,-66.0586907,Acasio
+hospital,P.S. Piriquina (1er Nivel),-18.0792313,-66.0166096,Piriquina
+hospital,C.S. Anzaldo (1er Nivel),-17.778997,-65.9334373,Anzaldo
+hospital,Centro de Salud San Luis,-19.6501076,-63.6762112,Lagunillas
+hospital,Hospital Vladimir Bejarano,-19.4218629,-63.5294301,Gutierrez
+hospital,P.S. Alto Linares (1er Nivel),-17.2666973,-64.6189667,Alto Linares
+hospital,P.S. Pata Morochata (1er Nivel),-17.2724754,-66.4922005,Pata Morochata
+hospital,CS El Choro (1er Nivel),-16.7936535,-66.6505484,Choro
+hospital,CS Cocapata,-16.7999269,-66.668432,Cocapata
+hospital,CS Micani (1er Nivel),-18.3699049,-65.8343324,Micani
+hospital,Centro de Salud Soico,-18.8032281,-65.2761993,
+hospital,Instituto Nacional de Torax,-16.5066848,-68.1182092,La Paz
+hospital,Hospital San Pedro Claver (2do Nivel),-19.0075266,-65.3066695,Sucre
+hospital,CS Ayoma (1er Nivel),-18.8694284,-66.1491751,Ayoma
+hospital,Caja de Salud de la Banca Privada,-16.5113966,-68.1660199,
+hospital,,-17.0906349,-68.0020666,
+hospital,Centro Medico Internacional Hope,-16.5470569,-68.0891688,
+hospital,Hospital de Psiquiatría,-16.5025745,-68.1205257,
+hospital,Hospital Florida (2do Nivel),-18.1772947,-63.870214,Samaipata
+hospital,,-17.3460819,-66.1657352,
+hospital,,-17.3826846,-66.1477853,
+hospital,dentista,-17.3835086,-66.1476945,
+hospital,Caja Bancaria Estatal de Salud,-16.4969205,-68.1236805,
+hospital,Hospitales de la Esperanza,-17.3740687,-66.3229356,
+hospital,Caja Bancaria,-16.4971378,-68.1235484,
+hospital,Hospital Luis Espinal,-19.0255249,-65.2391325,
+hospital,Hospital San Mauro,-19.1866274,-64.4627138,Tomina
+hospital,Hospital Municipal Viacha,-16.6505728,-68.2876076,
+hospital,Servicio Integral de Rehabilitación Viacha,-16.6499956,-68.287413,
+hospital,Policonsultorio Norte Caja Petrolera de Salud,-17.3777005,-66.1646827,
+hospital,CSI Mayaya (1er Nivel),-15.4115183,-67.6108724,Mayaya
+hospital,P.S. Rodeo Porvenir (1er Nivel),-19.0582946,-64.5879942,Rodeo Porvenir
+hospital,Posta comunal de Juntas,-21.8059614,-64.7947853,Municipio Uriondo
+hospital,,-18.0009522,-67.1072094,
+hospital,PS Cazon (1er Nivel),-20.9188135,-65.6733608,
+hospital,PS Cerrillos (1er Nivel),-21.4177693,-66.4849211,Cerrillos
+hospital,PS Challacollo,-19.7661375,-68.2636445,Challacollo
+hospital,HOSPITAL PALMARCITO,-21.5311328,-64.7112903,TARIJA-CERCADO
+hospital,Centro de Salud Barrio Avaroa,-21.5169594,-64.7311811,
+hospital,Centro de Salud Tabladita,-21.5396819,-64.7453816,
+hospital,Caja de Salud Cordes,-21.5294103,-64.7349939,
+hospital,Caja Nacional de Salud,-21.5322273,-64.7323492,
+hospital,Centro de Salud San Pablo,-21.5358959,-64.7217327,
+hospital,Caja Petrolera de Salud,-21.5373095,-64.7341007,
+hospital,Materno Infantil,-21.5119213,-64.7299969,
+hospital,C.S.I. San Matias (1er Nivel),-16.3618294,-58.3955311,San Matias
+hospital,Centro de Salud Villa El Carmen,-21.7868349,-63.5722267,
+hospital,centro de salud Aranjuez,-21.5259284,-64.752087,
+hospital,C.S. Santa Rosa de la Boca del Chapare,-15.9419466,-64.7574943,
+hospital,Centro de salud maria loreto,-15.1953425,-64.7602495,
+hospital,CSI Monte Azul 2 (1er Nivel),-12.0952569,-64.919149,Monte Azul
+hospital,Centro de Salud Integral Cachuela Esperanza,-10.5386821,-65.5793999,Cachuela Esperanza
+hospital,C.S. San Antonio,-17.7764665,-63.1224504,
+hospital,C.S. Bolinter,-17.7630339,-63.1140049,
+hospital,C.S. El Dorado Norte,-17.7391157,-63.0965031,
+hospital,C.S. 26 de Septiembre,-17.7209687,-63.1048332,
+hospital,C.S. Los Cusis,-17.7356208,-63.0769892,Santa Cruz de la Sierra
+hospital,Centro de Salud Sajama,-18.1345814,-68.9747932,
+hospital,C.S. Hospital San Juan de Dios de Arque (1er Nivel),-17.8215896,-66.4034473,Arque
+hospital,C.S. Chapisirca,-17.1514928,-66.1457985,Chapisirca
+hospital,Centro de Salud Virgen Maria,-21.2625533,-63.4834441,Villamontes
+hospital,C.S. Keraya (1er Nivel),-17.2984619,-66.4585984,Keraya
+hospital,C.S. Icari (1er Nivel),-17.0197176,-66.3467313,Icari
+hospital,C.S. Tanil Vinto,-20.6057992,-67.5833063,Tanil Vinto
+hospital,Centro de Salud Km 21 (1er Nivel),-16.766725,-65.333485,San Francisco
+hospital,Centro de Salud,-19.6341787,-67.676422,
+hospital,CSA Viscachani,-17.1810038,-67.9529039,Viscachani
+hospital,P.S. Huerta Mayu,-17.6373264,-66.1144577,Huerta Mayu
+hospital,C.S. El Remanzo,-17.714507,-63.1786982,
+hospital,P.S. Cocani (1er Nivel),-21.2197236,-66.5518386,Cocani
+hospital,Centro de Salud Villa Fatima,-21.4348642,-65.7230864,Tupiza
+hospital,Centro de Salud San Gerardo,-21.4307453,-65.7305415,Tupiza
+hospital,Hospital San Juan de Dios,-20.6411629,-65.21318,Camargo
+hospital,P.S. San Vicente,-21.2669272,-66.3135639,San Vicente
+hospital,P.S. Supira,-21.5960017,-65.5223086,Supira
+hospital,C.S.A. Santo Domingo,-15.6703762,-67.649473,Santo Domingo
+hospital,C.S. Villa Pacheco (1er Nivel),-21.695843,-65.3045516,Villa Pacheco
+hospital,PS Carrizal,-21.4391118,-65.2384167,Carrizal
+hospital,CS Iscayachi (1er Nivel),-21.485179,-64.9693643,Iscayachi
+hospital,PS Curqui (1er Nivel),-21.4925263,-65.0692074,Curqui
+hospital,P.S. Reynecillas (1er Nivel),-21.5804072,-65.2547445,Reynecillas
+hospital,C.S.A. Santa Isabel (1er Nivel),-16.4201797,-58.6417448,Santa Isabel
+hospital,C.S. El Trigal (1er Nivel),-18.306268,-64.150524,Trigal
+hospital,C.S. Mataral (1er Nivel),-18.1152977,-64.2149398,Mataral
+hospital,P.S. San Isidro (1er Nivel),-18.0424116,-64.4334104,San Isidro
+hospital,C.S. Pucara (1er Nivel),-18.715199,-64.1854172,Pucara
+hospital,C.S. Masicuri (1er Nivel),-18.8304374,-63.7817,Masicuri
+hospital,P.S. Ipita (1er Nivel),-19.3546148,-63.5050084,Ipita
+hospital,C.S. Santa Ana de Velasco (1er Nivel),-16.5845074,-60.688363,Santa Ana de Velasco
+hospital,Hospital del Niño Sor Teresa Huarte Tama (3er Nivel),-19.0082638,-65.3074552,Sucre
+hospital,P.S. Carlos Machicado (1er Nivel),-19.6981429,-66.571823,Carlos Machicado
+hospital,P.S.Bermejo (1er Nivel),-18.1302492,-63.6332148,Bermejo
+hospital,C.S.A. Villa Florida (1er Nivel),-15.6532842,-67.7247004,Villa Florida
+hospital,C.S.I. Guanay (1er Nivel),-15.496387,-67.8801781,Guanay
+hospital,Clinica San Clemente,-20.6390581,-65.2080657,Camargo
+hospital,P.S. Yocalla (1er Nivel),-19.3901749,-65.9093828,Yocalla
+hospital,Hospital Virgen Milagrosa,-17.8251884,-63.1325179,
+hospital,Hospital Virgen Milagrosa,-17.8251742,-63.1325179,
+hospital,Hospital Virgen Milagrosa,-17.8252126,-63.1325715,
+hospital,Hospital Municipal Cañada el Carmen,-17.8093386,-63.1538687,
+hospital,P.S. Mataral,-18.1142855,-64.215815,Mataral
+hospital,P.S. Pampa Grande,-18.0891789,-64.1123468,Pampa Grande
+hospital,C.S. Los Negros,-18.0558997,-64.1229034,Los Negros
+hospital,Maternidad Percy Boland,-17.7783518,-63.1871329,
+hospital,C.S. Saipina (1er Nivel),-18.0943286,-64.584264,Saipina
+hospital,P.S. La Comuna,-17.9062232,-66.4781386,La Comuna
+hospital,C.S. Bolivar (1er Nivel),-17.9693101,-66.5375606,Bolivar
+hospital,CSI Umala (1er Nivel),-17.3729804,-68.0212786,Umala
+hospital,C.S. Tomaycuri,-18.8588708,-65.9090468,Tomaycuri
+hospital,C.S. Macha,-18.8182241,-66.0382569,Macha
+hospital,P.S. Huancarani,-18.7344614,-66.1406692,Huancarani
+hospital,C.S. Santa Barbara de Pocoata,-18.6997632,-66.1670888,Pocoata
+hospital,P.S. Crucero Belen,-18.2045338,-67.1605837,Crucero Belen
+hospital,C.S.I. Papel Pampa,-17.8193283,-67.7705093,Papel Pampa
+hospital,P.S. Japo,-17.6942777,-66.7637328,Japo Kasa
+hospital,P.S. Confital,-17.679386,-66.7294684,Confital
+hospital,P.S. Patamanta,-16.3772346,-68.3790658,Patamanta
+hospital,C.S.I. Palcoco,-16.3342626,-68.4159012,Palcoco
+hospital,C.S.I. Batallas,-16.2988209,-68.5316573,Batallas
+hospital,C.S.I. Huarina,-16.1904576,-68.6018625,Huarina
+hospital,Centro de Salud Sivingal (1er Nivel),-21.330408,-64.2037572,Sivingal
+hospital,Hospital San Andres,-21.6216886,-64.8172668,
+hospital,Centro de Salud San Luis,-21.5652353,-64.7058962,tarija
+hospital,P.S. Quinori (1er Nivel),-18.5040903,-64.3979889,Quinori
+hospital,C.S. Pasorapa (1er Nivel),-18.3209174,-64.6772004,Pasorapa
+hospital,P.S. Esmeralda,-18.0837903,-64.9238742,Esmeralda
+hospital,C.S. Omereque (1er Nivel),-18.1051839,-64.9071652,Omereque
+hospital,C.S. Huanacuni Chico (1er Nivel),-17.9260596,-64.9867656,Huanacuni Chico
+hospital,P.S. San Lorenzo (1er Nivel),-19.6484935,-63.1237876,San Lorenzo
+hospital,P.S. Lagarpampa (1er Nivel),-18.4556184,-64.9901758,Lagarpampa
+hospital,C.S. Raqay Pampa (1er Nivel),-18.1892499,-65.3829853,Raqay Pampa
+hospital,C.S.A. Alto Tacagua,-16.5131355,-68.1496216,Municipio Nuestra Señora de La Paz
+hospital,C.S. San Antonio Quime,-16.9819556,-67.215881,Quime
+hospital,C.S. Copachuncho (1er Nivel),-17.7170518,-65.0904194,Copa Chuncho A
+hospital,C.S. Villa Pereira,-17.4468158,-66.7870998,Villa Pereira
+hospital,Hospital de Hemodiálisis,-17.3848613,-66.2229666,
+hospital,P.S. Espinal,-18.5465684,-64.2944913,Espinal
+hospital,C.S. Campamento (1er Nivel),-15.1774754,-61.018444,Comunidad Campamento
+hospital,C.S. Palca,-17.1890904,-66.0758377,Palca
+hospital,C. S. Kaluyo Chico,-17.2188556,-66.0822778,Kaluyo Chico
+hospital,Centro De Salud El Porvenir,-17.7870716,-63.129238,Santa Cruz de la Sierra
+hospital,C.S. Sachojere,-14.9847749,-64.7526479,Sachojere
+hospital,P.S. San Lorenzo,-15.0365254,-64.7198262,San Lorenzo
+hospital,C.S. Apharumiri (1er Nivel),-17.5299114,-66.5209597,Apharumiri
+hospital,P.S. Tapacari,-17.5167942,-66.6181935,Tapacari
+hospital,Centro de Salud de Ixiamas,-13.7683319,-68.1203058,
+hospital,P.S. Kollpa Pucho Belen Alto (1er Nivel),-17.3665299,-67.5576634,Colpapucho Belen Alto
+hospital,P.S. Turqui (1er Nivel),-19.4079106,-65.9785383,Turqui
+hospital,Centro de  Salud Chojlla,-16.4067019,-67.776143,
+hospital,Hospital Materno Infantil,-14.8221306,-64.8959969,
+hospital,C.S. Elvira Wunderlich,-17.8021283,-63.1834029,Santa Cruz de la Sierra
+hospital,C.S. Yayani,-17.211817,-66.6560191,Yayani Alto
+hospital,P.S. Tiquirpaya,-17.1145612,-66.7304303,Tiquirpaya
+hospital,P.S. Jatun Pampa,-17.4675314,-66.6778569,Jatunpampa y Churco
+hospital,Hospital del Niño Ovidio Aligia Uria,-16.5082654,-68.1179785,
+hospital,Puesto de Salud La Ventolera,-21.6938553,-64.6009562,
+hospital,P.S. Los Batos,-17.7713308,-63.2448457,Los Batos
+hospital,C.S. San Antonio de Esmoruco,-21.9488264,-66.5176593,San Antonio de Esmoruco
+hospital,San Agustin de Hipona,-17.9774282,-67.1018209,
+hospital,GAVADENT Clínica Dental,-17.7362732,-63.1035935,Santa Cruz
+hospital,P.S. Comanche,-16.955481,-68.4280711,Comanche
+hospital,Hospital Cotahuma,-16.5155582,-68.1395111,
+hospital,P.S. Don Lorenzo,-17.803051,-62.8784191,Don Lorenzo
+hospital,C.S. Pisiga Bolivar (1er Nivel),-19.2725402,-68.6150722,Pisiga Bolívar
+hospital,C.S. Sabaya,-19.0157071,-68.3728202,Sabaya
+hospital,P.S. Yunguyo del Litoral,-18.8536682,-68.3200174,Yunguyo del Litoral
+hospital,P.S. Negrillos (1er Nivel),-18.8283572,-68.6105581,Negrillos
+hospital,centro de salud,-16.4910617,-68.155899,
+hospital,Hospital del Niño Manuel Ascencio Villarroel,-17.3881842,-66.1504292,Cochabamba
+hospital,P.S. Calama (1er Nivel),-18.7589763,-67.6767332,Calama
+hospital,SUSA Seguro Universal de Salud Sutónomo del Beni,-14.8305522,-64.906018,

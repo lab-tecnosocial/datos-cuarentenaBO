@@ -1,0 +1,2889 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 117,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1412239,
+                    -16.51743914
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Escuela de Familia AJAYU Cotahuma",
+                "Zona": "Cotahuma",
+                "Direccion": "Av. Huallparimachi, esc. C. Sudán #11",
+                "Descripcion": "El Centro funciona en la Casa Comunal Obispo Bosque",
+                "IdTipo": 4,
+                "Tipo": "CENTROS DE REHABILITACION",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-10T22:59:46.813Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1332691,
+                    -16.4972405
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Escuela de Familia AJAYU",
+                "Zona": "zona central",
+                "Direccion": "calle potosi - calle colon Edificio Tobias planta baja",
+                "Descripcion": "El Centro funciona en la Casa Comunal Urbanización Los Llanos",
+                "IdTipo": 4,
+                "Tipo": "CENTROS DE REHABILITACION",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-10T22:58:17.820Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1304236,
+                    -16.4984315
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VIRGEN DE GUADALUPE",
+                "Zona": "Cancha Zapata",
+                "Direccion": "Av. Simón Bolívar, Esc. Federico Suazo",
+                "Descripcion": "Av.Simón Bolívar, casi esquina Federico Suazo.",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:36:47.363Z",
+                "observaciones": "ATENCIÓN LOS DÍAS MARTES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12855513,
+                    -16.50387806
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "NUESTRA VIDA (Magisterio)",
+                "Zona": "Zona Santa Bárbara",
+                "Direccion": "Avenida del Ejercito, Parada del Bus Pumakatari a villa salome",
+                "Descripcion": "Sede social junta vecinos,  lado Retén Policial",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T14:04:08.697Z",
+                "observaciones": "ATENCION LOS DIAS VIERNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13044651,
+                    -16.49847616
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PROMOCIÓN 2014",
+                "Zona": "Central",
+                "Direccion": "Calle Castro, entre Illimani y Obispo Cardenas",
+                "Descripcion": "Auditorio  de la iglesia San Francisco ",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T14:16:03.293Z",
+                "observaciones": "ATENCION LOS DIAS MARTES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13602181,
+                    -16.49272146
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "EXTERNAS QUEVEDO",
+                "Zona": "Zona Centro",
+                "Direccion": "C. Indaburo, C. Jaén",
+                "Descripcion": "Auditorio del Hogar Quevedo",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T14:23:48.150Z",
+                "observaciones": "ATENCIÓN LOS DÍAS VIERNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14384081,
+                    -16.52570348
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "BOQUERON CENTRAL",
+                "Zona": "PSANKERI",
+                "Direccion": "CALLE MARCELO QUIROGA SANTA CRUZ Y ROMA",
+                "Descripcion": "Auditorio Casa Comunal de Barrios y Comunidades de Verdad",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T21:21:04.483Z",
+                "observaciones": "ATENCION DIAS MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13424904,
+                    -16.5107711
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "SAN LUIS",
+                "Zona": "Zona cristo rey",
+                "Direccion": "C. Chaco, C. General Lanza",
+                "Descripcion": "auditorio  de la parroquia  ",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:26:02.017Z",
+                "observaciones": "ATENCION DIAS MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.11",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villa Nueva Potosí",
+                "Zona": "Villa  Nueva  Potosí ",
+                "Direccion": "C. 3 de mayo",
+                "Descripcion": "Auditorio Centro  de  Salud  Villa  Nueva  Potosí ",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1073173,
+                    -16.49077921
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALTO ESCOBAR URIA",
+                "Zona": "Alto Escobar  Uría",
+                "Direccion": "Av. Circunvalación y calle \"E\" #300, casa comunal",
+                "Descripcion": "Casa comunal Barrios de Verdad.",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 15,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:26:48.510Z",
+                "observaciones": "atencion miercoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1056189,
+                    -16.52343733
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "DIVINO MAESTRO",
+                "Zona": "Zona Alto Obrajes,",
+                "Direccion": "C. Elodia de Lijeron",
+                "Descripcion": " Auditorio  de la Iglesia   Divino Maestro  ",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:34:07.040Z",
+                "observaciones": "ATENCIÓN JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06741392,
+                    -16.5222208
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "HOGAR SAN RAMON",
+                "Zona": "Zona de  Achumani",
+                "Direccion": "AVENIDA THE STRONGUEST C. 27",
+                "Descripcion": "Hogar San Ramón",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:26:26.380Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.22",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Chinchaya",
+                "Zona": "Chinchaya",
+                "Direccion": "Av. Ciudad del Niño",
+                "Descripcion": "Sede de adultos mayores",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.23",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Valle Hermoso",
+                "Zona": "Villa Copacabana",
+                "Direccion": "Av. Litoral",
+                "Descripcion": "Sede Social de Barrios de Verdad",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14090404,
+                    -16.48805401
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PRIMERO DE MAYO",
+                "Zona": "Zona de Callampaya",
+                "Direccion": "Av. Perú esq. Beni",
+                "Descripcion": "Auditorio  Sede Choferes Primero de Mayo ",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:35:55.673Z",
+                "observaciones": "atencion dias martes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14903157,
+                    -16.47542802
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ACHACHICALA",
+                "Zona": "Achachicala",
+                "Direccion": "ANTONIO DE LA CALANCHA Y PEDRO MARBAN",
+                "Descripcion": "Auditorio Biblioteca Municipal",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T21:48:33.457Z",
+                "observaciones": "ATENCION DIAS LUNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15840205,
+                    -16.49241248
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "UNIVERSIDAD DEL ADULTO MAYOR",
+                "Zona": "KOLLASUYO",
+                "Direccion": "calle 26 de mayo y Guadarquivir",
+                "Descripcion": "Edif. Renacimiento, piso 7",
+                "IdTipo": 6,
+                "Tipo": "ESPACIOS COMUNALES DEL ADULTO MAYOR",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:45:36.030Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14952361,
+                    -16.51336868
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALTO TACAGUA CENTRAL",
+                "Zona": "Alto Tacagua Central",
+                "Direccion": "C. Inca Mayo",
+                "Descripcion": "Se encuentra a la altura de la  Unidad Educativa Artemio Camargo",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 5,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:58:06.473Z",
+                "observaciones": "ATENCIÓN LUNES Y MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.29",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Juan de Cotahuma",
+                "Zona": "San Juan Cotahuma",
+                "Direccion": "Av. Julio Téllez",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.31",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Pedro Tarde",
+                "Zona": "San Pedro",
+                "Direccion": "C. Cañada Strongest",
+                "Descripcion": "Se encuentra dentro el penal San Pedro",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14601177,
+                    -16.52532525
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PASANKERI SUR",
+                "Zona": "Pasankeri Sur",
+                "Direccion": "C. Aroma",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T14:24:05.270Z",
+                "observaciones": "atencion martes y jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16479116,
+                    -16.48415596
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CUSICANCHA",
+                "Zona": "Cusicancha",
+                "Direccion": "C. Linares Cusi Cusi #50",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T13:06:08.490Z",
+                "observaciones": "ATENCION LUNES Y MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.17030323,
+                    -16.48935607
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "BAJO LIMA",
+                "Zona": "Bajo Lima",
+                "Direccion": "C. 14",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:26:01.120Z",
+                "observaciones": "ATENCION DIAS MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15485405,
+                    -16.50533649
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "9 DE ABRIL",
+                "Zona": "Alto Chijini",
+                "Direccion": "C. 3",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T13:57:27.467Z",
+                "observaciones": "ATENCION DIAS MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09512704,
+                    -16.50767501
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "JOKONI",
+                "Zona": "Jokoni",
+                "Direccion": "C. 15 de Octubre",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 17,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T21:53:55.897Z",
+                "observaciones": "ATENCIÓN LUNES Y MIÉRCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.38",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Santa Fé Constructores",
+                "Zona": "Santa Fe Constructores",
+                "Direccion": "C. Kantutani",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12866353,
+                    -16.4773839
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VILLA 5 DEDOS",
+                "Zona": "Villa Cinco Dedos",
+                "Direccion": "Av. Periférica, C. Adriana Pariente",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T22:29:13.530Z",
+                "observaciones": "ATENCION LUNES Y MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1286429,
+                    -16.47175091
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "MAX PAREDES Y ALTO LAS DELICIAS",
+                "Zona": "Alto las Delicias",
+                "Direccion": "C. 25 de Julio",
+                "Descripcion": "Casa Comunal Max Fernández",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:26:40.493Z",
+                "observaciones": "ATENCIÓN VIERNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14694048,
+                    -16.46900941
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "KAMIRPATA",
+                "Zona": "Kamirpata",
+                "Direccion": "Curva 4 casa comunal",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:27:01.687Z",
+                "observaciones": "ATENCION MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14565428,
+                    -16.44779614
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VILLA LAS NIEVES",
+                "Zona": "Villa de las Nieves",
+                "Direccion": "C. Guillermo Mamani, C. 4 y C. 5",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T13:04:15.967Z",
+                "observaciones": "ATENCION LUNES Y MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08423185,
+                    -16.48439384
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CHINCHAYA",
+                "Zona": "Comunidad Cheka Chinchaya",
+                "Direccion": "Av. Chinchaya",
+                "Descripcion": "se encuentra en la Unidad Educativa 13 de Junio",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 22,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T21:58:28.437Z",
+                "observaciones": "ATENCIÓN MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09220598,
+                    -16.53692125
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VENTILLA SUR",
+                "Zona": "Bella Vista - Ventilla",
+                "Direccion": "C. 4",
+                "Descripcion": "Barrio de Verdad Ventilla Sur",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T14:34:12.683Z",
+                "observaciones": "atencion dias martes y jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07678536,
+                    -16.52405135
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VILLA CONCEPCION",
+                "Zona": "Villa Concepción",
+                "Direccion": "C. 4, C. 5",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T14:41:22.973Z",
+                "observaciones": "atencion lunes y miercoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14552561,
+                    -16.5225501
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PASANKERI NORTE",
+                "Zona": "Pasankeri",
+                "Direccion": "Av. Mariscal Santa Cruz",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T14:31:38.203Z",
+                "observaciones": "atención martes y jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11461499,
+                    -16.48719212
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PACASA CENTRAL",
+                "Zona": "Pacasa Central",
+                "Direccion": "C. Circunvalación y calle A-1 (Cohoni) #24",
+                "Descripcion": "Casa Comunal ",
+                "IdTipo": 2,
+                "Tipo": "CENTROS DE DIA",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T22:00:57.190Z",
+                "observaciones": "atencion martes y jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1345576,
+                    -16.5002098
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA  CENTRO - ZONGO - HAMPATURI",
+                "Zona": "Central",
+                "Direccion": "Av. Santa Cruz, Edif. Dante Bloque B piso 1",
+                "Descripcion": "Espacio utilizado en Edif Dante no es propio ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:56:17.213Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14103951,
+                    -16.51334986
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA COTAHUMA",
+                "Zona": "Tembladerani",
+                "Direccion": "C. Jose Saravia #101",
+                "Descripcion": "Espacio prestado por junta de vecinos(detrás del Estadium Bolivar)",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:58:44.180Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14921462,
+                    -16.4975694
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA MAX PAREDES",
+                "Zona": "14 de Septiembre",
+                "Direccion": "Av. Entre Rios, Esq. Chorolque y Los Andes",
+                "Descripcion": "Espacio compartido con el Centro Integrado de Justicia  Plurinacional (detrás del cementerio general) ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:01:18.550Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14421136,
+                    -16.49012986
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA PERIFERICA",
+                "Zona": "Challapampa",
+                "Direccion": "AVENIDA MANKO KAPAC CERCA TELEFERICO ROJO",
+                "Descripcion": "Comparte espacio con sub alcaldia Periferica ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:07:55.543Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10799949,
+                    -16.49958393
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA SAN ANTONIO",
+                "Zona": "Alto San Antonio",
+                "Direccion": "Av. Josefa Mujua",
+                "Descripcion": "Comparte espacio a sub alcaldia San Antonio ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 15,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:09:41.097Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10295667,
+                    -16.5304192
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE ATENCION INTEGRAL A LA FAMILIA SUR - MALLASA",
+                "Zona": "Sur",
+                "Direccion": "C. 16 de Obrajes (Frente a la Rotonda)",
+                "Descripcion": "Espacio otorgado por Sub alcaldia Sur compartido con la Secretaria municipal de Gestion de riesgo ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:11:31.523Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13978543,
+                    -16.49049225
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Plataforma de Atencion Integral a la Famlia Zongo Hampaturi",
+                "Zona": "Challapampa",
+                "Direccion": "Av. Montes, Esq. Uruguay",
+                "Descripcion": "Espacio otorgado por Sub alcaldia Sur ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-09-16T21:00:02.637Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14122989,
+                    -16.48864763
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "DEFENSORIA DE LA NIÑEZ TERMINAL CENTRAL",
+                "Zona": "Challapampa",
+                "Direccion": "Av. Uruguay",
+                "Descripcion": "Espacio compartido con la terminal de buses ",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:22:32.213Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11614365,
+                    -16.46865142
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "DEFENSORIA DE LA NIÑEZ TERMINAL DE MINASA",
+                "Zona": "Villa el Carmen - Minasa",
+                "Direccion": "Av. Las Americas, Esc. Pte. Minasa",
+                "Descripcion": "Espacio compartido con la terminal de buses",
+                "IdTipo": 7,
+                "Tipo": "PLATAFORMAS DE ATENCION INTEGRAL A LA FAMILIA",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:26:46.483Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1439679,
+                    -16.48997971
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Unidad de Albergues y Casas de Acogida Municipales",
+                "Zona": "San Sebastian",
+                "Direccion": "C. Chuquisaca #132",
+                "Descripcion": "Jefatura de Unidad se encuentra en predios  del Albergue Integral para Mujeres Victimas de Violencia y sus Dependientes en la primera Planta      1 er Piso",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2016-09-16T20:50:19.413Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1152141,
+                    -16.50606595
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALBERGUE MUNICIPAL DE EMERGENCIAS \"ZENOBIO LOPEZ I\"",
+                "Zona": "Villa Armonía",
+                "Direccion": "C. Antofagasta",
+                "Descripcion": "El Mercado Campesino Funciona  de forma temporal en el atrio del albergue",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 17,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:33:31.027Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10007656,
+                    -16.52490836
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALBERGUE MUNICIPAL DE EMERGENCIAS \"HUANO HUANUNI\"",
+                "Zona": "Huano Huanuni",
+                "Direccion": "C. 1 de Huano Huanuni",
+                "Descripcion": " Final calle 17 de obrajes cancha deportiva Huano Huanuni",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:42:39.130Z",
+                "observaciones": "SOLO EMREGENCIAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.62",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Albergue Municipal de Emergencias Ovejuyo",
+                "Zona": " Ovejuyo",
+                "Direccion": "C. Las Palmeras",
+                "Descripcion": "Parada minibús 905 tres cuadras hacia arriba sobre la Calle las Palmeras (no está  en funcionamiento)",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.63",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Albergue Municipal de Emergencias Zenobio Lopez II",
+                "Zona": "  Villa Armonía",
+                "Direccion": "Av. Zabaleta, C. Mejillones",
+                "Descripcion": " Actualmente el espacio físico del albergue  fue designado a la SMIP y al Programa de Atención a Población en Situación Calle  de pendiente de la SMDS",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14205027,
+                    -16.48880539
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALBERGUE MUNICIPAL TRANSITORIO DE INVIERNO Y NAVIDAD",
+                "Zona": "Challapampa",
+                "Direccion": "Av.  Perú y calle vicenta juaristi eguino",
+                "Descripcion": "El predio donde funciona  el Albergue es en calidad de préstamo tanto en las temporadas de invierno y navidad,(ubicado en un Galpón de la Terminal de Buses puerta de atrás), en la actualidad el albergue está en funcionamiento del 16 de mayo hasta el 2 de septiembre 2016 (invierno).",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:25:14.270Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14396533,
+                    -16.48989766
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALBERGUE MUNICIPAL PARA MUJERES VICTIMAS DE VIOLENCIA Y SUS DEPENDIENTES",
+                "Zona": "San Sebastian",
+                "Direccion": "C. Chuquisaca #132",
+                "Descripcion": "El Albergue Integral  se ecnuentra ubicado  detrás de la Cerveceria Nacional, de la Av. Montes. ",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:50:50.357Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08339797,
+                    -16.56873313
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALBERGUE DEL BICENTENARIO BOLIVIA SOLIDARIA",
+                "Zona": "Mallasa",
+                "Direccion": "FINAL CALLE 7",
+                "Descripcion": "Albergue Transitorio para Niñas,Niños y Adolescentes en Situacion de Violencia, ubicado en final de la calle 7 (misma calle del Colegio Hermann Meiner)",
+                "IdTipo": 1,
+                "Tipo": "ALBERGUES Y CASAS DE ACOGIDA",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T20:54:38.223Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1006,
+                    -16.53050957
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO DE INFORMACIÓN JUVENIL OBRAJES",
+                "Zona": "Obrajes",
+                "Direccion": "Av. Hernando Siles, C. 16",
+                "Descripcion": null,
+                "IdTipo": 3,
+                "Tipo": "CENTROS DE INFORMACION JUVENIL",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:35:23.273Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10217776,
+                    -16.50162502
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO DE INFORMACIÓN JUVENIL PAMPAHASI",
+                "Zona": "Pampahasi",
+                "Direccion": "C. 7 LADO CANCHA VENUS",
+                "Descripcion": null,
+                "IdTipo": 3,
+                "Tipo": "CENTROS DE INFORMACION JUVENIL",
+                "distrito": 16,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:37:56.550Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13797108,
+                    -16.50945463
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO DE INFORMACIÓN JUVENIL COTAHUMA",
+                "Zona": "Alto San Pedro",
+                "Direccion": "C. Canónigo Ayllon, Esq. Kilómetro 7",
+                "Descripcion": "Sede social Bello Horizonte  Bajo",
+                "IdTipo": 3,
+                "Tipo": "CENTROS DE INFORMACION JUVENIL",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:38:38.470Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13771371,
+                    -16.49477257
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lanza",
+                "Zona": "Central",
+                "Direccion": "Av. Montes, Mercado Lanza Tercer Nivel",
+                "Descripcion": "Ubicado al interior del Mercado Lanza",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:27:16.613Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13122429,
+                    -16.50066985
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Camacho",
+                "Zona": "Central",
+                "Direccion": "Av. Eliodoro Camacho, Esq. Bueno (Mercado Camacho Tercer subsuelo)",
+                "Descripcion": "Ubicado 3er subsuelo al interior del Mercado Camacho",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:15:54.013Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13042207,
+                    -16.49848124
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "MIRAFLORES",
+                "Zona": "Miraflores",
+                "Direccion": "calle castro entre Illimani y Obisco Cardenas",
+                "Descripcion": "Ubicado al interior del Mercado Modelo Miraflores",
+                "IdTipo": 6,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:58:52.373Z",
+                "observaciones": "ATENCION LUNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12921577,
+                    -16.49711755
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Genoveva Ríos",
+                "Zona": "Central",
+                "Direccion": "C. Yungas (Mercado Yungas Tercer Nivel)",
+                "Descripcion": "Ubicado al interior del Mercado Yungas",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:18:19.153Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13313145,
+                    -16.51826439
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "8 de Diciembre",
+                "Zona": "8 de Diciembre",
+                "Direccion": "C. Benedeto Vincenti, C. Circunvalación",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:36:11.980Z",
+                "observaciones": "Lado Centro de Salud Altura parada 348"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13921718,
+                    -16.50008715
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rodríguez",
+                "Zona": "El Rosario",
+                "Direccion": "C. Emilio Calderon, C. Maximiliano Paredes y C. Illampu",
+                "Descripcion": "Ubicado a la parte lateral del Mercado Rodríguez",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:56:06.657Z",
+                "observaciones": "Detras del Mercado Rodriguez cerca a la Calle Illampu y Hotel Milton"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14271165,
+                    -16.52693993
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Boquerón Central",
+                "Zona": "Pasankeri Sur",
+                "Direccion": "Av. Marcelo Santa Cruz",
+                "Descripcion": "Casa Comunal - Barrios de Verdad / lado Parroquia Pasankeri central Av. Marcelo Santa Cruz",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:40:19.727Z",
+                "observaciones": "Casa Comunal, lado Parroquia Pasankeri Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16777845,
+                    -16.48582785
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rincón la Portada",
+                "Zona": "La Portada",
+                "Direccion": "Av. Naciones Unidas, C. Luribay",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:39:59.563Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16963473,
+                    -16.48653994
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Portada Triangular Bajo Lima",
+                "Zona": "La Portada",
+                "Direccion": "Av. Naciones Unidas, C. Pusisuyo",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:39:25.913Z",
+                "observaciones": "Casa comunal  - Barrios de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15229628,
+                    -16.45583059
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alto Ciudadela",
+                "Zona": "Ciudadela",
+                "Direccion": "C. B",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 10,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:12:26.810Z",
+                "observaciones": "Casa Comunal - Barrios de verdad\nParada del Minibus # 340"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1648259,
+                    -16.48412854
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cusicancha",
+                "Zona": "Cusicancha",
+                "Direccion": "C. Linares Cusi Cusi #50",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T20:57:44.627Z",
+                "observaciones": "Casa Comunal - Barrio de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14338399,
+                    -16.49686214
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Max Paredes",
+                "Zona": "Max Paredes",
+                "Direccion": "C. Max Paredes, C. La Tablada",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T21:03:14.720Z",
+                "observaciones": "Lado Mercado Max Paredes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14824991,
+                    -16.49876893
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Andes",
+                "Zona": "Entre Ríos",
+                "Direccion": "C. Los Andes (Lado Mercado Los Andes)",
+                "Descripcion": "A dos cuadras de la Unidad Educativa Holanda (detrás del cementerio)",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T21:05:05.100Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16094194,
+                    -16.5002935
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Huacataqui",
+                "Zona": "Huacataqui",
+                "Direccion": "C. Las Retamas (Lado Unidad Educativa Filadelfia)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T21:07:38.710Z",
+                "observaciones": "Casa Comunal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15488036,
+                    -16.50535888
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "9 de Abril",
+                "Zona": "Alto Chijini",
+                "Direccion": "C. 3, C. 4, Paralela a C. Reyes Ortiz",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:08:26.050Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad\nMinibus 323, 241, 350, 881, 371"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16330087,
+                    -16.48584177
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alto Santiago de Munaypata",
+                "Zona": "Munaypata",
+                "Direccion": "C. Italaque, C. 20 de Octubre",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:09:54.060Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11883126,
+                    -16.46416296
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alto la Merced A- 2",
+                "Zona": "Alto la Merced",
+                "Direccion": "C. A (Altura Colegio La Merced)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:11:32.043Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12255941,
+                    -16.46920737
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Merced Sector B",
+                "Zona": "Rosasani",
+                "Direccion": "Av. Juan José Torrez Gonzales (Altura Colegio La Merced)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:11:49.210Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad\nllamado anteriormente Rosasani"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14913638,
+                    -16.47552968
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Achachicala",
+                "Zona": "Achachicala",
+                "Direccion": "C. 2",
+                "Descripcion": "Ubicado a la parte lateral del Mercado Achachicala”",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:02:37.653Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14969022,
+                    -16.47180252
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Achachicala S-2",
+                "Zona": "Achachicala",
+                "Direccion": "Av. Ramos Gavilan, C. Ramón Rojas y C. Teniente Delgadillo",
+                "Descripcion": "Casa Comunal - Barrios de Verdad / lado mercado minasa",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:16:32.220Z",
+                "observaciones": "Casa Comunal  - Barrios de Verdad\nIngreso Mercado Minasa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11422645,
+                    -16.47114814
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rosal Manzanani",
+                "Zona": "Rosal Manzanani",
+                "Direccion": "Av. Bicentenario (Gradas Puskalla)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:16:50.913Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad, altura Puente Minasa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12867051,
+                    -16.47725858
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villa 5 Dedos",
+                "Zona": "Villa 5 Dedos",
+                "Direccion": "Av. Periférica, C. Adriana Pariente",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:17:23.200Z",
+                "observaciones": "Parada minibus # 207"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13070339,
+                    -16.48039773
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cupilupaca Central Norte los Pinos",
+                "Zona": "Alto 27 de Mayo",
+                "Direccion": "C. 2 (Por encima de la Av. Periferica)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:13:21.487Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.128682,
+                    -16.47167565
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alto Santiago de Lacaya",
+                "Zona": "Alto Santiago de Lacaya",
+                "Direccion": "Av. 25 de Julio",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T22:26:55.527Z",
+                "observaciones": "Parada del minibus # 308 , micro # 135"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09517431,
+                    -16.50766509
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jokoni",
+                "Zona": "Jokoni",
+                "Direccion": "C. 15 de Octubre",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 17,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T21:54:43.440Z",
+                "observaciones": "Casa Comunal\nTransporte minibus # 913"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10192716,
+                    -16.50131006
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sumaj Pankarita",
+                "Zona": "Pampahasi Bajo ",
+                "Direccion": "C. 7, Cancha Venus",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 16,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T23:03:18.080Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11662732,
+                    -16.49506007
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Kollasuyo",
+                "Zona": "San Antonio",
+                "Direccion": "Av. Tito Yupanqui (Interior Mercado Kollasuyo)",
+                "Descripcion": "Ubicado al interior del Mercado Modelo Kollasuyo",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-03T23:12:16.883Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11463264,
+                    -16.48722978
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pacasa Central",
+                "Zona": "Pacasa Central",
+                "Direccion": "Av. Circunvalación #24",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:22:01.327Z",
+                "observaciones": "Casa Comunal  - Barrios de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10972814,
+                    -16.48898411
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Valle hermoso central",
+                "Zona": "Valle Hermoso Central",
+                "Direccion": "Av. Litoral",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T15:31:39.640Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10891672,
+                    -16.49205681
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Escobar Uría",
+                "Zona": "Escobar Uría",
+                "Direccion": "C. N (Frente a la U.E. Carácas)",
+                "Descripcion": "En infraestructura de Ex Fundación La Paz",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 15,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:26:07.113Z",
+                "observaciones": "A una Cuadra de la parada del Minibus # 904\nCentro Infantil está en funcionamiento, en infraestructura de Ex Fundación La Paz"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11072946,
+                    -16.50108593
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Antonio Sector 6",
+                "Zona": "San Antonio Sector 6",
+                "Direccion": "C. 10 (Lado Plaza Cívica)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 15,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:27:40.683Z",
+                "observaciones": "Casa comunal - Barrios de Verdad \nLado Plaza Cívica debajo del poli funcional. Transporte minibús 245"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10213511,
+                    -16.49051753
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villa Salomé Sector CNS",
+                "Zona": "Zona Villa Salome sector Caja Nacional",
+                "Direccion": "C. W #10 (Casa Comunal)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 16,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T15:33:29.987Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11220467,
+                    -16.48297271
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VALLE PACASA",
+                "Zona": "Zona Valle Pacasa",
+                "Direccion": "C. Final Unión",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T22:15:26.327Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10539548,
+                    -16.49385548
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Wara Warita",
+                "Zona": "Alto Pampahasi",
+                "Direccion": "Av. Circunvalación, C. 0",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 16,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T15:34:35.393Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.04765784,
+                    -16.53891025
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Chasquipampa 51",
+                "Zona": "Chasquipampa",
+                "Direccion": "Av. Defensores del Chaco (Lado Modulo Policial)",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T15:59:31.010Z",
+                "observaciones": "Transporte Micro # 42"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.04534157,
+                    -16.54066527
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lomas de Kupillani",
+                "Zona": "Zona Codavisa",
+                "Direccion": "C. Tiahuanaco Codavisa",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:39:17.523Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad\nTransporte Minibus # 825"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.05282423,
+                    -16.54915715
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Pedregal",
+                "Zona": "Zona El Pedregal",
+                "Direccion": "Av. Principal, C. 10 #11",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:45:56.877Z",
+                "observaciones": "Transporte Minibús # 207, 922, 288, 826"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07674269,
+                    -16.52418426
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villa Concepción",
+                "Zona": "Villa Concepción",
+                "Direccion": "C. 4 (Sede Social)",
+                "Descripcion": "Casa Comunal - Barrios de Verdad",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T13:47:44.470Z",
+                "observaciones": "Casa Comunal - Barrios de Verdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09495103,
+                    -16.53680772
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ventilla Pequeño Travieso",
+                "Zona": "Ventilla",
+                "Direccion": "Av. Mecapaca, C. 23",
+                "Descripcion": "Casa Comunal",
+                "IdTipo": 5,
+                "Tipo": "CENTROS INFANTILES MUNICIPALES ",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "lady.cruz",
+                "fechaActual": "2016-06-06T14:23:34.010Z",
+                "observaciones": "Casa Comunal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13042744,
+                    -16.49845284
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "SANTA BARBARA",
+                "Zona": "Zona Central",
+                "Direccion": "calle castro, entre Illimani y Obispo Cardenas",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T14:28:10.130Z",
+                "observaciones": "ATENCION DIAS VIERNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1356038,
+                    -16.49658242
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PROVIDA - SAN AGUSTIN",
+                "Zona": "Zona Central",
+                "Direccion": "Calle Mercado Nº1200 entre Loayza y Yanacocha",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T16:07:38.620Z",
+                "observaciones": "ATENCION LOS DIAS LUNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12855264,
+                    -16.50393181
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ESPERIENCIA Y VIDA LIDERES",
+                "Zona": "Central",
+                "Direccion": "Avenida del Ejercito sala de reuniones de la junta vecinal de Barrio Universitario",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:03:17.127Z",
+                "observaciones": "Atencion Dias Jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13044036,
+                    -16.49842234
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "EXPERIENCIA Y VIDA",
+                "Zona": "Central",
+                "Direccion": "calle castro entre Illimani y Obisco Cardenas",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:06:06.610Z",
+                "observaciones": "atencion dias Jueves"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12853553,
+                    -16.50390022
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ASSANA 27 DE MAYO",
+                "Zona": "Central",
+                "Direccion": "Avenida del Ejercito, parada del Bus Pumakatari",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:19:01.443Z",
+                "observaciones": "atencion dias miercoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13757193,
+                    -16.49636948
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "SAN FRANCISCO",
+                "Zona": "Central",
+                "Direccion": "Auditorio de la iglesia de San Francisco",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:20:54.820Z",
+                "observaciones": "atencion dias lunes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13926165,
+                    -16.5157347
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "INMORTALES",
+                "Zona": "TEMBLADERANI",
+                "Direccion": "VICTOR AGUSTIN UGARTE Y CARLOS ROMERO",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 4,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:40:23.637Z",
+                "observaciones": "ATENCION DIAS JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13244608,
+                    -16.50759555
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CORAZONES ARDIENTES",
+                "Zona": "COTAHUMA",
+                "Direccion": "CALLE ABDON SAAVEDRA Y MARTIRES DE LA DEMOCRACIA HOSPEDAJE IGLESIA EVANGELICA METODISTA",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 3,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T20:57:45.360Z",
+                "observaciones": "ATENCIÓN DÍAS MIÉRCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.125949,
+                    -16.53086664
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "BAJO LLOJETA",
+                "Zona": "COTAHUMA",
+                "Direccion": "AV. MARIO MERCADO PARADA MINIBUS 262 ESTACION ACACIA PARADA PUMAKATARI",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 4,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T21:13:51.437Z",
+                "observaciones": "ATENCION DIAS VIERNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14414369,
+                    -16.49697835
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "DON BOSCO",
+                "Zona": "MAX PAREDES",
+                "Direccion": "MAXIMILIANO PAREDES ESQ. BUENOS AIRES - BIBLIOTECA DE LA SUBALCALDIA MAX PAREDES",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 7,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T21:28:56.460Z",
+                "observaciones": "ATENCIÓN DÍAS LUNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11763965,
+                    -16.49107109
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VILLA COPACABANA",
+                "Zona": "VILLA COPACABANA",
+                "Direccion": "AVENIDA TITO YUPANQUI ENTRE FELIPE ARMETA Y PEDRO VILLAMIL",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 14,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-11T22:23:28.427Z",
+                "observaciones": "ATENCION JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10533494,
+                    -16.52719559
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "SEGUNDA JUVENTUD",
+                "Zona": "SUR",
+                "Direccion": "CALLE 12 DE OBRAJES SUB ALCALDIA SUR",
+                "Descripcion": null,
+                "IdTipo": 6,
+                "Tipo": null,
+                "distrito": 21,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T13:23:43.430Z",
+                "observaciones": "ATENCIÓN DÍAS LUNES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.04379638,
+                    -16.5434865
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VIRGEN DE COPACABANA",
+                "Zona": "VIRGEN DE COPACABANA",
+                "Direccion": "calle alemania y costanera",
+                "Descripcion": null,
+                "IdTipo": 2,
+                "Tipo": null,
+                "distrito": 19,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T21:39:42.477Z",
+                "observaciones": "ATENCION LUNES Y MIERCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11216535,
+                    -16.48304844
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VALLE PACASA",
+                "Zona": "VALLE PACASA",
+                "Direccion": "CALLE UNION",
+                "Descripcion": null,
+                "IdTipo": 2,
+                "Tipo": null,
+                "distrito": 14,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T22:14:52.763Z",
+                "observaciones": "ATENCIÓN LUNES Y MIÉRCOLES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10804863,
+                    -16.50637152
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "VILLA LITORAL",
+                "Zona": "VILLA LITORAL",
+                "Direccion": "CALLE CARLOS LOAYZA BELTRAN",
+                "Descripcion": null,
+                "IdTipo": 2,
+                "Tipo": null,
+                "distrito": 17,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-14T22:25:52.807Z",
+                "observaciones": "ATENCION DIAS MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16100035,
+                    -16.50033099
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "HUACATAQUI",
+                "Zona": "HUACATAQUI",
+                "Direccion": "CALLE SEÑOR DE MAYO Y RETAMAS",
+                "Descripcion": null,
+                "IdTipo": 2,
+                "Tipo": null,
+                "distrito": 9,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T13:59:11.453Z",
+                "observaciones": "ATENCIÓN LUNES MARTES Y JUEVES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14419408,
+                    -16.49015955
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO MUNICIPAL TERAPEUTICO",
+                "Zona": "San Sebastian",
+                "Direccion": "AVENIDA MANKO KAPAC CERCA TELEFERICO ROJO",
+                "Descripcion": null,
+                "IdTipo": 4,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:32:38.423Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14397054,
+                    -16.4898391
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA DE EMERGENCIA 156",
+                "Zona": "San Sebastian",
+                "Direccion": "Chuquisaca",
+                "Descripcion": null,
+                "IdTipo": 7,
+                "Tipo": null,
+                "distrito": 1,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:36:46.960Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13418189,
+                    -16.50044211
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "PLATAFORMA  DE ATENCION INMEDIATA AL ADULTO MAYOR",
+                "Zona": "Central",
+                "Direccion": "Ed. Feliciano kantuta calle colombia esq. mariscal santa cruz",
+                "Descripcion": null,
+                "IdTipo": 7,
+                "Tipo": null,
+                "distrito": 6,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T21:42:13.130Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12856938,
+                    -16.47742342
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO DE INFORMACIÓN JUVENIL CINCO DEDOS",
+                "Zona": "PERIFERICA",
+                "Direccion": "Av. Periférica esquina calle Adriana Apariente. Casa Comunal Cinco Dedos",
+                "Descripcion": null,
+                "IdTipo": 3,
+                "Tipo": null,
+                "distrito": 12,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:41:13.293Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11886698,
+                    -16.46418162
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CENTRO DE INFORMACIÓN JUVENIL LA MERCED",
+                "Zona": "PERIFERICA",
+                "Direccion": "Calle Bolivia CASA COMUNAL",
+                "Descripcion": null,
+                "IdTipo": 3,
+                "Tipo": null,
+                "distrito": 13,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T22:56:37.160Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10010145,
+                    -16.50867921
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ALTO KUPINI",
+                "Zona": "KUPINI",
+                "Direccion": "AV. ARMANDO ESCOBAR URIA CALLE 24",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": null,
+                "distrito": 17,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T23:08:11.597Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "centrosdesarrollosocial.145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12172024,
+                    -16.50131458
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "MIRAFLORES",
+                "Zona": "MIRAFLORES",
+                "Direccion": "CALLE DIAS ROMERO",
+                "Descripcion": null,
+                "IdTipo": 5,
+                "Tipo": null,
+                "distrito": 2,
+                "owner": "rosio.quisbert",
+                "usuario": "rosio.quisbert",
+                "fechaActual": "2018-05-15T23:10:34.507Z",
+                "observaciones": ""
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,3938 @@
+[
+    {
+        "gid": "1",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1741335733",
+        "point_y": "-17.8156911112"
+    },
+    {
+        "gid": "2",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1784314333",
+        "point_y": "-17.8141894882"
+    },
+    {
+        "gid": "3",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1781538368",
+        "point_y": "-17.8178355555"
+    },
+    {
+        "gid": "4",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1785823772",
+        "point_y": "-17.8213015450"
+    },
+    {
+        "gid": "5",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1851439943",
+        "point_y": "-17.8196182900"
+    },
+    {
+        "gid": "6",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1905514077",
+        "point_y": "-17.8190816455"
+    },
+    {
+        "gid": "7",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1875784964",
+        "point_y": "-17.8183746233"
+    },
+    {
+        "gid": "8",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1949502302",
+        "point_y": "-17.8175953165"
+    },
+    {
+        "gid": "9",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1956425636",
+        "point_y": "-17.8151795269"
+    },
+    {
+        "gid": "10",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.2003039509",
+        "point_y": "-17.8165882211"
+    },
+    {
+        "gid": "11",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.2035845066",
+        "point_y": "-17.8129666735"
+    },
+    {
+        "gid": "12",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.2033671810",
+        "point_y": "-17.8103342727"
+    },
+    {
+        "gid": "13",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.2066109671",
+        "point_y": "-17.7969949392"
+    },
+    {
+        "gid": "14",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1991044546",
+        "point_y": "-17.7971516141"
+    },
+    {
+        "gid": "15",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1974508428",
+        "point_y": "-17.8057077988"
+    },
+    {
+        "gid": "16",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1916397474",
+        "point_y": "-17.8056850323"
+    },
+    {
+        "gid": "17",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1820083057",
+        "point_y": "-17.8074360455"
+    },
+    {
+        "gid": "18",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1768145068",
+        "point_y": "-17.8090386352"
+    },
+    {
+        "gid": "19",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "4",
+        "point_x": "-63.1801155843",
+        "point_y": "-17.8187644784"
+    },
+    {
+        "gid": "20",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2235809561",
+        "point_y": "-17.7961498500"
+    },
+    {
+        "gid": "21",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2182047856",
+        "point_y": "-17.7937787204"
+    },
+    {
+        "gid": "22",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2147049463",
+        "point_y": "-17.7952397317"
+    },
+    {
+        "gid": "23",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2090279576",
+        "point_y": "-17.7943530738"
+    },
+    {
+        "gid": "24",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2227789706",
+        "point_y": "-17.7916729077"
+    },
+    {
+        "gid": "25",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2203827924",
+        "point_y": "-17.7914656241"
+    },
+    {
+        "gid": "26",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2111148720",
+        "point_y": "-17.7878814603"
+    },
+    {
+        "gid": "27",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1987619685",
+        "point_y": "-17.7881756825"
+    },
+    {
+        "gid": "28",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2010180332",
+        "point_y": "-17.7823630574"
+    },
+    {
+        "gid": "29",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2096062464",
+        "point_y": "-17.7813890914"
+    },
+    {
+        "gid": "30",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2136475665",
+        "point_y": "-17.7794514739"
+    },
+    {
+        "gid": "31",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2117062190",
+        "point_y": "-17.7740867219"
+    },
+    {
+        "gid": "32",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2093775035",
+        "point_y": "-17.7745809335"
+    },
+    {
+        "gid": "33",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2057644889",
+        "point_y": "-17.7734185431"
+    },
+    {
+        "gid": "34",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2059523027",
+        "point_y": "-17.7707683404"
+    },
+    {
+        "gid": "35",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.2047910387",
+        "point_y": "-17.7681826179"
+    },
+    {
+        "gid": "36",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1994563478",
+        "point_y": "-17.7704953134"
+    },
+    {
+        "gid": "37",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1835886494",
+        "point_y": "-17.7667153560"
+    },
+    {
+        "gid": "38",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1819447872",
+        "point_y": "-17.7626462970"
+    },
+    {
+        "gid": "39",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1851818704",
+        "point_y": "-17.7632740550"
+    },
+    {
+        "gid": "40",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1892008719",
+        "point_y": "-17.7637404721"
+    },
+    {
+        "gid": "41",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1783756291",
+        "point_y": "-17.7545996638"
+    },
+    {
+        "gid": "42",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1843494495",
+        "point_y": "-17.7525603793"
+    },
+    {
+        "gid": "43",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1885616919",
+        "point_y": "-17.7550016584"
+    },
+    {
+        "gid": "44",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1978711199",
+        "point_y": "-17.7517418972"
+    },
+    {
+        "gid": "45",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1955872103",
+        "point_y": "-17.7504574714"
+    },
+    {
+        "gid": "46",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1931455305",
+        "point_y": "-17.7479817694"
+    },
+    {
+        "gid": "47",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1904533460",
+        "point_y": "-17.7451794475"
+    },
+    {
+        "gid": "48",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1863810259",
+        "point_y": "-17.7469001726"
+    },
+    {
+        "gid": "49",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1833877689",
+        "point_y": "-17.7480095244"
+    },
+    {
+        "gid": "50",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1946410129",
+        "point_y": "-17.7569523648"
+    },
+    {
+        "gid": "51",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "1",
+        "point_x": "-63.1812174319",
+        "point_y": "-17.7476190789"
+    },
+    {
+        "gid": "52",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1600939436",
+        "point_y": "-17.7834696647"
+    },
+    {
+        "gid": "53",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1516335615",
+        "point_y": "-17.7834352155"
+    },
+    {
+        "gid": "54",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1488602436",
+        "point_y": "-17.7812112981"
+    },
+    {
+        "gid": "55",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1502192465",
+        "point_y": "-17.7769467470"
+    },
+    {
+        "gid": "56",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1521234748",
+        "point_y": "-17.7773916622"
+    },
+    {
+        "gid": "57",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1565493518",
+        "point_y": "-17.7786993847"
+    },
+    {
+        "gid": "58",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1575875222",
+        "point_y": "-17.7783049432"
+    },
+    {
+        "gid": "59",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1615376769",
+        "point_y": "-17.7759023396"
+    },
+    {
+        "gid": "60",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1482555537",
+        "point_y": "-17.7744393326"
+    },
+    {
+        "gid": "61",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1498164263",
+        "point_y": "-17.7745676895"
+    },
+    {
+        "gid": "62",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1591836376",
+        "point_y": "-17.7703765466"
+    },
+    {
+        "gid": "63",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1492052018",
+        "point_y": "-17.7689132241"
+    },
+    {
+        "gid": "64",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1525353408",
+        "point_y": "-17.7624370180"
+    },
+    {
+        "gid": "65",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1557408432",
+        "point_y": "-17.7615560457"
+    },
+    {
+        "gid": "66",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1560803165",
+        "point_y": "-17.7632738318"
+    },
+    {
+        "gid": "67",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1570596574",
+        "point_y": "-17.7639186950"
+    },
+    {
+        "gid": "68",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1600814963",
+        "point_y": "-17.7611335973"
+    },
+    {
+        "gid": "69",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1571567820",
+        "point_y": "-17.7570813179"
+    },
+    {
+        "gid": "70",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1601373669",
+        "point_y": "-17.7551028131"
+    },
+    {
+        "gid": "71",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1639532982",
+        "point_y": "-17.7562708622"
+    },
+    {
+        "gid": "72",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1616434707",
+        "point_y": "-17.7571466872"
+    },
+    {
+        "gid": "73",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1693691420",
+        "point_y": "-17.7563528552"
+    },
+    {
+        "gid": "74",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1679419885",
+        "point_y": "-17.7539778012"
+    },
+    {
+        "gid": "75",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1744902911",
+        "point_y": "-17.7516489433"
+    },
+    {
+        "gid": "76",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1738080141",
+        "point_y": "-17.7528115827"
+    },
+    {
+        "gid": "77",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1757137714",
+        "point_y": "-17.7557861143"
+    },
+    {
+        "gid": "78",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1787095576",
+        "point_y": "-17.7654088602"
+    },
+    {
+        "gid": "79",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1725908461",
+        "point_y": "-17.7629173904"
+    },
+    {
+        "gid": "80",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1742245942",
+        "point_y": "-17.7687143117"
+    },
+    {
+        "gid": "81",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1675373340",
+        "point_y": "-17.7668876439"
+    },
+    {
+        "gid": "82",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1650386872",
+        "point_y": "-17.7653719048"
+    },
+    {
+        "gid": "83",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1661663750",
+        "point_y": "-17.7627423101"
+    },
+    {
+        "gid": "84",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "2",
+        "point_x": "-63.1611432326",
+        "point_y": "-17.7673790553"
+    },
+    {
+        "gid": "85",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1664361354",
+        "point_y": "-17.8132192383"
+    },
+    {
+        "gid": "86",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1645182981",
+        "point_y": "-17.8103609558"
+    },
+    {
+        "gid": "87",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1656010031",
+        "point_y": "-17.8080037254"
+    },
+    {
+        "gid": "88",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1718086767",
+        "point_y": "-17.8066449075"
+    },
+    {
+        "gid": "89",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1706272040",
+        "point_y": "-17.8056656673"
+    },
+    {
+        "gid": "90",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1601467968",
+        "point_y": "-17.8077033033"
+    },
+    {
+        "gid": "91",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1480007099",
+        "point_y": "-17.8135803656"
+    },
+    {
+        "gid": "92",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1491746523",
+        "point_y": "-17.8114716298"
+    },
+    {
+        "gid": "93",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1521537986",
+        "point_y": "-17.8107669355"
+    },
+    {
+        "gid": "94",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1460348954",
+        "point_y": "-17.8089543932"
+    },
+    {
+        "gid": "95",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1503816360",
+        "point_y": "-17.8043426132"
+    },
+    {
+        "gid": "96",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1488369281",
+        "point_y": "-17.8054227611"
+    },
+    {
+        "gid": "97",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1433328806",
+        "point_y": "-17.8048409589"
+    },
+    {
+        "gid": "98",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1473828359",
+        "point_y": "-17.8018811218"
+    },
+    {
+        "gid": "99",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1455621086",
+        "point_y": "-17.8000962526"
+    },
+    {
+        "gid": "100",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1468076315",
+        "point_y": "-17.7997850769"
+    },
+    {
+        "gid": "101",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1485736266",
+        "point_y": "-17.7978855956"
+    },
+    {
+        "gid": "102",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1468328444",
+        "point_y": "-17.7959034553"
+    },
+    {
+        "gid": "103",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1453649676",
+        "point_y": "-17.7915026421"
+    },
+    {
+        "gid": "104",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1500537957",
+        "point_y": "-17.7930471712"
+    },
+    {
+        "gid": "105",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1501905469",
+        "point_y": "-17.7949087113"
+    },
+    {
+        "gid": "106",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1511317142",
+        "point_y": "-17.7965721172"
+    },
+    {
+        "gid": "107",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1531761741",
+        "point_y": "-17.7959672273"
+    },
+    {
+        "gid": "108",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1542280615",
+        "point_y": "-17.7939690878"
+    },
+    {
+        "gid": "109",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1554897159",
+        "point_y": "-17.7936660091"
+    },
+    {
+        "gid": "110",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1532136537",
+        "point_y": "-17.7989170604"
+    },
+    {
+        "gid": "111",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1564566717",
+        "point_y": "-17.8021515757"
+    },
+    {
+        "gid": "112",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1544926226",
+        "point_y": "-17.8042670071"
+    },
+    {
+        "gid": "113",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1591918291",
+        "point_y": "-17.7974073732"
+    },
+    {
+        "gid": "114",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1639648821",
+        "point_y": "-17.7924827312"
+    },
+    {
+        "gid": "115",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1654220184",
+        "point_y": "-17.7998622141"
+    },
+    {
+        "gid": "116",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1649130033",
+        "point_y": "-17.8029898566"
+    },
+    {
+        "gid": "117",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1705716957",
+        "point_y": "-17.8057244570"
+    },
+    {
+        "gid": "118",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "3",
+        "point_x": "-63.1572861623",
+        "point_y": "-17.8052133398"
+    },
+    {
+        "gid": "119",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1739550706",
+        "point_y": "-17.7068379722"
+    },
+    {
+        "gid": "120",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1646975026",
+        "point_y": "-17.6918327003"
+    },
+    {
+        "gid": "121",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1632928489",
+        "point_y": "-17.6959026296"
+    },
+    {
+        "gid": "122",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1535112057",
+        "point_y": "-17.6875197590"
+    },
+    {
+        "gid": "123",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1559880930",
+        "point_y": "-17.7497366321"
+    },
+    {
+        "gid": "124",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1586561449",
+        "point_y": "-17.7497215186"
+    },
+    {
+        "gid": "125",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1664507336",
+        "point_y": "-17.7500973410"
+    },
+    {
+        "gid": "126",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1684749504",
+        "point_y": "-17.7479431032"
+    },
+    {
+        "gid": "127",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1701917571",
+        "point_y": "-17.7461598170"
+    },
+    {
+        "gid": "128",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1706101368",
+        "point_y": "-17.7427392880"
+    },
+    {
+        "gid": "129",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1739464837",
+        "point_y": "-17.7429301884"
+    },
+    {
+        "gid": "130",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1789326171",
+        "point_y": "-17.7417472780"
+    },
+    {
+        "gid": "131",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1860023987",
+        "point_y": "-17.7412419837"
+    },
+    {
+        "gid": "132",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1854332795",
+        "point_y": "-17.7377316246"
+    },
+    {
+        "gid": "133",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1777505967",
+        "point_y": "-17.7362186333"
+    },
+    {
+        "gid": "134",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1749259597",
+        "point_y": "-17.7346317066"
+    },
+    {
+        "gid": "135",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1654235864",
+        "point_y": "-17.7367663670"
+    },
+    {
+        "gid": "136",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1651222409",
+        "point_y": "-17.7343948663"
+    },
+    {
+        "gid": "137",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1583115398",
+        "point_y": "-17.7373232314"
+    },
+    {
+        "gid": "138",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1536705512",
+        "point_y": "-17.7447842197"
+    },
+    {
+        "gid": "139",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1548670495",
+        "point_y": "-17.7417324102"
+    },
+    {
+        "gid": "140",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1501553111",
+        "point_y": "-17.7376211806"
+    },
+    {
+        "gid": "141",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1497907501",
+        "point_y": "-17.7328852514"
+    },
+    {
+        "gid": "142",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1591812463",
+        "point_y": "-17.7335706579"
+    },
+    {
+        "gid": "143",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1562586592",
+        "point_y": "-17.7328102132"
+    },
+    {
+        "gid": "144",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1566725615",
+        "point_y": "-17.7308015986"
+    },
+    {
+        "gid": "145",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1438250924",
+        "point_y": "-17.7329446955"
+    },
+    {
+        "gid": "146",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1415695928",
+        "point_y": "-17.7328167992"
+    },
+    {
+        "gid": "147",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1430192601",
+        "point_y": "-17.7291954639"
+    },
+    {
+        "gid": "148",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1444856705",
+        "point_y": "-17.7244451406"
+    },
+    {
+        "gid": "149",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1365058848",
+        "point_y": "-17.7251049983"
+    },
+    {
+        "gid": "150",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1411344763",
+        "point_y": "-17.7182821311"
+    },
+    {
+        "gid": "151",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1532320354",
+        "point_y": "-17.7238991153"
+    },
+    {
+        "gid": "152",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1526840008",
+        "point_y": "-17.7257188720"
+    },
+    {
+        "gid": "153",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1590126911",
+        "point_y": "-17.7253434057"
+    },
+    {
+        "gid": "154",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1618547829",
+        "point_y": "-17.7252498626"
+    },
+    {
+        "gid": "155",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1612173252",
+        "point_y": "-17.7291545123"
+    },
+    {
+        "gid": "156",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1667558756",
+        "point_y": "-17.7176663128"
+    },
+    {
+        "gid": "157",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1708347592",
+        "point_y": "-17.7266631691"
+    },
+    {
+        "gid": "158",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "5",
+        "point_x": "-63.1713277164",
+        "point_y": "-17.7300555057"
+    },
+    {
+        "gid": "159",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0805647113",
+        "point_y": "-17.7609939889"
+    },
+    {
+        "gid": "160",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0717686848",
+        "point_y": "-17.7562014755"
+    },
+    {
+        "gid": "161",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0977840645",
+        "point_y": "-17.7499208431"
+    },
+    {
+        "gid": "162",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0981516634",
+        "point_y": "-17.7485762970"
+    },
+    {
+        "gid": "163",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1033297072",
+        "point_y": "-17.7417923232"
+    },
+    {
+        "gid": "164",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0957564901",
+        "point_y": "-17.7405157245"
+    },
+    {
+        "gid": "165",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1078876393",
+        "point_y": "-17.7363029814"
+    },
+    {
+        "gid": "166",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0982801859",
+        "point_y": "-17.7347939954"
+    },
+    {
+        "gid": "167",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0995236512",
+        "point_y": "-17.7319892493"
+    },
+    {
+        "gid": "168",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1049466907",
+        "point_y": "-17.7314210633"
+    },
+    {
+        "gid": "169",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1134140470",
+        "point_y": "-17.7302716457"
+    },
+    {
+        "gid": "170",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0981368133",
+        "point_y": "-17.7225200345"
+    },
+    {
+        "gid": "171",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0856978075",
+        "point_y": "-17.7330442972"
+    },
+    {
+        "gid": "172",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0643593956",
+        "point_y": "-17.7455695861"
+    },
+    {
+        "gid": "173",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1464145715",
+        "point_y": "-17.7883370288"
+    },
+    {
+        "gid": "174",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1417298445",
+        "point_y": "-17.7863817510"
+    },
+    {
+        "gid": "175",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1412892961",
+        "point_y": "-17.7796997912"
+    },
+    {
+        "gid": "176",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1391771792",
+        "point_y": "-17.7800132288"
+    },
+    {
+        "gid": "177",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1350225952",
+        "point_y": "-17.7798699767"
+    },
+    {
+        "gid": "178",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1352856891",
+        "point_y": "-17.7769615868"
+    },
+    {
+        "gid": "179",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1263819452",
+        "point_y": "-17.7818136284"
+    },
+    {
+        "gid": "180",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1214877773",
+        "point_y": "-17.7775422011"
+    },
+    {
+        "gid": "181",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1269865072",
+        "point_y": "-17.7765632646"
+    },
+    {
+        "gid": "182",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1176183601",
+        "point_y": "-17.7760953264"
+    },
+    {
+        "gid": "183",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1188620314",
+        "point_y": "-17.7735261254"
+    },
+    {
+        "gid": "184",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "PI",
+        "point_x": "-63.1247692523",
+        "point_y": "-17.7698240183"
+    },
+    {
+        "gid": "185",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1240092702",
+        "point_y": "-17.7644675655"
+    },
+    {
+        "gid": "186",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1186508199",
+        "point_y": "-17.7633953761"
+    },
+    {
+        "gid": "187",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1099191690",
+        "point_y": "-17.7632075521"
+    },
+    {
+        "gid": "188",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0994440149",
+        "point_y": "-17.7595076267"
+    },
+    {
+        "gid": "189",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.0927753136",
+        "point_y": "-17.7569729902"
+    },
+    {
+        "gid": "190",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1074874748",
+        "point_y": "-17.7537896240"
+    },
+    {
+        "gid": "191",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1096093199",
+        "point_y": "-17.7548180219"
+    },
+    {
+        "gid": "192",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1179802296",
+        "point_y": "-17.7527991017"
+    },
+    {
+        "gid": "193",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1072460850",
+        "point_y": "-17.7494068262"
+    },
+    {
+        "gid": "194",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1140638344",
+        "point_y": "-17.7502720542"
+    },
+    {
+        "gid": "195",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1136247703",
+        "point_y": "-17.7474889971"
+    },
+    {
+        "gid": "196",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1201058192",
+        "point_y": "-17.7478762644"
+    },
+    {
+        "gid": "197",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1219529696",
+        "point_y": "-17.7461939000"
+    },
+    {
+        "gid": "198",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1165806028",
+        "point_y": "-17.7459213030"
+    },
+    {
+        "gid": "199",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1078769713",
+        "point_y": "-17.7422980788"
+    },
+    {
+        "gid": "200",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1084059705",
+        "point_y": "-17.7386167476"
+    },
+    {
+        "gid": "201",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1128220463",
+        "point_y": "-17.7390792874"
+    },
+    {
+        "gid": "202",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1108770598",
+        "point_y": "-17.7341808088"
+    },
+    {
+        "gid": "203",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1154994728",
+        "point_y": "-17.7362706191"
+    },
+    {
+        "gid": "204",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1200505920",
+        "point_y": "-17.7403025674"
+    },
+    {
+        "gid": "205",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "6",
+        "point_x": "-63.1165771452",
+        "point_y": "-17.7410634997"
+    },
+    {
+        "gid": "206",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1065201711",
+        "point_y": "-17.8182219727"
+    },
+    {
+        "gid": "207",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1032800794",
+        "point_y": "-17.8136789493"
+    },
+    {
+        "gid": "208",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1021506487",
+        "point_y": "-17.8162759152"
+    },
+    {
+        "gid": "209",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1005848705",
+        "point_y": "-17.8185777474"
+    },
+    {
+        "gid": "210",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0954848443",
+        "point_y": "-17.8201463129"
+    },
+    {
+        "gid": "211",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0840879146",
+        "point_y": "-17.8242042300"
+    },
+    {
+        "gid": "212",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0798707648",
+        "point_y": "-17.8252871754"
+    },
+    {
+        "gid": "213",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0951425394",
+        "point_y": "-17.8094020250"
+    },
+    {
+        "gid": "214",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1371575992",
+        "point_y": "-17.8084978877"
+    },
+    {
+        "gid": "215",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1327555302",
+        "point_y": "-17.8081694239"
+    },
+    {
+        "gid": "216",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1304083779",
+        "point_y": "-17.8087821975"
+    },
+    {
+        "gid": "217",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1275710950",
+        "point_y": "-17.8087956132"
+    },
+    {
+        "gid": "218",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1276986886",
+        "point_y": "-17.8110827832"
+    },
+    {
+        "gid": "219",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1239625415",
+        "point_y": "-17.8112682699"
+    },
+    {
+        "gid": "220",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1196463144",
+        "point_y": "-17.8115403165"
+    },
+    {
+        "gid": "221",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1181328179",
+        "point_y": "-17.8116833302"
+    },
+    {
+        "gid": "222",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1182772564",
+        "point_y": "-17.8089922078"
+    },
+    {
+        "gid": "223",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1145318989",
+        "point_y": "-17.8115614565"
+    },
+    {
+        "gid": "224",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1080203989",
+        "point_y": "-17.8107155145"
+    },
+    {
+        "gid": "225",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.0998694821",
+        "point_y": "-17.8054506568"
+    },
+    {
+        "gid": "226",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1044586202",
+        "point_y": "-17.8028430428"
+    },
+    {
+        "gid": "227",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.0952226895",
+        "point_y": "-17.8002735981"
+    },
+    {
+        "gid": "228",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1027970517",
+        "point_y": "-17.7990499176"
+    },
+    {
+        "gid": "229",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1044093707",
+        "point_y": "-17.7996978681"
+    },
+    {
+        "gid": "230",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.0966093523",
+        "point_y": "-17.7953015646"
+    },
+    {
+        "gid": "231",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.0979815518",
+        "point_y": "-17.7917866632"
+    },
+    {
+        "gid": "232",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1006719912",
+        "point_y": "-17.7919586236"
+    },
+    {
+        "gid": "233",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1011949035",
+        "point_y": "-17.7884023338"
+    },
+    {
+        "gid": "234",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1011146478",
+        "point_y": "-17.7792786739"
+    },
+    {
+        "gid": "235",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1047022321",
+        "point_y": "-17.7739124503"
+    },
+    {
+        "gid": "236",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1112371172",
+        "point_y": "-17.7812181688"
+    },
+    {
+        "gid": "237",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1137409335",
+        "point_y": "-17.7844162086"
+    },
+    {
+        "gid": "238",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1191087270",
+        "point_y": "-17.7851044236"
+    },
+    {
+        "gid": "239",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1260879787",
+        "point_y": "-17.7867439501"
+    },
+    {
+        "gid": "240",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1187955563",
+        "point_y": "-17.7871003261"
+    },
+    {
+        "gid": "241",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1285111923",
+        "point_y": "-17.7853381758"
+    },
+    {
+        "gid": "242",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1204454535",
+        "point_y": "-17.7891432455"
+    },
+    {
+        "gid": "243",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1229035126",
+        "point_y": "-17.7910764838"
+    },
+    {
+        "gid": "244",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1298985525",
+        "point_y": "-17.7897229100"
+    },
+    {
+        "gid": "245",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1397277123",
+        "point_y": "-17.7899458965"
+    },
+    {
+        "gid": "246",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1418859556",
+        "point_y": "-17.7959485998"
+    },
+    {
+        "gid": "247",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1409713078",
+        "point_y": "-17.7997235232"
+    },
+    {
+        "gid": "248",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1336112396",
+        "point_y": "-17.7979640334"
+    },
+    {
+        "gid": "249",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1381110951",
+        "point_y": "-17.8031184023"
+    },
+    {
+        "gid": "250",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1364986744",
+        "point_y": "-17.8023192891"
+    },
+    {
+        "gid": "251",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1334827262",
+        "point_y": "-17.8019681816"
+    },
+    {
+        "gid": "252",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1325769797",
+        "point_y": "-17.8047588101"
+    },
+    {
+        "gid": "253",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1300541727",
+        "point_y": "-17.8066626831"
+    },
+    {
+        "gid": "254",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1291442723",
+        "point_y": "-17.8066881355"
+    },
+    {
+        "gid": "255",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1267603797",
+        "point_y": "-17.8049327625"
+    },
+    {
+        "gid": "256",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1151282457",
+        "point_y": "-17.8058054049"
+    },
+    {
+        "gid": "257",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1102281027",
+        "point_y": "-17.8037182476"
+    },
+    {
+        "gid": "258",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1120249631",
+        "point_y": "-17.8002915155"
+    },
+    {
+        "gid": "259",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1119472703",
+        "point_y": "-17.7989176986"
+    },
+    {
+        "gid": "260",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1206573604",
+        "point_y": "-17.8003856204"
+    },
+    {
+        "gid": "261",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1258174046",
+        "point_y": "-17.7983853938"
+    },
+    {
+        "gid": "262",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1224556016",
+        "point_y": "-17.7960870968"
+    },
+    {
+        "gid": "263",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1219569955",
+        "point_y": "-17.7928691955"
+    },
+    {
+        "gid": "264",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1154856789",
+        "point_y": "-17.7946593192"
+    },
+    {
+        "gid": "265",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1127030208",
+        "point_y": "-17.7959851966"
+    },
+    {
+        "gid": "266",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1100026671",
+        "point_y": "-17.7967648395"
+    },
+    {
+        "gid": "267",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1104054907",
+        "point_y": "-17.7916965255"
+    },
+    {
+        "gid": "268",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "7",
+        "point_x": "-63.1151969108",
+        "point_y": "-17.7880813738"
+    },
+    {
+        "gid": "269",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1477715853",
+        "point_y": "-17.8170219176"
+    },
+    {
+        "gid": "270",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1384849221",
+        "point_y": "-17.8145166782"
+    },
+    {
+        "gid": "271",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1415345922",
+        "point_y": "-17.8155774911"
+    },
+    {
+        "gid": "272",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1320845930",
+        "point_y": "-17.8131786056"
+    },
+    {
+        "gid": "273",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1260664358",
+        "point_y": "-17.8138845909"
+    },
+    {
+        "gid": "274",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1195593272",
+        "point_y": "-17.8144155396"
+    },
+    {
+        "gid": "275",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1148362381",
+        "point_y": "-17.8144383492"
+    },
+    {
+        "gid": "276",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1180029993",
+        "point_y": "-17.8154381086"
+    },
+    {
+        "gid": "277",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1254842521",
+        "point_y": "-17.8176514548"
+    },
+    {
+        "gid": "278",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1393667989",
+        "point_y": "-17.8189899533"
+    },
+    {
+        "gid": "279",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1406022781",
+        "point_y": "-17.8205603094"
+    },
+    {
+        "gid": "280",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1352669577",
+        "point_y": "-17.8174232442"
+    },
+    {
+        "gid": "281",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1349333100",
+        "point_y": "-17.8252339151"
+    },
+    {
+        "gid": "282",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1315693570",
+        "point_y": "-17.8190990817"
+    },
+    {
+        "gid": "283",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1315559148",
+        "point_y": "-17.8227370034"
+    },
+    {
+        "gid": "284",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1270402937",
+        "point_y": "-17.8204469916"
+    },
+    {
+        "gid": "285",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1356587840",
+        "point_y": "-17.8307110248"
+    },
+    {
+        "gid": "286",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1328542705",
+        "point_y": "-17.8270261256"
+    },
+    {
+        "gid": "287",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1294243104",
+        "point_y": "-17.8252992597"
+    },
+    {
+        "gid": "288",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1242075804",
+        "point_y": "-17.8248324078"
+    },
+    {
+        "gid": "289",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1331133173",
+        "point_y": "-17.8294703678"
+    },
+    {
+        "gid": "290",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1237014335",
+        "point_y": "-17.8269646183"
+    },
+    {
+        "gid": "291",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1209439191",
+        "point_y": "-17.8309191593"
+    },
+    {
+        "gid": "292",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1257715278",
+        "point_y": "-17.8349599930"
+    },
+    {
+        "gid": "293",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1198341533",
+        "point_y": "-17.8408822880"
+    },
+    {
+        "gid": "294",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1151143860",
+        "point_y": "-17.8352441345"
+    },
+    {
+        "gid": "295",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1121183255",
+        "point_y": "-17.8363682441"
+    },
+    {
+        "gid": "296",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1168971208",
+        "point_y": "-17.8454053930"
+    },
+    {
+        "gid": "297",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1069311655",
+        "point_y": "-17.8437774612"
+    },
+    {
+        "gid": "298",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1062934192",
+        "point_y": "-17.8454789107"
+    },
+    {
+        "gid": "299",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1051724933",
+        "point_y": "-17.8442844097"
+    },
+    {
+        "gid": "300",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1020834121",
+        "point_y": "-17.8439054320"
+    },
+    {
+        "gid": "301",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0993516504",
+        "point_y": "-17.8426823667"
+    },
+    {
+        "gid": "302",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1048376363",
+        "point_y": "-17.8389448317"
+    },
+    {
+        "gid": "303",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1013982659",
+        "point_y": "-17.8579589940"
+    },
+    {
+        "gid": "304",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0999547278",
+        "point_y": "-17.8557337766"
+    },
+    {
+        "gid": "305",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0988398201",
+        "point_y": "-17.8507740999"
+    },
+    {
+        "gid": "306",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0924247754",
+        "point_y": "-17.8478594053"
+    },
+    {
+        "gid": "307",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0953441727",
+        "point_y": "-17.8402787485"
+    },
+    {
+        "gid": "308",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1009697954",
+        "point_y": "-17.8360177648"
+    },
+    {
+        "gid": "309",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0978373262",
+        "point_y": "-17.8342590807"
+    },
+    {
+        "gid": "310",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1030318120",
+        "point_y": "-17.8291657278"
+    },
+    {
+        "gid": "311",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0975866380",
+        "point_y": "-17.8276763704"
+    },
+    {
+        "gid": "312",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.0840757559",
+        "point_y": "-17.8309640945"
+    },
+    {
+        "gid": "313",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1123626132",
+        "point_y": "-17.8297119259"
+    },
+    {
+        "gid": "314",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1169179466",
+        "point_y": "-17.8190915657"
+    },
+    {
+        "gid": "315",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1200481884",
+        "point_y": "-17.8204397844"
+    },
+    {
+        "gid": "316",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1127774166",
+        "point_y": "-17.8201064598"
+    },
+    {
+        "gid": "317",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1145690995",
+        "point_y": "-17.8223964856"
+    },
+    {
+        "gid": "318",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1179233011",
+        "point_y": "-17.8242436359"
+    },
+    {
+        "gid": "319",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "8",
+        "point_x": "-63.1209343546",
+        "point_y": "-17.8237563316"
+    },
+    {
+        "gid": "320",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2178721378",
+        "point_y": "-17.8578794459"
+    },
+    {
+        "gid": "321",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2184954733",
+        "point_y": "-17.8550664589"
+    },
+    {
+        "gid": "322",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2349522260",
+        "point_y": "-17.8465499766"
+    },
+    {
+        "gid": "323",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2411209688",
+        "point_y": "-17.8351931117"
+    },
+    {
+        "gid": "324",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2446174101",
+        "point_y": "-17.8303288427"
+    },
+    {
+        "gid": "325",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2488446083",
+        "point_y": "-17.8205574444"
+    },
+    {
+        "gid": "326",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2401485962",
+        "point_y": "-17.8283752018"
+    },
+    {
+        "gid": "327",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2350032368",
+        "point_y": "-17.8281940844"
+    },
+    {
+        "gid": "328",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2306598384",
+        "point_y": "-17.8263895444"
+    },
+    {
+        "gid": "329",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2252942194",
+        "point_y": "-17.8383131963"
+    },
+    {
+        "gid": "330",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2298262197",
+        "point_y": "-17.8404843032"
+    },
+    {
+        "gid": "331",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2215733624",
+        "point_y": "-17.8394626366"
+    },
+    {
+        "gid": "332",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2227200086",
+        "point_y": "-17.8434977755"
+    },
+    {
+        "gid": "333",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2225294075",
+        "point_y": "-17.8472752536"
+    },
+    {
+        "gid": "334",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2117050495",
+        "point_y": "-17.8491379494"
+    },
+    {
+        "gid": "335",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2138274370",
+        "point_y": "-17.8483457333"
+    },
+    {
+        "gid": "336",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2185605956",
+        "point_y": "-17.8481753480"
+    },
+    {
+        "gid": "337",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2090995935",
+        "point_y": "-17.8436456638"
+    },
+    {
+        "gid": "338",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2100782762",
+        "point_y": "-17.8413768223"
+    },
+    {
+        "gid": "339",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2132893609",
+        "point_y": "-17.8411064110"
+    },
+    {
+        "gid": "340",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2180458295",
+        "point_y": "-17.8377943019"
+    },
+    {
+        "gid": "341",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2207698317",
+        "point_y": "-17.8362951924"
+    },
+    {
+        "gid": "342",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2146247218",
+        "point_y": "-17.8320492941"
+    },
+    {
+        "gid": "343",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2107582448",
+        "point_y": "-17.8305829214"
+    },
+    {
+        "gid": "344",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2193544607",
+        "point_y": "-17.8300674075"
+    },
+    {
+        "gid": "345",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2220002941",
+        "point_y": "-17.8331497198"
+    },
+    {
+        "gid": "346",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2226016595",
+        "point_y": "-17.8294688653"
+    },
+    {
+        "gid": "347",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2240120297",
+        "point_y": "-17.8310126158"
+    },
+    {
+        "gid": "348",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2193978144",
+        "point_y": "-17.8258218702"
+    },
+    {
+        "gid": "349",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2073196785",
+        "point_y": "-17.8266957224"
+    },
+    {
+        "gid": "350",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2090533763",
+        "point_y": "-17.8243111354"
+    },
+    {
+        "gid": "351",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2154143243",
+        "point_y": "-17.8246889029"
+    },
+    {
+        "gid": "352",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2140312639",
+        "point_y": "-17.8229455205"
+    },
+    {
+        "gid": "353",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2010057957",
+        "point_y": "-17.8200381217"
+    },
+    {
+        "gid": "354",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2092459874",
+        "point_y": "-17.8195151905"
+    },
+    {
+        "gid": "355",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2080034258",
+        "point_y": "-17.8161261032"
+    },
+    {
+        "gid": "356",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2174794426",
+        "point_y": "-17.8119476392"
+    },
+    {
+        "gid": "357",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2132723169",
+        "point_y": "-17.8085526799"
+    },
+    {
+        "gid": "358",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2193412264",
+        "point_y": "-17.8143899239"
+    },
+    {
+        "gid": "359",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2218275512",
+        "point_y": "-17.8181421402"
+    },
+    {
+        "gid": "360",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2260992087",
+        "point_y": "-17.8196627857"
+    },
+    {
+        "gid": "361",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2238132415",
+        "point_y": "-17.8218576305"
+    },
+    {
+        "gid": "362",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2313237305",
+        "point_y": "-17.8184369714"
+    },
+    {
+        "gid": "363",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2255565987",
+        "point_y": "-17.8150811152"
+    },
+    {
+        "gid": "364",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2262717545",
+        "point_y": "-17.8108267490"
+    },
+    {
+        "gid": "365",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2187520909",
+        "point_y": "-17.8047003138"
+    },
+    {
+        "gid": "366",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2187473460",
+        "point_y": "-17.8008064428"
+    },
+    {
+        "gid": "367",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "10",
+        "point_x": "-63.2175992783",
+        "point_y": "-17.7989044677"
+    },
+    {
+        "gid": "368",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1966643604",
+        "point_y": "-17.8705579840"
+    },
+    {
+        "gid": "369",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1938875693",
+        "point_y": "-17.8700853084"
+    },
+    {
+        "gid": "370",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1966969715",
+        "point_y": "-17.8675584489"
+    },
+    {
+        "gid": "371",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2069322262",
+        "point_y": "-17.8686675058"
+    },
+    {
+        "gid": "372",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2128536050",
+        "point_y": "-17.8602312591"
+    },
+    {
+        "gid": "373",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2103460063",
+        "point_y": "-17.8570399733"
+    },
+    {
+        "gid": "374",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2086119309",
+        "point_y": "-17.8591615131"
+    },
+    {
+        "gid": "375",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2063212899",
+        "point_y": "-17.8599469582"
+    },
+    {
+        "gid": "376",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1963629352",
+        "point_y": "-17.8632614602"
+    },
+    {
+        "gid": "377",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1996090749",
+        "point_y": "-17.8649607494"
+    },
+    {
+        "gid": "378",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2003902027",
+        "point_y": "-17.8617749976"
+    },
+    {
+        "gid": "379",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1930746790",
+        "point_y": "-17.8592686693"
+    },
+    {
+        "gid": "380",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1903594364",
+        "point_y": "-17.8578061115"
+    },
+    {
+        "gid": "381",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1946376566",
+        "point_y": "-17.8573254093"
+    },
+    {
+        "gid": "382",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1886371179",
+        "point_y": "-17.8562398905"
+    },
+    {
+        "gid": "383",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1868245111",
+        "point_y": "-17.8557061798"
+    },
+    {
+        "gid": "384",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1871691608",
+        "point_y": "-17.8532184727"
+    },
+    {
+        "gid": "385",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1923006099",
+        "point_y": "-17.8524459125"
+    },
+    {
+        "gid": "386",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2015016077",
+        "point_y": "-17.8564446549"
+    },
+    {
+        "gid": "387",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2032331092",
+        "point_y": "-17.8543335192"
+    },
+    {
+        "gid": "388",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2032409297",
+        "point_y": "-17.8504691692"
+    },
+    {
+        "gid": "389",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2016735442",
+        "point_y": "-17.8460935102"
+    },
+    {
+        "gid": "390",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1965651195",
+        "point_y": "-17.8496102585"
+    },
+    {
+        "gid": "391",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1841138311",
+        "point_y": "-17.8494138110"
+    },
+    {
+        "gid": "392",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1851686847",
+        "point_y": "-17.8463810120"
+    },
+    {
+        "gid": "393",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1958376728",
+        "point_y": "-17.8452728094"
+    },
+    {
+        "gid": "394",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1987771993",
+        "point_y": "-17.8440480676"
+    },
+    {
+        "gid": "395",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2010121958",
+        "point_y": "-17.8404750989"
+    },
+    {
+        "gid": "396",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1974214045",
+        "point_y": "-17.8392875018"
+    },
+    {
+        "gid": "397",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1997040499",
+        "point_y": "-17.8369363183"
+    },
+    {
+        "gid": "398",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2002444158",
+        "point_y": "-17.8345111220"
+    },
+    {
+        "gid": "399",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.2022007058",
+        "point_y": "-17.8331374757"
+    },
+    {
+        "gid": "400",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1990867198",
+        "point_y": "-17.8316651525"
+    },
+    {
+        "gid": "401",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1963486163",
+        "point_y": "-17.8325927336"
+    },
+    {
+        "gid": "402",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1926214992",
+        "point_y": "-17.8331354287"
+    },
+    {
+        "gid": "403",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1908807973",
+        "point_y": "-17.8352425142"
+    },
+    {
+        "gid": "404",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1862265753",
+        "point_y": "-17.8352447674"
+    },
+    {
+        "gid": "405",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1886556360",
+        "point_y": "-17.8377595469"
+    },
+    {
+        "gid": "406",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1897414418",
+        "point_y": "-17.8400610683"
+    },
+    {
+        "gid": "407",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1837568223",
+        "point_y": "-17.8424733993"
+    },
+    {
+        "gid": "408",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1776758231",
+        "point_y": "-17.8426275036"
+    },
+    {
+        "gid": "409",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1794225898",
+        "point_y": "-17.8391743587"
+    },
+    {
+        "gid": "410",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1774331194",
+        "point_y": "-17.8385847970"
+    },
+    {
+        "gid": "411",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1750370679",
+        "point_y": "-17.8387591883"
+    },
+    {
+        "gid": "412",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1729754871",
+        "point_y": "-17.8357598822"
+    },
+    {
+        "gid": "413",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1696131165",
+        "point_y": "-17.8343579067"
+    },
+    {
+        "gid": "414",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1649335634",
+        "point_y": "-17.8314169419"
+    },
+    {
+        "gid": "415",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1640783248",
+        "point_y": "-17.8268187216"
+    },
+    {
+        "gid": "416",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1726096195",
+        "point_y": "-17.8278781882"
+    },
+    {
+        "gid": "417",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1781566719",
+        "point_y": "-17.8292114351"
+    },
+    {
+        "gid": "418",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1798480227",
+        "point_y": "-17.8273455449"
+    },
+    {
+        "gid": "419",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1828273778",
+        "point_y": "-17.8247367182"
+    },
+    {
+        "gid": "420",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1787806154",
+        "point_y": "-17.8235448657"
+    },
+    {
+        "gid": "421",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1744045225",
+        "point_y": "-17.8244962185"
+    },
+    {
+        "gid": "422",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1703613073",
+        "point_y": "-17.8241638329"
+    },
+    {
+        "gid": "423",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "9",
+        "point_x": "-63.1634336294",
+        "point_y": "-17.8231037417"
+    },
+    {
+        "gid": "424",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1675815589",
+        "point_y": "-17.8968333515"
+    },
+    {
+        "gid": "425",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1690770186",
+        "point_y": "-17.8945362278"
+    },
+    {
+        "gid": "426",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1656320324",
+        "point_y": "-17.8917914208"
+    },
+    {
+        "gid": "427",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1787607588",
+        "point_y": "-17.8921775176"
+    },
+    {
+        "gid": "428",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1794614801",
+        "point_y": "-17.8866371559"
+    },
+    {
+        "gid": "429",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1832731738",
+        "point_y": "-17.8885091835"
+    },
+    {
+        "gid": "430",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1887293472",
+        "point_y": "-17.8875362662"
+    },
+    {
+        "gid": "431",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1906219256",
+        "point_y": "-17.8846872904"
+    },
+    {
+        "gid": "432",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1908589113",
+        "point_y": "-17.8807285492"
+    },
+    {
+        "gid": "433",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1928492277",
+        "point_y": "-17.8786692783"
+    },
+    {
+        "gid": "434",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1884985532",
+        "point_y": "-17.8780952538"
+    },
+    {
+        "gid": "435",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1905425303",
+        "point_y": "-17.8760928365"
+    },
+    {
+        "gid": "436",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1767658251",
+        "point_y": "-17.8791140010"
+    },
+    {
+        "gid": "437",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1753711011",
+        "point_y": "-17.8795200282"
+    },
+    {
+        "gid": "438",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1670120087",
+        "point_y": "-17.8811274037"
+    },
+    {
+        "gid": "439",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1630810096",
+        "point_y": "-17.8809585641"
+    },
+    {
+        "gid": "440",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1620293235",
+        "point_y": "-17.8779012059"
+    },
+    {
+        "gid": "441",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1560508237",
+        "point_y": "-17.8754548283"
+    },
+    {
+        "gid": "442",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1519505968",
+        "point_y": "-17.8708002662"
+    },
+    {
+        "gid": "443",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1495954661",
+        "point_y": "-17.8782776449"
+    },
+    {
+        "gid": "444",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1481402447",
+        "point_y": "-17.8791598660"
+    },
+    {
+        "gid": "445",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1473863635",
+        "point_y": "-17.8753043647"
+    },
+    {
+        "gid": "446",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1435338963",
+        "point_y": "-17.8747890388"
+    },
+    {
+        "gid": "447",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1430831738",
+        "point_y": "-17.8721043969"
+    },
+    {
+        "gid": "448",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1419500530",
+        "point_y": "-17.8673031823"
+    },
+    {
+        "gid": "449",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1508341110",
+        "point_y": "-17.8886952388"
+    },
+    {
+        "gid": "450",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1563216160",
+        "point_y": "-17.8839677372"
+    },
+    {
+        "gid": "451",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1603215446",
+        "point_y": "-17.8720988298"
+    },
+    {
+        "gid": "452",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1629925214",
+        "point_y": "-17.8669056494"
+    },
+    {
+        "gid": "453",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1559169498",
+        "point_y": "-17.8654046998"
+    },
+    {
+        "gid": "454",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1515446652",
+        "point_y": "-17.8666617513"
+    },
+    {
+        "gid": "455",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1497415234",
+        "point_y": "-17.8614935087"
+    },
+    {
+        "gid": "456",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1470818293",
+        "point_y": "-17.8614412012"
+    },
+    {
+        "gid": "457",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1502644946",
+        "point_y": "-17.8600745354"
+    },
+    {
+        "gid": "458",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1577901030",
+        "point_y": "-17.8594918577"
+    },
+    {
+        "gid": "459",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1512369119",
+        "point_y": "-17.8555835283"
+    },
+    {
+        "gid": "460",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1447177219",
+        "point_y": "-17.8554945913"
+    },
+    {
+        "gid": "461",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1454986272",
+        "point_y": "-17.8493605587"
+    },
+    {
+        "gid": "462",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1590403686",
+        "point_y": "-17.8512244794"
+    },
+    {
+        "gid": "463",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1524077843",
+        "point_y": "-17.8458640000"
+    },
+    {
+        "gid": "464",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1573055282",
+        "point_y": "-17.8431431471"
+    },
+    {
+        "gid": "465",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1557129068",
+        "point_y": "-17.8395790786"
+    },
+    {
+        "gid": "466",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1534763062",
+        "point_y": "-17.8381924998"
+    },
+    {
+        "gid": "467",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1627372646",
+        "point_y": "-17.8435827892"
+    },
+    {
+        "gid": "468",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1624610781",
+        "point_y": "-17.8403232205"
+    },
+    {
+        "gid": "469",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1585555821",
+        "point_y": "-17.8335288002"
+    },
+    {
+        "gid": "470",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1710206616",
+        "point_y": "-17.8427292561"
+    },
+    {
+        "gid": "471",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1662353423",
+        "point_y": "-17.8447655160"
+    },
+    {
+        "gid": "472",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1631047873",
+        "point_y": "-17.8472806071"
+    },
+    {
+        "gid": "473",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1725479633",
+        "point_y": "-17.8452344249"
+    },
+    {
+        "gid": "474",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1749198709",
+        "point_y": "-17.8471456716"
+    },
+    {
+        "gid": "475",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1705393528",
+        "point_y": "-17.8486561507"
+    },
+    {
+        "gid": "476",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1757630021",
+        "point_y": "-17.8514772091"
+    },
+    {
+        "gid": "477",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1793034019",
+        "point_y": "-17.8525134438"
+    },
+    {
+        "gid": "478",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1836195575",
+        "point_y": "-17.8550116143"
+    },
+    {
+        "gid": "479",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1817685470",
+        "point_y": "-17.8578237045"
+    },
+    {
+        "gid": "480",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1866625383",
+        "point_y": "-17.8625017760"
+    },
+    {
+        "gid": "481",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1859209005",
+        "point_y": "-17.8627662136"
+    },
+    {
+        "gid": "482",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1829225703",
+        "point_y": "-17.8643956084"
+    },
+    {
+        "gid": "483",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1767882891",
+        "point_y": "-17.8623247032"
+    },
+    {
+        "gid": "484",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1683559892",
+        "point_y": "-17.8632449643"
+    },
+    {
+        "gid": "485",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1715619968",
+        "point_y": "-17.8557826339"
+    },
+    {
+        "gid": "486",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1747910506",
+        "point_y": "-17.8677401333"
+    },
+    {
+        "gid": "487",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1699307579",
+        "point_y": "-17.8741969856"
+    },
+    {
+        "gid": "488",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "12",
+        "point_x": "-63.1868283044",
+        "point_y": "-17.8723572002"
+    },
+    {
+        "gid": "489",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "11",
+        "point_x": "-63.1708119550",
+        "point_y": "-17.7970783635"
+    },
+    {
+        "gid": "490",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "11",
+        "point_x": "-63.1695088849",
+        "point_y": "-17.7928273534"
+    },
+    {
+        "gid": "491",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "11",
+        "point_x": "-63.1683869384",
+        "point_y": "-17.7897719805"
+    },
+    {
+        "gid": "492",
+        "identifica": "CANCHA POLIFUNCIONAL",
+        "dependencia": "GAMSCS",
+        "distrito": "11",
+        "point_x": "-63.1882590087",
+        "point_y": "-17.7759828911"
+    }
+]

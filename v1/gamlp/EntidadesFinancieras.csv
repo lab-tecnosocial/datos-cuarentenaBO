@@ -1,0 +1,854 @@
+type,id,geometry/type,geometry/coordinates/0,geometry/coordinates/1,geometry_name,properties/Nombre,properties/tipo_ofi,properties/Direccion
+Feature,entidadesfinancieras.1,Point,-68.13412215,-16.49903475,geom,Banco Nacional de Bolivia S.A.,Oficina Externa,"AV. CAMACHO Nº 1312, ESQ. COLON, ZONA CENTRAL"
+Feature,entidadesfinancieras.2,Point,-68.14136944,-16.49975556,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"CALLE SEBASTIAN SEGUROLA Nº 1050, ZONA GRAN PODER"
+Feature,entidadesfinancieras.3,Point,-68.13432349,-16.49895817,geom,Banco Nacional de Bolivia S.A.,Oficina Central,"AV. CAMACHO Nº 1296, ESQ. COLON, ZONA CENTRAL"
+Feature,entidadesfinancieras.4,Point,-68.13446516,-16.49892206,geom,Banco Nacional de Bolivia S.A.,Sucursal,"AV. CAMACHO Nº 1296, ESQ. COLON, ZONA CENTRAL"
+Feature,entidadesfinancieras.5,Point,-68.1295694,-16.50713309,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. 20 DE OCTUBRE Nº 2095, ESQ. ASPIAZU, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.6,Point,-68.07467883,-16.53372686,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. GARCI�A LANZA Nº 1484, ESQ. CALLE 13, ZONA ACHUMANI"
+Feature,entidadesfinancieras.7,Point,-68.14435513,-16.49550446,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"CALLE TUMUSLA Nº 705, ESQ. AV. BUENOS AIRES, ZONA 14 DE SEPTIEMBRE"
+Feature,entidadesfinancieras.8,Point,-68.13412771,-16.49902919,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. CAMACHO Nº 1312, ESQ. COLON, ZONA CENTRAL"
+Feature,entidadesfinancieras.9,Point,-68.08720278,-16.53200278,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. RAFAEL PABON, COMPLEJO MEGA CENTER, ZONA IRPAVI"
+Feature,entidadesfinancieras.10,Point,-68.12235154,-16.49536653,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. HEROES DEL PACI�FICO Nº 1384, CASI ESQ. EE.UU., ZONA MIRAFLORES"
+Feature,entidadesfinancieras.11,Point,-68.13740661,-16.49316974,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. MONTES Nº 744, ESQ. JOSE MARIA SERRANO, ZONA CENTRAL
+"
+Feature,entidadesfinancieras.12,Point,-68.07885556,-16.54051944,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. MONTENEGRO N° 1420, EDIF. SAN MIGUEL ARCA�NGEL, ZONA SAN MIGUEL"
+Feature,entidadesfinancieras.13,Point,-68.07447963,-16.533565,geom,Banco Nacional de Bolivia S.A.,Oficina Externa,"AV. GARCIA LANZA N° 1484, ESQ. CALLE 13, ZONA ACHUMANI"
+Feature,entidadesfinancieras.14,Point,-68.1277356,-16.51097593,geom,Banco Nacional de Bolivia S.A.,Oficina Externa,"CALLE BELISARIO SALINAS NÂº 525, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.15,Point,-68.10522778,-16.52761944,geom,Banco Nacional de Bolivia S.A.,Oficina Externa,"AV. HERNANDO SILES Nº 247 ESQ. CALLE 12, EDIFICIO REINA ESTHER PB, ZONA OBRAJES"
+Feature,entidadesfinancieras.16,Point,-68.13448983,-16.4976453,geom,Banco Mercantil Santa Cruz S.A.,Oficina Central,AYACUCHO ESQ. MERCADO No 295
+Feature,entidadesfinancieras.17,Point,-68.07327979,-16.5304605,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,"CALLE 16 No 7, FRENTE AL MERCADO DE ACHUMANI"
+Feature,entidadesfinancieras.18,Point,-68.08917778,-16.54013889,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA BALLIVIA�N No 475
+Feature,entidadesfinancieras.19,Point,-68.13289444,-16.49964167,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA CAMACHO No 1448
+Feature,entidadesfinancieras.20,Point,-68.13469336,-16.49751457,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,MERCADO No 1190 EDIFICIO ELECTRA PB
+Feature,entidadesfinancieras.21,Point,-68.14777778,-16.49841667,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,CALLE ELOY SALMON No 820
+Feature,entidadesfinancieras.22,Point,-68.12451182,-16.5097071,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,PLAZA ISABEL LA CATOLICA ESQ. PEDRO SALAZAR EDIFICIO MENDIETA PB
+Feature,entidadesfinancieras.23,Point,-68.08694444,-16.53194444,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA RAFAEL PABON S/N ZONA IRPAVI. MEGACENTER LA PAZ LOCA C 12
+Feature,entidadesfinancieras.24,Point,-68.12129722,-16.50138889,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,DIAZ ROMERO No 1399 ESQUINA GAMARRA
+Feature,entidadesfinancieras.25,Point,-68.10697402,-16.52667776,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA HERNANDO SILES ESQUINA CALLE 10 (EDIFICIO TUNUPA LOCAL 2).
+Feature,entidadesfinancieras.26,Point,-68.1370212,-16.49326916,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA ISMAEL MONTES N  741
+Feature,entidadesfinancieras.27,Point,-68.07820278,-16.53916667,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA BALLIVIAN No 1426 ESQUINA CALLE 21 - CALACOTO
+Feature,entidadesfinancieras.28,Point,-68.14476312,-16.4953335,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,CALLE TUMUSLA No 734
+Feature,entidadesfinancieras.29,Point,-68.13459167,-16.49796389,geom,Banco Mercantil Santa Cruz S.A.,Oficina Externa,CALLE AYACUCHO 267
+Feature,entidadesfinancieras.30,Point,-68.12899232,-16.51432966,geom,Banco Mercantil Santa Cruz S.A.,Oficina Externa,"AV. VICTOR SANJINEZ, EDIFICIO BARCELONA 2678 (PLAZA ESPAÑA)"
+Feature,entidadesfinancieras.31,Point,-68.08507877,-16.54021925,geom,Banco Mercantil Santa Cruz S.A.,Oficina Externa,"AV. SANCHEZ BUSTAMANTE ESQ. CALLE 14 CALACOTO, EDIFICIO METROBOL 7995"
+Feature,entidadesfinancieras.32,Point,-68.07888889,-16.53727778,geom,Banco Mercantil Santa Cruz S.A.,Oficina Externa,AVENIDA FUERZA NAVAL 7720 ESQ. CALLE 20 DE CALACOTO
+Feature,entidadesfinancieras.33,Point,-68.11966111,-16.47771667,geom,Banco Nacional de Bolivia S.A.,Agencia Fija,"AV. DE LAS AMERICAS Nº 396, ZONA VILLA FATIMA"
+Feature,entidadesfinancieras.34,Point,-68.07651037,-16.5454001,geom,Banco Mercantil Santa Cruz S.A.,Oficina Externa,"CALLE 21 DE CALACOTO Nº 8511, ENTRE AVENIDA COSTANERA Y AVENIDA JOSE AGUIRRE ACHA�"
+Feature,entidadesfinancieras.35,Point,-68.11670634,-16.49617394,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AVENIDA 31 DE OCTUBRE NO. 1536.
+Feature,entidadesfinancieras.36,Point,-68.12073631,-16.4794984,geom,Banco Mercantil Santa Cruz S.A.,Agencia Fija,AV. LAS AMERICAS S/N ESQ. CALLE PUENTE VILLA - EXFAB. DE CHOCOLATES CORONA
+Feature,entidadesfinancieras.37,Point,-68.10715278,-16.52687222,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Av. Hernado Siles esq. Calle 10 - Obrajes
+Feature,entidadesfinancieras.38,Point,-68.12557222,-16.50809167,geom,Banco de Crédito de Bolivia S.A.,Oficina Externa,"Av. Arce Nro. 2355, Edificio Cobija de la zona de Sopocachi"
+Feature,entidadesfinancieras.39,Point,-68.13149722,-16.50473889,geom,Banco de Crédito de Bolivia S.A.,Oficina Externa,Calle Landaeta y pasaje Ondarza Nro. 2
+Feature,entidadesfinancieras.40,Point,-68.121375,-16.48043333,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Av. Tejada Sorzano Nº250 - Villa Fatima
+Feature,entidadesfinancieras.41,Point,-68.13342681,-16.49831084,geom,Banco de Crédito de Bolivia S.A.,Oficina Central,Calle Colón esquina Mercado N 1308
+Feature,entidadesfinancieras.42,Point,-68.12735789,-16.50912181,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,"Avenida 20 de Octubre 2315, entre Belisario Salinas y Rosendo Gutierrez"
+Feature,entidadesfinancieras.43,Point,-68.07319848,-16.53058008,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,"Calle 16 de Achumani N 6, Mercado de Achumani"
+Feature,entidadesfinancieras.44,Point,-68.13493895,-16.49526036,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Calle Comercio esquina Yanacocha N 994
+Feature,entidadesfinancieras.45,Point,-68.07799192,-16.53998294,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,"Avenida Montenegro esquina calle 21, Calacoto"
+Feature,entidadesfinancieras.46,Point,-68.1229801,-16.5011345,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Avenida Saavedra N 1845
+Feature,entidadesfinancieras.47,Point,-68.14480281,-16.49556349,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,"Avenida Tumusla No. 753 entre Av. Buenos Aires y Plaza Garita de Lima, Zona 14 de septiembre"
+Feature,entidadesfinancieras.48,Point,-68.12183645,-16.51172308,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Avenida Arce esquina Romecín Campos N 2675
+Feature,entidadesfinancieras.49,Point,-68.08678056,-16.53218889,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,"Av. Rafael Pabon Barrio Irpavi, local C15 Megacenter"
+Feature,entidadesfinancieras.50,Point,-68.08147431,-16.53860152,geom,Banco de Crédito de Bolivia S.A.,Agencia Fija,Av. Ballivian Nº 1059
+Feature,entidadesfinancieras.51,Point,-68.12345,-16.51284167,geom,Banco Do Brasil S.A.- Sucursal Bolivia,Oficina Central,"Avenida 20 de Octubre esquina Campos NÂº 2665, Edificio Torre Azul Piso 14"
+Feature,entidadesfinancieras.52,Point,-68.15254772,-16.49441594,geom,Banco BISA S.A.,Agencia Fija,"Av. Kollasuyo No. 1442 entre Calles Bustillos y Jose María Asín, Zona El Tejar"
+Feature,entidadesfinancieras.53,Point,-68.13279077,-16.50202162,geom,Banco BISA S.A.,Oficina Central,Av. 16 de Julio El Prado No. 1628
+Feature,entidadesfinancieras.54,Point,-68.13279077,-16.50202162,geom,Banco BISA S.A.,Sucursal,Av. 16 de Julio El Prado No. 1628
+Feature,entidadesfinancieras.55,Point,-68.09143333,-16.54476389,geom,Banco BISA S.A.,Agencia Fija,Av. Arequipa Nº 8221 Interior Local 9.
+Feature,entidadesfinancieras.56,Point,-68.13384515,-16.4989209,geom,Banco BISA S.A.,Agencia Fija,Av. Camacho Nº 1333
+Feature,entidadesfinancieras.57,Point,-68.12379089,-16.50993878,geom,Banco BISA S.A.,Agencia Fija,Av. Arce Nº 2572 esq. Hermanos Manchego.
+Feature,entidadesfinancieras.58,Point,-68.12793654,-16.50945296,geom,Banco BISA S.A.,Agencia Fija,Calle Rosendo Gutierrez Nº 469 entre Av. 20 de Octubre y Sanchez Lima.
+Feature,entidadesfinancieras.59,Point,-68.13502292,-16.49615479,geom,Banco BISA S.A.,Agencia Fija,Calle Potosí Nº 1012 entre calles Yanacocha y Socabaya.
+Feature,entidadesfinancieras.60,Point,-68.07715,-16.53885278,geom,Banco BISA S.A.,Agencia Fija,"Av. Ballivián Nº 1461 entre calles 21 y 22, Calacoto."
+Feature,entidadesfinancieras.61,Point,-68.10062222,-16.52944722,geom,Banco BISA S.A.,Agencia Fija,Av. 14 de Septiembre Nº 40 esq. calle 17. Obrajes.
+Feature,entidadesfinancieras.62,Point,-68.07313763,-16.53067676,geom,Banco BISA S.A.,Agencia Fija,"Calle 16 No. 5, Zona Achumani"
+Feature,entidadesfinancieras.63,Point,-68.08656944,-16.53295833,geom,Banco BISA S.A.,Agencia Fija,"Av. Rafael Pabon, distrito 44, manzano 2546, Local Comercial C-16, Irpavi"
+Feature,entidadesfinancieras.64,Point,-68.14481768,-16.49535041,geom,Banco BISA S.A.,Agencia Fija,"Calle Tumusla No. 757, Zona 14 de Septiembre"
+Feature,entidadesfinancieras.65,Point,-68.12436902,-16.49790854,geom,Banco BISA S.A.,Agencia Fija,"Av. Saavedra Nº 1594, Esquina Calle Posnasky, Zona Miraflores."
+Feature,entidadesfinancieras.66,Point,-68.12133333,-16.51283889,geom,Banco BISA S.A.,Oficina Externa,Av. Arce Nº 2780 Zona San Jorge
+Feature,entidadesfinancieras.67,Point,-68.12225974,-16.51123319,geom,Banco BISA S.A.,Agencia Fija,Av. Arce Nº 2631. Edificio Multicine.
+Feature,entidadesfinancieras.68,Point,-68.12606652,-16.4993958,geom,Banco Unión S.A.,Ventanilla,Avenida Illimani s/n.lado Electropaz
+Feature,entidadesfinancieras.69,Point,-68.12110095,-16.49554202,geom,Banco Unión S.A.,Agencia Fija,"Avenida Busch NÂº 1333, zona Miraflores"
+Feature,entidadesfinancieras.70,Point,-68.13360174,-16.50043082,geom,Banco Unión S.A.,Ventanilla,"Plaza Venezuela NÂº 1413, en instalaciones de Toyosa S.A."
+Feature,entidadesfinancieras.71,Point,-68.13015789,-16.50236831,geom,Banco Unión S.A.,Oficina Externa,"Calle Federico Zuazo Nº1771,(interior instalaciones Edificio Entel)"
+Feature,entidadesfinancieras.72,Point,-68.11705179,-16.49389324,geom,Banco Unión S.A.,Agencia Fija,"Avenida Tito Yupanqui Nº 1261,esquina calle Rafael Ballivian,zona este."
+Feature,entidadesfinancieras.73,Point,-68.11860833,-16.50996389,geom,Banco Unión S.A.,Oficina Externa,"Avenida Saavedra,(en el interior de los predios del Estado Mayor del Ejecito),zona Miraflores."
+Feature,entidadesfinancieras.74,Point,-68.10640854,-16.4910326,geom,Banco Unión S.A.,Agencia Fija,"Avenida Montes Nº 101,esquina Calle Pando,zona San Sebastian."
+Feature,entidadesfinancieras.75,Point,-68.12429776,-16.50879692,geom,Banco Unión S.A.,Agencia Fija,"Plaza Isabel La católica 2479, zona Sopocachi."
+Feature,entidadesfinancieras.76,Point,-68.133175,-16.49994722,geom,Banco Unión S.A.,Agencia Fija,"Pasaje Marina Nuñez del Prado s/n entre calles Bueno y Loayza, zona Central."
+Feature,entidadesfinancieras.77,Point,-68.07858633,-16.54521212,geom,Banco Unión S.A.,Agencia Fija,Av. Montenegro # 966 (frente Colegio Loretto) San Miguel
+Feature,entidadesfinancieras.78,Point,-68.13047452,-16.50657526,geom,Banco Unión S.A.,Ventanilla,Av. 20 de Octubre No. 2036
+Feature,entidadesfinancieras.79,Point,-68.13513611,-16.49925833,geom,Banco Unión S.A.,Ventanilla,"Palacio de Comunicaciones Av.Mcal Santa Cruz Esq,Oruro"
+Feature,entidadesfinancieras.80,Point,-68.13491568,-16.49720624,geom,Banco Unión S.A.,Ventanilla,c. Yanacocha esq. Mercado (min. Trabajo)
+Feature,entidadesfinancieras.81,Point,-68.13312333,-16.49927608,geom,Banco Unión S.A.,Ventanilla,Av. Camacho No. 1413 esq. Loayza Edf. BOA
+Feature,entidadesfinancieras.82,Point,-68.13316329,-16.49951309,geom,Banco Unión S.A.,Oficina Central,Av. Camacho # 1416 esq. Looayza
+Feature,entidadesfinancieras.83,Point,-68.14426389,-16.49490278,geom,Banco Unión S.A.,Agencia Fija,Av. Buenos Aires # 572
+Feature,entidadesfinancieras.84,Point,-68.12292222,-16.49836389,geom,Banco Unión S.A.,Agencia Fija,Calle Hugo Estrada # 80 esq. Guerrilleros Lanza
+Feature,entidadesfinancieras.85,Point,-68.07961449,-16.54054447,geom,Banco Unión S.A.,Agencia Fija,Av. Montenegro # 1365
+Feature,entidadesfinancieras.86,Point,-68.13683375,-16.50298961,geom,Banco Unión S.A.,Agencia Fija,Calle Zoilo Flores # 520
+Feature,entidadesfinancieras.87,Point,-68.12733245,-16.51033306,geom,Banco Unión S.A.,Agencia Fija,Calle Belisario Salinas No.482 Edificio Alcides Arguedas.
+Feature,entidadesfinancieras.88,Point,-68.14254438,-16.49777547,geom,Banco Unión S.A.,Agencia Fija,"Calle Pedro de la Gasca, esquina Eloy Salmon Nº 691."
+Feature,entidadesfinancieras.89,Point,-68.13696395,-16.4934649,geom,Banco Unión S.A.,Agencia Fija,Av. Montes # 725
+Feature,entidadesfinancieras.90,Point,-68.13323476,-16.49840532,geom,Banco Unión S.A.,Ventanilla,"C. Mercado Edif. Ballivian PB, of. 6, entre Loayza y Colon"
+Feature,entidadesfinancieras.91,Point,-68.13367304,-16.49900301,geom,Banco Económico S.A.,Sucursal,"La  Paz  Av. Camacho NÂº 1245, Zona Central"
+Feature,entidadesfinancieras.92,Point,-68.06931944,-16.54538056,geom,Banco Económico S.A.,Agencia Fija,La Paz Av. Principal â€œLos Pinosâ€� (lado aeronáutico) Calle casi Esq. 25.
+Feature,entidadesfinancieras.93,Point,-68.14509521,-16.49541013,geom,Banco Económico S.A.,Agencia Fija,"La Paz Calle Tumusla No. 758, entre Buenos Aires y la Plazuela Garita de Lima."
+Feature,entidadesfinancieras.94,Point,-68.14035264,-16.49929124,geom,Banco Económico S.A.,Agencia Fija,La Paz Calle Sagarnaga NÂº 519 Esq. Max Paredes.
+Feature,entidadesfinancieras.95,Point,-68.08329167,-16.53911111,geom,Banco Económico S.A.,Ventanilla,Avenida Ballivian esquina calle # 16 de Calacoto NÂº 1020. Zona sur de la ciudad.
+Feature,entidadesfinancieras.96,Point,-68.11275427,-16.50815171,geom,Banco Solidario S.A.,Agencia Fija,"Av. Juan XXIII, esquina Calle San Juan #66, Zona Villa Armonía."
+Feature,entidadesfinancieras.97,Point,-68.10207545,-16.52965933,geom,Banco Solidario S.A.,Agencia Fija,"Av. Hernando Siles #6204, esquina Calle 16, Zona Obrajes."
+Feature,entidadesfinancieras.98,Point,-68.13989689,-16.48148655,geom,Banco Solidario S.A.,Agencia Fija,"Av. Baltazar de Salas #904, Zona Vino Tinto."
+Feature,entidadesfinancieras.99,Point,-68.12829733,-16.4975201,geom,Banco Solidario S.A.,Oficina Externa,"Calle Yungas #936, frente al Mercado Yungas, Zona Santa Bárbara - Punto Entel."
+Feature,entidadesfinancieras.100,Point,-68.16761667,-16.48876111,geom,Banco Solidario S.A.,Agencia Fija,"Av. Final Kollasuyo #120 (Av. Alcides Arguedas)casi esquina Av. Naciones Unidas, zona La Portada."
+Feature,entidadesfinancieras.101,Point,-68.09813056,-16.50895,geom,Banco Solidario S.A.,Oficina Externa,"Av. Armando Escobar Uría #77 entre calle Alejandro Barrizueta y Av. Rogelio Carrillo, zona Kupini - Internet."
+Feature,entidadesfinancieras.102,Point,-68.14945071,-16.47636909,geom,Banco Solidario S.A.,Oficina Externa,"Av. Ramos Gavilán #1337, Z. Achachicala - Centro de Salud SIMEQ.
+"
+Feature,entidadesfinancieras.103,Point,-68.1191867,-16.46564397,geom,Banco Solidario S.A.,Oficina Externa,"Calle A #1654, esquina Calle 1 , Av. Periférica (Av. Gral. Juan Jose Torrez), frente al Colegio La Merced, Z. Alto la Merced - Salón de Belleza Esperanza."
+Feature,entidadesfinancieras.104,Point,-68.11811419,-16.47613354,geom,Banco Solidario S.A.,Oficina Externa,"Av.15 de Abril #490, Zona Villa Fátima- Hotel Santa Isabel.
+"
+Feature,entidadesfinancieras.105,Point,-68.11314771,-16.50001929,geom,Banco Solidario S.A.,Oficina Externa,"Av.31 de Octubre #1870, esquina Calle 7, Zona Bajo San Antonio.
+"
+Feature,entidadesfinancieras.106,Point,-68.14388889,-16.50413056,geom,Banco Solidario S.A.,Oficina Externa,"Av. Buenos Aires #1313, a media cuadra del Mercado Hinojosa, Zona Villa Nuevo Potosí."
+Feature,entidadesfinancieras.107,Point,-68.1427,-16.51160556,geom,Banco Solidario S.A.,Agencia Fija,"Av. Jaimes Freyre # 1784, casi esquina calle Landaeta, zona Tembladerani."
+Feature,entidadesfinancieras.108,Point,-68.13866389,-16.49576389,geom,Banco Solidario S.A.,Oficina Externa,"Calle Santa Cruz #242, entre Calle Murillo y Calle Illampu, zona El Rosario - Hostal Blanquita."
+Feature,entidadesfinancieras.109,Point,-68.13444722,-16.50246111,geom,Banco Solidario S.A.,Oficina Central,"Calle Nicolás Acosta #289, esquina Cañada Strongest.
+"
+Feature,entidadesfinancieras.110,Point,-68.13752295,-16.49396401,geom,Banco Solidario S.A.,Sucursal,"Calle Evaristo Valle #136.
+"
+Feature,entidadesfinancieras.111,Point,-68.06058333,-16.54128056,geom,Banco Solidario S.A.,Agencia Fija,"Av. Muñoz Reyes #32, entre Calles 32 y 33, Zona Cota Cota.
+"
+Feature,entidadesfinancieras.112,Point,-68.13755871,-16.49393936,geom,Banco Solidario S.A.,Agencia Fija,"Calle Evaristo Valle #136.
+"
+Feature,entidadesfinancieras.113,Point,-68.13445,-16.502425,geom,Banco Solidario S.A.,Agencia Fija,"Calle Nicolás Acosta #289, esquina Cañada Strongest.
+"
+Feature,entidadesfinancieras.114,Point,-68.14454457,-16.49668416,geom,Banco Solidario S.A.,Agencia Fija,"Av. Buenos Aires #708, casi esquina Max Paredes.
+"
+Feature,entidadesfinancieras.115,Point,-68.1213835,-16.48099327,geom,Banco Solidario S.A.,Agencia Fija,"Av. Tejada Sorzano #305 (Av. de las Américas) , esquina Alto Beni.
+"
+Feature,entidadesfinancieras.116,Point,-68.12416317,-16.49889611,geom,Banco Solidario S.A.,Agencia Fija,"Plaza Tejada Sorzano (Plaza del Estadio) #1392, Edif. Radio Club La Paz."
+Feature,entidadesfinancieras.117,Point,-68.15355016,-16.49498853,geom,Banco Solidario S.A.,Agencia Fija,"Calle Manuel Bustillos #745, Zona El Tejar.
+"
+Feature,entidadesfinancieras.118,Point,-68.078175,-16.53926389,geom,Banco Solidario S.A.,Agencia Fija,"Calle 21 de Calacoto #394, entre Av. Ballivian y Julio Patiño, Zona San Miguel, frente a la Iglesia San Miguel."
+Feature,entidadesfinancieras.119,Point,-68.13219811,-16.49592643,geom,Banco Solidario S.A.,Agencia Fija,"Calle Ballivián, esquina Colón #1285.
+"
+Feature,entidadesfinancieras.120,Point,-68.13198076,-16.49976426,geom,Banco Solidario S.A.,Agencia Fija,"Av. Camacho #1499, esquina Calle Bueno, Edif. La Urbana.
+"
+Feature,entidadesfinancieras.121,Point,-68.11668042,-16.49629614,geom,Banco Solidario S.A.,Agencia Fija,"Av. 31 de Octubre #1542, Cruce Villas Copacabana y San Antonio.
+"
+Feature,entidadesfinancieras.122,Point,-68.14076314,-16.49871294,geom,Banco Solidario S.A.,Agencia Fija,"Calle Maximiliano Paredes, esquina Antonio Gallardo #514 y 844, Zona Gran Poder."
+Feature,entidadesfinancieras.123,Point,-68.08581015,-16.56980104,geom,Banco Solidario S.A.,Oficina Externa,"Av. Florida #4369, esquina Calle 6, dos cuadras antes del Zoológico.
+"
+Feature,entidadesfinancieras.124,Point,-68.14042311,-16.51176971,geom,Banco Solidario S.A.,Oficina Externa,"Landaeta #1081, a una cuadra antes de llegar al Estadio Bolivar, Z.Tembladerani - Punto Cotel."
+Feature,entidadesfinancieras.125,Point,-68.10641389,-16.523325,geom,Banco Solidario S.A.,Oficina Externa,"Av.del Maestro #879, esquina C.Humberto Viscarra, Sector B, Z.Alto Obrajes - Peluquería."
+Feature,entidadesfinancieras.126,Point,-68.0521224,-16.53800254,geom,Banco Solidario S.A.,Oficina Externa,"Av. Defensores del Chaco #90, entre calles 42 y 43, zona Chasquipampa -"
+Feature,entidadesfinancieras.127,Point,-68.10439309,-16.49573007,geom,Banco Solidario S.A.,Oficina Externa,"Av. Ciudad del Niño #27, frente a Ex Samapa, Z. Pampahasi  - Tienda de Barrio y Punto Viva.
+"
+Feature,entidadesfinancieras.128,Point,-68.07526695,-16.53495386,geom,Banco Solidario S.A.,Oficina Externa,"Av. García Lanza #1000, esquina C. 10, Achumani, frente a la Clinica Sagrada Familia."
+Feature,entidadesfinancieras.129,Point,-68.10899281,-16.49759892,geom,Banco Solidario S.A.,Oficina Externa,"Av. Octavio Campero #1750, esquina Av. Josefa Mujía, Zona Alto San Antonio."
+Feature,entidadesfinancieras.130,Point,-68.12839907,-16.4852617,geom,Banco Solidario S.A.,Oficina Externa,"Av. Periférica #125 (Av.Gral. Juan José Torrez), esquina final Puerto Rico, Z. 27 de Mayo."
+Feature,entidadesfinancieras.131,Point,-68.116573,-16.48376467,geom,Banco Solidario S.A.,Oficina Externa,"Av. Vicente Burgaleta #1001, Plaza Luis Uría, cerca al Hospital General Luis Uría,  Zona Villa Copacabana."
+Feature,entidadesfinancieras.132,Point,-68.1146268,-16.46885684,geom,Banco Solidario S.A.,Oficina Externa,"Av. Ramiro Castillo Salinas #1000, esquina Calle 1, a una cuadra del Puente Minaza, Zona Villa El Carmen."
+Feature,entidadesfinancieras.133,Point,-68.08721389,-16.52457222,geom,Banco Solidario S.A.,Oficina Externa,"Calle 6 s/n, frente a la Plaza Almirante Grau, Zona Irpavi. 
+"
+Feature,entidadesfinancieras.134,Point,-68.15268333,-16.49155556,geom,Banco Solidario S.A.,Oficina Externa,"Av. República #1507, entre C. Asunción y Murguía, Z. Villa Victoria- Punto Entel."
+Feature,entidadesfinancieras.135,Point,-68.12156241,-16.50347763,geom,Banco Solidario S.A.,Oficina Externa,"Av. Saavedra #2055, entre calles Villalobos y Nicaragua, casi Plaza Triangular, Edif. Torre Real Miraflores, zona Miraflores - Ingeneria SRL Cristec."
+Feature,entidadesfinancieras.136,Point,-68.12346389,-16.48455,geom,Banco Solidario S.A.,Oficina Externa,"Av. Tejada Sorzano #574, Edificio Clementina, entre calle Francisco Cernada y calle Monje, altura Plaza Villarroel, zona Alto Miraflores - Venta de Regalos y Abarrotes."
+Feature,entidadesfinancieras.137,Point,-68.13285833,-16.49938333,geom,Banco Ganadero S.A.,Sucursal,Av. Camacho 1372
+Feature,entidadesfinancieras.138,Point,-68.08062965,-16.54076526,geom,Banco Ganadero S.A.,Agencia Fija,Cale 18 de Calacoto Nro. 5 Esq. Montenegro
+Feature,entidadesfinancieras.139,Point,-68.13113889,-16.50334722,geom,Banco Ganadero S.A.,Oficina Externa,Av. 16 de julio N. 1805
+Feature,entidadesfinancieras.140,Point,-68.13266667,-16.50216389,geom,Banco Los Andes Procredit S.A.,Oficina Central,Av. 16 de Julio NÂº 1486 A
+Feature,entidadesfinancieras.141,Point,-68.13320294,-16.50146149,geom,Banco Los Andes Procredit S.A.,Sucursal,Av. 16 de Julio nro. 1486 A
+Feature,entidadesfinancieras.142,Point,-68.13976583,-16.49349624,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Av. América nro. 203
+Feature,entidadesfinancieras.143,Point,-68.14864501,-16.4959147,geom,Banco Los Andes Procredit S.A.,Agencia Fija,"Calle José  María Achá nro. 803, equina Avenida Baptista"
+Feature,entidadesfinancieras.144,Point,-68.1175157,-16.49558775,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Av. Estéban Arce nro.1705
+Feature,entidadesfinancieras.145,Point,-68.14401944,-16.49465833,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Av. Buenos Aires nro. 555
+Feature,entidadesfinancieras.146,Point,-68.12701562,-16.51002789,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Calle Belisario Salinas No438 entre 20 de cotubre y Sanchez Lima
+Feature,entidadesfinancieras.147,Point,-68.12137778,-16.48052222,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Av. Tejada Sorzano Nº 393 esq. Calle Unduavi
+Feature,entidadesfinancieras.148,Point,-68.07865278,-16.53921389,geom,Banco Los Andes Procredit S.A.,Agencia Fija,Calle 20 Calacoto nro. 8047
+Feature,entidadesfinancieras.149,Point,-68.12370377,-16.5000921,geom,Banco Los Andes Procredit S.A.,Agencia Fija,"Avenida Saavedra, esquina Hugo estrada No1706"
+Feature,entidadesfinancieras.150,Point,-68.1288759,-16.48556936,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Avenida Juan José Torrez (Av. Periférica) casi esquina Diego de Peralta No.438, Zona Agua de la Vida de la ciudad de La Paz"
+Feature,entidadesfinancieras.151,Point,-68.10498611,-16.50179167,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Avenida Ciudad del Niño, esquina Avenida Circunvalación No. 125, Zona Pampahasi de la ciudad de La Paz"
+Feature,entidadesfinancieras.152,Point,-68.1367676,-16.49396437,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Plaza Pérez Velasco, No.785 de la ciudad de La Paz"
+Feature,entidadesfinancieras.153,Point,-68.14374167,-16.48380556,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Calle Baltazar de Salas No.98, esquina Huayna Potosí, Zona Vino Tinto de la ciudad de La Paz"
+Feature,entidadesfinancieras.154,Point,-68.13663207,-16.50148193,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Central,"Calle Gral. Gonzales No. 1272, Zona de San Pedro de la ciudad de La Paz"
+Feature,entidadesfinancieras.155,Point,-68.13663207,-16.50148193,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Sucursal,"Calle Gral. Gonzales No. 1272, Zona San Pedro de la ciudad de La Paz"
+Feature,entidadesfinancieras.156,Point,-68.14396111,-16.49384167,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,Av. Buenos Aires No. 561 frente ingreso calle Huyustus de la ciudad de La Paz
+Feature,entidadesfinancieras.157,Point,-68.13372026,-16.49896135,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Camacho, Nro. 1355, Edificio Stepham y Cia. de la ciudad de La Paz"
+Feature,entidadesfinancieras.158,Point,-68.04849204,-16.53723736,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Avenida Defensores del Chaco No. 87, entre calles 52 y 53, Zona Chasquipampa de la ciudad de La Paz"
+Feature,entidadesfinancieras.159,Point,-68.06307416,-16.54070763,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Muñoz Reyes No. 1004, Esq. Calle 30 de la Zona de Cota Cota de la ciudad de La Paz"
+Feature,entidadesfinancieras.160,Point,-68.15065278,-16.49548333,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,Av. Baptista No. 1174 (Frente al cementerio General) de la ciudad de La Paz
+Feature,entidadesfinancieras.161,Point,-68.14100226,-16.49818554,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Calle Max Paredes No. 821, Zona Gran Poder de la ciudad de La Paz"
+Feature,entidadesfinancieras.162,Point,-68.16341811,-16.49194256,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Avenida Kollasuyo No. 3000, Zona La Portada de la ciudad de La Paz"
+Feature,entidadesfinancieras.163,Point,-68.12493786,-16.49996727,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,Av. Simón Bolivar No. 1990  de la ciudad de La Paz
+Feature,entidadesfinancieras.164,Point,-68.14052889,-16.49350327,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Plaza Eguino final Pando, esq. América, Edificio Loza No. 289, Planta Baja de la ciudad de La Paz"
+Feature,entidadesfinancieras.165,Point,-68.0806301,-16.54063173,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Calle 18 No. 50, entre Av. Montenegro y Julio Patiño, Zona San Miguel de la ciudad de La Paz"
+Feature,entidadesfinancieras.166,Point,-68.12699759,-16.50979751,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. 20 de Octubre, N° 2396, Edificio María Haydee de la ciudad de La Paz"
+Feature,entidadesfinancieras.167,Point,-68.143325,-16.510075,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Jaimes Freyre, No. 1594, esq. Buenos Aires de la ciudad de La Paz"
+Feature,entidadesfinancieras.168,Point,-68.11688405,-16.49570473,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Tito Yupanqui No. 1394, Zona Villa Copacabana de la ciudad de La Paz"
+Feature,entidadesfinancieras.169,Point,-68.12078333,-16.47975833,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Las Américas No. 205 esquina Puente Villa (frente al Shopping La Cumbre), Zona de Villa Fátima de la ciudad La Paz"
+Feature,entidadesfinancieras.170,Point,-68.10030278,-16.53027222,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Av. Mecapaca, No.6309 y No.6301, Zona Obrajes de la ciudad de La Paz"
+Feature,entidadesfinancieras.171,Point,-68.133425,-16.49810556,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Externa,"Calle Colón esquina Mercado, Edificio Armando Escobar Uría, Zona Central de la ciudad de La Paz"
+Feature,entidadesfinancieras.172,Point,-68.151625,-16.49635278,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,Oficina Administrativa Cementerio General de la ciudad de La Paz
+Feature,entidadesfinancieras.173,Point,-68.10847936,-16.49811607,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,Av. Josefa Mujía s/n dentro de las instalaciones de la Subalcaldía de Villa San Antonio de la ciudad de La Paz
+Feature,entidadesfinancieras.174,Point,-68.14138889,-16.48861667,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,Plaza Antofagasta dentro de las instalaciones de la Terminal de Buses de la ciudad de La Paz
+Feature,entidadesfinancieras.175,Point,-68.08392778,-16.53935278,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Externa,Av. Ballivian esq. Calle 15 interiores supermercado Ketal Zona Calacoto de la ciudad de La Paz
+Feature,entidadesfinancieras.176,Point,-68.12111111,-16.50249444,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Externa,"Instalaciones supermercado Ketal, Av. Busch esq. Villalobos de la ciudad de La Paz"
+Feature,entidadesfinancieras.177,Point,-68.12333154,-16.51050835,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Externa,Instalaciones supermercado Ketal Av. Arce esq. Pinilla de la ciudad de La Paz
+Feature,entidadesfinancieras.178,Point,-68.08668056,-16.53273333,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Oficina Externa,"Hipermercado Ketal, frente al Colegio Militar, lado Megacenter, Zona Irpavi de la ciudad de La Paz"
+Feature,entidadesfinancieras.179,Point,-68.11414889,-16.46859669,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Avenida Ramiro Castillo esquina calle 2 No.121, Zona Villa El Carmen de la ciudad de La Paz"
+Feature,entidadesfinancieras.180,Point,-68.13461667,-16.49795,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,"Instalaciones ENTEL Calle Ayacucho entre Avenidas Camacho y Mercado No.267, Edificio ENTEL de la ciudad de La Paz"
+Feature,entidadesfinancieras.181,Point,-68.13020833,-16.50231667,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,"Instalaciones ENTEL, Calle Federico Zuazo No.1771, Edificio Tower de la ciudad de La Paz"
+Feature,entidadesfinancieras.182,Point,-68.0801971,-16.54098138,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,"Instalaciones ENTEL, Avenida Montenegro casi esquina Calle 18 No.1196, Edificio López Leytón de la ciudad de La Paz"
+Feature,entidadesfinancieras.183,Point,-68.12918975,-16.50357158,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,"Instalaciones ENTEL, calle Federico Zuazo No.1935, Edificio Torre Ventura de la ciudad de La Paz"
+Feature,entidadesfinancieras.184,Point,-68.14757562,-16.49503359,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"calle Baltazar Alquiza esquina calle Huyustus No.85, Zona 14 de septiembre de la ciudad de La Paz"
+Feature,entidadesfinancieras.185,Point,-68.15246679,-16.49969095,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Agencia Fija,"Calle Ayata No.1198, Zona Chamoco Chico de la ciudad de La Paz"
+Feature,entidadesfinancieras.186,Point,-68.14207778,-16.49773056,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Ventanilla,"Calle Pedro de la Gasca No.635, Zona Gran Poder de la ciudad de La Paz"
+Feature,entidadesfinancieras.187,Point,-68.13437753,-16.50016987,geom,Mutual La Primera,Oficina Central,Av. Mariscal Santa Cruz No. 1364
+Feature,entidadesfinancieras.188,Point,-68.14555809,-16.49610461,geom,Mutual La Primera,Agencia Fija,Calle Max Paredes No. 420 Garita de Lima
+Feature,entidadesfinancieras.189,Point,-68.07923149,-16.54040603,geom,Mutual La Primera,Agencia Fija,Av. Montenegro No. 111 San Miguel Centro Comercial La Chiwiña
+Feature,entidadesfinancieras.190,Point,-68.12472799,-16.51046594,geom,Mutual La Primera,Agencia Fija,Av. 6 de Agosto No. 2549 Sopocachi
+Feature,entidadesfinancieras.191,Point,-68.12437237,-16.49893015,geom,Mutual La Primera,Agencia Fija,Av.Saavedra N.22 Esq. Plaza tejada Sorzano (Miraflores)
+Feature,entidadesfinancieras.192,Point,-68.13223404,-16.49590612,geom,Mutual La Primera,Agencia Fija,Calle Ballivian No. 1283 Esq. Colon Zona Central
+Feature,entidadesfinancieras.193,Point,-68.07309597,-16.5307351,geom,Mutual La Primera,Agencia Fija,Calle 16 No. 4 Achumani (Frente al Mercado)
+Feature,entidadesfinancieras.194,Point,-68.13753342,-16.49412982,geom,Mutual La Primera,Agencia Fija,Calle Evaristo Valle N.- 127 San Sebastian
+Feature,entidadesfinancieras.195,Point,-68.13316294,-16.49827605,geom,Mutual La Primera,Ventanilla,Calle Mercado Esq Colon
+Feature,entidadesfinancieras.196,Point,-68.13264722,-16.50127222,geom,Mutual La Paz,Oficina Central,"Av. 16 de  Julio  esq, Bueno   El Prado  1521"
+Feature,entidadesfinancieras.197,Point,-68.13251944,-16.50109722,geom,Mutual La Paz,Agencia Fija,C. Bueno  (Frente Cine Monje Campero)
+Feature,entidadesfinancieras.198,Point,-68.13575833,-16.49663889,geom,Mutual La Paz,Agencia Fija,"Calle Yanacocha NÂº 319 
+Edif. Asbun Antiguo Planta Baja."
+Feature,entidadesfinancieras.199,Point,-68.13977614,-16.4966733,geom,Mutual La Paz,Agencia Fija,C.Illampu NÂº 778-782 esquina calle Santa Cruz
+Feature,entidadesfinancieras.200,Point,-68.12589334,-16.51054002,geom,Mutual La Paz,Agencia Fija,Av. 20 de Octubre esq. C. Pedro Salazar  NÂº 2497
+Feature,entidadesfinancieras.201,Point,-68.10630948,-16.52734067,geom,Mutual La Paz,Agencia Fija,Av. Hernando Siles    Esq. Calle 11 Edificio El Parque
+Feature,entidadesfinancieras.202,Point,-68.08042679,-16.54074998,geom,Mutual La Paz,Agencia Fija,Av.  Montenegro  NÂº 1223
+Feature,entidadesfinancieras.203,Point,-68.12382835,-16.50031062,geom,Mutual La Paz,Agencia Fija,Av.  Saavedra NÂº   1740
+Feature,entidadesfinancieras.204,Point,-68.11640794,-16.49585133,geom,Mutual La Paz,Agencia Fija,Av. Esteban Arce NÂº 1828
+Feature,entidadesfinancieras.205,Point,-68.12009341,-16.47862737,geom,Mutual La Paz,Agencia Fija,C. Ocobaya  NÂº 286
+Feature,entidadesfinancieras.206,Point,-68.14011389,-16.49060556,geom,Mutual La Paz,Oficina Externa,Av.Montes NÂº 533.
+Feature,entidadesfinancieras.207,Point,-68.13341389,-16.49810278,geom,Mutual La Paz,Ventanilla,Calles Colón y Mercado Â·1298 Ex Bco. del Estado
+Feature,entidadesfinancieras.208,Point,-68.07318184,-16.53158593,geom,Mutual La Paz,Agencia Fija,"Av. Victorio Garcia Lanza Nro. 300, entre calles 15 y 16, Achumani"
+Feature,entidadesfinancieras.209,Point,-68.07026761,-16.54558117,geom,Mutual La Paz,Agencia Fija,"LOCAL NRO. 7 DEL SUPERMERCADO HIPERMAXI, AV. JOSE MARIA AGUIRRE ACHA S/N, ZONA LOS PINOS"
+Feature,entidadesfinancieras.210,Point,-68.10485556,-16.522125,geom,Fondo Financiero Privado Fassil S.A.,Oficina Externa,"Calle Alberto Lambert NÂº 822 Sector A, Zona Alto Obrajes."
+Feature,entidadesfinancieras.211,Point,-68.15236111,-16.49476111,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,Avenida Kollasuyo Zona Callampaya
+Feature,entidadesfinancieras.212,Point,-68.11637454,-16.49585736,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Avenida Esteban Arce 1836, Villa San Antonio - Zona Cruce Villa Copacabana."
+Feature,entidadesfinancieras.213,Point,-68.13247658,-16.49957178,geom,Fondo Financiero Privado Fassil S.A.,Sucursal,Avenida Gral Camacho N 1415 - 1425 1er piso
+Feature,entidadesfinancieras.214,Point,-68.12096506,-16.51261383,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Avenida Arce 2779,  Edificio El Escorial - Planta Baja"
+Feature,entidadesfinancieras.215,Point,-68.13259167,-16.49952778,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,Avenida Gral Camcho N 1415 - 1425
+Feature,entidadesfinancieras.216,Point,-68.06359167,-16.54086667,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Avenida Muños Reyes Nº800 esquina Calle 30, Zona COTA Cota"
+Feature,entidadesfinancieras.217,Point,-68.13984057,-16.49969095,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Calle Maximiliano Paredes entre Calles Emilio Calderón y Sagárnaga No. 923, Zona Gran Poder"
+Feature,entidadesfinancieras.218,Point,-68.1334313,-16.49804614,geom,Fondo Financiero Privado Prodem S.A.,Ventanilla,CALLE MERCADO EX BANCO DEL ESTADO
+Feature,entidadesfinancieras.219,Point,-68.12751998,-16.51080113,geom,Fondo Financiero Privado Prodem S.A.,Oficina Central,C/ BELISARIO SALINAS # 520 ESQ. SANCHEZ LIMA
+Feature,entidadesfinancieras.220,Point,-68.13425469,-16.49871801,geom,Fondo Financiero Privado Prodem S.A.,Sucursal,AV CAMACHO 1277 ESQ. COLON
+Feature,entidadesfinancieras.221,Point,-68.12751998,-16.51080113,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,BELISARIO SALINAS NO. 520 ESQ. SANCHEZ LIMA
+Feature,entidadesfinancieras.222,Point,-68.07822537,-16.53878079,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,AV. BALLIVIAN No. 1323
+Feature,entidadesfinancieras.223,Point,-68.14643665,-16.49579622,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,AV. BAPTISTA # 845
+Feature,entidadesfinancieras.224,Point,-68.13967534,-16.49634086,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,CALLE ILLAMPU ESQ. SANTA CRUZ
+Feature,entidadesfinancieras.225,Point,-68.13425469,-16.49871801,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,AV. CAMACHO ESQ. COLON No. 2277
+Feature,entidadesfinancieras.226,Point,-68.13997908,-16.50085477,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,CALLE RODRIGUEZ ESQ. LARA # 607
+Feature,entidadesfinancieras.227,Point,-68.12079743,-16.50526806,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,AV. SAAVEDRA 820
+Feature,entidadesfinancieras.228,Point,-68.13675016,-16.49399982,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,Av. Montes NÂº 755
+Feature,entidadesfinancieras.229,Point,-68.11951895,-16.47746683,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,AV. DE LAS AMERICAS ESQ. VIRGEN DEL CARMEN
+Feature,entidadesfinancieras.230,Point,-68.14307304,-16.49530811,geom,Fondo Financiero Privado Prodem S.A.,Oficina Externa,"CALLE TUMUSLA No.590-A, GALERIA MULTICENTRO SANTO TOMAS (ACERA DE SUBIDA, FRENTE AL INGRESO DE LA CALLE ORTEGA)"
+Feature,entidadesfinancieras.231,Point,-68.11652942,-16.49608024,geom,Fondo Financiero Privado Prodem S.A.,Oficina Externa,AV. 31 DE OCTUBRE Y PASOS KANQUI NO. 1525 DEL CRUCE DE VILLA COPACABANA
+Feature,entidadesfinancieras.232,Point,-68.11990798,-16.47812453,geom,Fondo Financiero Privado Prodem S.A.,Oficina Externa,AVENIDA LAS AMERICAS ESQ. PUENTE VILLA
+Feature,entidadesfinancieras.233,Point,-68.13364717,-16.50202472,geom,Eco Futuro S.A. F. F. P.,Oficina Central,Calle México NÂº 1530 entre Otero de la Vega y Nicolás Acosta - Zona de San Pedro
+Feature,entidadesfinancieras.234,Point,-68.10370865,-16.52849289,geom,Eco Futuro S.A. F. F. P.,Sucursal,"Calle Gabriel Gozalvez Nº 228, entre Avenida Arce y Avenida 6 de Agosto - Zona San Jorge"
+Feature,entidadesfinancieras.235,Point,-68.1386,-16.49291111,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Plaza Alonso de Mendoza NÂº 284 - Zona Central
+Feature,entidadesfinancieras.236,Point,-68.10366976,-16.52848456,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Av. Hernando Siles NÂº 6204 esq. Calle 16 de Obrajes
+Feature,entidadesfinancieras.237,Point,-68.15238056,-16.49538333,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Av. Baptista y José MarÍa AsÍn Nº788 - Zona El Tejar
+Feature,entidadesfinancieras.238,Point,-68.11623089,-16.49562577,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Cruce de Villa Copacabana y Villa San Antonio sobre la Av.Esteban Arce NÂº 1843
+Feature,entidadesfinancieras.239,Point,-68.133629,-16.50205403,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Calle México NÂº 1530 entre Otero de la Vega y Nicolás Acosta - Zona de San Pedro
+Feature,entidadesfinancieras.240,Point,-68.07714167,-16.54401667,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,Calle 21 NÂº 8342 esq. Calle Pancara -Zona Calacoto
+Feature,entidadesfinancieras.241,Point,-68.12024872,-16.47872909,geom,Eco Futuro S.A. F. F. P.,Agencia Fija,"Av. de las Américas NÂº 294 esq. Ocobaya - Zona Villa Fátima
+"
+Feature,entidadesfinancieras.242,Point,-68.1207661,-16.4791161,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Avenida Las Américas NÂº 250, Zona Villa Fátima"
+Feature,entidadesfinancieras.243,Point,-68.14324393,-16.49492523,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,Calle Tumusla NÂº 602
+Feature,entidadesfinancieras.244,Point,-68.07427401,-16.53312895,geom,Fondo Financiero Privado Fassil S.A.,Agencia Fija,"Avenida Garcia Lanza Nro. 60, entre Calle Nro. 13 y Calle Nro. 1"
+Feature,entidadesfinancieras.245,Point,-68.12692568,-16.50958814,geom,Fondo de la Comunidad S.A. F.F.P.,Agencia Fija,Av. 20 de Octubre # 2379 entre Belisario Salinas y Rosendo Gutierrez
+Feature,entidadesfinancieras.246,Point,-68.12223333,-16.502325,geom,Cooperativa de Ahorro y Crédito Los Remedios Ltda.,Oficina Central,"Av. Saavedra NÂº 1975 Zona Miraflores
+Entre Villalobos y Diaz Romero"
+Feature,entidadesfinancieras.247,Point,-68.13407222,-16.49906111,geom,BNB LEASING S.A.,Oficina Central,AV.CAMCHO Nº 1312
+Feature,entidadesfinancieras.248,Point,-68.12247817,-16.51095712,geom,Almacenes Internacionales S.A.,Agencia Fija,"Av. Arce Nro 2631
+Edif. Multicine Piso  16"
+Feature,entidadesfinancieras.249,Point,-68.13295616,-16.49966134,geom,WARRANT MERCANTIL SANTA CRUZ S.A.,Oficina Central,Avenida Camacho Nº 1448 Piso 6
+Feature,entidadesfinancieras.250,Point,-68.12213889,-16.51090278,geom,Bisa Leasing S.A.,Oficina Central,Avenida Arce Nro. 2631 Edificio Multicine Piso 16
+Feature,entidadesfinancieras.251,Point,-68.12353889,-16.51281389,geom,Fortaleza Leasing S.A.,Oficina Central,Av. 20 de Octubre esq. Campos Nº2665 Edificio Torre Azul Piso 7
+Feature,entidadesfinancieras.252,Point,-68.13427887,-16.50039988,geom,ENSERBIC S.A.,Sucursal,AVENIDA MARISCAL SANTA CRUZ No. 1392 EDIF. CAM. NAL. DE COMERCIO
+Feature,entidadesfinancieras.253,Point,-68.12822222,-16.51502778,geom,INFOCRED BIC S.A.,Oficina Central,CALLE VINCENTI Nº 656 ZONA SOPOCHI
+Feature,entidadesfinancieras.254,Point,-68.13427388,-16.50034449,geom,ADMINISTRADORA DE CAMARAS DE COMPENSACION Y LIQUIDACION S.A. (ACCL S.A.),Oficina Central,AVENIDA MARISCAL SANTA CRUZ NO.1392 EDIFICIO CAMARA NACIONAL DE COMERCIO PISO 15 ZONA CENTRAL
+Feature,entidadesfinancieras.255,Point,-68.12837528,-16.50646107,geom,CIDRE,Sucursal,"AV. 6 DE AGOSTO #2105, EDIFICIO SANTA TERESA, SOPOCACHI."
+Feature,entidadesfinancieras.256,Point,-68.12524167,-16.51558333,geom,CRECER,Oficina Central,Calle Demetrio Canelas Nº27 entre calle 16 y 17 de Obrajes
+Feature,entidadesfinancieras.257,Point,-68.13676389,-16.50238333,geom,CRECER,Sucursal,Calle Demetrio Canelas Nº 27 entre calles 16 y 17 de Obrajes
+Feature,entidadesfinancieras.258,Point,-68.10085583,-16.52997962,geom,CRECER,Agencia Fija,Calle Demetrio Canelas Nº27 entre la 16 y 17 de Obrajes
+Feature,entidadesfinancieras.259,Point,-68.12239722,-16.50161944,geom,CRECER,Agencia Fija,Calle Diaz Romero Nº 1320 casi esquina Saavedra
+Feature,entidadesfinancieras.260,Point,-68.13676389,-16.50238333,geom,CRECER,Agencia Fija,Calle Almirante Grau Nº473
+Feature,entidadesfinancieras.261,Point,-68.15553993,-16.49627728,geom,CRECER,Agencia Fija,"Calle Heroes del PacÍfico esquina Reyes Cardona N° 1645, Zona El Tejar"
+Feature,entidadesfinancieras.262,Point,-68.05196389,-16.53796111,geom,CRECER,Agencia Fija,"Avenida Defensores del Chaco Nº 1138, esquina Calle 43,Zona Chasquipampa"
+Feature,entidadesfinancieras.263,Point,-68.04707359,-16.53712091,geom,DIACONIA,Agencia Fija,"AVENIDA DEFENSORES DEL CHACO, NÂº 85, ENTRE CALLES 51 y 52
+"
+Feature,entidadesfinancieras.264,Point,-68.11620364,-16.49561235,geom,DIACONIA,Agencia Fija,"AVENIDA ESTEBAN ARCE, NÂº 1843, CRUCE VILLA COPACABANA
+"
+Feature,entidadesfinancieras.265,Point,-68.11774367,-16.47487739,geom,DIACONIA,Agencia Fija,"PLAZA DEL MAESTRO, N° 70, ESQ. COVENDO, ZONA VILLA FA�TIMA
+"
+Feature,entidadesfinancieras.266,Point,-68.14156233,-16.49451661,geom,DIACONIA,Agencia Fija,"CALLE TUMUSLA , NÂº 481, ENTRE PLAZA EGUINO y CALLE ISAAC TAMAYO
+"
+Feature,entidadesfinancieras.267,Point,-68.14358611,-16.48356111,geom,DIACONIA,Agencia Fija,"AVENIDA BALTAZAR DE SALAS, NÂº 100, ENTRE AVENIDA PERIFERICA
+"
+Feature,entidadesfinancieras.268,Point,-68.14328333,-16.51054722,geom,DIACONIA,Agencia Fija,"AVENIDA JAIMES FREYRE, NÂº 998, ENTRE AVENIDA BUENOS AIRES Y PLAZA EL CARMEN
+"
+Feature,entidadesfinancieras.269,Point,-68.12167174,-16.51171641,geom,IDEPRO,Oficina Central,Calle Campos No. 132
+Feature,entidadesfinancieras.270,Point,-68.14094233,-16.51113069,geom,IMPRO,Oficina Central,CALLE MANUEL ERGUETA No 1741 ZONA TEMBLADERANI
+Feature,entidadesfinancieras.271,Point,-68.11824725,-16.47672399,geom,EMPRENDER,Agencia Fija,AV. 15 DE ABRIL #490 VILLA FATIMA
+Feature,entidadesfinancieras.272,Point,-68.14370268,-16.5097464,geom,EMPRENDER,Agencia Fija,AV. BUENOS AIRES Y JAIMES FREYRE No. 1578 ZONA TEMBLADERANI
+Feature,entidadesfinancieras.273,Point,-68.1343482,-16.49868004,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Oficina Central,"Av. Camacho NÂº 1277, Edif. Krsul, Piso 3, Of. 301 - Zona Central"
+Feature,entidadesfinancieras.274,Point,-68.10525833,-16.49925278,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,Av. Ciudad del Niño esq. Av. 23 de Marzo NÂº 500 -  Zona Pampahasi
+Feature,entidadesfinancieras.275,Point,-68.1140126,-16.46790043,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,Av. Ramiro Castillo esq. Calle 3 NÂº 35 - Villa El Carmen
+Feature,entidadesfinancieras.276,Point,-68.15550549,-16.49625622,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,"Av. Heroes del Pacífico,"
+Feature,entidadesfinancieras.277,Point,-68.14058727,-16.49943777,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,"Calle Sagárnaga NÂº 547, Edif. María PB, Entre Plaza Gran Poder y calle  Max Paredes"
+Feature,entidadesfinancieras.278,Point,-68.13433709,-16.49867727,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,"Av. Camacho NÂº 1277, Edif. Krsul, Piso 3, Of. 301 - Zona Central"
+Feature,entidadesfinancieras.279,Point,-68.13600397,-16.49694986,geom,Cooperativa de Ahorro y Crédito La Sagrada Familia Ltda.,Agencia Fija,En Tramite
+Feature,entidadesfinancieras.280,Point,-68.12622153,-16.51025309,geom,Cooperativa de Ahorro y Crédito El Buen Samaritano Ltda.,Agencia Fija,AV.20 DE OCTUBRE No.2463-A ENTRE CALLE BELISARIO SALINAS Y PEDRO SALAZAR
+Feature,entidadesfinancieras.281,Point,-68.15335561,-16.494533,geom,Fondo Financiero Privado Prodem S.A.,Agencia Fija,CALLE BUSTILLOS NÂº713 (ZONA EL TEJAR)
+Feature,entidadesfinancieras.282,Point,-68.07522675,-16.53405145,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Avenida Garcia Lanza No. 15 entre calles 11 y 12 achumani, zona sur."
+Feature,entidadesfinancieras.283,Point,-68.12140887,-16.4810626,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Av. Las Américas No. 353, Zona Villa Fatima"
+Feature,entidadesfinancieras.284,Point,-68.12063269,-16.51297397,geom,BANCO FORTALEZA S.A.,Oficina Central,"Av. Arce No. 2799 esq. calle Cordero, Zona San Jorge"
+Feature,entidadesfinancieras.285,Point,-68.13381969,-16.50084117,geom,BANCO FORTALEZA S.A.,Sucursal,"Av. 16 de Julio No. 1440, Zona Central"
+Feature,entidadesfinancieras.286,Point,-68.12063269,-16.51297397,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Av. Arce No. 2799 esq. calle Cordero, Zona San Jorge"
+Feature,entidadesfinancieras.287,Point,-68.14512222,-16.49562778,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Av. Tumusla No. 765, entre Av. Buenos Aires y Plaza Garita de Lima, Zona 14 de Septiembre"
+Feature,entidadesfinancieras.288,Point,-68.13205751,-16.4959891,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Calle Colón No. 610 casi esq. Ballivián, Zona Central"
+Feature,entidadesfinancieras.289,Point,-68.07662319,-16.5464213,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Calle 21 s/n esq. Av. Costanera, Zona Sur"
+Feature,entidadesfinancieras.290,Point,-68.08557898,-16.57021638,geom,BANCO FORTALEZA S.A.,Agencia Fija,"Av. Florida No. 190 entre calles 6 y 7, Zona Mallasa"
+Feature,entidadesfinancieras.291,Point,-68.13420001,-16.4987448,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,Av. CAMACHO ESQ. CALLE COLON # 1277
+Feature,entidadesfinancieras.292,Point,-68.12760706,-16.51085997,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,CALLE BELISARIO SALINAS # 520
+Feature,entidadesfinancieras.293,Point,-68.14135902,-16.48848663,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,"TERMINAL DE BUSES LA PAZ
+AV. URUGUAY ESQ. AV. PERU"
+Feature,entidadesfinancieras.294,Point,-68.12363889,-16.51285278,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,"AV. 20 DE OCTUBRE # 2665 ESQ. CAMPOS. 
+EDIFICIO TORRE AZUL
+SEGUNDO PISO"
+Feature,entidadesfinancieras.295,Point,-68.13575833,-16.49663889,geom,Mutual La Paz,Cajero Automático,"C. YANACOCHA NO. 319, EDIFICIO ASBUN ANTIGUO"
+Feature,entidadesfinancieras.296,Point,-68.08723333,-16.53188333,geom,Mutual La Primera,Cajero Automático,MEGACENTER PLAYON DE IRPAVI
+Feature,entidadesfinancieras.297,Point,-68.12010833,-16.47861667,geom,Mutual La Paz,Cajero Automático,CALLE OCOBAYA ESQ. YANACACHI
+Feature,entidadesfinancieras.298,Point,-68.11640794,-16.49585133,geom,Mutual La Paz,Cajero Automático,AVENIDA ESTEBAN ARCE NÂº 1828 CRUCE VILLA SAN ANTONIO Y VILLA COPACABANA
+Feature,entidadesfinancieras.299,Point,-68.10630948,-16.52734067,geom,Mutual La Paz,Cajero Automático,AV. HERNANDO SILES ESQ. CALLE 11 EDIF. EL PARQUE
+Feature,entidadesfinancieras.300,Point,-68.13977614,-16.4966733,geom,Mutual La Paz,Cajero Automático,CALLE ILLAMPU
+Feature,entidadesfinancieras.301,Point,-68.13268736,-16.50123564,geom,Mutual La Paz,Cajero Automático,AV. 16 DE JULIO No. 1521
+Feature,entidadesfinancieras.302,Point,-68.12382835,-16.50031062,geom,Mutual La Paz,Cajero Automático,AV. SAAVEDRA No. 1740
+Feature,entidadesfinancieras.303,Point,-68.08041176,-16.54078291,geom,Mutual La Paz,Cajero Automático,AV. MONTENEGRO No. 1223
+Feature,entidadesfinancieras.304,Point,-68.12589334,-16.51054002,geom,Mutual La Paz,Cajero Automático,Av. 20 de Octubre esq. C. Pedro Salazar  NÂº 2497
+Feature,entidadesfinancieras.305,Point,-68.08659444,-16.5337,geom,Mutual La Paz,Cajero Automático,AV. RAFAEL PAVON S/N (MEGACENTER)SUPERMERCADOS KETAL
+Feature,entidadesfinancieras.306,Point,-68.08707778,-16.53210556,geom,Banco Ganadero S.A.,Cajero Automático,Centro Recreacional Megacenter - Av. Rafael Pabón
+Feature,entidadesfinancieras.307,Point,-68.12245696,-16.51098035,geom,Banco Solidario S.A.,Cajero Automático,"Av. Arce #2631, dentro de las instalaciones del Multicine, Zona San Jorge.
+"
+Feature,entidadesfinancieras.308,Point,-68.1392,-16.49140556,geom,Banco Solidario S.A.,Cajero Automático,"Av. Montes Nro.614, frente a la calle Uruguay â€“ Zona Central"
+Feature,entidadesfinancieras.309,Point,-68.08719722,-16.53204444,geom,Banco Solidario S.A.,Cajero Automático,"Av. Rafael Pabón, dentro del patio de comidas de Magacenter, Zona Irpavi."
+Feature,entidadesfinancieras.310,Point,-68.13303998,-16.49956516,geom,Banco Unión S.A.,Cajero Automático,"Avenida Camacho Nº 1416, ,zona central"
+Feature,entidadesfinancieras.311,Point,-68.1204204,-16.51338599,geom,Banco Unión S.A.,Cajero Automático,AV ARCE NO.2631 Edificio Multicine Planta Baja
+Feature,entidadesfinancieras.312,Point,-68.13480833,-16.49649444,geom,Banco Unión S.A.,Cajero Automático,Calle Potosí esq. Socabaya interior Shoping Norte
+Feature,entidadesfinancieras.313,Point,-68.13189662,-16.49510601,geom,Banco Unión S.A.,Cajero Automático,c. Indaburo esq. Colon s/n Edif. Contraloria General
+Feature,entidadesfinancieras.314,Point,-68.13310387,-16.49955683,geom,Banco Unión S.A.,Cajero Automático,"Av. Camacho No. 1416, zona Central"
+Feature,entidadesfinancieras.315,Point,-68.13307053,-16.49955127,geom,Banco Unión S.A.,Cajero Automático,Av. Camacho No. 1416 zona Central
+Feature,entidadesfinancieras.316,Point,-68.13330556,-16.49943611,geom,Banco Unión S.A.,Cajero Automático,c. Loayza esq. Camacho N0. 1416
+Feature,entidadesfinancieras.317,Point,-68.13533482,-16.49917788,geom,Banco Unión S.A.,Cajero Automático,"Av. Mariscal Santa Cruz s/n esq. Oruro, zona Central Interior Palacio de Comunicaciones"
+Feature,entidadesfinancieras.318,Point,-68.13304726,-16.49638303,geom,Banco Unión S.A.,Cajero Automático,"Calle Comercio s/n, entre Ayacucho y Colon Edif Camara de Diputados (Interior)"
+Feature,entidadesfinancieras.319,Point,-68.12432233,-16.50883127,geom,Banco Unión S.A.,Cajero Automático,Av.Arce Plaza Isabel La Catolica No. 2479.
+Feature,entidadesfinancieras.320,Point,-68.12426938,-16.50883117,geom,Banco Unión S.A.,Cajero Automático,Av.Arce Plaza Isabel La Catolica No. 2479.
+Feature,entidadesfinancieras.321,Point,-68.13679081,-16.50301561,geom,Banco Unión S.A.,Cajero Automático,"Calle Zoilo Flores, casi esquina Colombia Nº 1366."
+Feature,entidadesfinancieras.322,Point,-68.13677414,-16.50303506,geom,Banco Unión S.A.,Cajero Automático,"Calle Zoilo Flores, casi esquina Colombia Nº 1366."
+Feature,entidadesfinancieras.323,Point,-68.11704623,-16.49391824,geom,Banco Unión S.A.,Cajero Automático,"Avenida Tito Yupanqui Nº 1261, esquina Rafael Ballivian."
+Feature,entidadesfinancieras.324,Point,-68.07868828,-16.54526378,geom,Banco Unión S.A.,Cajero Automático,Avenida Montenegro Nº1365
+Feature,entidadesfinancieras.325,Point,-68.13017734,-16.50234331,geom,Banco Unión S.A.,Cajero Automático,Calle Federico Zuazo Nº1571(Instalaciones Edificio Entel)
+Feature,entidadesfinancieras.326,Point,-68.13978611,-16.49119444,geom,Banco Unión S.A.,Cajero Automático,"Avenida Montes NÂº 101, esquina Calle Pando, en instalaciones de la Agencia Recaudadora de Impuestos LPZ."
+Feature,entidadesfinancieras.327,Point,-68.144275,-16.49491389,geom,Banco Unión S.A.,Cajero Automático,"Avenida Buenos Aires Nº 572, zona 14 de Septiembre."
+Feature,entidadesfinancieras.328,Point,-68.08736667,-16.53176667,geom,Banco Unión S.A.,Cajero Automático,"Megacenter, Av. Vera - Irpavi"
+Feature,entidadesfinancieras.329,Point,-68.132237,-16.50036505,geom,Banco Unión S.A.,Cajero Automático,C. Bueno Edif. YPFB frente mercado Camacho
+Feature,entidadesfinancieras.330,Point,-68.12070833,-16.48093611,geom,Banco Unión S.A.,Cajero Automático,"Avenida Miguel Casimiro Aparicio,esquina Calle Alto Beni NÂº 1510."
+Feature,entidadesfinancieras.331,Point,-68.12111206,-16.49549202,geom,Banco Unión S.A.,Cajero Automático,Avenida Busch NÂº 1333
+Feature,entidadesfinancieras.332,Point,-68.12110372,-16.49551425,geom,Banco Unión S.A.,Cajero Automático,Avenida Busch NÂº 1333
+Feature,entidadesfinancieras.333,Point,-68.14119444,-16.48855278,geom,Banco BISA S.A.,Cajero Automático,Av. Uruguay s/n esq. Av. Perú (interior Terminal de Buses)
+Feature,entidadesfinancieras.334,Point,-68.13279911,-16.50199385,geom,Banco BISA S.A.,Cajero Automático,Av. 16 de Julio Nº 1628 Paseo El Prado
+Feature,entidadesfinancieras.335,Point,-68.09100947,-16.54645499,geom,Banco BISA S.A.,Cajero Automático,Av. Arequipa Nº 8450 La Florida
+Feature,entidadesfinancieras.336,Point,-68.08726389,-16.53279167,geom,Banco BISA S.A.,Cajero Automático,"Megacenter, Patio de Comidas, Av. Rafael Pabon, Irpavi"
+Feature,entidadesfinancieras.337,Point,-68.0895506,-16.56765319,geom,Banco BISA S.A.,Cajero Automático,"Calle Agrario No. 3118 esquina calle 1, Zona Mallasa"
+Feature,entidadesfinancieras.338,Point,-68.12133333,-16.51283889,geom,Banco BISA S.A.,Cajero Automático,Interno (Av. Arce - Embajada Americana)
+Feature,entidadesfinancieras.339,Point,-68.07,-16.54972222,geom,Banco BISA S.A.,Cajero Automático,"Urbanización Colinas de Santa Rita S/N, Alto Auquisamaña"
+Feature,entidadesfinancieras.340,Point,-68.14071944,-16.48854444,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Plaza Antofagasta - Terminal de Buses La Paz
+Feature,entidadesfinancieras.341,Point,-68.12231904,-16.51115152,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Arce No.2631 (Multicine) - Sopocachi
+Feature,entidadesfinancieras.342,Point,-68.14203611,-16.50006944,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Eloy Salmón No.929
+Feature,entidadesfinancieras.343,Point,-68.087175,-16.53238889,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Rafael Pabón S/N (Mega Center) - Irpavi
+Feature,entidadesfinancieras.344,Point,-68.08718056,-16.53211389,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,MLP461 MEGACENTER LOBBY
+Feature,entidadesfinancieras.345,Point,-68.0907981,-16.54692094,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. AREQUIPA 8450
+Feature,entidadesfinancieras.346,Point,-68.13291785,-16.49962322,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. CAMACHO NO 1448 ENTRE CALLE LOAYZA Y CALLE BUENO
+Feature,entidadesfinancieras.347,Point,-68.13291785,-16.49962322,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. CAMACHO NO 1448 ENTRE CALLE LOAYZA Y CALLE BUENO
+Feature,entidadesfinancieras.348,Point,-68.12821899,-16.50710879,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. 6 DE AGOSTO ENTRE  AGUSTIN ASPIAZU Y FERNANDO GUACHALLA (INTERIOR EDIF. HOY)
+Feature,entidadesfinancieras.349,Point,-68.08504266,-16.54021091,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. SANCHEZ BUSTAMANTE ESQ. CALLE 14 DE CALACOTO - EDIF. METROBOL  (INTERIOR NNUU)
+Feature,entidadesfinancieras.350,Point,-68.13291785,-16.49962322,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. CAMACHO NO 1448 ENTRE CALLE LOAYZA Y CALLE BUENO
+Feature,entidadesfinancieras.351,Point,-68.13443882,-16.49769687,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Calle Ayacucho Casi esq. Mercado No. 295
+Feature,entidadesfinancieras.352,Point,-68.12208333,-16.51100278,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AVENIDA ARCE NRO 2631 (INTERIOR MULTICINE)
+Feature,entidadesfinancieras.353,Point,-68.08397929,-16.53941569,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. BALLIVIAN, ESQ. CALLE 15, SUBSUELO SUPERMERCADO KETAL, ZONA CALACOTO"
+Feature,entidadesfinancieras.354,Point,-68.08716944,-16.53200278,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. RAFAEL PABON, COMPLEJO MEGA CENTER, PLAZA DE COMIDAS, ZONA IRPAVI"
+Feature,entidadesfinancieras.355,Point,-68.13474448,-16.49658838,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE POTOSI, ESQ. SOCABAYA, SUBSUELO SHOPPING NORTE, ZONA CENTRAL"
+Feature,entidadesfinancieras.356,Point,-68.14075833,-16.48843611,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV.ANTOFAGASTA, ESQ. AV. PERU, TERMINAL DE BUSES, ZONA NORTE"
+Feature,entidadesfinancieras.357,Point,-68.13441238,-16.4989165,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. CAMACHO NÂº 1296, ESQ. COLON, AGENCIA BNB, ZONA CENTRAL"
+Feature,entidadesfinancieras.358,Point,-68.13437349,-16.49894428,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. CAMACHO NÂº 1296, ESQ. COLON, AGENCIA BNB, ZONA CENTRAL"
+Feature,entidadesfinancieras.359,Point,-68.13434849,-16.49895817,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. CAMACHO NÂº 1296, ESQ. COLON, AGENCIA BNB, ZONA CENTRAL"
+Feature,entidadesfinancieras.360,Point,-68.13436238,-16.49895539,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. CAMACHO NÂº 1296, ESQ. COLON, AGENCIA BNB, ZONA CENTRAL"
+Feature,entidadesfinancieras.361,Point,-68.1437676,-16.48902277,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. MONTES NÂº 400, INTERIOR CBN, ZONA NORTE (USO EXCLUSIVO DEL PERSONAL DE LA EMPRESA)"
+Feature,entidadesfinancieras.362,Point,-68.12235556,-16.51109444,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. ARCE Nº 2631, INTERIOR COMPLEJO MULTICINE"
+Feature,entidadesfinancieras.363,Point,-68.07203332,-16.53446348,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. ALEXANDER Nº 100, ENTRE CALLES 14 Y 15, ZONA ACHUMANI"
+Feature,entidadesfinancieras.364,Point,-68.14421035,-16.49405575,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. BUENOS AIRES, ESQ. GARCILAZO DE LA VEGA, CASETA 14 BLOQUE ""Z"", CENTRO COMERCIAL GARCILAZO DE LA VEGA, ZONA 14 DE SEPTIEMBRE"
+Feature,entidadesfinancieras.365,Point,-68.14028056,-16.49539722,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV.ILLAMPU Nº704, ESQ. CALLE MARIANO GRANEROS, HOTEL ROSARIO, ZONA ROSARIO"
+Feature,entidadesfinancieras.366,Point,-68.06358137,-16.52137744,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV.STRONGUEST Nº110, ESQ.CALLE 29-A, ZONA ACHUMANI"
+Feature,entidadesfinancieras.367,Point,-68.12827788,-16.49752843,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE YUNGAS Nº 952, MERCADO YUNGAS, ZONA SANTA BARBARA"
+Feature,entidadesfinancieras.368,Point,-68.10214167,-16.52905833,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE 16 Nº 460, ESQ. AV. 14 DE SEPTIEMBRE, ZONA OBRAJES"
+Feature,entidadesfinancieras.369,Point,-68.12393622,-16.50019957,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. SAAVEDRA Nº 1716 EDIF. DELGADILLO, ZONA MIRAFLORES"
+Feature,entidadesfinancieras.370,Point,-68.10667621,-16.52317763,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. DEL MAESTRO Nº954, ZONA ALTO OBRAJES"
+Feature,entidadesfinancieras.371,Point,-68.14136389,-16.49974722,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE SEBASTIAN SEGUROLA Nº 1050, ZONA GRAN PODER"
+Feature,entidadesfinancieras.372,Point,-68.1295229,-16.50716787,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. 20 DE OCTUBRE NÂº 2095, ESQ. ASPIAZU, AGENCIA BNB, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.373,Point,-68.08678412,-16.52481111,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. ALTAMIRANO Nº 6629, ENTRE CALLES 5 Y 6, ZONA IRPAVI"
+Feature,entidadesfinancieras.374,Point,-68.13600278,-16.50176667,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE ALMIRANTE GRAU Nº 327, ESQ. G. GONZALES, ZONA SAN PEDRO"
+Feature,entidadesfinancieras.375,Point,-68.10645,-16.52724444,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. HERNANDO SILES NÂº 5688, ENTRE CALLES 10 Y 11, ZONA OBRAJES"
+Feature,entidadesfinancieras.376,Point,-68.13572678,-16.4949642,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE COMERCIO NÂº 872, ESQ. GENARO SANJINES, ZONA CENTRAL"
+Feature,entidadesfinancieras.377,Point,-68.14778611,-16.49555278,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. BAPTISTA, ESQ. CALATAYUD Nº 950, ZONA CALLAMPAYA"
+Feature,entidadesfinancieras.378,Point,-68.13102637,-16.50362992,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. 16 DE JULIO, CINE 16 DE JULIO, EL PRADO, ZONA CENTRAL"
+Feature,entidadesfinancieras.379,Point,-68.13358088,-16.50102627,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. 16 DE JULIO, EDIF. MULTICENTRO ENTEL, EL PRADO, ZONA CENTRAL"
+Feature,entidadesfinancieras.380,Point,-68.12016111,-16.506475,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. SAAVEDRA NÂº 2218, FRENTE HOSPITAL DE CLINICAS, ZONA MIRAFLORES"
+Feature,entidadesfinancieras.381,Point,-68.1386221,-16.49748697,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE SAGARNAGA NÂº 326, HOTEL SAGARNAGA, ZONA EL ROSARIO"
+Feature,entidadesfinancieras.382,Point,-68.08696944,-16.53185,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. RAFAEL PABON, COMPLEJO MEGA CENTER, AGENCIA BNB, ZONA IRPAVI"
+Feature,entidadesfinancieras.383,Point,-68.12232377,-16.49533597,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. HEROES DEL PACIFICO NÂº 1384, CASI ESQ. EEUU, AGENCIA BNB, ZONA MIRAFLORES"
+Feature,entidadesfinancieras.384,Point,-68.13736156,-16.49317394,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. MONTES NÂº 744, AGENCIA BNB, ZONA CENTRAL"
+Feature,entidadesfinancieras.385,Point,-68.0788051,-16.54050247,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. MONTENEGRO NÂº 1420, EDIF. ARCANGEL, AGENCIA BNB, ZONA SAN MIGUEL"
+Feature,entidadesfinancieras.386,Point,-68.12954163,-16.50715531,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. 20 DE OCTUBRE NÂº 2095, ESQ. ASPIAZU, AGENCIA BNB, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.387,Point,-68.12775824,-16.51099137,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE BELISARIO SALINAS NÂº 525, ESQ. PEDRO GARCIA, TERRASUR, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.388,Point,-68.12032415,-16.50353664,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. ARGENTINA NÂº 2046, FRENTE UNIVALLE, ZONA MIRAFLORES"
+Feature,entidadesfinancieras.389,Point,-68.14968889,-16.47780278,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. CHACALTAYA NÂº 1258, UNIVERSIDAD SALESIANA, ZONA ACHACHICALA"
+Feature,entidadesfinancieras.390,Point,-68.12633439,-16.51013659,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. 20 DE OCTUBRE NÂº 2453, PLAZA ABAROA, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.391,Point,-68.13058082,-16.50494438,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,AVENIDA VILLAZON Nº 1957 PLAZA DEL BICENTENARIO (FRENTE MONOBLOCK) ZONA CENTRAL
+Feature,entidadesfinancieras.392,Point,-68.12904167,-16.51405833,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE VICTOR SANJINES NÂº 2662, PLAZA ESPAÑA, HOTEL ALCALA, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.393,Point,-68.09115431,-16.54181837,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE 8 NÂº 35, PLAZA HUMBOLT, ZONA CALACOTO"
+Feature,entidadesfinancieras.394,Point,-68.13474167,-16.50223611,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"PLAZA SUCRE NÂº 1483, ZONA SAN PEDRO"
+Feature,entidadesfinancieras.395,Point,-68.07278333,-16.54535556,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. AGUIRRE ACHA NÂº 27, ZONA LOS PINOS"
+Feature,entidadesfinancieras.396,Point,-68.08655143,-16.53966897,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. BALLIVIAN, ESQ. CALLE 13, AUTOMOVIL CLUB BOLIVIANO, ZONA CALACOTO"
+Feature,entidadesfinancieras.397,Point,-68.12340889,-16.50993485,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. ARCE Nº 2529, EDIF. SANTA ISABEL, ZONA SOPOCACHI"
+Feature,entidadesfinancieras.398,Point,-68.14051759,-16.4933936,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. PANDO NÂº 289, ESQ. AMERICA, EDIF. LOZA, ZONA OESTE"
+Feature,entidadesfinancieras.399,Point,-68.12140833,-16.50374167,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. SAAVEDRA ESQ. PLAZA SAN MARTIN GASOLINERA SIEMPRE FULL
+Feature,entidadesfinancieras.400,Point,-68.07835632,-16.54011625,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. MONTENEGRO # 1471  CASI ESQ. CALLE 21, SAN MIGUEL"
+Feature,entidadesfinancieras.401,Point,-68.08913786,-16.54042018,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. BALLIVIAN NRO 415 ENTRE CALLE 10 Y CALLE 11 , CALACOTO"
+Feature,entidadesfinancieras.402,Point,-68.12031943,-16.47877987,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. LAS AMERICAS S/N ESQ. EX SURTIDOR
+Feature,entidadesfinancieras.403,Point,-68.13994015,-16.49618187,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE ILLAMPU ENTRE SANTA CRUZ Y GRANEROS
+Feature,entidadesfinancieras.404,Point,-68.12159722,-16.494725,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Héroes del Pacifico No. 1424 entre Estados Unidos y Busch
+Feature,entidadesfinancieras.405,Point,-68.11671663,-16.49615379,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AVENIDA 31 DE OCTUBRE 1536, CRUCE VILLA SAN ANTONIO VILLA COPACABANA"
+Feature,entidadesfinancieras.406,Point,-68.07287482,-16.54536295,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,JOSE AGUIRRE ACHA ENTRE CALLE 5 Y CALLE 6 - LIBRERI�A BAGU
+Feature,entidadesfinancieras.407,Point,-68.12217222,-16.51130278,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"Av. Arce 2671 Esq. Gozalvez , Edificio El Paraíso"
+Feature,entidadesfinancieras.408,Point,-68.13474899,-16.49749276,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE MERCADO # 1190 EDIFICIO ELECTRA
+Feature,entidadesfinancieras.409,Point,-68.14237827,-16.49324541,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV MANCO KAPAC N 373 ESQUINA ISAAC TAMAYO
+Feature,entidadesfinancieras.410,Point,-68.12398198,-16.50011437,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,PLAZA DEL ESTADIO ESQ. AV. SAAVEDRA NRO 1716
+Feature,entidadesfinancieras.411,Point,-68.14398611,-16.49408611,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. BUENOS AIRES ESQ. HUYUSTUS
+Feature,entidadesfinancieras.412,Point,-68.12692385,-16.50994778,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"PLAZA ABAROA, BELISARIO SALINAS CASI ESQ. 20 DE OCTUBRE, EDIF. TORRE ZAFIRO"
+Feature,entidadesfinancieras.413,Point,-68.12958889,-16.50443056,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. Villazón Casi Esq. Federico Zuazo (Interior UMSA PB)
+Feature,entidadesfinancieras.414,Point,-68.14315801,-16.49842597,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"Calle Eloy Salmón No. 820, ZONA GRAN PODER"
+Feature,entidadesfinancieras.415,Point,-68.14778605,-16.49551497,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Calatayud Nro. 950 casi Av. Baptista
+Feature,entidadesfinancieras.416,Point,-68.12134574,-16.50140276,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"C/ Díaz Romero Esq. Gamarra y Av. Busch , MIRAFLORES"
+Feature,entidadesfinancieras.417,Point,-68.07821667,-16.53913889,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"Av Ballivian esq. Calle 21 de Calacoto No. 1426, SAN MIGUEL"
+Feature,entidadesfinancieras.418,Point,-68.12415021,-16.4989882,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,PLAZA TEJADA SORZANO (STADIUM) CASI ESQ. AV. SAAVEDRA (RADIO CLUB)
+Feature,entidadesfinancieras.419,Point,-68.13552998,-16.50211605,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"PLAZA SUCRE C. COLOMBIA # 340 ENTRE CAÑADA STRONGEST Y GRAL. GONZALES, ZONA SAN PEDRO"
+Feature,entidadesfinancieras.420,Point,-68.12070575,-16.47946784,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. De las Americas S/N Esq. Puente Villa Ex Fabrica de Chocolates Corona
+Feature,entidadesfinancieras.421,Point,-68.12130556,-16.50140833,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,C/ Díaz Romero Esq. Gamarra y Av. Busch
+Feature,entidadesfinancieras.422,Point,-68.13308396,-16.50159988,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. 16 de Julio Nº1544 lado Edif. 16 de Julio
+Feature,entidadesfinancieras.423,Point,-68.13308396,-16.50159988,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. 16 de Julio Nº1544 lado Edif. 16 de Julio
+Feature,entidadesfinancieras.424,Point,-68.12790847,-16.5105241,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. Sanchez Lima Nº2362 (Supermercado Fidalga)
+Feature,entidadesfinancieras.425,Point,-68.13599744,-16.49578932,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"Calle Potosi Nº920, Esq. Genaro Sanjinez (Hotel Presidente)"
+Feature,entidadesfinancieras.426,Point,-68.13599744,-16.49578932,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"Calle Potosi Nº920, Esq. Genaro Sanjinez (Hotel Presidente)"
+Feature,entidadesfinancieras.427,Point,-68.14105771,-16.4880793,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. PERU NRO 291 SOBRE TERMINAL DE BUSES
+Feature,entidadesfinancieras.428,Point,-68.13083056,-16.50400556,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,PLAZA DEL ESTUDIANTE CASI ESQ. BATALLON COLORADOS # 1907
+Feature,entidadesfinancieras.429,Point,-68.1370212,-16.49326916,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. MONTES Nº 741 CASI PLAZA PEREZ VELASCO
+Feature,entidadesfinancieras.430,Point,-68.13291785,-16.49962322,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. CAMACHO  NO 1448 ENTRE LOAYZA Y CALLE BUENO
+Feature,entidadesfinancieras.431,Point,-68.13552998,-16.50211605,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"PLAZA SUCRE, C. COLOMBIA  # 340 ENTRE CAÑADA STRONGEST Y GRAL. GONZALES - ZONA SAN PEDRO"
+Feature,entidadesfinancieras.432,Point,-68.1357641,-16.50892254,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,PLAZA EL CONDOR  ESQUINA LANDAETA
+Feature,entidadesfinancieras.433,Point,-68.1359628,-16.49482205,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE COMERCIO Nº 866 ENTRE PEREZ VELASCO Y GENARO SANJINES
+Feature,entidadesfinancieras.434,Point,-68.14478435,-16.49534158,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. TUMUSLA Nº 734 CASI ESQ. AV. BUENOS AIRES ZONA 14 DE SEPTIEMBRE
+Feature,entidadesfinancieras.435,Point,-68.12967205,-16.509197,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE FERNANDO GUACHALLA ENTRE ECUADOR Y SA�NCHEZ LIMA EDIF. SAN ANTONIO (FRENTE MERCADO SOPOCACHI)
+Feature,entidadesfinancieras.436,Point,-68.13427745,-16.49775135,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE AYACUCHO CASI ESQ. MERCADO
+Feature,entidadesfinancieras.437,Point,-68.12450627,-16.50969043,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"PLAZA ISABEL LA CATOLICA  , AV. ARCE ESQ. PEDRO SALAZAR"
+Feature,entidadesfinancieras.438,Point,-68.13432202,-16.49776206,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE AYACUCHO CASI ESQ. MERCADO
+Feature,entidadesfinancieras.439,Point,-68.13430524,-16.49774572,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE AYACUCHO CASI ESQ. MERCADO
+Feature,entidadesfinancieras.440,Point,-68.10707222,-16.52663333,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV- HERNANDO SILES NRO 5593 CASI CALLE 10 OBRAJES, EDIFICIO TUNUPA LOCAL 2,"
+Feature,entidadesfinancieras.441,Point,-68.07327979,-16.5304605,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE 16 NRO 8 FRENTE AL MERCADO ACHUMANI
+Feature,entidadesfinancieras.442,Point,-68.08800458,-16.5243679,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. OVANDO CANDIA ESQ. CALLE 6 FRENTE PLAZUELA DEL MERCADO IRPAVI
+Feature,entidadesfinancieras.443,Point,-68.07327979,-16.5304605,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Calle 16 Nº 8 frente al Mercado Achumani
+Feature,entidadesfinancieras.444,Point,-68.12896386,-16.51460219,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"PLAZA ESPAÑA , AV. ECUADOR S/N ENTRE MENDEZ ARCOS Y QUINTIN BARRIOS"
+Feature,entidadesfinancieras.445,Point,-68.12070575,-16.47946784,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. DE LAS AMERICAS S/N CASI  ESQ. PUENTE VILLA, EX FABRICA DE CHOCOLATES CORONA, VILLA FATIMA"
+Feature,entidadesfinancieras.446,Point,-68.11965,-16.47771944,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. DE LAS AMERICAS Nº 396, ZONA VILLA FATIMA"
+Feature,entidadesfinancieras.447,Point,-68.07315227,-16.53063731,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE 16, Nº 5,(FRENTE AL MERCADO DE ACHUMANI) - ZONA ACHUMANI"
+Feature,entidadesfinancieras.448,Point,-68.12038019,-16.49597549,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,C. CUBA ESQ. AV. BRASIL EDIF. MERCEDES Z. MIRAFLORES
+Feature,entidadesfinancieras.449,Point,-68.10214395,-16.52962247,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. HERNANDO SILES ESQ. C. 16 DE OBRAJES
+Feature,entidadesfinancieras.450,Point,-68.14028056,-16.49338889,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. AMERICA CASI ESQ. PANDO
+Feature,entidadesfinancieras.451,Point,-68.14115278,-16.48868056,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Terminal de Buses La Paz
+Feature,entidadesfinancieras.452,Point,-68.08699444,-16.53195556,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,Av. Rafael Pabón S/N Ag. Megacenter
+Feature,entidadesfinancieras.453,Point,-68.13474892,-16.49750902,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE MERCADO # 1190 EDIFICIO ELECTRA
+Feature,entidadesfinancieras.454,Point,-68.12415021,-16.4989882,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,PLAZA TEJADA SORZANO (STADIUM) CASI ESQ. AV. SAAVEDRA
+Feature,entidadesfinancieras.455,Point,-68.07821667,-16.53913889,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. BALLIVI�AN # 1426 ESQ. CALLE 21 DE CALACOTO , SAN MIGUEL"
+Feature,entidadesfinancieras.456,Point,-68.144392,-16.49548823,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"CALLE TUMUSLA NÂº 705, ESQ. BUENOS AIRES, AGENCIA BNB, ZONA 14 DE SEPTIEMBRE"
+Feature,entidadesfinancieras.457,Point,-68.08390046,-16.53893625,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. BALLIVIAN NO 939 (RESTAURANT LA CAMPANA)
+Feature,entidadesfinancieras.458,Point,-68.10612306,-16.52346765,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. DEL MAESTRO Nº 820, ZONA ALTO OBRAJES"
+Feature,entidadesfinancieras.459,Point,-68.13975545,-16.51516952,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,C. JAIME ZUDAÑES ESQ. JAIMES FREYRE S/N
+Feature,entidadesfinancieras.460,Point,-68.0764307,-16.54578436,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE 21 DE CALACOTO Nº 8511
+Feature,entidadesfinancieras.461,Point,-68.07038306,-16.54557758,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. JOSE MARIA ACHA FRENTE A CALLE 25 FRENTE A LA CALLE LOS PINOS
+"
+Feature,entidadesfinancieras.462,Point,-68.06354083,-16.52131326,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE 29 A Nº 110 ACHUMANI
+Feature,entidadesfinancieras.463,Point,-68.13817693,-16.501542,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE ZOILO FLORES Nº1209 SAN PEDRO
+Feature,entidadesfinancieras.464,Point,-68.13355876,-16.49823106,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colon esq. Mercado Nº1308
+Feature,entidadesfinancieras.465,Point,-68.13353191,-16.49824674,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colon esq. Mercado Nº1308
+Feature,entidadesfinancieras.466,Point,-68.13463639,-16.49853829,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Camacho No.1223, Edif. Krsul PB.
+"
+Feature,entidadesfinancieras.467,Point,-68.1407158,-16.49335271,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. América esq. Av. Pando, Edif. Loza No.289"
+Feature,entidadesfinancieras.468,Point,-68.14408032,-16.49671098,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Calle Max Paredes esq. Buenos Aires S/N - Sub Alcaldía Rosario
+"
+Feature,entidadesfinancieras.469,Point,-68.13830833,-16.50163056,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Calle Zoilo Flores esq. Riobamba No.1209
+"
+Feature,entidadesfinancieras.470,Point,-68.121375,-16.48043333,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Tejada Sorzano Nº 250 - Villa Fatima
+Feature,entidadesfinancieras.471,Point,-68.10715278,-16.52687222,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Hernando Siles s/n esq. Calle 10 - Obrajes
+Feature,entidadesfinancieras.472,Point,-68.10715278,-16.52687222,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Hernando Siles s/n esq. Calle 10 - Obrajes
+Feature,entidadesfinancieras.473,Point,-68.13593721,-16.49582757,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Calle Potosí esq. Jenaro Sanjines 
+Nº920 Edif. Hotel Presidente"
+Feature,entidadesfinancieras.474,Point,-68.07436899,-16.54026269,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Juan Muñoz Reyes No.1300 casi esq. Calle 24, frente a las oficinas de CONCRETEC y al lado de las oficinas de FEMCO"
+Feature,entidadesfinancieras.475,Point,-68.09090159,-16.54596187,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Arequipa casi esq. Costanerita No.8406 - La Florida
+"
+Feature,entidadesfinancieras.476,Point,-68.08700639,-16.52460901,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Altamirano esq. Calle 6 #6593 - Zona Irpavi
+Feature,entidadesfinancieras.477,Point,-68.07528007,-16.53484837,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. García Lanza No.100 esq. Calle 10 - Achumani
+Feature,entidadesfinancieras.478,Point,-68.10239839,-16.52950582,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Hernando Siles casi esq. Calle 16 (Licorería Oasis) - Obrajes
+Feature,entidadesfinancieras.479,Point,-68.12030475,-16.5060753,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Saavedra No.2204 frente a la Iglesia Remedios - Zona Miraflores
+Feature,entidadesfinancieras.480,Point,-68.14419549,-16.4938917,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Buenos Aires esq. Uyustus
+Feature,entidadesfinancieras.481,Point,-68.12846893,-16.49748321,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Calle Yungas esq. Francisco Monroy No.932 (diagonal al Mercado Yungas)
+"
+Feature,entidadesfinancieras.482,Point,-68.08147431,-16.53860152,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Ballivián entre Calles 17 y 18 - Calacoto
+"
+Feature,entidadesfinancieras.483,Point,-68.13493895,-16.49526036,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Comercio esq. Yanacocha
+Feature,entidadesfinancieras.484,Point,-68.12071111,-16.50375556,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Busch esquina Calle Nicaragua Nº1409 - Frente a la Gasolinera
+"
+Feature,entidadesfinancieras.485,Point,-68.08380602,-16.53892236,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Ballivián casi esq. Calle 15 (Pizzería Casa Nostra) - Calacoto
+Feature,entidadesfinancieras.486,Point,-68.06972048,-16.54549538,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. José Aguirre Achá S/N - Hipermaxi Los Pinos (a media cuadra del Círculo Aeronáutico)
+"
+Feature,entidadesfinancieras.487,Point,-68.11854678,-16.49997233,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Argentina No.1810 esq. José Gutiérrez y Rep. Dominicana - Miraflores
+"
+Feature,entidadesfinancieras.488,Point,-68.07327701,-16.53044939,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle 16 frente Mercado Achumani
+Feature,entidadesfinancieras.489,Point,-68.08664444,-16.53261111,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Rafael Pabón S/N (Mega Center) - Irpavi
+Feature,entidadesfinancieras.490,Point,-68.121375,-16.48043333,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Tejada Sorzano Nº 250 - Villa Fatima
+"
+Feature,entidadesfinancieras.491,Point,-68.13530556,-16.50193889,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colombia esq. Ex Yacuma - Plaza San Pedro
+Feature,entidadesfinancieras.492,Point,-68.13890295,-16.49774051,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Sagárnaga No.383 entre Illampu y Linares
+Feature,entidadesfinancieras.493,Point,-68.13941111,-16.49726944,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Illampu No.859 Edif. Limpieza Finesse
+Feature,entidadesfinancieras.494,Point,-68.13489589,-16.4988514,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Mariscal Santa Cruz, Farmacias Bolivia frente a Correos"
+Feature,entidadesfinancieras.495,Point,-68.07671291,-16.54451337,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle 21 esq. José Aguirre Achá
+Feature,entidadesfinancieras.496,Point,-68.13304722,-16.50079722,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 16 de Julio No.1473 - El Prado
+Feature,entidadesfinancieras.497,Point,-68.14070191,-16.49333882,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. América esq. Pando Edif. Saiduni
+Feature,entidadesfinancieras.498,Point,-68.12897826,-16.51455774,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Mendes Arcos No.710 - Plaza España
+Feature,entidadesfinancieras.499,Point,-68.12436332,-16.4988588,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Saavedra No.1680 entre Plaza Uyuni y Plaza del Stadium
+Feature,entidadesfinancieras.500,Point,-68.07799192,-16.53998294,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle 21 esq. Av. Montenegro - San Miguel
+Feature,entidadesfinancieras.501,Point,-68.07799192,-16.53998294,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle 21 esq. Av. Montenegro - San Miguel
+Feature,entidadesfinancieras.502,Point,-68.1229801,-16.5011345,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Saavedra No.1845
+Feature,entidadesfinancieras.503,Point,-68.1229801,-16.5011345,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Saavedra No.1845
+Feature,entidadesfinancieras.504,Point,-68.12181604,-16.51175315,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Arce esq. Campos
+Feature,entidadesfinancieras.505,Point,-68.13493895,-16.49526036,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Comercio esq. Yanacocha
+Feature,entidadesfinancieras.506,Point,-68.12735789,-16.50912181,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 20 de Octubre Edif. Mechita
+Feature,entidadesfinancieras.507,Point,-68.12735789,-16.50912181,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 20 de Octubre Edif. Mechita
+Feature,entidadesfinancieras.508,Point,-68.07327701,-16.53044939,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle 16 frente Mercado Achumani
+Feature,entidadesfinancieras.509,Point,-68.13206759,-16.50297973,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 16 de Julio No.1732 - El Prado
+Feature,entidadesfinancieras.510,Point,-68.13206759,-16.50297973,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 16 de Julio No.1732 - El Prado
+Feature,entidadesfinancieras.511,Point,-68.12939444,-16.50605833,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 6 de Agosto No.2048
+Feature,entidadesfinancieras.512,Point,-68.14480281,-16.49556349,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Tumusla No.753. Entre Av. Buenos Aires y Garita de Lima.
+"
+Feature,entidadesfinancieras.513,Point,-68.12083056,-16.49469167,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,"Av. Brasil esq. San Salvador - Monumento Busch
+"
+Feature,entidadesfinancieras.514,Point,-68.12179609,-16.51178057,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Arce esq. Campos
+Feature,entidadesfinancieras.515,Point,-68.07932222,-16.54079444,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Galería Taipinquiri Av. Montenegro No.1378 - San Miguel
+Feature,entidadesfinancieras.516,Point,-68.11719726,-16.49588636,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Pasoskanki No.1762 - Cruce Villa San Antonio
+Feature,entidadesfinancieras.517,Point,-68.136729,-16.49399821,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Montes y Pérez Velasco Final Comercio No.791
+Feature,entidadesfinancieras.518,Point,-68.136729,-16.49399821,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Montes y Pérez Velasco Final Comercio No.791
+Feature,entidadesfinancieras.519,Point,-68.13356015,-16.49825116,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colón esq. Mercado
+Feature,entidadesfinancieras.520,Point,-68.13356015,-16.49825116,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colón esq. Mercado
+Feature,entidadesfinancieras.521,Point,-68.13349936,-16.49826049,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colón esq. Mercado
+Feature,entidadesfinancieras.522,Point,-68.13358385,-16.49827278,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Colón esq. Mercado
+Feature,entidadesfinancieras.523,Point,-68.13535224,-16.50907123,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Landaeta No.1747 - Plaza El Cóndor
+Feature,entidadesfinancieras.524,Point,-68.12396111,-16.50974722,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Edif. Isabelita - Plaza Isabel La Católica
+Feature,entidadesfinancieras.525,Point,-68.12596001,-16.51052348,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. 20 de Octubre esq. Pedro Salazar
+Feature,entidadesfinancieras.526,Point,-68.13186957,-16.49416428,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Sucre esq. Bolivar Nº 194 - Frente a Identificaciones
+Feature,entidadesfinancieras.527,Point,-68.12368889,-16.51285833,geom,Banco Do Brasil S.A.- Sucursal Bolivia,Cajero Automático,"AVENIDA 20 DE OCTUBRE ESQUINA CAMPOS EDIFICIO TORRE AZUL, 2665"
+Feature,entidadesfinancieras.528,Point,-68.11949685,-16.47869815,geom,Banco BISA S.A.,Cajero Automático,"Av. Las Delicias, Calle Felipe Lopez S/N, Zona Villa Fatima"
+Feature,entidadesfinancieras.529,Point,-68.11951492,-16.47864872,geom,Banco BISA S.A.,Cajero Automático,"Av. Las Delicias, calle Felipe Lopez S/N, Zona Villa Fatima"
+Feature,entidadesfinancieras.530,Point,-68.12135781,-16.50382792,geom,Banco BISA S.A.,Cajero Automático,"Av. Busch esquina Parque Triangular, Gasolinera SAF"
+Feature,entidadesfinancieras.531,Point,-68.12237345,-16.51105989,geom,Banco BISA S.A.,Cajero Automático,Av. Arce No. 2631 Edificio Multicine
+Feature,entidadesfinancieras.532,Point,-68.15254772,-16.49441594,geom,Banco BISA S.A.,Cajero Automático,"Edificio Valdivia No. 1442, Av. Kollasuyo entre calle Bustillos y Jose Maria Asin, Zona El Tejar."
+Feature,entidadesfinancieras.533,Point,-68.07724722,-16.538825,geom,Banco BISA S.A.,Cajero Automático,"Av. Ballivian No. 1461, entre Calles 21 y 22 de Calacoto
+"
+Feature,entidadesfinancieras.534,Point,-68.14481768,-16.49535041,geom,Banco BISA S.A.,Cajero Automático,"Calle Tumusla Nº 757, Zona 14 de Septiembre"
+Feature,entidadesfinancieras.535,Point,-68.08752151,-16.54895403,geom,Banco BISA S.A.,Cajero Automático,"Av. Las Retamas S/N, Zona La Florida (Colegio Saint AndrewÂ´s)"
+Feature,entidadesfinancieras.536,Point,-68.12437736,-16.49784465,geom,Banco BISA S.A.,Cajero Automático,"Av. Saavedra Nº 1594 Esquina Posnasky, Zona Miraflores"
+Feature,entidadesfinancieras.537,Point,-68.10859167,-16.52683056,geom,Banco BISA S.A.,Cajero Automático,Av. Ormachea esq. calle 8 Nº 5390 - Obrajes
+Feature,entidadesfinancieras.538,Point,-68.12624296,-16.51022771,geom,Banco BISA S.A.,Cajero Automático,20 de Octubre Nº 927 Plaza Avaroa
+Feature,entidadesfinancieras.539,Point,-68.13988711,-16.49644843,geom,Banco BISA S.A.,Cajero Automático,Calle Illampu esq. Santa Cruz Nº 762
+Feature,entidadesfinancieras.540,Point,-68.07942853,-16.54046639,geom,Banco BISA S.A.,Cajero Automático,Av. Montenegro Nº 1365 - San Miguel
+Feature,entidadesfinancieras.541,Point,-68.11975718,-16.51501829,geom,Banco BISA S.A.,Cajero Automático,"Final Av. 6 de Agosto esq. Av. Arce Nro. 2993, San Jorge."
+Feature,entidadesfinancieras.542,Point,-68.07313763,-16.53067676,geom,Banco BISA S.A.,Cajero Automático,"Calle 16 Nº5, Zona Achumani"
+Feature,entidadesfinancieras.543,Point,-68.07680278,-16.53273889,geom,Banco BISA S.A.,Cajero Automático,"Av. Francia entre calles 10 y 11, Zona Achumani."
+Feature,entidadesfinancieras.544,Point,-68.08726389,-16.53891111,geom,Banco BISA S.A.,Cajero Automático,"Av. General Inofuentes Nro. 7823, entre Calles 12 y 13 de Calacoto."
+Feature,entidadesfinancieras.545,Point,-68.14788914,-16.49534653,geom,Banco BISA S.A.,Cajero Automático,"Calle Calatayud Nº 950 esq. Calle Bautista Saavedra, Barrio 14 de Septiembre."
+Feature,entidadesfinancieras.546,Point,-68.09730833,-16.53627778,geom,Banco BISA S.A.,Cajero Automático,"Av. Hugo Ernest Nº 7050, Zona Bajo Seguencoma."
+Feature,entidadesfinancieras.547,Point,-68.13244902,-16.50159079,geom,Banco BISA S.A.,Cajero Automático,Av. 16 de Julio Nº 1591 Edif. Señor de Mayo
+Feature,entidadesfinancieras.548,Point,-68.08367546,-16.53890014,geom,Banco BISA S.A.,Cajero Automático,Av. Ballivian Nº 941 esquina calle 16 Calacoto
+Feature,entidadesfinancieras.549,Point,-68.08656944,-16.53295833,geom,Banco BISA S.A.,Cajero Automático,"Av. Rafael Pabon S/N, distrito 44, Manzano 2546, Local Comercial Nº C-16, Irpavi"
+Feature,entidadesfinancieras.550,Point,-68.12871725,-16.49742924,geom,Banco BISA S.A.,Cajero Automático,"Calle Yungas Nº 876, Miraflores"
+Feature,entidadesfinancieras.551,Point,-68.11729448,-16.49567473,geom,Banco BISA S.A.,Cajero Automático,Av. Pasoskanki Nº 1713
+Feature,entidadesfinancieras.552,Point,-68.12008311,-16.50698497,geom,Banco BISA S.A.,Cajero Automático,Av. Saavedra Nº 2218 (frente al Hospital de Clínicas)
+Feature,entidadesfinancieras.553,Point,-68.12390135,-16.50022809,geom,Banco BISA S.A.,Cajero Automático,"Av. Saavedra Nº 1760, Edificio Ibita, Local 3 , Zona Miraflores"
+Feature,entidadesfinancieras.554,Point,-68.13736389,-16.49669167,geom,Banco BISA S.A.,Cajero Automático,"Calle Sagárnaga Nº 322, Hotel Sagárnaga"
+Feature,entidadesfinancieras.555,Point,-68.14307626,-16.49800476,geom,Banco BISA S.A.,Cajero Automático,"Calle Pedro de la Gasca Nº 690 esq. Eloy Salmón, Zona Gran Poder."
+Feature,entidadesfinancieras.556,Point,-68.133825,-16.498925,geom,Banco BISA S.A.,Cajero Automático,Av. Camacho Nº 1333 - Agencia
+Feature,entidadesfinancieras.557,Point,-68.12237345,-16.51105989,geom,Banco BISA S.A.,Cajero Automático,"Av. Arce Nº 2631,Edif. Multicine, Local Nº18."
+Feature,entidadesfinancieras.558,Point,-68.13444659,-16.49278509,geom,Banco BISA S.A.,Cajero Automático,Calle Sucre Nº 701 esq. Jenaro Sanjinés (Colegio San Calixto)
+Feature,entidadesfinancieras.559,Point,-68.13552439,-16.50918048,geom,Banco BISA S.A.,Cajero Automático,Calle Landaeta Nº 1447(Plaza El Cóndor)
+Feature,entidadesfinancieras.560,Point,-68.06369981,-16.52156019,geom,Banco BISA S.A.,Cajero Automático,"Calle 29 Nº 110, Zona Achumani"
+Feature,entidadesfinancieras.561,Point,-68.07750579,-16.54237277,geom,Banco BISA S.A.,Cajero Automático,"Calle 21 Nº 8342 esq. Calle Pancara, Zona Calacoto"
+Feature,entidadesfinancieras.562,Point,-68.08707561,-16.52453814,geom,Banco BISA S.A.,Cajero Automático,"Av. Altamirano Nº 6593 esq. Calle 6, Zona Irpavi."
+Feature,entidadesfinancieras.563,Point,-68.13332619,-16.50208883,geom,Banco BISA S.A.,Cajero Automático,Calle México Nº 1530 entre Calles Nicolás Acosta y Otero de la Vega (Zona San Pedro)
+Feature,entidadesfinancieras.564,Point,-68.06290664,-16.54075408,geom,Banco BISA S.A.,Cajero Automático,"Av. Muñoz Reyes Nº 7, Zona Cota Cota."
+Feature,entidadesfinancieras.565,Point,-68.13052401,-16.50498836,geom,Banco BISA S.A.,Cajero Automático,"Av. Villazón Nº 1957, Edif. Viveros (Plaza del Bicentenario)"
+Feature,entidadesfinancieras.566,Point,-68.13056077,-16.50496395,geom,Banco Unión S.A.,Cajero Automático,"Avenida Villazón NÂº 1957,frente a la Universidad Mayor de San Andres,zona central."
+Feature,entidadesfinancieras.567,Point,-68.13387778,-16.49536389,geom,Banco Unión S.A.,Cajero Automático,Calle Junin NÂº551
+Feature,entidadesfinancieras.568,Point,-68.07865782,-16.54521453,geom,Banco Unión S.A.,Cajero Automático,Av. Montenegro No. 966 - San Miguel (frente Col. Loretto)
+Feature,entidadesfinancieras.569,Point,-68.13392903,-16.50306333,geom,Banco Unión S.A.,Cajero Automático,C. C. Strongest. No. 1587 - San Pedro
+Feature,entidadesfinancieras.570,Point,-68.14056227,-16.48811309,geom,Banco Unión S.A.,Cajero Automático,"Av. Perú, No. 555 Zona Norte (terminal)"
+Feature,entidadesfinancieras.571,Point,-68.1222637,-16.50160063,geom,Banco Unión S.A.,Cajero Automático,c. Diaz Romero No. 262 entre Buchs y Saavedra
+Feature,entidadesfinancieras.572,Point,-68.12219048,-16.50160484,geom,Banco Unión S.A.,Cajero Automático,c. Diaz Romero entre Saavedra y Buch
+Feature,entidadesfinancieras.573,Point,-68.13519293,-16.4991776,geom,Banco Unión S.A.,Cajero Automático,"Av. Mcal. Santa Cruz, esq. Oruro Edificio Correos Planta Baja"
+Feature,entidadesfinancieras.574,Point,-68.13229992,-16.50090191,geom,Banco Unión S.A.,Cajero Automático,Calle Bueno No. 138 casi esq. Federico Zuazo
+Feature,entidadesfinancieras.575,Point,-68.13226659,-16.50089079,geom,Banco Unión S.A.,Cajero Automático,"Calle Bueno No. 138 casi esq. federico Suazo
+"
+Feature,entidadesfinancieras.576,Point,-68.08691396,-16.52433834,geom,Banco Unión S.A.,Cajero Automático,"CALLE ALTAMIRANO CASI ESQ, 5 (FRENTE pLAZA)"
+Feature,entidadesfinancieras.577,Point,-68.14836111,-16.49403611,geom,Banco Unión S.A.,Cajero Automático,Calle Calatayud esquina Ascui 569
+Feature,entidadesfinancieras.578,Point,-68.14165482,-16.49279396,geom,Banco Unión S.A.,Cajero Automático,Av.Idelfonzo de las Muñecas esq. Viacha
+Feature,entidadesfinancieras.579,Point,-68.13630771,-16.49760142,geom,Banco Unión S.A.,Cajero Automático,"Avenida Mariscal Santa Cruz, esquina Calle Cochabamba NÂº 525, Edificio Loteria Nacional."
+Feature,entidadesfinancieras.580,Point,-68.13211389,-16.49578889,geom,Banco Unión S.A.,Cajero Automático,"CAlle Ballivian NÂº 1285, esquina Calle Colón,zona central."
+Feature,entidadesfinancieras.581,Point,-68.13297972,-16.50174623,geom,Banco Unión S.A.,Cajero Automático,Avenida 16 de Julio Nº 1544(El Prado)
+Feature,entidadesfinancieras.582,Point,-68.1190588,-16.50173876,geom,Banco Unión S.A.,Cajero Automático,Avenida 16 de Julio Nº 1544(El Prado)
+Feature,entidadesfinancieras.583,Point,-68.10648398,-16.52328292,geom,Banco Unión S.A.,Cajero Automático,"AV. DEL MAESTRO No. 879 ESQ. H. GUILLEN, SECTOR B DE ALTO OBRAJES"
+Feature,entidadesfinancieras.584,Point,-68.11906787,-16.50919412,geom,Banco Unión S.A.,Cajero Automático,"Avenida Saavedra, rotonda Policia Militar, predios del Estado Mayor, zona Miraflores."
+Feature,entidadesfinancieras.585,Point,-68.13539737,-16.50911634,geom,Banco Unión S.A.,Cajero Automático,c. LANDAETA # 450
+Feature,entidadesfinancieras.586,Point,-68.12874737,-16.49742404,geom,Banco Unión S.A.,Cajero Automático,c. Yungas No. 876
+Feature,entidadesfinancieras.587,Point,-68.06772778,-16.54090556,geom,Banco Unión S.A.,Cajero Automático,Av. Muñoz Reyes No. 170 esq. calle 28 (Gasolinera)
+Feature,entidadesfinancieras.588,Point,-68.07527569,-16.53414314,geom,Banco Unión S.A.,Cajero Automático,aV. Gral. Garcia Lanza s/n casi esq. calle 11 Achumani
+Feature,entidadesfinancieras.589,Point,-68.11710734,-16.49574075,geom,Banco Unión S.A.,Cajero Automático,"Av, Esteban Arce No. 1747 Zona Villa Copacabana"
+Feature,entidadesfinancieras.590,Point,-68.10218333,-16.52959722,geom,Banco Unión S.A.,Cajero Automático,Av. hernando siles esq. c. 16 de obrajes
+Feature,entidadesfinancieras.591,Point,-68.10647607,-16.5272384,geom,Banco Unión S.A.,Cajero Automático,Av. Hernando Siles esq. c. 11 de Obrajes
+Feature,entidadesfinancieras.592,Point,-68.09612222,-16.54055,geom,Banco Unión S.A.,Cajero Automático,Av. Hugo Ernest No. 7404 Bajo Seguencoma (Academia de Policias)
+Feature,entidadesfinancieras.593,Point,-68.12133392,-16.50384791,geom,Banco Unión S.A.,Cajero Automático,Plaza San Martin esq. Av. Saavedra
+Feature,entidadesfinancieras.594,Point,-68.07322778,-16.53053827,geom,Banco Unión S.A.,Cajero Automático,Calle 16 # 7 (Mercado Achumani)
+Feature,entidadesfinancieras.595,Point,-68.12368889,-16.50003889,geom,Banco Unión S.A.,Cajero Automático,Av. Saavedra esq. Hugo Estrada # 1706 (inmueble Pollos Copacabana)
+Feature,entidadesfinancieras.596,Point,-68.12797778,-16.50947778,geom,Banco Unión S.A.,Cajero Automático,Calle Rosendo Gutiérrez entre Sánchez Lima y 20 de Octubre
+Feature,entidadesfinancieras.597,Point,-68.07964491,-16.54055087,geom,Banco Unión S.A.,Cajero Automático,Av. Montenegro # 1365
+Feature,entidadesfinancieras.598,Point,-68.12299623,-16.49828746,geom,Banco Unión S.A.,Cajero Automático,Calle Hugo Estrada # 80 esq. Guerrilleros Lanza
+Feature,entidadesfinancieras.599,Point,-68.13700699,-16.49330435,geom,Banco Unión S.A.,Cajero Automático,Av. Montes # 275
+Feature,entidadesfinancieras.600,Point,-68.13313442,-16.49954016,geom,Banco Unión S.A.,Cajero Automático,Av. Camacho # 1416 esq. Loayza
+Feature,entidadesfinancieras.601,Point,-68.13305109,-16.49955127,geom,Banco Unión S.A.,Cajero Automático,Av. Camacho # 1416 esq. Loayza
+Feature,entidadesfinancieras.602,Point,-68.13325278,-16.49946389,geom,Banco Unión S.A.,Cajero Automático,Calle Loayza casi esq.Av.Camacho
+Feature,entidadesfinancieras.603,Point,-68.12729444,-16.5103,geom,Banco Unión S.A.,Cajero Automático,Calle Belisario Salinas entre Calles 20 de Octubre y Sanchez Lima Edificio Alcides Arguedas
+Feature,entidadesfinancieras.604,Point,-68.14259508,-16.4977921,geom,Banco Unión S.A.,Cajero Automático,Calle Pedro de la Gasca esq. Eloy Salmon # 691
+Feature,entidadesfinancieras.605,Point,-68.14437956,-16.49373367,geom,Banco Unión S.A.,Cajero Automático,Av. Buenos Aires # 470
+Feature,entidadesfinancieras.606,Point,-68.07667958,-16.54456892,geom,Banco Unión S.A.,Cajero Automático,Calle 21 # 8446 Zona Calacoto
+Feature,entidadesfinancieras.607,Point,-68.13637951,-16.497464,geom,Banco Unión S.A.,Cajero Automático,Av. Mariscal Santa Cruz # 980
+Feature,entidadesfinancieras.608,Point,-68.12899019,-16.51438253,geom,Banco Unión S.A.,Cajero Automático,Calle Ecuador esq. Méndez Arcos
+Feature,entidadesfinancieras.609,Point,-68.13806944,-16.49705,geom,Banco Unión S.A.,Cajero Automático,Calle Sagarnaga # 288
+Feature,entidadesfinancieras.610,Point,-68.08889459,-16.54069798,geom,Banco Unión S.A.,Cajero Automático,Av. Ballivian esq. Calle 10
+Feature,entidadesfinancieras.611,Point,-68.10043889,-16.52953889,geom,Banco Unión S.A.,Cajero Automático,Av. 14 de Septiembre esq. Calle 17
+Feature,entidadesfinancieras.612,Point,-68.07012533,-16.54558921,geom,Banco Unión S.A.,Cajero Automático,AV JOSE ACHA HIPERMAXI S/N ZONA LOS PINOS
+Feature,entidadesfinancieras.613,Point,-68.13411389,-16.495675,geom,Banco Unión S.A.,Cajero Automático,CALLE COMERCIO ESQ JUNIN 1093
+Feature,entidadesfinancieras.614,Point,-68.12098947,-16.47949023,geom,Banco Unión S.A.,Cajero Automático,Av. de las Americas No. 250 - Villa Fatima
+Feature,entidadesfinancieras.615,Point,-68.12144167,-16.48053056,geom,Banco Económico S.A.,Cajero Automático,Av. de las Americas #258 zona Villa Fatima
+Feature,entidadesfinancieras.616,Point,-68.13369804,-16.49899468,geom,Banco Económico S.A.,Cajero Automático,La Paz Av. Camacho Nro. 1245 entre Colon y Ayacucho
+Feature,entidadesfinancieras.617,Point,-68.08118829,-16.53863,geom,Banco Económico S.A.,Cajero Automático,"La Paz Av. Ballivian y calle nÂº 18 Calacoto, lado Burger King."
+Feature,entidadesfinancieras.618,Point,-68.13432712,-16.49578522,geom,Banco Económico S.A.,Cajero Automático,La Paz Calle Comercio Esq. Plaza Murillo
+Feature,entidadesfinancieras.619,Point,-68.12423344,-16.50881738,geom,Banco Económico S.A.,Cajero Automático,"La Paz Av. Arce, Plaza Isabel la Católica, lado Laboratorio LPZ."
+Feature,entidadesfinancieras.620,Point,-68.06922074,-16.54536675,geom,Banco Económico S.A.,Cajero Automático,La Paz Calle José Maria Aguirre S/N casi Esq. Calle 25.
+Feature,entidadesfinancieras.621,Point,-68.14036098,-16.49929402,geom,Banco Económico S.A.,Cajero Automático,CALLE SAGARNAGA NÂº519 ESQUINA MAX PAREDES.
+Feature,entidadesfinancieras.622,Point,-68.13203216,-16.50218035,geom,Banco Económico S.A.,Cajero Automático,"AVENIDA 16 DE JULIO EDIFICIO ALAMEDA LOCAL 1, LADO DISCOLANDIA."
+Feature,entidadesfinancieras.623,Point,-68.07909466,-16.54058997,geom,Banco Económico S.A.,Cajero Automático,"ZONA SAN MIGUEL BLOQUE B NÂº18 FRENTE A CHIWIÑA, AVENIDA MONTENEGRO."
+Feature,entidadesfinancieras.624,Point,-68.07315227,-16.53064286,geom,Banco Económico S.A.,Cajero Automático,"CALLE 16 MANZANA 3, PANADERIA DELIPAN, FRENTE A MERCADO ACHUMANI."
+Feature,entidadesfinancieras.625,Point,-68.13990125,-16.49651497,geom,Banco Económico S.A.,Cajero Automático,"CALLE SANTA CRUZ ESQUINA ILLAMPU LADO HARD ROCK CAFE, ZONA EL ROSARIO."
+Feature,entidadesfinancieras.626,Point,-68.11880157,-16.47580171,geom,Banco Solidario S.A.,Cajero Automático,"Av. Las Américas #537, casi esquina Calle Chulumani, Zona Villa Fátima.
+"
+Feature,entidadesfinancieras.627,Point,-68.13765833,-16.50220278,geom,Banco Solidario S.A.,Cajero Automático,"Calle Zoilo Flores Nro.1265 (Edificio Figliozzi), entre las calles Almirante Grau y Riobamba, Zona San Pedro"
+Feature,entidadesfinancieras.628,Point,-68.13203632,-16.49977259,geom,Banco Solidario S.A.,Cajero Automático,"Av. Camacho #1499, esquina Calle Bueno, Edif. La Urbana - Agencia Camacho.
+"
+Feature,entidadesfinancieras.629,Point,-68.14825556,-16.49397778,geom,Banco Solidario S.A.,Cajero Automático,"Calle Calatayud #557, cerca de la Av. Apumalla, Zona Callampaya.
+"
+Feature,entidadesfinancieras.630,Point,-68.13931389,-16.49761389,geom,Banco Solidario S.A.,Cajero Automático,"Calle Illampu #843, entre Calles Sagarnaga y Santa Cruz, Zona El Rosario."
+Feature,entidadesfinancieras.631,Point,-68.11015366,-16.5204932,geom,Banco Solidario S.A.,Cajero Automático,"Av. del Maestro #252, esquina. Calle Gamarra frente al Parque Quezada, Zona Alto Obrajes."
+Feature,entidadesfinancieras.632,Point,-68.13991139,-16.48149954,geom,Banco Solidario S.A.,Cajero Automático,"Av. Baltazar de Salas #904 - Agencia Vino Tinto.
+"
+Feature,entidadesfinancieras.633,Point,-68.08747778,-16.52464722,geom,Banco Solidario S.A.,Cajero Automático,"Calle 6, frente a la Plaza Almirante Grau, Mercado de Irpavi,  Zona de Irpavi.
+"
+Feature,entidadesfinancieras.634,Point,-68.04954967,-16.53777369,geom,Banco Solidario S.A.,Cajero Automático,"Av. Defensores del Chaco #51, entre Calles 48 y 49, Zona Chasquipampa."
+Feature,entidadesfinancieras.635,Point,-68.10523115,-16.50178904,geom,Banco Solidario S.A.,Cajero Automático,"Av. Ciudad del Niño #221, Zona Pampahasi.
+"
+Feature,entidadesfinancieras.636,Point,-68.08942936,-16.56764252,geom,Banco Solidario S.A.,Cajero Automático,"Av. Florida, esquina Calle El Agrario, Hotel Oberland, Zona Mallasa."
+Feature,entidadesfinancieras.637,Point,-68.13061312,-16.50491843,geom,Banco Solidario S.A.,Cajero Automático,"Av. Villazón #1957, Edificio Viveros, frente a la Plaza Bicentenario."
+Feature,entidadesfinancieras.638,Point,-68.11274444,-16.50818611,geom,Banco Solidario S.A.,Cajero Automático,"Av. Juan XXIII, esquina Calle San Juan #66 - Agencia Villa Armonia.
+"
+Feature,entidadesfinancieras.639,Point,-68.13212617,-16.49421097,geom,Banco Solidario S.A.,Cajero Automático,"Calle Sucre #799, casi esquina Calle Bolivar, frente a la FELCC, Zona Central."
+Feature,entidadesfinancieras.640,Point,-68.1427,-16.51160556,geom,Banco Solidario S.A.,Cajero Automático,"Av. Jaimes Freyre # 1784, casi esquina calle Landaeta, zona Tembladerani â€“ Agencia Tembladerani."
+Feature,entidadesfinancieras.641,Point,-68.16761667,-16.48876111,geom,Banco Solidario S.A.,Cajero Automático,"Av. Final Kollasuyo #120 (Av. Alcides Arguedas) casi esquina Av. Naciones Unidas, zona La Portada â€“ Agencia La Portada"
+Feature,entidadesfinancieras.642,Point,-68.07816111,-16.53926944,geom,Banco Solidario S.A.,Cajero Automático,"Calle 21 de Calacoto #394, entre Av. Ballivian y Julio Patiño - Agencia San Miguel."
+Feature,entidadesfinancieras.643,Point,-68.13204465,-16.49976704,geom,Banco Solidario S.A.,Cajero Automático,"Av. Camacho #1499, esquina Calle Bueno, Edif. La Urbana - Agencia Camacho."
+Feature,entidadesfinancieras.644,Point,-68.12139716,-16.48102976,geom,Banco Solidario S.A.,Cajero Automático,"Av. Tejada Sorzano #305 (Av. de las Américas) , esquina Alto Beni - Agencia Villa Fátima.
+"
+Feature,entidadesfinancieras.645,Point,-68.13758826,-16.49395241,geom,Banco Solidario S.A.,Cajero Automático,"Calle Evaristo Valle #136 - Agencia Alonso de Mendoza.
+"
+Feature,entidadesfinancieras.646,Point,-68.14451679,-16.49665083,geom,Banco Solidario S.A.,Cajero Automático,"Av. Buenos Aires #708, esquina Max Paredes - Agencia Garita.
+"
+Feature,entidadesfinancieras.647,Point,-68.13453056,-16.50246111,geom,Banco Solidario S.A.,Cajero Automático,"Calle Nicolás Acosta #289, esquina Cañada Strongest - Agencia San Pedro.
+"
+Feature,entidadesfinancieras.648,Point,-68.13310063,-16.50159155,geom,Banco Solidario S.A.,Cajero Automático,"Av. 16 de Julio #1544, frente a Calles Bueno y Campero.
+"
+Feature,entidadesfinancieras.649,Point,-68.12416094,-16.49891546,geom,Banco Solidario S.A.,Cajero Automático,"Plaza Tejada Sorzano (Plaza del Estadio) #1392, Edif. Radio Club La Paz, al lado de la Agencia Miraflores."
+Feature,entidadesfinancieras.650,Point,-68.13474796,-16.49537722,geom,Banco Solidario S.A.,Cajero Automático,"Calle Comercio #1001, esquina Yanacocha, Zona Central."
+Feature,entidadesfinancieras.651,Point,-68.11666931,-16.49627391,geom,Banco Solidario S.A.,Cajero Automático,"Av. 31 de Octubre #1542, Cruce Villas Copacabana y San Antonio - Agencia Villa Copacabana.
+"
+Feature,entidadesfinancieras.652,Point,-68.15356069,-16.49502513,geom,Banco Solidario S.A.,Cajero Automático,"Calle Manuel Bustillos #745, Zona El Tejar - Agencia El Tejar.
+"
+Feature,entidadesfinancieras.653,Point,-68.12877508,-16.49741846,geom,Banco Solidario S.A.,Cajero Automático,"Calle Yungas #876, frente al Mercado (lado importadora Rojas), casi esquina Francisco Monrroy."
+Feature,entidadesfinancieras.654,Point,-68.12138889,-16.50373889,geom,Banco Solidario S.A.,Cajero Automático,"Av.Busch y Av. Saavedra #2085, casi esquina C. Nicaragua, cerca a la Plaza San Martin , Zona de Miraflores.
+"
+Feature,entidadesfinancieras.655,Point,-68.14111437,-16.48807347,geom,Banco Solidario S.A.,Cajero Automático,"Av. Perú #291, casi esquina Beni, Hotel Bolivian Passport, Zona Challapampa."
+Feature,entidadesfinancieras.656,Point,-68.12902058,-16.51416387,geom,Banco Solidario S.A.,Cajero Automático,"Calle Victor Sanjinez #2654, entre Calles Barrios y Mendez Arcos, Z. Sopocachi, Hotel Alcalá, frente a la Plaza España."
+Feature,entidadesfinancieras.657,Point,-68.07340407,-16.53185815,geom,Banco Solidario S.A.,Cajero Automático,"Av. García Lanza #200, casi esquina Calle 15, Zona Achumani."
+Feature,entidadesfinancieras.658,Point,-68.14082425,-16.49862683,geom,Banco Solidario S.A.,Cajero Automático,"Calle Maximiliano Paredes, esquina Antonio Gallardo #514 y 844 - Agencia Gran Poder.
+"
+Feature,entidadesfinancieras.659,Point,-68.13991251,-16.49633807,geom,Banco Solidario S.A.,Cajero Automático,"Calle Illampu #760, casi esquina Calle Santa Cruz, Zona  El Rosario.
+"
+Feature,entidadesfinancieras.660,Point,-68.12113753,-16.49489238,geom,Banco Solidario S.A.,Cajero Automático,"Av. Busch #1319, Casa de Funerales Santa Maria, cerca al Monumento a Busch, Z. de Miraflores."
+Feature,entidadesfinancieras.661,Point,-68.12776111,-16.51034167,geom,Banco Solidario S.A.,Cajero Automático,"Av. Sanchez Lima #2349, entre Calles Rosendo Gutierrez y B. Salinas, frente supermercado Fidalga, Zona de Sopocachi."
+Feature,entidadesfinancieras.662,Point,-68.1358751,-16.49565656,geom,Banco Solidario S.A.,Cajero Automático,"Calle Potosí #909,  esquina Genaro Sanjinez, Hotel Gloria.
+"
+Feature,entidadesfinancieras.663,Point,-68.08931212,-16.54046148,geom,Banco Solidario S.A.,Cajero Automático,"Av. Ballivián #413, casi esquina Calle 10, Zona de Calacoto.
+"
+Feature,entidadesfinancieras.664,Point,-68.1022041,-16.52962219,geom,Banco Solidario S.A.,Cajero Automático,"Av. Hernando Siles #6204, esquina Calle 16, Zona de Obrajes.
+"
+Feature,entidadesfinancieras.665,Point,-68.13868002,-16.49771766,geom,Banco Solidario S.A.,Cajero Automático,"Calle Sagárnaga #334, Hotel Alem, Zona El Rosario.
+"
+Feature,entidadesfinancieras.666,Point,-68.14237827,-16.49326763,geom,Banco Solidario S.A.,Cajero Automático,"Av. Manco Kapac, esquina Isaac Tamayo #745, Zona San Sebastián."
+Feature,entidadesfinancieras.667,Point,-68.06055,-16.541275,geom,Banco Solidario S.A.,Cajero Automático,"Av. Muñoz Reyes #32, entre Calles 32 y 33 - Agencia Cota Cota
+"
+Feature,entidadesfinancieras.668,Point,-68.12434498,-16.50879136,geom,Banco Ganadero S.A.,Cajero Automático,Plaza Isabel La Católica (Lado Laboratorio La Paz)
+Feature,entidadesfinancieras.669,Point,-68.12413487,-16.50004023,geom,Banco Ganadero S.A.,Cajero Automático,Plaza Tejada Sorzano Esq. Saavedra (Zona Miraflores por el Stadium)
+Feature,entidadesfinancieras.670,Point,-68.13111389,-16.503475,geom,Banco Ganadero S.A.,Cajero Automático,"Av. 16 de Julio Nº 1805 entre Calles Tihuanacu y Batallón Colorados, Zona El Prado"
+Feature,entidadesfinancieras.671,Point,-68.11637732,-16.4958407,geom,Banco Ganadero S.A.,Cajero Automático,Av. Esteban Arce Nº 1827 cruce Villa San Antonio - Villa Copacabana.
+Feature,entidadesfinancieras.672,Point,-68.07299018,-16.53146371,geom,Banco Ganadero S.A.,Cajero Automático,Av. Manuel Garcia Lanza Nº 18  entre Calle 15 y 16 Zona Achumani.
+Feature,entidadesfinancieras.673,Point,-68.12612791,-16.51030822,geom,Banco Ganadero S.A.,Cajero Automático,"Edificio Topater Nº 2473  Av. 20 de Octubre entre Belisario Salinas y Pedro Salazar, Zona de la Plaza Abaroa."
+Feature,entidadesfinancieras.674,Point,-68.13546944,-16.52959444,geom,Banco Ganadero S.A.,Cajero Automático,"Av. Hernando Siles N. 6204 Esq. Calle 16, Zona de Obrajes, cruce a Següencoma, La Paz"
+Feature,entidadesfinancieras.675,Point,-68.14048889,-16.49489167,geom,Banco Ganadero S.A.,Cajero Automático,"Calle Illampu Nº 670, Zona el Rosario."
+Feature,entidadesfinancieras.676,Point,-68.0776704,-16.54008886,geom,Banco Ganadero S.A.,Cajero Automático,"Calle 21 Nº 8215, Zona de Calacoto."
+Feature,entidadesfinancieras.677,Point,-68.06739859,-16.54457928,geom,Banco Ganadero S.A.,Cajero Automático,"Supermercado Hipermaxi de la Av. José María  Achá Nº 85, Zona Los Pinos, LPZ."
+Feature,entidadesfinancieras.678,Point,-68.140872,-16.51156167,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av. Landaeta esq José Saravia Nº 1801
+Feature,entidadesfinancieras.679,Point,-68.13578596,-16.50897404,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av Landaeta esq. José María Camacho Nº 1731 frente Plaza El Condor
+Feature,entidadesfinancieras.680,Point,-68.07711111,-16.54275,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Calle 21 Nº58, Zona Calacoto"
+Feature,entidadesfinancieras.681,Point,-68.12137778,-16.48052222,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Avenida Tejada Sorzano No 393, Zona Miraflores"
+Feature,entidadesfinancieras.682,Point,-68.13876219,-16.49628194,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Calle Linares, esquina Santa Cruz No 265"
+Feature,entidadesfinancieras.683,Point,-68.12367264,-16.50013138,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Avenida Saavedra, esquina calle Hugo estrada No 1706"
+Feature,entidadesfinancieras.684,Point,-68.07382369,-16.53246839,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Avenida Garcia Lanza Nº 1500 Zona Achumani
+Feature,entidadesfinancieras.685,Point,-68.10215833,-16.5296,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av. Hernando Siles # 6204 casi esquina Calle 16 â€“ Zona Obrajes
+Feature,entidadesfinancieras.686,Point,-68.07861389,-16.53925,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av. Ballivian esq. Calle 20 Nº 8047
+Feature,entidadesfinancieras.687,Point,-68.13316683,-16.50146982,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av. 16 de Julio No. 1486 - Edificio Banco Los Andes ProCredit SA - El Prado
+Feature,entidadesfinancieras.688,Point,-68.13971097,-16.49351768,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Av. América No. 203, a una cuadra de la Plaza Alonso de Mendoza"
+Feature,entidadesfinancieras.689,Point,-68.12698251,-16.510014,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Calle Belisario Salinas No 438
+Feature,entidadesfinancieras.690,Point,-68.14401389,-16.49468056,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Av. Buenos Aires No 555
+Feature,entidadesfinancieras.691,Point,-68.14276565,-16.49804953,geom,Banco Los Andes Procredit S.A.,Cajero Automático,"Calle Pedro de la Gasca No. 520, Esquina Sebastian Segurola"
+Feature,entidadesfinancieras.692,Point,-68.11748957,-16.4955979,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Avenida Esteban Arce No 1705
+Feature,entidadesfinancieras.693,Point,-68.14777971,-16.49552959,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Avenida Baptista esquina Calle Calatayud No950 zona Callampaya
+Feature,entidadesfinancieras.694,Point,-68.14052889,-16.49350327,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Plaza Eguino, esq. América, Edificio Loza No.289, de la ciudad de La Paz"
+Feature,entidadesfinancieras.695,Point,-68.12472839,-16.4998722,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Av. Simón Bolívar No.1990, Zona Miraflores de la ciudad de La Paz"
+Feature,entidadesfinancieras.696,Point,-68.13664506,-16.5014625,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Calle Gral. Gónzales No.1272, Zona San Pedro de la ciudad de La Paz"
+Feature,entidadesfinancieras.697,Point,-68.13372026,-16.49896135,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,Av. Camacho No. 1355 de la ciudad de La Paz
+Feature,entidadesfinancieras.698,Point,-68.08061389,-16.54071667,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Calle 18 No.50 entre Av. Montenegro y Julio Patiño, Zona San Miguel ciudad de La Paz"
+Feature,entidadesfinancieras.699,Point,-68.07918256,-16.54039434,geom,Mutual La Primera,Cajero Automático,Av. Montenegro No. 111 San Miguel Centro Comercial La Chiwiña
+Feature,entidadesfinancieras.700,Point,-68.12440015,-16.49895237,geom,Mutual La Primera,Cajero Automático,Av. Saavedra No. 22  esquina Plaza Tejada Sorzano(Miraflores)
+Feature,entidadesfinancieras.701,Point,-68.13433864,-16.50027265,geom,Mutual La Primera,Cajero Automático,Av. Mariscal Santa Cruz Nº 1364
+Feature,entidadesfinancieras.702,Point,-68.14108889,-16.48862222,geom,Mutual La Primera,Cajero Automático,Av.Uruguay y Armentia Terminal de Buses
+Feature,entidadesfinancieras.703,Point,-68.12691236,-16.5098847,geom,Mutual La Primera,Cajero Automático,AV. 20 DE OCTUBRE nO. 402 ESQUINA BELISARIO SALINAS ED. TORRE SAFIRO
+Feature,entidadesfinancieras.704,Point,-68.1203214,-16.50604494,geom,Mutual La Primera,Cajero Automático,"Av.Saavedra N.- 2204  Miraflores Bajo
+ 
+"
+Feature,entidadesfinancieras.705,Point,-68.14825556,-16.49397778,geom,Mutual La Primera,Cajero Automático,"Calle Calatayud N.-557 Zona Callampaya
+"
+Feature,entidadesfinancieras.706,Point,-68.10043327,-16.53012074,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Avenida Mecapaca No.6301, Zona Obrajes de la ciudad de La Paz"
+Feature,entidadesfinancieras.707,Point,-68.12083056,-16.47975556,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Av. Las Américas, No.205, esq. Puente Villa, Zona Villa Fátima de la ciudad de La Paz"
+Feature,entidadesfinancieras.708,Point,-68.13674844,-16.49398432,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Plaza Pérez Velasco No.785, Zona Central de la ciudad de La Paz"
+Feature,entidadesfinancieras.709,Point,-68.14396055,-16.49389952,geom,Banco para el Fomento a Iniciativas Económicas S.A.,Cajero Automático,"Av. Buenos Aires No. 561, frente ingreso calle Huyustus, Zona Buenos Aires de la ciudad de La Paz
+"
+Feature,entidadesfinancieras.710,Point,-68.13751119,-16.49414649,geom,Mutual La Primera,Cajero Automático,Calle Evaristo Valle N.- 127 San Sebastian
+Feature,entidadesfinancieras.711,Point,-68.11709594,-16.49574551,geom,Mutual La Primera,Cajero Automático,Av.Esteban Arce N.-1747
+Feature,entidadesfinancieras.712,Point,-68.12473355,-16.51051316,geom,Mutual La Primera,Cajero Automático,Av. 6 de Agosto No. 2549 Sopocachi entre Pedro Salazar y Pinilla
+Feature,entidadesfinancieras.713,Point,-68.0730293,-16.53081565,geom,Mutual La Primera,Cajero Automático,Calle 16 No. 4 Achumani (Frente al Mercado de Achumani)
+Feature,entidadesfinancieras.714,Point,-68.14551587,-16.49615503,geom,Mutual La Primera,Cajero Automático,Calle Max Paredes No.420 Garita de Lima
+Feature,entidadesfinancieras.715,Point,-68.07294444,-16.54536667,geom,Mutual La Primera,Cajero Automático,Av. Jose Maria Acha No.  N.- 27 entre calle 5 y 6 Zona Los Pinos
+Feature,entidadesfinancieras.716,Point,-68.13238965,-16.50259527,geom,Mutual La Primera,Cajero Automático,AV.16 DE JULIO N.-1642 EL PRADO
+Feature,entidadesfinancieras.717,Point,-68.10651625,-16.52721707,geom,Mutual La Primera,Cajero Automático,AV.HERNANDO SILES N.- 5688 Entre Calles 10 y 11 OBRAJES
+Feature,entidadesfinancieras.718,Point,-68.13413889,-16.49572778,geom,Mutual La Primera,Cajero Automático,Calle Comercio Esq.Plaza Murillo N.-1092
+Feature,entidadesfinancieras.719,Point,-68.13993611,-16.49549444,geom,Mutual La Primera,Cajero Automático,Cajero Automatico Calle Illampu N.- 747 entre graneros y santa cruz Zona El Rosario
+Feature,entidadesfinancieras.720,Point,-68.07026761,-16.54558117,geom,Mutual La Paz,Cajero Automático,AV. JOSE MARIA AGUIRRE ACHA S/N (HIPERMERCADO HIPERMAXI LOS PINOS) MODULO 4
+Feature,entidadesfinancieras.721,Point,-68.13559334,-16.50918945,geom,Mutual La Primera,Cajero Automático,Calle Landaeta N.- 1747 Esq.Plaza El CondorZona San Pedro
+Feature,entidadesfinancieras.722,Point,-68.07318184,-16.53158593,geom,Mutual La Paz,Cajero Automático,AV. GARCIA LANZA No.300 ENTRE CALLES 15 Y 16
+Feature,entidadesfinancieras.723,Point,-68.10406651,-16.52142259,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Calle Alberto Lambert NÂº822 sector A, zona Alto Obrajes"
+Feature,entidadesfinancieras.724,Point,-68.13271834,-16.50213351,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida 16 de Julio Nº 1642, zona El Prado."
+Feature,entidadesfinancieras.725,Point,-68.074025,-16.53328889,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida General Lanza Nº 60, Entre Calle Nº 13 y Calle Nº 14, Zona de Achumani"
+Feature,entidadesfinancieras.726,Point,-68.1182818,-16.4946774,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida Esteban Arce Nº 1836, Villa San Antonio, Zona Cruce Villa Copacabana"
+Feature,entidadesfinancieras.727,Point,-68.15236111,-16.49476111,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida Kollasuyo Nº 1432, Zona Callampaya"
+Feature,entidadesfinancieras.728,Point,-68.13984057,-16.49969095,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Calle Maximiliano Paredes, entre Calles Emilio Calderón y Sagárnaga No. 923 Zona Gran Poder"
+Feature,entidadesfinancieras.729,Point,-68.06359167,-16.54086667,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida Muñoz Reyes Nº800 esquina Calle 30, Zona de Cota Cota"
+Feature,entidadesfinancieras.730,Point,-68.12098173,-16.5125916,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida Arce 2779,  Edificio El Escorial - Planta Baja"
+Feature,entidadesfinancieras.731,Point,-68.13250435,-16.49956345,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,Avenida Gral Camacho NÂº 1415 - 1425
+Feature,entidadesfinancieras.732,Point,-68.14380833,-16.49511389,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,Calle Tumusla NÂº 602
+Feature,entidadesfinancieras.733,Point,-68.12056124,-16.47919655,geom,Fondo Financiero Privado Fassil S.A.,Cajero Automático,"Avenida Las Américas NÂº 250, zona Villa Fátima"
+Feature,entidadesfinancieras.734,Point,-68.12692568,-16.50958814,geom,Fondo de la Comunidad S.A. F.F.P.,Cajero Automático,Av. 20 de Octubre # 2379 entre Belisario Salinas y Rosendo Gutierrez
+Feature,entidadesfinancieras.735,Point,-68.07820315,-16.53875579,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. BALLIVIAN # 1323  ENTRE CALLES 20 Y 21 DE CALACOTO
+Feature,entidadesfinancieras.736,Point,-68.13420001,-16.4987448,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. CAMACHO ESQ. COLON No. 2277
+Feature,entidadesfinancieras.737,Point,-68.13420001,-16.4987448,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,Av. CAMACHO ESQ. CALLE COLON # 1277
+Feature,entidadesfinancieras.738,Point,-68.1314,-16.5045,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,PLAZA DEL ESTUDIANTE ESQ. CALLE LANDAETA S/N. EDIFICIO GAMARRA
+Feature,entidadesfinancieras.739,Point,-68.12757309,-16.51083074,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. SANCHEZ LIMA ESQ. BELISARIO SALINAS # 520
+Feature,entidadesfinancieras.740,Point,-68.11652942,-16.49608024,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. 31 DE OCTUBRE # 1525 ZONA VILLA COPACABANA (CRUCE VILLA COPACABANA)
+Feature,entidadesfinancieras.741,Point,-68.11958643,-16.47759726,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. LAS AMERICAS NO. 398
+Feature,entidadesfinancieras.742,Point,-68.14647738,-16.4957946,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. BAPTISTA NO. 845
+Feature,entidadesfinancieras.743,Point,-68.13962778,-16.49636389,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,CALLE ILLAMPU ESQ. SANTA CRUZ No. 784
+Feature,entidadesfinancieras.744,Point,-68.12077163,-16.50530416,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. SAAVEDRA # 2136
+Feature,entidadesfinancieras.745,Point,-68.10236657,-16.52960548,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. HERNANDO SILES NÂº 6204 ESQ. CALLE 16 DE OBRAJES
+Feature,entidadesfinancieras.746,Point,-68.13675016,-16.49399982,geom,Fondo Financiero Privado Prodem S.A.,Cajero Automático,AV. MONTES No. 755
+Feature,entidadesfinancieras.747,Point,-68.08706111,-16.53209722,geom,Banco Los Andes Procredit S.A.,Cajero Automático,Avenida Rafael Pabón frente al Colegio Militar
+Feature,entidadesfinancieras.748,Point,-68.13282854,-16.49940389,geom,Banco Ganadero S.A.,Cajero Automático,Av. Camacho Nº 1372 (Zona Central)
+Feature,entidadesfinancieras.749,Point,-68.0806905,-16.54080265,geom,Banco Ganadero S.A.,Cajero Automático,Av. Montenegro Esquina Calle 18 Calacoto Nº 5 (Zona San Miguel)
+Feature,entidadesfinancieras.750,Point,-68.12414409,-16.49902408,geom,Banco Económico S.A.,Cajero Automático,"La Paz Av. Saavedra Nro. 1392, esq. Plaza Stadium, Lado Radio Club La Paz"
+Feature,entidadesfinancieras.751,Point,-68.14506465,-16.4954018,geom,Banco Económico S.A.,Cajero Automático,La Paz Calle Tumusla  Nro. 758 entre Av. Buenos Aires y  Plaza Garita de Lima
+Feature,entidadesfinancieras.752,Point,-68.13502162,-16.49731447,geom,Banco Unión S.A.,Cajero Automático,Calle Socabaya esq Mercado
+Feature,entidadesfinancieras.753,Point,-68.13117677,-16.5045358,geom,Banco Unión S.A.,Cajero Automático,Plaza El Estudiante Edificio Inchauste Zelaya
+Feature,entidadesfinancieras.754,Point,-68.10731825,-16.52281039,geom,Banco BISA S.A.,Cajero Automático,Av. del Maestro Nº 954 Sector B
+Feature,entidadesfinancieras.755,Point,-68.13651906,-16.50303145,geom,Banco BISA S.A.,Cajero Automático,"Esq. Colombia y Zoilo Flores Nº 490, Zona San Pedro"
+Feature,entidadesfinancieras.756,Point,-68.12071845,-16.51291247,geom,Banco BISA S.A.,Cajero Automático,Av. Arce Nº 2799 esq. calle Cordero Edificio Fortaleza
+Feature,entidadesfinancieras.757,Point,-68.07715,-16.53885278,geom,Banco BISA S.A.,Cajero Automático,Av. Ballivian Nº 1461 entre calles 21 y 22 (AutoBanco) - Agencia
+Feature,entidadesfinancieras.758,Point,-68.09143333,-16.54476389,geom,Banco BISA S.A.,Cajero Automático,Av. Arequipa Nº 8221 - Shopping Sur La Florida - Agencia
+Feature,entidadesfinancieras.759,Point,-68.12379089,-16.50993878,geom,Banco BISA S.A.,Cajero Automático,Av. Arce esq. Hermanos Manchego Nº 2572 - Agencia
+Feature,entidadesfinancieras.760,Point,-68.12921697,-16.50720615,geom,Banco BISA S.A.,Cajero Automático,Calle Aspiazu Nº 387 esq. Av. 20 de Octubre - Sopocachi
+Feature,entidadesfinancieras.761,Point,-68.13502292,-16.49615479,geom,Banco BISA S.A.,Cajero Automático,Calle Potosí  Nº 1012 - Agencia Calle Potosí
+Feature,entidadesfinancieras.762,Point,-68.13279077,-16.50202162,geom,Banco BISA S.A.,Cajero Automático,Av. 16 de Julio Nº 1628 - Agencia Principal
+Feature,entidadesfinancieras.763,Point,-68.13384515,-16.4989209,geom,Banco BISA S.A.,Cajero Automático,Av. Camacho Nº 1333 - Agencia
+Feature,entidadesfinancieras.764,Point,-68.07724722,-16.538825,geom,Banco BISA S.A.,Cajero Automático,Av. Ballivian entre calles 21 y 22 (AutoBanco) - Agencia
+Feature,entidadesfinancieras.765,Point,-68.12041353,-16.49586715,geom,Banco BISA S.A.,Cajero Automático,Calle Cuba Nº 1406 esq. Brasil - Edificio Mercedes Miraflores
+Feature,entidadesfinancieras.766,Point,-68.10062222,-16.52944722,geom,Banco BISA S.A.,Cajero Automático,Av. 14 de Septiembre esq. calle 17 Obrajes Nº 40 - Estacion de Servicio Carsur
+Feature,entidadesfinancieras.767,Point,-68.13610625,-16.49471942,geom,Banco BISA S.A.,Cajero Automático,Calle Comercio Nº 848
+Feature,entidadesfinancieras.768,Point,-68.07313763,-16.53067676,geom,Banco BISA S.A.,Cajero Automático,Calle 16 Nº 5 - Frente al Mercado de Achumani
+Feature,entidadesfinancieras.769,Point,-68.075173,-16.54519481,geom,Banco BISA S.A.,Cajero Automático,Av. Jose María Acha esq. calle 3 (Juan Chalco) Nº 472
+Feature,entidadesfinancieras.770,Point,-68.12894722,-16.51474444,geom,Banco BISA S.A.,Cajero Automático,Calle Mendez  Arcos esq. V. Sanjines Nº 2706 - Sopocachi
+Feature,entidadesfinancieras.771,Point,-68.1444028,-16.49372879,geom,Banco BISA S.A.,Cajero Automático,"Av. Buenos Aires esquina nudo Vita No. 470, Z/14 de septiembre."
+Feature,entidadesfinancieras.772,Point,-68.14779685,-16.4954898,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Baptista esq. Calle Calatayud No. 950 - Zona Callampa
+Feature,entidadesfinancieras.773,Point,-68.09028865,-16.54109253,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Av. Ballivian esq. Calle 9 Nº 302 - Calacoto
+Feature,entidadesfinancieras.774,Point,-68.12197071,-16.49106548,geom,Banco de Crédito de Bolivia S.A.,Cajero Automático,Calle Haití No.1248 entre Trinidad y Tobago y EE.UU. - Frente Mercado Haití
+Feature,entidadesfinancieras.775,Point,-68.12974628,-16.50578886,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,AV. 6 DE AGOSTO EDIF. V CENTENARIO
+Feature,entidadesfinancieras.776,Point,-68.13856116,-16.49761223,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,CALLE SAGARNAGA # 328 ENTRE ILLAMPU Y LINARES
+Feature,entidadesfinancieras.777,Point,-68.08905278,-16.540325,geom,Banco Mercantil Santa Cruz S.A.,Cajero Automático,"AV. BALLIVIAN NRO 415 ENTRE CALLE 10 Y CALLE 11 , CALACOTO"
+Feature,entidadesfinancieras.778,Point,-68.07459227,-16.53359899,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. GARCIA LANZA NÂº 1484, ESQ. CALLE 13, AGENCIA BNB, ZONA ACHUMANI"
+Feature,entidadesfinancieras.779,Point,-68.07450741,-16.53354555,geom,Banco Nacional de Bolivia S.A.,Cajero Automático,"AV. GARCIA LANZA NÂº 1484, ESQ. CALLE 13, AGENCIA BNB, ZONA ACHUMANI"

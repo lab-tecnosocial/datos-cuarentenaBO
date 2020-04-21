@@ -1,0 +1,5085 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 155,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "hospedajes.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14217168,
+                    -16.49232523
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "America",
+                "Zona": "Norte",
+                "Direccion": "c. Pucarani Nº 6989",
+                "Telefono": "2454704",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:16:03.693Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1374596,
+                    -16.49021736
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Armentia",
+                "Zona": "Norte",
+                "Direccion": "Av. Armentia Nº 553 esq. Pasaje Willca Zárate",
+                "Telefono": "2286092",
+                "Celular": "77788180",
+                "Fax": "",
+                "Email": "alojamientoarmetia@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:20:29.807Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14201616,
+                    -16.49370876
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Central",
+                "Zona": "San Sebastián",
+                "Direccion": "Av. Maco Kapac Nº1384",
+                "Telefono": "2455127",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 20",
+                "Doble": "Bs. 40",
+                "Triple": "Bs. 60",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:29:09.743Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14156347,
+                    -16.49202691
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Diamante",
+                "Zona": "San Sebastián",
+                "Direccion": "c. Inquisivi Nº 400",
+                "Telefono": "2457035",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:29:40.863Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13255325,
+                    -16.49285501
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Carretero",
+                "Zona": "Norte",
+                "Direccion": "c. Catacora Nº 1056 entre Yanacocha y Junín",
+                "Telefono": "2285271",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:31:53.537Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14191255,
+                    -16.49200155
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Girasol",
+                "Zona": "Norte",
+                "Direccion": "c. Pucarani Nº273",
+                "Telefono": "2455265",
+                "Celular": "",
+                "Fax": "",
+                "Email": "alogirasol@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:33:17.650Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14242382,
+                    -16.49496717
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gran California",
+                "Zona": "Rosario",
+                "Direccion": "Av. Tumusla Nº 551",
+                "Telefono": "2451176",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:33:38.400Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15241599,
+                    -16.49540161
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Heroes del Pacífico",
+                "Zona": "Bajo Tejar",
+                "Direccion": "Av. Heroes del Pacífico Nº 1402",
+                "Telefono": "2381831",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 30",
+                "Doble": "Bs. 60",
+                "Triple": "Bs. 90",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:42:22.517Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12769803,
+                    -16.49920435
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Illimani",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Illimani Nº1817",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:46:54.240Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13913481,
+                    -16.49653213
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jimenez",
+                "Zona": "Rosario",
+                "Direccion": "c. Jiménez Nº 812",
+                "Telefono": "2451418",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 80",
+                "Triple": "Bs.120",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:49:22.390Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1448277,
+                    -16.49648463
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Kollita",
+                "Zona": "Gran Poder",
+                "Direccion": "C.Max Paredes # 466",
+                "Telefono": "2457245",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 7,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:49:45.160Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13985131,
+                    -16.48854688
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Casa de la Abuela",
+                "Zona": "Norte",
+                "Direccion": "Av. Armentia Nº 359",
+                "Telefono": "2280722",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 80",
+                "Triple": "Bs. 120",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:49:53.317Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13782598,
+                    -16.49910212
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Rivera",
+                "Zona": "Centro",
+                "Direccion": "c. Tarija Nº 325 entre Illampu y Linares",
+                "Telefono": "2351887",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 30",
+                "Doble": "Bs. 60",
+                "Triple": "Bs. 90",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:50:28.167Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13943623,
+                    -16.49648599
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Las Brujas",
+                "Zona": "Rosario",
+                "Direccion": "c. Santa Cruz Nº 389",
+                "Telefono": "",
+                "Celular": "71945401",
+                "Fax": "",
+                "Email": "www.bigsun.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 80",
+                "Triple": "Bs. 110",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:49:17.117Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14214647,
+                    -16.49262363
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Las Condes",
+                "Zona": "San Sebastián",
+                "Direccion": "Av. Muñecas Nº 376",
+                "Telefono": "2355712",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:51:09.783Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1422096,
+                    -16.49259569
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Liberty",
+                "Zona": "San Sebastián",
+                "Direccion": "Av. Muñecas Nº 369",
+                "Telefono": "2455317",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:50:31.367Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13761648,
+                    -16.49945549
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Linares",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº 1052 lado ex Cine Murillo",
+                "Telefono": "2364282",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 30",
+                "Doble": "Bs. 60",
+                "Triple": "Bs. 100",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T15:53:25.353Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14440454,
+                    -16.49513405
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Litoral",
+                "Zona": "Gran Poder",
+                "Direccion": "Av. Buenos Aires 588",
+                "Telefono": "2452412",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 70",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 7,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:51:41.273Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13971225,
+                    -16.49544345
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lorona",
+                "Zona": "Rosario",
+                "Direccion": "c. Jiménez Nº 746",
+                "Telefono": "2457390",
+                "Celular": "70833295",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 50",
+                "Doble": "Bs. 70",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:52:08.330Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1447373,
+                    -16.49644503
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Angeles",
+                "Zona": "Gran Poder",
+                "Direccion": "C. Max Paredes No. 575",
+                "Telefono": "2453726",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 15",
+                "Doble": "Bs. 30",
+                "Triple": "Bs. 45",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T16:53:08.683Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.21",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Norte",
+                "Zona": "Norte",
+                "Direccion": "Av. Armentia Nº 517",
+                "Telefono": "2283631",
+                "Celular": null,
+                "Fax": null,
+                "Email": null,
+                "PaginaWeb": null,
+                "CategoriaActual": null,
+                "Simple": "Bs. 25",
+                "Doble": "Bs. 50",
+                "Triple": "Bs. 75",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14193777,
+                    -16.49169912
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Paraiso",
+                "Zona": "Norte",
+                "Direccion": "C. Pucarani Nº 266",
+                "Telefono": "2460863",
+                "Celular": "",
+                "Fax": "",
+                "Email": "goad.flores@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 20",
+                "Doble": "Bs. 40",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T17:41:52.970Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14321865,
+                    -16.49265527
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Posada Villa",
+                "Zona": "Villa Pabón",
+                "Direccion": "Plza. Keneddy Nº 310",
+                "Telefono": "2455753",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 25",
+                "Doble": "Bs. 35",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T17:42:04.083Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14217671,
+                    -16.49295289
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Providencia",
+                "Zona": "Norte",
+                "Direccion": "c. Muñecas Nº378",
+                "Telefono": "2460666",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T17:42:10.780Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13740558,
+                    -16.49927914
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tipnis",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº1039",
+                "Telefono": "2900568",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 50",
+                "Doble": "Bs. 70",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T17:42:27.657Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13622999,
+                    -16.50461314
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Toscana",
+                "Zona": "San Pedro",
+                "Direccion": "C. G. Otero Calderon Nº 1536",
+                "Telefono": "2488499",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 2,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T18:00:35.833Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14279036,
+                    -16.4918839
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villazon",
+                "Zona": "San Sebastián",
+                "Direccion": "c. Torrelio Nº 371",
+                "Telefono": "2450672",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 15",
+                "Doble": "Bs. 30",
+                "Triple": "Bs. 45",
+                "Fuente": "empresa",
+                "IdTipo": 1,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:38:23.050Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.28",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "APART HOTEL LA PAZ",
+                "Zona": null,
+                "Direccion": null,
+                "Telefono": null,
+                "Celular": null,
+                "Fax": null,
+                "Email": null,
+                "PaginaWeb": null,
+                "CategoriaActual": null,
+                "Simple": null,
+                "Doble": null,
+                "Triple": null,
+                "Fuente": null,
+                "IdTipo": 2,
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12907825,
+                    -16.51419506
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alcalá",
+                "Zona": "Sopocachi",
+                "Direccion": "c. Victor Sanjinez Nº 2662, Plaza España",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@alcalapartamentos.com",
+                "PaginaWeb": "http://www.alcalapartamentos.com",
+                "CategoriaActual": "****",
+                "Simple": "Bs. 470",
+                "Doble": "Bs. 540",
+                "Triple": "Bs. 620",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:47:12.590Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12701501,
+                    -16.50576477
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Camino Real",
+                "Zona": "Sopocachi",
+                "Direccion": "c. Capitán Ravelo Nº 2123",
+                "Telefono": "2441515",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@caminorealaparthotel-spa.com",
+                "PaginaWeb": "http://www.caminorealaparthotel-spa.com",
+                "CategoriaActual": "*****",
+                "Simple": "Bs. 950",
+                "Doble": "Bs. 1125",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:48:49.260Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08279784,
+                    -16.53850454
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Casa Grande",
+                "Zona": "Calacoto",
+                "Direccion": "Av. Ballivián esq. c. 17 Nº 1000",
+                "Telefono": "2795511",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@casa-grande.com.bo",
+                "PaginaWeb": "http://www.casa-grande.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "$200",
+                "Doble": "$ 260",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:50:02.643Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08129547,
+                    -16.54288839
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Delfines",
+                "Zona": "Calacoto",
+                "Direccion": "c.17 esq. Claudio Aliaga",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservas@losdelfines.com.bo",
+                "PaginaWeb": "http://www.losdelfines.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "$80",
+                "Doble": "$93",
+                "Triple": "$107",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:51:34.067Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09123019,
+                    -16.54510457
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Sauces",
+                "Zona": "Calacoto",
+                "Direccion": "Av. Arequipa 8283",
+                "Telefono": "2772900",
+                "Celular": "72035558",
+                "Fax": "",
+                "Email": "info@sauces.com.bo",
+                "PaginaWeb": "http://www.sauces.com.bo",
+                "CategoriaActual": "****",
+                "Simple": "Bs. 620",
+                "Doble": "Bs. 680",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T18:07:24.020Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12481906,
+                    -16.50933121
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ritz",
+                "Zona": "Sopocachi",
+                "Direccion": "Plaza Isabel La Católica Nº 2478",
+                "Telefono": "2433131",
+                "Celular": "",
+                "Fax": "",
+                "Email": "gcomercial@ritzbolivia.com",
+                "PaginaWeb": "http://www.ritzbolivia.com",
+                "CategoriaActual": "*****",
+                "Simple": "$ 99",
+                "Doble": "$ 112",
+                "Triple": "$ 142",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:53:42.853Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1264471,
+                    -16.51302242
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Monticúlo Apart Hotel",
+                "Zona": "Sopocachi",
+                "Direccion": "c. Macario Pinilla Nº 580",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "monticulo-aparthotel@hotmail.com,",
+                "PaginaWeb": "http://www.monticulo-aparthotel.boliviafull.com",
+                "CategoriaActual": "***",
+                "Simple": "$40",
+                "Doble": "$69",
+                "Triple": "$98",
+                "Fuente": "pagina",
+                "IdTipo": 2,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:54:14.977Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08949088,
+                    -16.54098948
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Suites Cámino Real",
+                "Zona": "Calacoto",
+                "Direccion": "Av. Ballivián Nº 369, esq. c. 10",
+                "Telefono": "2792323",
+                "Celular": "",
+                "Fax": "",
+                "Email": "suites@caminoreal.com.bo",
+                "PaginaWeb": "http://www.caminoreal.bo",
+                "CategoriaActual": "*****",
+                "Simple": "Bs. 950",
+                "Doble": "Bs.1125",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:55:05.807Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.132852,
+                    -16.49349524
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Victoria",
+                "Zona": "Norte",
+                "Direccion": "Av. Sucre Nº 1055, esq. Junin",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservasvictoria@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 200",
+                "Doble": "Bs. 300",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 2,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T18:59:25.583Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13566376,
+                    -16.50350807
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Balcones Blancos",
+                "Zona": "San Pedro",
+                "Direccion": "c. Nicolás Acosta Nº 477",
+                "Telefono": "2489471",
+                "Celular": "",
+                "Fax": "",
+                "Email": "maktub953@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 2,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:00:44.653Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13846616,
+                    -16.49760195
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Montañés",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 319",
+                "Telefono": "",
+                "Celular": "73275003",
+                "Fax": "",
+                "Email": "elizasbethslazar@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 90",
+                "Doble": "Bs. 160",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 2,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:01:32.663Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13867995,
+                    -16.49547844
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alsigal",
+                "Zona": "Central",
+                "Direccion": "c. Murillo Nº764",
+                "Telefono": "2369609",
+                "Celular": "72501451",
+                "Fax": "",
+                "Email": "alsigalhostal@gmail.com",
+                "PaginaWeb": "http://www.alsigalhostal.com",
+                "CategoriaActual": "",
+                "Simple": "Bs. 70",
+                "Doble": "Bs. 120",
+                "Triple": "Bs. 180",
+                "Fuente": "GBT",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:03:30.950Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13604826,
+                    -16.49821532
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Angelo Colonial",
+                "Zona": "Central",
+                "Direccion": "Av. Mariscal Santa Cruz Nº 1058",
+                "Telefono": "2125067",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hostalangelocolonial@yahoo.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 60",
+                "Doble": "Bs. 110",
+                "Triple": "Bs. 130",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:06:16.810Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.42",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "",
+                "Direccion": "",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T18:20:14.390Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1379327,
+                    -16.4987174
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Arcabucero Inn",
+                "Zona": "Rosario",
+                "Direccion": "c. Viluyo Nº 307 Plaza Gastón Velazco",
+                "Telefono": "2313473",
+                "Celular": "71968949",
+                "Fax": "",
+                "Email": "arcabucero-bolivia@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 90",
+                "Doble": "Bs. 150",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:13:28.390Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.138276,
+                    -16.48946501
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Arcanjel",
+                "Zona": "Norte",
+                "Direccion": "Av. Armentia s/n  Zona la Terminal",
+                "Telefono": "2286557",
+                "Celular": "77588190",
+                "Fax": "",
+                "Email": "javi.arcangel@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 80,50",
+                "Doble": "Bs. 100,70",
+                "Triple": "Bs. 130",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:14:13.910Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13624768,
+                    -16.50162354
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Astoria",
+                "Zona": "San Pedro",
+                "Direccion": "c. Almirante Grau Nº 348  esq. General Gonzales",
+                "Telefono": "2494456",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:16:46.730Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13485195,
+                    -16.49500004
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Austria",
+                "Zona": "Centro",
+                "Direccion": "c. Yanacocha Nº 531",
+                "Telefono": "2408540",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 35",
+                "Doble": "Bs. 70",
+                "Triple": "Bs. 105",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:17:05.760Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13666293,
+                    -16.49233264
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bacoo",
+                "Zona": "Norte",
+                "Direccion": "Calle Alto de la Alianza # 693",
+                "Telefono": "2280679",
+                "Celular": "70689222",
+                "Fax": "",
+                "Email": "info@bacoohostel.com",
+                "PaginaWeb": "http://www.bacoohostel.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:19:56.640Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13705993,
+                    -16.49260143
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bash and Crash",
+                "Zona": "Central",
+                "Direccion": "c. Ingavi Nº681",
+                "Telefono": "2280934",
+                "Celular": "79565356",
+                "Fax": "",
+                "Email": "cocasandoval@hotmail.com",
+                "PaginaWeb": "http://www.bashandcrashbackpackers.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:23:21.310Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13913078,
+                    -16.49672108
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cactus",
+                "Zona": "Rosario",
+                "Direccion": "c. Jiménez Nº 818 esq. Sagárnaga",
+                "Telefono": "2451421",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 70",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:26:14.053Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13554432,
+                    -16.50189029
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Casa Colonial",
+                "Zona": "San Pedro",
+                "Direccion": "c. Colombia Nº 214 Plaza Sucre",
+                "Telefono": "2480430",
+                "Celular": "",
+                "Fax": "",
+                "Email": "casacoloniasp@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:27:38.517Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14012243,
+                    -16.49592005
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Copacabana",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 734",
+                "Telefono": "2451626",
+                "Celular": "",
+                "Fax": "",
+                "Email": "combicop@ceibo.entelnet.bo",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:30:28.563Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13949932,
+                    -16.49665755
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El lobo",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 807",
+                "Telefono": "2457708",
+                "Celular": "74841467",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "http://www.facebook.com/hostallobo",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 50",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:37:12.443Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14012231,
+                    -16.4957712
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El palacio del Inca",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 730 entre Aroma y Santa Cruz",
+                "Telefono": "2452441",
+                "Celular": "72599032",
+                "Fax": "",
+                "Email": "palaciodelinca@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 60",
+                "Doble": "Bs. 120",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:39:59.700Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14021293,
+                    -16.49559694
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Estrella Andina",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 716 esq. Aroma",
+                "Telefono": "",
+                "Celular": "77742096",
+                "Fax": "",
+                "Email": "juapame_2000@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:40:16.210Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14159755,
+                    -16.4923609
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Florida",
+                "Zona": "Norte",
+                "Direccion": "c. Viacha Nº 489 esq. Muñecas",
+                "Telefono": "2452800",
+                "Celular": "67322903",
+                "Fax": "",
+                "Email": "hotelfloridap.bo@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "**",
+                "Simple": "Bs 60",
+                "Doble": "Bs 80",
+                "Triple": "Bs. 120",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:41:26.177Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14372339,
+                    -16.48796354
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Isidoros",
+                "Zona": "Norte",
+                "Direccion": "c. Cobija # 120",
+                "Telefono": "2285205",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@hostalisidoro.com",
+                "PaginaWeb": "http://www.hostalisidoros.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:46:29.890Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13890923,
+                    -16.49542489
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jacha Inti",
+                "Zona": "Rosario",
+                "Direccion": "c.  Murillo Nº 760 entre Santa Cruz  y Graneros",
+                "Telefono": "2316906",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs 25, 35",
+                "Doble": "Bs. 70",
+                "Triple": "Bs. 105",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:47:28.717Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13328288,
+                    -16.50205951
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Estancia",
+                "Zona": "San Pedro",
+                "Direccion": "c. México Nº 1559",
+                "Telefono": "2310336",
+                "Celular": "76234004",
+                "Fax": "",
+                "Email": "facebook hotel estancia",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 125",
+                "Doble": "Bs. 190",
+                "Triple": "Bs. 240",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:47:46.620Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13744742,
+                    -16.49907609
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lion Palace",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº1017",
+                "Telefono": "2900454",
+                "Celular": "70160285",
+                "Fax": "",
+                "Email": "info@lionpalacehostel.com",
+                "PaginaWeb": "http://www.lionpalacehostel.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:54:19.910Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13209737,
+                    -16.49765791
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Loki",
+                "Zona": "Central",
+                "Direccion": "c. Loayza Nº 420",
+                "Telefono": "2119024",
+                "Celular": "73729477",
+                "Fax": "",
+                "Email": "recepcionlokilp@gmail.com",
+                "PaginaWeb": "http://www.lokihostel.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "Bs. 140",
+                "Triple": "Bs. 195",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:54:36.113Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13866906,
+                    -16.49778682
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Maya Inn",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 339 a dos cuadras de San Francisco",
+                "Telefono": "",
+                "Celular": "70631262",
+                "Fax": "",
+                "Email": "mayahost_in@hotmail.com",
+                "PaginaWeb": "http://www.hostalmaya.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T19:55:14.617Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13957764,
+                    -16.49654596
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Muzungu",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu esq. Santa Cruz Nº 441",
+                "Telefono": "2451640",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@muzunguhostel.com",
+                "PaginaWeb": "http://www.muzunguhostel.com",
+                "CategoriaActual": "",
+                "Simple": "Bs. 55,50",
+                "Doble": "Bs. 110,100",
+                "Triple": "Bs. 165,150",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:00:37.447Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13724454,
+                    -16.49688683
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Naira",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 161",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@hostalnaira.com",
+                "PaginaWeb": "http://www.hostalnaira.com",
+                "CategoriaActual": "***",
+                "Simple": "$34",
+                "Doble": "$49",
+                "Triple": "$70",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:01:48.383Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13482298,
+                    -16.50175225
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Onkel Inn",
+                "Zona": "San Pedro",
+                "Direccion": "c. Colombia Nº 257",
+                "Telefono": "2490456",
+                "Celular": "",
+                "Fax": "",
+                "Email": "onkelinn@gmail.com",
+                "PaginaWeb": "http://www.onkelinn.com",
+                "CategoriaActual": "",
+                "Simple": "Bs. 200",
+                "Doble": "Bs. 270",
+                "Triple": "Bs. 340",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:02:10.483Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12451236,
+                    -16.5097342
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Paris",
+                "Zona": "Sopocachi",
+                "Direccion": "Plaza Isabel la Católica Nº 2508",
+                "Telefono": "2433233",
+                "Celular": "72258723",
+                "Fax": "",
+                "Email": "hostalparis.lapaz@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 200",
+                "Doble": "Bs. 270",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:02:35.853Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13838655,
+                    -16.49134712
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pirwa",
+                "Zona": "Norte",
+                "Direccion": "Av. Montes Nº 641",
+                "Telefono": "2458748",
+                "Celular": "",
+                "Fax": "",
+                "Email": "manaferpirwalapaz@gmail.com",
+                "PaginaWeb": "http://www.pirwahostelscusco.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:04:32.300Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13797975,
+                    -16.49766695
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Posada de la Abuela Obdulia",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº 947",
+                "Telefono": "2332285",
+                "Celular": "71271374",
+                "Fax": "",
+                "Email": "mail@hostalabuelalaposada.com",
+                "PaginaWeb": "http://www.hostalabuelaposada.com",
+                "CategoriaActual": "",
+                "Simple": "$30",
+                "Doble": "$40",
+                "Triple": "$50",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:05:21.623Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13695813,
+                    -16.49847549
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Provenzal",
+                "Zona": "Norte",
+                "Direccion": "Calle Murillo # 1014",
+                "Telefono": "2310479",
+                "Celular": "71547497",
+                "Fax": "",
+                "Email": "reservas@provenzal.com",
+                "PaginaWeb": "http://www.hostalprovenzal.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 3,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:09:41.440Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13109604,
+                    -16.49745208
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "República",
+                "Zona": "Central",
+                "Direccion": "c. Comercio Nº 1455 esq. Bueno",
+                "Telefono": "2202742",
+                "Celular": "2203448",
+                "Fax": "",
+                "Email": "marynela@ceibo.entenet.bo",
+                "PaginaWeb": "http://www.hostalrepublica.com",
+                "CategoriaActual": "***",
+                "Simple": "$26",
+                "Doble": "$38",
+                "Triple": "$45",
+                "Fuente": "pagina",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:10:37.680Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14032607,
+                    -16.49545472
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rosario",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 704",
+                "Telefono": "2451684",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservas@hotelrosario.com",
+                "PaginaWeb": "http://www.hotelrosario.com",
+                "CategoriaActual": "****",
+                "Simple": "$74",
+                "Doble": "$79",
+                "Triple": "",
+                "Fuente": "pagina",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:20:14.267Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09391518,
+                    -16.54017857
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sur",
+                "Zona": "Obrajes",
+                "Direccion": "Av. Mecapaca Nº 7398",
+                "Telefono": "2788296",
+                "Celular": "77239677",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "http://www.facebook.com/hostal.sur.5.",
+                "CategoriaActual": "",
+                "Simple": "Bs. 110,170",
+                "Doble": "Bs. 180, 210",
+                "Triple": "Bs. 300",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:21:46.277Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13969434,
+                    -16.48867637
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tambo de Oro",
+                "Zona": "Norte",
+                "Direccion": "Av. Armentia Nº 367",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hostal-tambodeoro@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 3,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:22:50.997Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14059239,
+                    -16.49037428
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "The Adventure Brew Hostel",
+                "Zona": "Norte",
+                "Direccion": "Av. Montes Nº 503",
+                "Telefono": "2915896",
+                "Celular": "",
+                "Fax": "",
+                "Email": "adventurehostel@hotmail.com",
+                "PaginaWeb": "http://www.theadventurebrewhostel.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "Bs. 160",
+                "Triple": "Bs. 210",
+                "Fuente": "pagina",
+                "IdTipo": 3,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:25:27.877Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14238036,
+                    -16.49290885
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tiahuanacu",
+                "Zona": "Norte",
+                "Direccion": "Av. Las Muñecas Nº 364",
+                "Telefono": "2461230",
+                "Celular": "",
+                "Fax": "",
+                "Email": "marcy_uni@yahoo.de",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "amarillas",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:29:27.137Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12687645,
+                    -16.4967698
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Topaz",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Saavedra Nº 1109 entre Yungas y Plaza Uyuni",
+                "Telefono": "2223082",
+                "Celular": "77528988",
+                "Fax": "",
+                "Email": "hostaltopaz@hotmail.com",
+                "PaginaWeb": "http://elhostaltopaz.webs.tl",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:29:53.417Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13118173,
+                    -16.49771722
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Wild Rover Hostel",
+                "Zona": "Central",
+                "Direccion": "c. Comercio N°1476",
+                "Telefono": "2116903",
+                "Celular": "76769853",
+                "Fax": "",
+                "Email": "lapaz@wildroverhostels.com",
+                "PaginaWeb": "http://www.wilroverhostels.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "Bs. 160",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 3,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:30:26.120Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13758181,
+                    -16.49292494
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Aeronáutico",
+                "Zona": "Norte",
+                "Direccion": "Av. Montes Nº 734",
+                "Telefono": "2681155",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "aeronauticohotel@gmail.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:34:57.340Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.78",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13881187,
+                    -16.49754601
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alem",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 334",
+                "Telefono": "2367400",
+                "Celular": "",
+                "Fax": "",
+                "Email": "jvera_2002@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 45 b/c - 100 b/p",
+                "Doble": "Bs. 90 - 120 b/p",
+                "Triple": "Bs. 120 b/c - 165 b/p",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:35:36.947Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.79",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Aranjuez",
+                "Zona": "La Florida",
+                "Direccion": "Av. Victor Paz Estensoro Nº10",
+                "Telefono": null,
+                "Celular": "70143377",
+                "Fax": null,
+                "Email": "rioselva@acelerate.com",
+                "PaginaWeb": "http://www.rioselva.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": null,
+                "Doble": null,
+                "Triple": null,
+                "Fuente": null,
+                "IdTipo": 4,
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13966119,
+                    -16.49623955
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Berlina",
+                "Zona": "Rosario",
+                "Direccion": "Av. Illampu Nº761",
+                "Telefono": "2461928",
+                "Celular": "77202792",
+                "Fax": "",
+                "Email": "info@hotel-berlina.com",
+                "PaginaWeb": "http://www.hotel-berlina.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 300",
+                "Doble": "Bs. 400",
+                "Triple": "Bs. 500",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:43:54.873Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14108575,
+                    -16.48800593
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bolivian Passport",
+                "Zona": "Norte",
+                "Direccion": "Av. Perú esq. Beni Nº 291",
+                "Telefono": "2282010",
+                "Celular": "74001949",
+                "Fax": "",
+                "Email": "info@bolivianpassporthotel.com",
+                "PaginaWeb": "http://www.bolivianpassport.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 140",
+                "Doble": "Bs. 220",
+                "Triple": "Bs. 300",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:44:13.890Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07812865,
+                    -16.54380167
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Buganvillas",
+                "Zona": "Calacoto",
+                "Direccion": "Av. Montenegro Nº918",
+                "Telefono": "2775530",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@hotelbuganvillas.com",
+                "PaginaWeb": "http://www.hotelbuganvillas.com",
+                "CategoriaActual": "*****",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:44:56.503Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08588742,
+                    -16.54078528
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Calacoto",
+                "Zona": "Calacoto",
+                "Direccion": "c. 13 Nº 8009",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@hotelcalacoto.com",
+                "PaginaWeb": "http://www.hotelcalacoto.com",
+                "CategoriaActual": "***",
+                "Simple": "$69",
+                "Doble": "$84",
+                "Triple": "$102",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:49:50.567Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12974661,
+                    -16.51525559
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Casa Fusión",
+                "Zona": "Sopocachi",
+                "Direccion": "C. Miguel de Cervantes Nº2725",
+                "Telefono": "2141372",
+                "Celular": "70521999",
+                "Fax": "",
+                "Email": "gerencia@casafusion.com.bo",
+                "PaginaWeb": "http://www.casafusion.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "$47",
+                "Doble": "$52",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:55:34.770Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08251108,
+                    -16.54033568
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Casa Grande",
+                "Zona": "Calacoto",
+                "Direccion": "c.16 Nº8009",
+                "Telefono": "2774000",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotel@casa-grande.com.bo",
+                "PaginaWeb": "http://www.casa-grande.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "$270",
+                "Doble": "$290",
+                "Triple": "$370",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:55:55.630Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12047375,
+                    -16.50448964
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Castellón",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Argentina  Nº 2145, Parque Triangular",
+                "Telefono": "",
+                "Celular": "70161260",
+                "Fax": "",
+                "Email": "reservas@hotel-castellon.com",
+                "PaginaWeb": "http://www.hotel-castellon.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 230",
+                "Doble": "Bs. 380",
+                "Triple": "Bs. 580",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:57:09.450Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12399881,
+                    -16.49379723
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Castilla",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Iturralde Nº 1239",
+                "Telefono": "2225319",
+                "Celular": "",
+                "Fax": "",
+                "Email": "castillahotel@gmail.com",
+                "PaginaWeb": "http://www.castillahotel.com.bo",
+                "CategoriaActual": "",
+                "Simple": "Bs. 100",
+                "Doble": "Bs. 140",
+                "Triple": "Bs. 195",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:57:35.773Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1248941,
+                    -16.49935429
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Columbus Palace",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Illimani Nº 1990, plaza Stadium",
+                "Telefono": "2242444",
+                "Celular": "76753553",
+                "Fax": "",
+                "Email": "lpcolumbus@lphoteles.com",
+                "PaginaWeb": "http://www.lphoteles.com",
+                "CategoriaActual": "***",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:59:07.813Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1432806,
+                    -16.49522324
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Comercio",
+                "Zona": "Rosario",
+                "Direccion": "c. Tumusla  Nº  620",
+                "Telefono": "2346034",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotel_comercio@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 45",
+                "Doble": "Bs. 75",
+                "Triple": "Bs. 160",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T20:59:44.773Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13834352,
+                    -16.49847168
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Condeza",
+                "Zona": "Central",
+                "Direccion": "Diagonal Juan XXIII  Nº 190",
+                "Telefono": "2340043",
+                "Celular": "",
+                "Fax": "",
+                "Email": "condezabol@hotmail.com",
+                "PaginaWeb": "http://www.hotelcondeza.com",
+                "CategoriaActual": "**",
+                "Simple": "$22",
+                "Doble": "$32",
+                "Triple": "$45",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:00:00.660Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14073876,
+                    -16.49438184
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Continental",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº  626 Plaza Eguino",
+                "Telefono": "2451176",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotelcontinental626@hotmail.com",
+                "PaginaWeb": "http://www.hotelcontinentalbolivia.com",
+                "CategoriaActual": "**",
+                "Simple": "Bs. 90, 70",
+                "Doble": "Bs. 140, 120",
+                "Triple": "Bs. 200, 170",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:00:37.647Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1317952,
+                    -16.50346001
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Copacabana",
+                "Zona": "Prado",
+                "Direccion": "Av. 16 de Julio Nº  1802",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotelcop@entelnet.bo",
+                "PaginaWeb": "http://www.hotelcopacabana.web.bo",
+                "CategoriaActual": "***",
+                "Simple": "$44",
+                "Doble": "$44",
+                "Triple": "$53",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:02:41.387Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14065638,
+                    -16.49595725
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cruz de Los Andes",
+                "Zona": "Rosario",
+                "Direccion": "Calle Aroma Esq. Illampu # 2016",
+                "Telefono": "2451401",
+                "Celular": "",
+                "Fax": "",
+                "Email": "cruzdelosandes@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:07:48.670Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14022331,
+                    -16.49578785
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Diamante Azul",
+                "Zona": "Rosario",
+                "Direccion": "Pasaje  Aroma  Nº 40",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hoteldiamanteazul@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 150",
+                "Doble": "Bs. 250",
+                "Triple": "Bs. 450",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:08:08.477Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.95",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "DM Andino",
+                "Zona": "Mecapaca",
+                "Direccion": "Av. Manuel Castillo Nº5",
+                "Telefono": "2749191",
+                "Celular": "76760274",
+                "Fax": "",
+                "Email": "reservas@dmhotelandino.com",
+                "PaginaWeb": "http://www.hotelandino.com",
+                "CategoriaActual": "*****",
+                "Simple": "$280",
+                "Doble": "$338",
+                "Triple": "$474",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T19:27:46.487Z",
+                "observaciones": "El Hotel se encuentra en el Municipio de Mecapaca"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13111588,
+                    -16.50558281
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Rey Palace Hotel",
+                "Zona": "Sopocachi",
+                "Direccion": "Av. 20  de Octubre Nº 1947",
+                "Telefono": "2418541",
+                "Celular": "",
+                "Fax": "",
+                "Email": "ventas@hotelreypalace.com",
+                "PaginaWeb": "http://www.hotelreypalace.com",
+                "CategoriaActual": "****",
+                "Simple": "Bs. 600",
+                "Doble": "Bs. 700",
+                "Triple": "Bs. 800",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:20:52.740Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13079723,
+                    -16.50269712
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Consulado",
+                "Zona": "Central",
+                "Direccion": "c. Carlos Bravo Nº 299",
+                "Telefono": "2117706",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@topas.bo",
+                "PaginaWeb": "http://boutique-el-consulado.lapazhotelsweb.com/es/",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T18:56:47.767Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13093461,
+                    -16.50467658
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Dorado",
+                "Zona": "Sopocachi",
+                "Direccion": "Av. Villazón s/n",
+                "Telefono": "",
+                "Celular": "70642781",
+                "Fax": "",
+                "Email": "eldorado@entelnet.bo",
+                "PaginaWeb": "http://www.hoteleldorado.net",
+                "CategoriaActual": "***",
+                "Simple": "$40",
+                "Doble": "$50",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:36:33.650Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12292621,
+                    -16.50113335
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Elegance",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Saavedra Nº 1845",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "elegance_hotel@hotmail.com",
+                "PaginaWeb": "http://www.elegancehotelbolivia.com.bo",
+                "CategoriaActual": "***",
+                "Simple": "$35",
+                "Doble": "$58",
+                "Triple": "",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 2,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:39:10.013Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13622635,
+                    -16.50945197
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Emporio",
+                "Zona": "San Pedro",
+                "Direccion": "Plaza El Cóndor y Av. Landaeta Nº 708",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "fzubietm@gmail.com",
+                "PaginaWeb": "http://www.emporio-hotel.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs.415",
+                "Doble": "Bs. 415",
+                "Triple": "Bs. 553",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T18:58:04.267Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13075893,
+                    -16.50252796
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Europa",
+                "Zona": "Prado",
+                "Direccion": "c. Tiwanaku Nº  64",
+                "Telefono": "2315656",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservas@hoteleuropa.com.bo",
+                "PaginaWeb": "http://www.hoteleuropa.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "$119",
+                "Doble": "$175",
+                "Triple": "$200",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:47:57.710Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13735617,
+                    -16.49698133
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Eva Palace",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 173",
+                "Telefono": "2314885",
+                "Celular": "",
+                "Fax": "",
+                "Email": "eva-palaceh@hotmail.com",
+                "PaginaWeb": "http://www.hotelevapalace.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 200",
+                "Doble": "Bs. 270",
+                "Triple": "Bs. 340",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:49:26.463Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13859041,
+                    -16.49722704
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fuentes",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº 888",
+                "Telefono": "2334145",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotelfuentes@gmail.com",
+                "PaginaWeb": "http://www.hotelfuentesbolivia.com",
+                "CategoriaActual": "**",
+                "Simple": "Bs. 80",
+                "Doble": "Bs. 160",
+                "Triple": "Bs. 210",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:49:57.333Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14102791,
+                    -16.49744347
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Galería",
+                "Zona": "Rosario",
+                "Direccion": "c. Santa Cruz Nº583",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotelgaleria@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "**",
+                "Simple": "$ 20",
+                "Doble": "$ 35",
+                "Triple": "$ 45",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 0,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T19:02:14.637Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13582488,
+                    -16.49559645
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gloria",
+                "Zona": "Central",
+                "Direccion": "c. Potosí  Nº  909",
+                "Telefono": "2407070",
+                "Celular": "",
+                "Fax": "",
+                "Email": "gloriatr@ceibo.entelnet.bo",
+                "PaginaWeb": "http://www.hotelgloria.com.bo",
+                "CategoriaActual": "***",
+                "Simple": "$54",
+                "Doble": "$71",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:54:42.043Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13628368,
+                    -16.50944485
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ichiban",
+                "Zona": "Sopocachi",
+                "Direccion": "c. Eduardo Berdecio Nº 1800",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "ichibanhotel@acelerate.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:55:14.120Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14051306,
+                    -16.49494482
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Inca´s Room",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº670",
+                "Telefono": "2451747",
+                "Celular": "",
+                "Fax": "",
+                "Email": "gloriatr@ceibo.entelnet.bo",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T21:56:42.687Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13673407,
+                    -16.49685671
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Casona Hotel Boutique",
+                "Zona": "Central",
+                "Direccion": "Av. Mariscal Santa Cruz Nº 938",
+                "Telefono": "2900505",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@lacasonahotelboutique.com",
+                "PaginaWeb": "http://www.lacasonahotelboutique.com",
+                "CategoriaActual": "****",
+                "Simple": "$88",
+                "Doble": "$105",
+                "Triple": "$128",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:02:03.060Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1437219,
+                    -16.49658136
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Joya",
+                "Zona": "Gran Poder",
+                "Direccion": "c. Max Paredes  Nº 541",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "joyahot@entelnet.bo",
+                "PaginaWeb": "http://www.hotelajoya.com.bo",
+                "CategoriaActual": "**",
+                "Simple": "$17",
+                "Doble": "$32",
+                "Triple": "$40",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:04:39.473Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1327383,
+                    -16.49354731
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Paz",
+                "Zona": "Central",
+                "Direccion": "Av. Sucre # 1081 Esq. Junin",
+                "Telefono": "2280021",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservas@hotellapazbolivia.com",
+                "PaginaWeb": "http://www.hotellapazbolivia.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:05:09.453Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13779094,
+                    -16.49407381
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Valle",
+                "Zona": "Rosario",
+                "Direccion": "c. Evaristo Valle Nº 153",
+                "Telefono": "2456085",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@lavallehotel.com",
+                "PaginaWeb": "http://www.lavallehotel.com",
+                "CategoriaActual": "**",
+                "Simple": "Bs. 90",
+                "Doble": "Bs. 160",
+                "Triple": "Bs. 195",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:05:46.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14002809,
+                    -16.49611536
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Las Brisas",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 742",
+                "Telefono": "",
+                "Celular": "72099993",
+                "Fax": "",
+                "Email": "hotel.brisas@hotmail.com",
+                "PaginaWeb": "http://www.lasbrisas-hotel.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 175",
+                "Doble": "Bs. 265",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:06:19.547Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14271391,
+                    -16.48815263
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Latino",
+                "Zona": "Norte",
+                "Direccion": "Av. Perú Nº 171",
+                "Telefono": "",
+                "Celular": "71534112",
+                "Fax": "",
+                "Email": "hotellatino@gmail.com",
+                "PaginaWeb": "http://www.hotellatino.com.bo",
+                "CategoriaActual": "**",
+                "Simple": "$12",
+                "Doble": "$19",
+                "Triple": "$27",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:06:36.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12983445,
+                    -16.50721521
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Madre Tierra",
+                "Zona": "Sopocachi",
+                "Direccion": "Av.  20 de Octubre esq. Aspiazu Nº 2080",
+                "Telefono": "2419910",
+                "Celular": "",
+                "Fax": "",
+                "Email": "reservas@hotelmadretierra.com",
+                "PaginaWeb": "http://www.hotelmadretierra.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 310",
+                "Doble": "Bs. 390",
+                "Triple": "Bs. 490",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 3,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:07:11.363Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13933562,
+                    -16.49643749
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Majestic",
+                "Zona": "Rosario",
+                "Direccion": "c. Santa Cruz esq. Illampu Nº 359",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hot.majestic@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "***",
+                "Simple": "Bs 100",
+                "Doble": "Bs. 160",
+                "Triple": "Bs. 220",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:07:39.413Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13878375,
+                    -16.49988978
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Miltón",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº 1124",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "h_milton@acelerate.com",
+                "PaginaWeb": "http://www.khainata.com-hotelmilton",
+                "CategoriaActual": "**",
+                "Simple": "Bs.124",
+                "Doble": "Bs. 187",
+                "Triple": "Bs. 249",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:08:20.430Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14143559,
+                    -16.48805064
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mirador",
+                "Zona": "Norte",
+                "Direccion": "Av. Perú  Nº  287",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 70",
+                "Doble": "Bs. 80",
+                "Triple": "Bs. 100",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:08:44.040Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13682364,
+                    -16.49374527
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Monte Carlo",
+                "Zona": "Norte",
+                "Direccion": "Av. Montes Nº 767",
+                "Telefono": "2406540",
+                "Celular": "",
+                "Fax": "",
+                "Email": "montecarlo@hotelesenbolivia.net",
+                "PaginaWeb": "http://www.hotelesenbolivia.net",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 250",
+                "Doble": "Bs. 300",
+                "Triple": "Bs. 360",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:10:03.417Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13797057,
+                    -16.49507786
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Morumbi S.R.L.",
+                "Zona": "Rosario",
+                "Direccion": "c. Figueroa Nº 800 entre Santa Cruz y Graneros",
+                "Telefono": "2112871",
+                "Celular": "71941514",
+                "Fax": "",
+                "Email": "morumbihotel_2000@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "**",
+                "Simple": "Bs. 135",
+                "Doble": "Bs. 190",
+                "Triple": "Bs. 220",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:10:25.350Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13748957,
+                    -16.49888682
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Nuevo Sol",
+                "Zona": "Rosario",
+                "Direccion": "c. Linares Nº1011 esq. Juan XXIII",
+                "Telefono": "2900933",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotel.nuevosol@hotmail.com",
+                "PaginaWeb": "http://www.nuevosolhotel.com",
+                "CategoriaActual": "**",
+                "Simple": "Bs. 100",
+                "Doble": "Bs. 180",
+                "Triple": "Bs. 250",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:13:24.440Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08949299,
+                    -16.56770154
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Oberland",
+                "Zona": "Mallasa",
+                "Direccion": "c. El Agrario Nº3118",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@h-oberland.com",
+                "PaginaWeb": "http://www.h-oberland.com",
+                "CategoriaActual": "***",
+                "Simple": "$ 55",
+                "Doble": "$ 65",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 20,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:14:52.873Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13803497,
+                    -16.49289738
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Oruro",
+                "Zona": "San Sebastián",
+                "Direccion": "Plaza Alonzo de Mendoza S/N",
+                "Telefono": "2310755",
+                "Celular": "70558455",
+                "Fax": "",
+                "Email": "hoteloruro@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 70",
+                "Doble": "Bs. 130",
+                "Triple": "Bs. 190",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:15:25.980Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13550371,
+                    -16.50298574
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Osira",
+                "Zona": "San Pedro",
+                "Direccion": "Plaza Mariscal Sucre Nº 1494",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "ventas@hotelosira.com",
+                "PaginaWeb": "http://www.hotelosira.com",
+                "CategoriaActual": "***",
+                "Simple": "$50",
+                "Doble": "$75",
+                "Triple": "",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:16:13.377Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12867733,
+                    -16.50510752
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Palma Real Hotel Boutique",
+                "Zona": "Central",
+                "Direccion": "c. Goitia Nº162 entre Capitan Ravelo y Arce",
+                "Telefono": "2445549",
+                "Celular": "72056829",
+                "Fax": "",
+                "Email": "palmareal_eco@hotmail.com",
+                "PaginaWeb": "http://www.palmareal.com.bo",
+                "CategoriaActual": "****",
+                "Simple": "Bs. 300",
+                "Doble": "Bs. 500",
+                "Triple": "Bs. 600",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T19:06:02.707Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13337056,
+                    -16.50196695
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Panamerican",
+                "Zona": "San Pedro",
+                "Direccion": "c. Mexico Nº 1555",
+                "Telefono": "",
+                "Celular": "77758486",
+                "Fax": "",
+                "Email": "info@hotel-panamerican.com",
+                "PaginaWeb": "http://www.hotel-panamerican.com",
+                "CategoriaActual": "****",
+                "Simple": "$22",
+                "Doble": "$ 40",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:17:00.297Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14097621,
+                    -16.4925027
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pando",
+                "Zona": "Norte",
+                "Direccion": "Av. Pando Nº 248",
+                "Telefono": "",
+                "Celular": "76252501",
+                "Fax": "",
+                "Email": "hotelpando@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:18:02.783Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13133129,
+                    -16.50298429
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Plaza",
+                "Zona": "Prado",
+                "Direccion": "Av. 16 de Julio Nº. 1789",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "plaza@plazabolivia.com.bo",
+                "PaginaWeb": "http://www.plazabolivia.com.bo",
+                "CategoriaActual": "*****",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:18:47.450Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13599894,
+                    -16.49586342
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Presidente",
+                "Zona": "Central",
+                "Direccion": "c. Potosí Nº 920 esq. Genaro Sanjinez",
+                "Telefono": "2406666",
+                "Celular": "",
+                "Fax": "",
+                "Email": "contacto@hotelpresidente-bo.com",
+                "PaginaWeb": "http://www.hotelpresidente-bo.com",
+                "CategoriaActual": "*****",
+                "Simple": "$120",
+                "Doble": "$140",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2017-06-03T15:54:54.207Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12723817,
+                    -16.50650255
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Radisson",
+                "Zona": "Sopocachi",
+                "Direccion": "Av. Arce Nº 2177",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "radisson@radissonbolivia.com.bo",
+                "PaginaWeb": "http://www.radissonbolivia.com/lapazbo",
+                "CategoriaActual": "*****",
+                "Simple": "$90",
+                "Doble": "$127",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "nhuanquiri",
+                "fechaActual": "2017-06-03T15:56:28.273Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.131",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rosario",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu Nº  704",
+                "Telefono": "2451658",
+                "Celular": "76751511",
+                "Fax": null,
+                "Email": "reservas.lapaz@gruporosario.travel",
+                "PaginaWeb": "http://www.gruporosario.com",
+                "CategoriaActual": "***",
+                "Simple": "$84",
+                "Doble": "$84",
+                "Triple": null,
+                "Fuente": null,
+                "IdTipo": 4,
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14157628,
+                    -16.48807682
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rossel",
+                "Zona": "Norte",
+                "Direccion": "Av. Perú Nº 277 esq. Larecaja",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 140 b/p",
+                "Doble": "Bs 200 b/p",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:26:14.440Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13868544,
+                    -16.49745656
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sagárnaga",
+                "Zona": "Rosario",
+                "Direccion": "c. Sagárnaga Nº 326",
+                "Telefono": "2350252",
+                "Celular": "",
+                "Fax": "",
+                "Email": "info@hotel-sagarnaga.com",
+                "PaginaWeb": "http://www.hotel-sagarnaga.com",
+                "CategoriaActual": "**",
+                "Simple": "$22",
+                "Doble": "$33",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:26:36.103Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13967222,
+                    -16.4960834
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sajama",
+                "Zona": "Rosario",
+                "Direccion": "c. Illampu º775",
+                "Telefono": "2453302",
+                "Celular": "76758041",
+                "Fax": "",
+                "Email": "hotelsajama@hotmail.com",
+                "PaginaWeb": "http://www.sajamahotel.com",
+                "CategoriaActual": "***",
+                "Simple": "$36",
+                "Doble": "$49",
+                "Triple": "$60",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:27:36.203Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13914857,
+                    -16.49299715
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Savoy SRL",
+                "Zona": "Norte",
+                "Direccion": "Calle Chuquisaca(Paralela Av. America) # 675",
+                "Telefono": "2915467",
+                "Celular": "73288860",
+                "Fax": "",
+                "Email": "reservashotelsavoy@hotmail.com",
+                "PaginaWeb": "http://www.hotelsavoybolivia.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:28:10.003Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14186765,
+                    -16.49380141
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sayari",
+                "Zona": "Rosario",
+                "Direccion": "Av. Manco Kapac Nº340",
+                "Telefono": "2464000",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotelsayari@hotmail.com",
+                "PaginaWeb": "http://www.sajamahotel.com",
+                "CategoriaActual": "***",
+                "Simple": "$36",
+                "Doble": "$49",
+                "Triple": "$60",
+                "Fuente": "pagina",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:29:26.443Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13764136,
+                    -16.49332863
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Select Confort",
+                "Zona": "Norte",
+                "Direccion": "Calle José María Serrano #17 (Entre Montes y Alonso de Mendoza)",
+                "Telefono": "",
+                "Celular": "71566915",
+                "Fax": "",
+                "Email": "hotelselect.bolivia@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:29:46.660Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13903875,
+                    -16.49334059
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Señorial Montero",
+                "Zona": "Rosario",
+                "Direccion": "Av. América Nº  120",
+                "Telefono": "",
+                "Celular": "",
+                "Fax": "",
+                "Email": "senioral_montero@yahoo.com",
+                "PaginaWeb": "http://www.hotelsenorialmontero.com",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 36",
+                "Doble": "Bs. 46",
+                "Triple": "Bs. 60",
+                "Fuente": "GBT",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:30:54.723Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14117426,
+                    -16.49328981
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sociedad Turística y Hotelera Cordillera Real SRL",
+                "Zona": "Norte",
+                "Direccion": "Av. Idelfonso Muñecas esq. Pando N°494",
+                "Telefono": "2451093",
+                "Celular": "70537307",
+                "Fax": "",
+                "Email": "gerencia@hotelcordillera.com.bo",
+                "PaginaWeb": "http://www.hotelcordillerareal.com.bo",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 230",
+                "Doble": "Bs. 370",
+                "Triple": "Bs. 445",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:32:19.083Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14030099,
+                    -16.49577953
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sol Andino",
+                "Zona": "Rosario",
+                "Direccion": "Calle Aroma Esq. Illampu # 6",
+                "Telefono": "2457359",
+                "Celular": "",
+                "Fax": "",
+                "Email": "solandinohostal@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:38:14.090Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12225553,
+                    -16.51082532
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Stannum Boutique Hotel",
+                "Zona": "Sopocachi",
+                "Direccion": "Av. Arce Nº2631",
+                "Telefono": "2148393",
+                "Celular": "77218299",
+                "Fax": "",
+                "Email": "reservations@stannumhotels.com",
+                "PaginaWeb": "http://www.stannumhotels.com",
+                "CategoriaActual": "*****",
+                "Simple": "$87",
+                "Doble": "$102",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:40:35.387Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13820114,
+                    -16.49403234
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tiquina Palace",
+                "Zona": "San Sebastián",
+                "Direccion": "pasaje Tiquina N°150 esq. Evaristo Valle",
+                "Telefono": "2457373",
+                "Celular": "",
+                "Fax": "",
+                "Email": "hotel@tiquinapalace.com.bo",
+                "PaginaWeb": "http://www.tiquinapalace.com.bo",
+                "CategoriaActual": "***",
+                "Simple": "Bs. 160",
+                "Doble": "Bs. 220",
+                "Triple": "Bs. 280",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:40:56.497Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13456559,
+                    -16.49616295
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Torino",
+                "Zona": "Central",
+                "Direccion": "c. Socabaya Nº 457",
+                "Telefono": "2406003",
+                "Celular": "73078756",
+                "Fax": "",
+                "Email": "hotel@hoteltorino.com.bo",
+                "PaginaWeb": "http://www.hoteltorino.com.bo",
+                "CategoriaActual": "*",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:41:09.073Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14307424,
+                    -16.49475415
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tumusla  Shoteg Ltda.",
+                "Zona": "Rosario",
+                "Direccion": "Av. Tumusla Nº 580 casi Av. Buenos Aires",
+                "Telefono": "2453060",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "*",
+                "Simple": "Bs. 40 b/c - 80 b/p",
+                "Doble": "Bs. 80 b/c - 120 b/p",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 4,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:41:47.637Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.145",
+            "geometry": null,
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Acuario",
+                "Zona": "Miraflores",
+                "Direccion": "Av. Tejada Sorzano Nº 338",
+                "Telefono": "2212006",
+                "Celular": null,
+                "Fax": null,
+                "Email": null,
+                "PaginaWeb": null,
+                "CategoriaActual": null,
+                "Simple": "Bs. 20 b/c",
+                "Doble": "Bs. 40 b/c",
+                "Triple": "Bs. 60 b/c",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": null,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13278802,
+                    -16.49776527
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Casa Solariega",
+                "Zona": "Central",
+                "Direccion": "c. Potosí Nº 1240 entre Ayacucho y Colón",
+                "Telefono": "",
+                "Celular": "73599816",
+                "Fax": "",
+                "Email": "lucemoro64@hotmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 70",
+                "Triple": "Bs. 105",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-10T13:55:14.050Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13840115,
+                    -16.49820137
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Inti Karka",
+                "Zona": "Rosario",
+                "Direccion": "Diagonal Juan XXII Nº99 entre Illampu y Linares",
+                "Telefono": "2319252",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 35",
+                "Doble": "Bs. 70",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:59:32.630Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13346707,
+                    -16.50185847
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Paz City",
+                "Zona": "San Pedro",
+                "Direccion": "c. México Nº 1539",
+                "Telefono": "2490322",
+                "Celular": "",
+                "Fax": "",
+                "Email": "keper92@gmail.com",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 5,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:57:33.147Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13269662,
+                    -16.49331151
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Latino",
+                "Zona": "Norte",
+                "Direccion": "c. Junín Nº 857",
+                "Telefono": "2285463",
+                "Celular": "70122192",
+                "Fax": "",
+                "Email": "gerencia_administrativa@residenciallatino.com",
+                "PaginaWeb": "http://www.residenciallatino.com",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:58:13.243Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13859414,
+                    -16.49816103
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pachamama",
+                "Zona": "Rosario",
+                "Direccion": "Pasaje Juan XXIII Nº 32 entre Illampu y Linares",
+                "Telefono": "2310291",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 60",
+                "Doble": "Bs. 80",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T22:58:56.843Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13542902,
+                    -16.49170219
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Riosinhio I",
+                "Zona": "Norte",
+                "Direccion": "Plaza Riosinhio esq. Sucre Nº 741",
+                "Telefono": "2280452",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "Bs. 40",
+                "Doble": "Bs. 80",
+                "Triple": "Bs. 120",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T23:02:03.930Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14347748,
+                    -16.49528742
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Santa Isabel",
+                "Zona": "Rosario",
+                "Direccion": "c. Tumusla Nº613",
+                "Telefono": "2454790",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "empresa",
+                "IdTipo": 5,
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2019-06-19T23:02:40.760Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07565892,
+                    -16.54006412
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "The Biotope Boutique House",
+                "Zona": "Calacoto",
+                "Direccion": "Av Montenegro #184, La Paz",
+                "Telefono": "",
+                "Celular": "67180533",
+                "Fax": "",
+                "Email": "www.facebook.com/The-Biotope-Boutique-Guest-House",
+                "PaginaWeb": "http://www.facebook.com/The-Biotope-Boutique-Guest-House",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 5,
+                "distrito": 18,
+                "owner": "carlos.medrano",
+                "usuario": "clara.revollo",
+                "fechaActual": "2019-07-10T20:21:37.220Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08286709,
+                    -16.54079773
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "ATIX",
+                "Zona": "Calacoto",
+                "Direccion": "Calle 16 Nº8052 Calacoto entre Julio Patiño y Sanchez",
+                "Telefono": "",
+                "Celular": "78961200",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 5,
+                "distrito": 18,
+                "owner": "carlos.medrano",
+                "usuario": "carlos.medrano",
+                "fechaActual": "2019-07-10T13:37:10.983Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09512491,
+                    -16.5597525
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rio Selva Aranjuez",
+                "Zona": "Aranjuez",
+                "Direccion": "Avenida Hernan Siles Suazo n 10 sobre el Puente, La Paz",
+                "Telefono": "2411818",
+                "Celular": "",
+                "Fax": "",
+                "Email": "",
+                "PaginaWeb": "",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 5,
+                "distrito": 20,
+                "owner": "carlos.medrano",
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T19:53:58.223Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hospedajes.156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08532315,
+                    -16.53827985
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hotel de Transito La Paz",
+                "Zona": "Calacoto",
+                "Direccion": "Av. Inofuentes, C/16 de Calacoto, Nro. 2150",
+                "Telefono": "2772823",
+                "Celular": "",
+                "Fax": "2794920",
+                "Email": "",
+                "PaginaWeb": "http://www.coe-ejercito.com.bo",
+                "CategoriaActual": "",
+                "Simple": "",
+                "Doble": "",
+                "Triple": "",
+                "Fuente": "",
+                "IdTipo": 5,
+                "distrito": 18,
+                "owner": "carlos.medrano",
+                "usuario": "jeanine.blanco",
+                "fechaActual": "2019-11-25T19:54:21.340Z",
+                "observaciones": "Telefono 2794913"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

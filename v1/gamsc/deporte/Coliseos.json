@@ -1,0 +1,167 @@
+[
+    {
+        "gid": "12",
+        "objectid": "12",
+        "id": "0",
+        "point_x": "-62.9419456609",
+        "point_y": "-17.8837025579",
+        "nombre": "COLISEO CANT\u00d3N PAURITO",
+        "geom": "0101000000A033A23497E41E41F0A7C607A69A5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM PAURITO"
+    },
+    {
+        "gid": "11",
+        "objectid": "11",
+        "id": "0",
+        "point_x": "-63.1479215294",
+        "point_y": "-17.7262476837",
+        "nombre": "COLISEO DM 5",
+        "geom": "0101000000A0CDAA8F728F1D41ED0DBEB0A7AB5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 5"
+    },
+    {
+        "gid": "14",
+        "objectid": "14",
+        "id": "0",
+        "point_x": "-63.1389316510",
+        "point_y": "-17.7923363891",
+        "nombre": "COLISEO DM 7",
+        "geom": "010100000070711BCD6C9E1D41BE3099F683A45E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 7"
+    },
+    {
+        "gid": "13",
+        "objectid": "13",
+        "id": "0",
+        "point_x": "-62.8206611308",
+        "point_y": "-17.6447373118",
+        "nombre": "COLISEO CANT\u00d3N MONTERO HOYOS",
+        "geom": "01010000006019E2D8BBAD1F414D158C6675B45E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM MONTERO HOYOS"
+    },
+    {
+        "gid": "15",
+        "objectid": "15",
+        "id": "0",
+        "point_x": "-63.1510604864",
+        "point_y": "-17.8826031042",
+        "nombre": "COLISEO DM 12",
+        "geom": "0101000000E0BE0E1C778A1D418195430FC39A5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 12"
+    },
+    {
+        "gid": "2",
+        "objectid": "2",
+        "id": "0",
+        "point_x": "-63.1877141793",
+        "point_y": "-17.8114928188",
+        "nombre": "COLISEO DM 4",
+        "geom": "0101000000E0FBA931AC4D1D41AEB662FF70A25E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 4"
+    },
+    {
+        "gid": "1",
+        "objectid": "1",
+        "id": "0",
+        "point_x": "-63.2027580860",
+        "point_y": "-17.7894181565",
+        "nombre": "COLISEO DM 1",
+        "geom": "0101000000B037F882B8341D416A4DF322D3A45E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 1"
+    },
+    {
+        "gid": "4",
+        "objectid": "4",
+        "id": "0",
+        "point_x": "-63.2007384715",
+        "point_y": "-17.8623262565",
+        "nombre": "COLISEO DM 9",
+        "geom": "01010000006086385633381D41BE9F1AA7F29C5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 9"
+    },
+    {
+        "gid": "3",
+        "objectid": "3",
+        "id": "0",
+        "point_x": "-63.2272586289",
+        "point_y": "-17.8412466827",
+        "nombre": "COLISEO DM 10",
+        "geom": "010100000030DD2446410C1D417AC729E2389F5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 10"
+    },
+    {
+        "gid": "6",
+        "objectid": "6",
+        "id": "0",
+        "point_x": "-63.1252873222",
+        "point_y": "-17.8410667072",
+        "nombre": "COLISEO DM 8",
+        "geom": "0101000000305530AA13B51D413B014D68409F5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 8"
+    },
+    {
+        "gid": "5",
+        "objectid": "5",
+        "id": "0",
+        "point_x": "-63.1673407181",
+        "point_y": "-17.8547170057",
+        "nombre": "COLISEO DM 12",
+        "geom": "01010000000088F49B796F1D41B9FC87FCC59D5E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 12"
+    },
+    {
+        "gid": "8",
+        "objectid": "8",
+        "id": "0",
+        "point_x": "-63.1530559004",
+        "point_y": "-17.8088594817",
+        "nombre": "COLISEO DM 3",
+        "geom": "010100000090E4F2DF0E871D41849ECDAABAA25E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 3"
+    },
+    {
+        "gid": "7",
+        "objectid": "7",
+        "id": "0",
+        "point_x": "-63.1150756105",
+        "point_y": "-17.8120213107",
+        "nombre": "COLISEO DM 7",
+        "geom": "01010000004082E2C7F3C51D41DF4F8DEF63A25E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 7"
+    },
+    {
+        "gid": "10",
+        "objectid": "10",
+        "id": "0",
+        "point_x": "-63.1182843545",
+        "point_y": "-17.7458763162",
+        "nombre": "COLISEO DM 6",
+        "geom": "01010000006066662691C01D413C4ED15989A95E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 6"
+    },
+    {
+        "gid": "9",
+        "objectid": "9",
+        "id": "0",
+        "point_x": "-63.1532542712",
+        "point_y": "-17.7658577301",
+        "nombre": "COLISEO DM 2",
+        "geom": "010100000050DA1B3CAB861D416A4DF30660A75E41",
+        "dependencia": "GAMSCS",
+        "distrito": "DM 2"
+    }
+]

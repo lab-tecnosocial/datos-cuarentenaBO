@@ -1,0 +1,6222 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 270,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "plazasparques.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13520853,
+                    -16.50244111
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mcal. Sucre (San Pedro)",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:13:44.463Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12349886,
+                    -16.51410509
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Primavera",
+                "Zona": "Kantutani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T21:01:26.043Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14211537,
+                    -16.50335739
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Abel Alarcon",
+                "Zona": "San Pedro Alto",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-09T16:07:15.033Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1355492,
+                    -16.5090058
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Condor",
+                "Zona": "Bello Horizonte",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-09T16:07:21.150Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13660541,
+                    -16.50563064
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Israel",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:14:14.053Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13107689,
+                    -16.51428438
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rotary",
+                "Zona": "Sopocachi",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:58:51.840Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13491132,
+                    -16.50522591
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gilberto Rojas",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:26:23.343Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14101193,
+                    -16.51694128
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Obispo Bosque",
+                "Zona": "Obispo Bosque",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:59:09.377Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13569124,
+                    -16.50682906
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "José Marti",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:26:03.063Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1258309,
+                    -16.5284457
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cotapampa",
+                "Zona": "Bajo Llojeta",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:59:34.153Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12614364,
+                    -16.51861622
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Inmaculada Concepción",
+                "Zona": "Sopocachi Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T21:00:03.560Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12687541,
+                    -16.5107877
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Eduardo Abaroa",
+                "Zona": "Sopocachi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:26:32.997Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14037537,
+                    -16.51396798
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lourdes",
+                "Zona": "Tembladerani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T21:00:10.317Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12862061,
+                    -16.5144287
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "España",
+                "Zona": "Sopocachi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:26:41.787Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15132971,
+                    -16.50857701
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Final Alcoreza",
+                "Zona": "Alto V. N. Potosí",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 5,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T21:00:27.733Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12828152,
+                    -16.51691304
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Andrés Bello",
+                "Zona": "Sopocachi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:26:51.747Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13225194,
+                    -16.51992973
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De Las Cebras",
+                "Zona": "Adela Zamudio",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T21:00:34.183Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12940953,
+                    -16.51793695
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Adela Zamudio",
+                "Zona": "Adela Zamudio",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:27:12.723Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16194137,
+                    -16.49243714
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "5 de Agosto",
+                "Zona": "Mariscal Santa Cruz",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:08:36.393Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13175507,
+                    -16.51534596
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Andreu",
+                "Zona": "Adela Zamudio",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:25:33.013Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16581092,
+                    -16.49021089
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Portada",
+                "Zona": "La Portada",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:01:53.480Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1339809,
+                    -16.51292456
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Invalidos del Chaco",
+                "Zona": "San Luis",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:27:37.653Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15514068,
+                    -16.49000536
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Niño Heroe",
+                "Zona": "Villa Victoria",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:10:14.890Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13420392,
+                    -16.51352059
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Lira",
+                "Zona": "Cristo Rey",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-09T19:40:34.243Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.16578344,
+                    -16.48697743
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Naciones Unidas",
+                "Zona": "La Portada",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:10:19.877Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13418308,
+                    -16.5149225
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Juana Azurduy de Padilla",
+                "Zona": "Cristo Rey",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:27:54.927Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14970662,
+                    -16.49217986
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Tigres",
+                "Zona": "Villa Victoria",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:10:42.500Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13581431,
+                    -16.51076159
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De Las Américas San Luis",
+                "Zona": "San Luis",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:28:12.663Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14884059,
+                    -16.49339876
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Apumalla",
+                "Zona": "Callampaya",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:10:58.200Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12610908,
+                    -16.51487462
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "OPS",
+                "Zona": "Kantutani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:28:24.897Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1648874,
+                    -16.49146365
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Julio Manuél Aramayo",
+                "Zona": "La Portada",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:11:06.087Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14312362,
+                    -16.51029962
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Carmen",
+                "Zona": "Bello Horizonte",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 4,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:28:36.520Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1489391,
+                    -16.50085418
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Obispo Indaburo",
+                "Zona": "Obispo Indaburo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:12:24.177Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14098158,
+                    -16.50621499
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Josefa Mujia",
+                "Zona": "San Pedro Alto",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:28:47.327Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15137361,
+                    -16.47297841
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Nacionalidad",
+                "Zona": "Achachicala Central",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T21:56:16.670Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1408517,
+                    -16.50421923
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Libano",
+                "Zona": "San Pedro Alto",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:28:55.090Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13787383,
+                    -16.5090617
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bello Horizonte (Km. 7)",
+                "Zona": "Bello Horizonte",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:29:11.567Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11048261,
+                    -16.51099407
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Angela Alaiza",
+                "Zona": "Villa Armonía",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 17,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:15:06.770Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11791316,
+                    -16.49116237
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tito Yupanqui",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-13T20:15:11.270Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12293463,
+                    -16.51482754
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Kantutani",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:29:45.210Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13697495,
+                    -16.50062233
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Belzu",
+                "Zona": "Belén",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:29:54.907Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1184963,
+                    -16.49479855
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Claveles",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 14,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12349159,
+                    -16.51315985
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ana Maria Romero de Campero",
+                "Zona": "Kantutani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 3,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:30:03.810Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10997244,
+                    -16.51281345
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Domitila Chungara",
+                "Zona": "Villa Armonía",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.150709,
+                    -16.49220201
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Huallparimachi",
+                "Zona": "Villa Victoria",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:27:05.570Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11455734,
+                    -16.49155495
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Cristobal",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 14,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15265952,
+                    -16.50006007
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Puente Topater",
+                "Zona": "Los Andes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:32:44.287Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10867485,
+                    -16.49539869
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "C.A.R.E. San Antonio",
+                "Zona": "San Antonio Alto",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15320741,
+                    -16.50136067
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fortunato Pinto",
+                "Zona": "Chamoco Chico",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:28:44.120Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11438014,
+                    -16.50579075
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ecologico Zenobio Lopez",
+                "Zona": "Villa Armonía",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15067476,
+                    -16.49512348
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Baltazar Alquiza",
+                "Zona": "Callampaya",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:18:21.787Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10801523,
+                    -16.52003329
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Censao",
+                "Zona": "Alto Obrajes",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:01:26.080Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14595286,
+                    -16.49568239
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Garita de Lima",
+                "Zona": "14 de Septiembre",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:41:55.283Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10261533,
+                    -16.5334904
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Club de Leones",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T18:42:30.750Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14115002,
+                    -16.50002483
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gran Poder",
+                "Zona": "Gran Poder",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 6,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:39:57.777Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09840336,
+                    -16.5401106
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CONAVI",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:12:10.493Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14830619,
+                    -16.49337634
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Electricista",
+                "Zona": "Villa Victoria",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:20:26.867Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07952781,
+                    -16.52441271
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Infantil",
+                "Zona": "Alto Irpavi",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T18:44:03.753Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15128544,
+                    -16.49536805
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tomas Katari-M. Reyes",
+                "Zona": "Callampaya",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:19:37.730Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08553708,
+                    -16.50800498
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Vergel",
+                "Zona": "El Vergel",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-03T23:04:35.300Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15690703,
+                    -16.49083406
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hnos. Garcia Lanza",
+                "Zona": "Mariscal Santa Cruz",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:15:22.567Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.113414,
+                    -16.51988186
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Alamos",
+                "Zona": "Obrajes",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T20:59:13.053Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07805065,
+                    -16.535069
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Niños Heroes de Bolivia",
+                "Zona": "Achumani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T22:05:29.173Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15611083,
+                    -16.48786229
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Munaypata",
+                "Zona": "Munaypata",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 9,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T19:59:34.880Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07255702,
+                    -16.52861669
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jaime Saenz",
+                "Zona": "Achumani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T22:00:06.977Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14938795,
+                    -16.50019795
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Litoral",
+                "Zona": "Obispo Indaburo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:33:44.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08363198,
+                    -16.50923765
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Peña Azul",
+                "Zona": "Alto Irpavi",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T18:43:19.287Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14482289,
+                    -16.49997432
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Puente Abaroa",
+                "Zona": "Gran Poder",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 7,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:39:23.533Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10768593,
+                    -16.53403378
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Rinconada",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:21:05.610Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15012685,
+                    -16.45784881
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ciudadela Ferroviaria",
+                "Zona": "Ciudadela Ferroviaria",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 10,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T19:57:24.093Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09445249,
+                    -16.54144668
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Brown",
+                "Zona": "Següencoma Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:21:54.440Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14780615,
+                    -16.49122425
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Virrey Toledo",
+                "Zona": "Villa Victoria",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:17:41.367Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06937579,
+                    -16.5298558
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Noel Kempf Mercado",
+                "Zona": "Achumani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:59:14.083Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12419691,
+                    -16.48968828
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Soria",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "bescobar",
+                "fechaActual": "2016-06-03T22:01:15.410Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.04523125,
+                    -16.53851496
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Chasquipampa",
+                "Zona": "Chasquipampa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 19,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:09:34.907Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11128515,
+                    -16.50850741
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Minero",
+                "Zona": "Villa Armonía",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.78",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06915453,
+                    -16.54278051
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Waldo Ballivian",
+                "Zona": "Calacoto Alto",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:56:46.450Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.79",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10399033,
+                    -16.49743958
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cívica",
+                "Zona": "Pampahasi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07862326,
+                    -16.53013184
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Koani",
+                "Zona": "Koani",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-09T18:56:21.470Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11673748,
+                    -16.48390806
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Luis Uria",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10625526,
+                    -16.52373156
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Flamegor",
+                "Zona": "Obrajes",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:14:45.163Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11837554,
+                    -16.49194111
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villamil de Rada",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:44:23.543Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0903357,
+                    -16.52430785
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cornelio Saavedra",
+                "Zona": "Bolognia",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T18:41:25.507Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11209399,
+                    -16.51399756
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Kori Pujyo",
+                "Zona": "Cuarto Centenario",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09425772,
+                    -16.556711
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bartolina Sisa",
+                "Zona": "Aranjuéz",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-02T22:33:04.950Z",
+                "observaciones": "Parque Macro distrital"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11898365,
+                    -16.49476444
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Orkojahuira",
+                "Zona": "Miraflores",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:05:38.610Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10741363,
+                    -16.50278727
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Antonio",
+                "Zona": "San Antonio",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 15,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12882298,
+                    -16.50062684
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Urbano Central",
+                "Zona": "Santa Barbara",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:05:32.823Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11399886,
+                    -16.51133008
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "IV Centenario",
+                "Zona": "Cuarto Centenario",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08646333,
+                    -16.51485423
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Litoral",
+                "Zona": "Irpavi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:27:28.233Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08109869,
+                    -16.57835388
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Valle del Sol (Ampliación)",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-06T13:03:14.397Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07992995,
+                    -16.57701747
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Nacional MALLASA",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-06T13:05:21.520Z",
+                "observaciones": "Se encuentra toda el área del zoológico y áreas de recorrido para cuadratrax, el ex relleno sanitario."
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0752425,
+                    -16.53577591
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jaime Escalante",
+                "Zona": "Bajo Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T22:00:42.707Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08336875,
+                    -16.57379448
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Valle del Sol",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-06T13:03:23.973Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0712188,
+                    -16.53061929
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Amistad",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:59:55.753Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07369476,
+                    -16.53350825
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De las Américas",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:34:00.857Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11697437,
+                    -16.46884635
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Infantil Alpachs",
+                "Zona": "La Mercéd",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:47:50.627Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07597211,
+                    -16.53391648
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Paz Mundial",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T22:00:33.260Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1145432,
+                    -16.47008142
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Carmen Central",
+                "Zona": "El Rosal",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:46:45.077Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09397504,
+                    -16.54361291
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Mujer",
+                "Zona": "Següencoma Bajo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:05:03.740Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11905825,
+                    -16.48068743
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gutemberg",
+                "Zona": "Barrio Gráfico",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 13,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09952593,
+                    -16.53089499
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Periodista",
+                "Zona": "Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:02:34.157Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12289937,
+                    -16.47766571
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Av. Las Delicias",
+                "Zona": "Chapuma",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 12,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:15:42.300Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10839706,
+                    -16.52714287
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "16 de julio",
+                "Zona": "Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:36:35.757Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14697961,
+                    -16.47981209
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cabo Juan",
+                "Zona": "Vino Tinto Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T21:59:42.747Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10590839,
+                    -16.52773026
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Loba",
+                "Zona": "Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:36:51.043Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14530618,
+                    -16.47845279
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Juan Lechín",
+                "Zona": "Villa 18 de Mayo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:00:08.647Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10547007,
+                    -16.5273683
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cueto Vidaurre",
+                "Zona": "Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:35:42.847Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14381052,
+                    -16.48403474
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Angel Andino",
+                "Zona": "Challapampa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:00:43.740Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10541573,
+                    -16.52386211
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "U.F.A.O.",
+                "Zona": "Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:38:35.457Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13647557,
+                    -16.48575026
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Maracana",
+                "Zona": "Hoyada Norte Calvario",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:09:15.023Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10319283,
+                    -16.52299174
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Amistad",
+                "Zona": "Alto Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:01:54.193Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13705133,
+                    -16.48961251
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Calama",
+                "Zona": "Norte Caja de Agua",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:38:39.707Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09679112,
+                    -16.53759526
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Maria Luisa Pacheco",
+                "Zona": "Següencoma Bajo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:42:37.700Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13507131,
+                    -16.48984132
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Iruya",
+                "Zona": "Norte Caja de Agua",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:11:52.460Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09964142,
+                    -16.53878822
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cívica",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:44:13.143Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13448891,
+                    -16.48779008
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Humahuaca",
+                "Zona": "Norte Calvario Central",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:11:05.987Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10108769,
+                    -16.53746648
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "CONAVI Central",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "eduardo.lima",
+                "fechaActual": "2016-06-09T19:29:52.273Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1328833,
+                    -16.48406977
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Integración",
+                "Zona": "Villa de la Cruz",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:10:07.990Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10072224,
+                    -16.53555219
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Betancour",
+                "Zona": "Alto Següencoma",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:04:39.483Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11728198,
+                    -16.50353959
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jardín Botánico",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:44:56.243Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07596382,
+                    -16.52908666
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Guillermo Jose Eustaquio Mendez",
+                "Zona": "Meseta Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:13:01.787Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11968554,
+                    -16.51178499
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gruta de Lourdes",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:06:47.667Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09097392,
+                    -16.51470005
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Mujer",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12757543,
+                    -16.50258326
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Urbano Central",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:07:23.683Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09050284,
+                    -16.51662543
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De la Piedra",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12812442,
+                    -16.50394199
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alfredo Dominguez Romero",
+                "Zona": "Casco Viejo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:07:32.467Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09005865,
+                    -16.52088477
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Fuerzas Armadas",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12768909,
+                    -16.50113847
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Espacio de Pequeños Conciertos",
+                "Zona": "Santa Barbara",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:09:43.753Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09016208,
+                    -16.52501353
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Martín",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:55:09.780Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.097158,
+                    -16.52819712
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tichawer",
+                "Zona": "Bella Vista",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:02:26.250Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08254937,
+                    -16.53810343
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Miguel Tejada Velasco",
+                "Zona": "Bajo Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:40:04.847Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10988013,
+                    -16.52069511
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Humberto Quezada Arce",
+                "Zona": "Alto Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:00:20.227Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1031312,
+                    -16.52021713
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Jardín del Libro",
+                "Zona": "Alto Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:45:07.500Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08410845,
+                    -16.51632967
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Luis Ramiro Beltrán Salmón",
+                "Zona": "Alto Irpavi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:30:59.347Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09034914,
+                    -16.51822377
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Los Leones",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08734062,
+                    -16.52402782
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Almirante Grau",
+                "Zona": "Irpavi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:40:09.763Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08639332,
+                    -16.52055202
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tres Pasos al Frente",
+                "Zona": "Irpavi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:36:32.017Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0824865,
+                    -16.50421173
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Aruntaya",
+                "Zona": "El Vergel",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:39:18.560Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06718855,
+                    -16.52481134
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alfredo Rea Nogales",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:58:51.450Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06607741,
+                    -16.51814467
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Naciones Unidas",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:58:32.310Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0904542,
+                    -16.51984811
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cívica",
+                "Zona": "Bolognia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06888824,
+                    -16.52600303
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Hernan Greiner SOS",
+                "Zona": "Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:59:01.647Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10451799,
+                    -16.52142173
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Ingeniero",
+                "Zona": "Alto Obrajes",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:56:01.753Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07632302,
+                    -16.52830993
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Libertad",
+                "Zona": "Meseta Achumani",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:46:43.167Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08705154,
+                    -16.52561012
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Yolanda Bedregal de Conitzer",
+                "Zona": "Irpavi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T20:51:57.050Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09149986,
+                    -16.54185762
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alexander Von Humboldt",
+                "Zona": "Calacoto",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:07:10.237Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09973702,
+                    -16.52439273
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Huanu Huanuni",
+                "Zona": "Huanu Huanuni",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 21,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T21:56:48.613Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13993809,
+                    -16.48931971
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Antofagasta",
+                "Zona": "Challapampa",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:01:14.087Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14078765,
+                    -16.49389832
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Eguino",
+                "Zona": "El Rosario",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:22.137Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13846808,
+                    -16.49335416
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alonso de Mendoza",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:25.840Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13990541,
+                    -16.49168898
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Alexander",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:29.643Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13139174,
+                    -16.49471373
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Médico",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:35.257Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13348586,
+                    -16.49584581
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Murillo",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:38.667Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1312149,
+                    -16.50420724
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Franz Tamayo (estudiante)",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:43.100Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12667644,
+                    -16.50694594
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Bolivia",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:46.647Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12234952,
+                    -16.51085009
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Zenon Iturralde",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:51.407Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12423332,
+                    -16.50931014
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Isabel La Católica",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:55.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12427971,
+                    -16.49696846
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Uyuni",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:14:59.170Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12086232,
+                    -16.50405549
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "José de San Martin (triangular)",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:04.087Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12414572,
+                    -16.49950643
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tejada Sorzano",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:07.713Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11759175,
+                    -16.51245709
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "José Miguel García Lanza",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:11.170Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12372306,
+                    -16.51377548
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gardel",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:14.507Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1218047,
+                    -16.48416318
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villarroel",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:17.930Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13269029,
+                    -16.49691881
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Obispo Bosque",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:22.523Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13468108,
+                    -16.49379048
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Wenceslao Monrroy",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:26.330Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13716501,
+                    -16.49564472
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mayor de Los Heroes",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:30.310Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11749695,
+                    -16.50443903
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Badem Powell",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-11T23:15:34.530Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11885804,
+                    -16.48325115
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pettofi",
+                "Zona": "Barrio Gráfico",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:47:38.860Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11811203,
+                    -16.47488748
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Maestro",
+                "Zona": "Villa Fátima",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:47:28.597Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13561483,
+                    -16.4914285
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Riosinho",
+                "Zona": "Norte Caja de Agua",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:13:42.367Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11835158,
+                    -16.46819072
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Apolo",
+                "Zona": "La Mercéd",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:47:59.860Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11346322,
+                    -16.46901764
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Arturo Borda",
+                "Zona": "Villa El Carmen",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:48:50.057Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15413336,
+                    -16.49541063
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "27 De Mayo",
+                "Zona": "Bajo Tejar",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 8,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-11T20:16:25.607Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1174707,
+                    -16.47786599
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "16 de julio",
+                "Zona": "Barrio Petrolero",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:49:32.187Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10299714,
+                    -16.56474892
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De La Juventud",
+                "Zona": "Mallasilla",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-02T22:39:58.110Z",
+                "observaciones": "Ubicado en la calle D"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09827598,
+                    -16.56755636
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mallasilla",
+                "Zona": "Mallasilla",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 20,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:26:12.397Z",
+                "observaciones": "Av. Altamirano / hay dos plazas con el mismo nombre, uno cerca del otro, se sugiere borrar."
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09004931,
+                    -16.56929818
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "2 de Febrero",
+                "Zona": "Mallasa",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 20,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1179834,
+                    -16.47038797
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Merced",
+                "Zona": "La Mercéd",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:49:41.580Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12093704,
+                    -16.47635613
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Arandia",
+                "Zona": "Villa Fátima",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:49:58.063Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12000837,
+                    -16.48312293
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De Las Letras",
+                "Zona": "Villa Fátima",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:50:04Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11687733,
+                    -16.47887005
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "21 de julio",
+                "Zona": "Barrio Petrolero",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 13,
+                "owner": null,
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:50:18.040Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1489173,
+                    -16.4786636
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rene Barrientos",
+                "Zona": "Vino Tinto Bajo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T21:58:47.890Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13773043,
+                    -16.48749
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Tortuguita",
+                "Zona": "Pedro Kramer",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 11,
+                "owner": null,
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:02:21.560Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11914921,
+                    -16.50945199
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ladislao Cabrera",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:14:14.853Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12133123,
+                    -16.49445681
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Monumento Busch",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:14:12.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.120234,
+                    -16.49310436
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Benito Juarez (Cruz Roja Boliviana)",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:14:09.887Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13700515,
+                    -16.49633889
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Francisco (Libertador Bolivar)",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:14:06.893Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13514498,
+                    -16.49854915
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Soldado Desconocido (Obelisco)",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:13:58.580Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14175959,
+                    -16.4975669
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Marcelo Quiroga Santa Cruz",
+                "Zona": "El Rosario",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:48:28.293Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14458892,
+                    -16.49319757
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Nudo Vita",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:13:19.400Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14353351,
+                    -16.49249731
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Kennedy",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:11:54.393Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1371082,
+                    -16.49424144
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Pérez Velasco",
+                "Zona": "San Sebastián",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:11:47.273Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13080463,
+                    -16.49601882
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mario Guzmán Aspiazu (Del Periodista)",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-08-04T13:29:53.733Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12884834,
+                    -16.49717147
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Yungas",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:11:08.037Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12594231,
+                    -16.49713366
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Natalia Palacios",
+                "Zona": "Miraflores",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:11:02.733Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13144382,
+                    -16.5034834
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "El Prado",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:10:56.670Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13288143,
+                    -16.50016149
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Marina Nuñez del Prado",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:10:51.050Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13001687,
+                    -16.50528397
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Bi-Centenario",
+                "Zona": "Sopocachi",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:10:44.183Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11871848,
+                    -16.51631596
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Confucia",
+                "Zona": "San Jorge",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:10:17.503Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13065378,
+                    -16.49797491
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Tomas Frias",
+                "Zona": "Santa Barbara",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:10:09.170Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13363586,
+                    -16.50065735
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Venezuela",
+                "Zona": "San Pedro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:09:01.253Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12789944,
+                    -16.49933769
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gruta Santa Barbara",
+                "Zona": "Santa Barbara",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:08:53.070Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13612049,
+                    -16.49549471
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De las Culturas",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:08:45.313Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12341927,
+                    -16.50272013
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Del Médico",
+                "Zona": "Miraflores Sur",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:08:38.110Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13401411,
+                    -16.49797393
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Emilio Villanueva",
+                "Zona": "Casco Viejo",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 1,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:08:23.647Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12539472,
+                    -16.50157516
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De Las tradiciones",
+                "Zona": "Santa Barbara",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 2,
+                "owner": null,
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T15:08:16.330Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0902492,
+                    -16.49966501
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Callapa",
+                "Zona": "Callapa",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 17,
+                "owner": null,
+                "usuario": null,
+                "fechaActual": null,
+                "observaciones": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06411817,
+                    -16.51675163
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rafael Mendoza",
+                "Zona": "Violetas",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-02T21:58:22.593Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08111621,
+                    -16.54290333
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Balaguer",
+                "Zona": "CALACOTO",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": null,
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:18:12.730Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0919539,
+                    -16.55247504
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Av. Hernan Siles Zuazo",
+                "Zona": "Aranjuez",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-06T13:00:07.253Z",
+                "observaciones": "Parque sin nombre."
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12576467,
+                    -16.492101
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Humberto Vasquez",
+                "Zona": "Alto San Juan",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 12,
+                "owner": "gmatta",
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:25:34.813Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.127156,
+                    -16.4792926
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ferroviario",
+                "Zona": "Barrio Ferroviario",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 12,
+                "owner": "gmatta",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:11:56.183Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12823333,
+                    -16.47215399
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "8 calles",
+                "Zona": "Alto las Delicias D-1",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 12,
+                "owner": "gmatta",
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:31:47.740Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14524599,
+                    -16.44570464
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Luis Espinal",
+                "Zona": "Las Nieves",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 11,
+                "owner": "gmatta",
+                "usuario": "gmatta",
+                "fechaActual": "2016-06-02T22:33:28.870Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09815382,
+                    -16.56177192
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Providencia",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:47:31.713Z",
+                "observaciones": "Parque de zona"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11456015,
+                    -16.56614232
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De Los Duendes",
+                "Zona": "Isla Verde",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-02T22:43:36.210Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09813181,
+                    -16.56758838
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Av. Altamirano",
+                "Zona": "Mallasilla",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "lchurata",
+                "fechaActual": "2016-06-02T22:45:37.080Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09837488,
+                    -16.56699661
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Mallasilla",
+                "Zona": "Mallasilla",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:43:31.583Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08991941,
+                    -16.56912164
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "2 de Febrero",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:38:18.243Z",
+                "observaciones": "Parque de zona"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08606721,
+                    -16.56810168
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:40:24.163Z",
+                "observaciones": "Parque de zona"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11648227,
+                    -16.49324698
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Rafael Ballivian (Plazuela)",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T20:52:12.587Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11538713,
+                    -16.49207179
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Libertad",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 14,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-03T23:41:34.523Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11645224,
+                    -16.49003509
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Carlos Blanco (Plazuela)",
+                "Zona": "Sud Copacabana",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T20:53:41.017Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11660346,
+                    -16.48763829
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Inca Sebastian Acosta (Plazuela)",
+                "Zona": "Villa Copacabana",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T20:55:04.537Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11425248,
+                    -16.48430396
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "5 de Agosto",
+                "Zona": "Pacasa",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 14,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:02:16.187Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11561214,
+                    -16.49768828
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Luis Tapia",
+                "Zona": "Villa San Antonio",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:19:52.733Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1075965,
+                    -16.50369051
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Distrital",
+                "Zona": "Alto Villa San Antonio",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:26:31.603Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1074454,
+                    -16.49945687
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "29 de Abril",
+                "Zona": "29 de Abril",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T20:57:22.787Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10917236,
+                    -16.4995718
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Infantil",
+                "Zona": "San Antonio",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:30:46.507Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1099225,
+                    -16.49616329
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Capilla",
+                "Zona": "Sector Capilla",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:34:44.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1158506,
+                    -16.49659212
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Niño Jesús",
+                "Zona": "Villa San Antonio",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:51:41.967Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11047777,
+                    -16.50123259
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Sector 6",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 15,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:55:13.580Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10157023,
+                    -16.5057312
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "San Juan",
+                "Zona": "Pampahasi San Juan",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:57:04.120Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10192353,
+                    -16.50165792
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Pampahasi Central Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:58:49.087Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10449724,
+                    -16.50247886
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Santo Domingo",
+                "Zona": "Pampahasi Santo Domingo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T00:59:41.847Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10462336,
+                    -16.50072672
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "10 de Enero",
+                "Zona": "Pampahasi Central Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:00:16.153Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10051218,
+                    -16.49483731
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Ergueta",
+                "Zona": "Sector Cervecería",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:04:42.857Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10342122,
+                    -16.49117994
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sector Guardia (Plazuela)",
+                "Zona": "Pampahasi Sector Guardia",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T21:18:40.993Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10046825,
+                    -16.49298954
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Sector Antena Entel (Plazuela)",
+                "Zona": "Antenas Entel",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-13T21:20:05.377Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09831091,
+                    -16.49008866
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Tihuanacu las Guindas",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:14:58.500Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09708039,
+                    -16.48674252
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Distrital",
+                "Zona": "Sector Graficos",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:15:55.903Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09391647,
+                    -16.48596956
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cosmos",
+                "Zona": "Cosmos 85",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 16,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:17:35.643Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.11192214,
+                    -16.50952502
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Espiritu Santo",
+                "Zona": "Villa Armonia",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 17,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:20:00.740Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.10839205,
+                    -16.51384928
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Elizardo Perez",
+                "Zona": "Bajo San Isidro",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 17,
+                "owner": "mbautista",
+                "usuario": "mbautista",
+                "fechaActual": "2016-06-04T01:24:13.827Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09413358,
+                    -16.55404432
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Golondrinas",
+                "Zona": "Amor de Dios",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:46:29.067Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07199917,
+                    -16.59012015
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Jupapina",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-25T20:42:20.843Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.08867387,
+                    -16.56836824
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Infantil",
+                "Zona": "Mallasa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 20,
+                "owner": "lchurata",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:30:23.007Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.13536793,
+                    -16.1730271
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Cañaviri",
+                "Zona": "",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T19:22:59.637Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.05133969,
+                    -16.09630973
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Villa Esperanza",
+                "Zona": "",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T19:27:11.783Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12634415,
+                    -16.20233731
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Botijlaca",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T19:47:41.053Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1374525,
+                    -16.17434394
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Cañaviri",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:01:27.743Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.14360794,
+                    -16.11273097
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Coscapa",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:05:04.353Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.04428961,
+                    -16.0928452
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Islani Bajo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:09:23.800Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.05230477,
+                    -16.10119121
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Pueblo de Zongo",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:13:22.013Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0032526,
+                    -16.04652643
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Huaylipaya",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 23,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:17:38.297Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.66982194,
+                    -15.7679832
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "",
+                "Zona": "Monte Verde",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 24,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2016-06-08T20:20:46.613Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07440524,
+                    -16.54896292
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Auquisamaña",
+                "Zona": "AUQUISAMAÑA",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:19:24.847Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07653834,
+                    -16.541346
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Max Fernandez",
+                "Zona": "CALACOTO",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:20:34.420Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07778314,
+                    -16.53922506
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De San Miguel",
+                "Zona": "CALACOTO",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:21:21.480Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07792299,
+                    -16.5471373
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Auquisamaña (Plazuela)",
+                "Zona": "AUQUISAMAÑA",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:22:23.373Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.292",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07316115,
+                    -16.53114529
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "La Paz",
+                "Zona": "ACHUMANI",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:24:30.027Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06999151,
+                    -16.52927755
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Achumani",
+                "Zona": "ACHUMANI",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:25:26.903Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06903595,
+                    -16.53047927
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Noel Kempff",
+                "Zona": "ACHUMANI",
+                "IdTipo": 1,
+                "Tipo": "Plaza",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:27:31.970Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09219447,
+                    -16.54472984
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Las Cholas - La Florida",
+                "Zona": "CALACOTO",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:39:51.103Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0645633,
+                    -16.54162129
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Laguna de Cota Cota",
+                "Zona": "COTA COTA",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T14:41:18.697Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.07468915,
+                    -16.52809933
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Gimnasio",
+                "Zona": "ACHUMANI",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T15:05:56.580Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.06958645,
+                    -16.55400134
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Auquisamaña",
+                "Zona": "AUQUISAMAÑA",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 18,
+                "owner": "clara.revollo",
+                "usuario": "clara.revollo",
+                "fechaActual": "2016-06-10T15:08:33.387Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.12442126,
+                    -16.50267145
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "Laikakota",
+                "Zona": "Miraflores",
+                "IdTipo": 2,
+                "Tipo": "Parque",
+                "distrito": 2,
+                "owner": "carlos.medrano",
+                "usuario": "carlos.medrano",
+                "fechaActual": "2016-06-13T20:55:13.267Z",
+                "observaciones": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "plazasparques.300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.09402274,
+                    -16.54409857
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "Nombre": "De las Heroínas Paceñas",
+                "Zona": "Següencoma Bajo",
+                "IdTipo": 1,
+                "Tipo": null,
+                "distrito": 21,
+                "owner": "gustavo.nao",
+                "usuario": "gustavo.nao",
+                "fechaActual": "2018-09-11T22:08:51.793Z",
+                "observaciones": ""
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
