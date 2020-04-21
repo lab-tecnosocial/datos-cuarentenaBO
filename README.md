@@ -119,9 +119,8 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 Si necesitas ayuda con los datos, encuentras errores, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk), activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones.
 
+
 ## Fuentes
-
-
 
 https://www.openstreetmap.org/
 https://www.cochabamba.bo/application/municipio/mapa
@@ -132,3 +131,7 @@ https://geo.gob.bo/
 http://conectandobolivia.fepc.bo/
 Grupos de facebook
 Grupos de WhatsApp
+
+
+**Con el apoyo de Hivos Bolivia**
+
