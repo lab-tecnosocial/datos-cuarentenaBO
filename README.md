@@ -122,16 +122,15 @@ Si necesitas ayuda con los datos, encuentras errores, o quieres aportar con dato
 
 ## Fuentes
 
-https://www.openstreetmap.org/
-https://www.cochabamba.bo/application/municipio/mapa
-http://sitservicios.lapaz.bo/mapas/abasto/
-https://www.lapaz.bo/
-https://guiaurbana.gmsantacruz.gob.bo/guiaurbana/
-https://geo.gob.bo/
-http://conectandobolivia.fepc.bo/
-Grupos de facebook
-Grupos de WhatsApp
-
+* https://www.openstreetmap.org/
+* https://www.cochabamba.bo/application/municipio/mapa
+* http://sitservicios.lapaz.bo/mapas/abasto/
+* https://www.lapaz.bo/
+* https://guiaurbana.gmsantacruz.gob.bo/guiaurbana/
+* https://geo.gob.bo/
+* http://conectandobolivia.fepc.bo/
+* Grupos de facebook
+* Grupos de WhatsApp
 
 **Con el apoyo de Hivos Bolivia**
 
