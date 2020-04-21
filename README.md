@@ -8,6 +8,10 @@ A partir del crecimiento de los casos confirmados de coronavirus, desde el 22 de
 
  * El objetivo de este proyecto es recolectar y verificar datos de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19 que sirvan como insumos de información para los ciudadanos.
  * Los datos están en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON) o analistas (mediante los datos en CSV).
+ 
+## ¿Por qué datos abiertos?
+
+Porque es la base para construir otros productos para los ciudadanos, como visualizaciones, apps, análisis de datos, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes, por lo que nace esta iniciativa ciudadana.
 
 ## Metodología
 
@@ -21,11 +25,99 @@ La v1 (actual) tiene varios modelos de datos pues provienen de diversas fuentes 
 
 ## Documentación de la API 
 
-La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/v1/`
+La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/v1/`. Dado que es una API estática solo soporta GET requests.
 
-Dado que es una API estática solo soporta GET requests.
+La v1 tiene la siguiente estructura y sus respectivos endpoints:
 
+```
+├── gamcb
+├── gamlp
+│   ├── Abasto.csv
+│   ├── Abasto.json
+│   ├── CentrosDesarrolloSocial.csv
+│   ├── CentrosDesarrolloSocial.json
+│   ├── EntidadesFinancieras.csv
+│   ├── EntidadesFinancieras.json
+│   ├── EstacionesServicio.csv
+│   ├── EstacionesServicio.json
+│   ├── Farmacias.csv
+│   ├── Farmacias.json
+│   ├── Mercados.csv
+│   ├── Mercados.json
+│   ├── ModulosPoliciales.csv
+│   ├── ModulosPoliciales.json
+│   ├── PuntosVerdes.csv
+│   ├── PuntosVerdes.json
+│   ├── Salud.csv
+│   ├── Salud.json
+│   ├── Supermercados.csv
+│   └── Supermercados.json
+├── gamsc
+│   ├── abastecimiento-emergencia
+│   │   ├── Mercados.csv
+│   │   ├── Mercados.json
+│   │   ├── MercadosMovil.csv
+│   │   ├── MercadosMovil.json
+│   │   ├── Supermercados.csv
+│   │   └── Supermercados.json
+│   ├── centro-abastecimiento
+│   │   └── Mercados.json
+│   ├── edificios-administrativos
+│   │   ├── Edificio_adm_salud.json
+│   │   └── Sub_alcaldias_distritales.json
+│   ├── infraestructura-social
+│   │   ├── CentroAdultoMayor.csv
+│   │   ├── CentroAdultoMayor.json
+│   │   ├── GuarderiaMunicipal.csv
+│   │   └── GuarderiaMunicipal.json
+│   ├── salud
+│   │   ├── Centro_salud_12hrs.csv
+│   │   ├── Centro_salud_12hrs.json
+│   │   ├── Centro_salud_24hrs.csv
+│   │   ├── Centro_salud_24hrs.json
+│   │   ├── Hospital_2do_nivel.csv
+│   │   └── Hospital_2do_nivel.json
+│   ├── secretaria-municipal
+│   │   └── Secretarias_municipales.json
+│   └── seguridad-ciudadana
+│       ├── CentroSeguridad.csv
+│       ├── CentroSeguridad.json
+│       ├── EstacionesPoliciales.csv
+│       └── EstacionesPoliciales.json
+├── geobo
+│   ├── Mercados2017.csv
+│   └── Mercados2017.json
+├── osm
+│   ├── bank.csv
+│   ├── bank.json
+│   ├── clinic.csv
+│   ├── clinic.json
+│   ├── doctors.csv
+│   ├── doctors.json
+│   ├── hospital.csv
+│   ├── hospital.json
+│   ├── pharmacy.csv
+│   └── pharmacy.json
+├── rmk
+│   ├── salud.csv
+│   └── salud.json
+└── web
+    ├── Alimentos.csv
+    ├── Alimentos.json
+    ├── Salud.csv
+    ├── Salud.json
+    ├── Servicios.csv
+    └── Servicios.json
+```
+
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/web/alimentos.json` a la url de base. Para una explicación más detallada y ejemplos ver la documentación. 
 
 ## Soporte y aporte
+
+
+
+## Fuentes
+
+
 
 Si tienes
