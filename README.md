@@ -19,8 +19,11 @@ Valga aclarar que este es un trabajo aún en progreso.
 
 La v1 (actual) tiene varios modelos de datos pues provienen de diversas fuentes (ver sus módelos y métodos en la documentación). En la v2 los integraremos en un sólo modelo de datos. 
 
-## Documentación de la API estática de JSON
+## Documentación de la API 
 
+La URL de base es <>
+
+Dado que es una API estática solo soporta GET requests.
 
 
 ## Soporte y aporte
