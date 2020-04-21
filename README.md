@@ -11,7 +11,7 @@ Con el crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo
  
 ## ¿Por qué datos abiertos?
 
-Porque son la base para fomentar un ecosistema de datos abiertos que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que nace esta iniciativa ciudadana. 
+Porque son la base para fomentar un ecosistema de datos abiertos que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, planificación territorial, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que nace esta iniciativa ciudadana. 
 
 ## Metodología
 
