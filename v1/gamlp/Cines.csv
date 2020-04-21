@@ -1,7 +1,0 @@
-type,id,geometry/type,geometry/coordinates/0,geometry/coordinates/1,geometry_name,properties/Nombre,properties/Zona,properties/Direccion,properties/distrito,properties/owner,properties/usuario,properties/fechaActual,properties/observaciones
-Feature,cines.1,Point,-68.13107573,-16.50344219,geom,CINE 16 DE JULIO,PRADO,Av. 16 de Julio Nº 1807,,,,,
-Feature,cines.2,Point,-68.12725286,-16.50805299,geom,CINE MUNICIPAL 6 DE AGOSTO,SOPOCACHI,Av. 6 de Agosto,,,,,
-Feature,cines.3,Point,-68.12557223,-16.50636841,geom,CINEMATECA BOLIVIANA,SOPOCACHI,c. Oscar Soria esq. Rosendo Gutiérrez,,,,,
-Feature,cines.5,Point,-68.13279058,-16.50103753,geom,CINE TEATRO MONJE CAMPERO,PRADO,Av. 16 de Julio Nº 1495,,,,,
-Feature,cines.6,Point,-68.12228704,-16.5109791,geom,MULTICINE,AV. ARCE,Av. Arce Nº 2631,,,,,
-Feature,cines.7,Point,-68.08679814,-16.53269583,geom,MEGACENTER,SUR,Av. Rafael Pabón ingreso a Irpavi,,,,,

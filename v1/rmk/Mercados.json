@@ -1,0 +1,674 @@
+[
+ {
+   "Nombre": "MERCADO LA FLORIDA",
+   "Latitud": -17.44673,
+   "Longitud": -66.115624,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 10 DE FEBRERO",
+   "Latitud": -17.440041,
+   "Longitud": -66.116183,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 10 DE FEBRERO",
+   "Latitud": -17.361067,
+   "Longitud": -66.182637,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 1RO DE MARZO",
+   "Latitud": -17.394903,
+   "Longitud": -66.154826,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 20 DE FEBRERO",
+   "Latitud": -17.419201,
+   "Longitud": -66.144285,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 20 DE OCTUBRE",
+   "Latitud": -17.490089,
+   "Longitud": -66.177713,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 25 DE MAYO",
+   "Latitud": -17.394938,
+   "Longitud": -66.155352,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO 25 DE MAYO -A",
+   "Latitud": -17.394676,
+   "Longitud": -66.154392,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO 25 DE MAYO B",
+   "Latitud": -17.394703,
+   "Longitud": -66.154863,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO 27 DE MAYO",
+   "Latitud": -17.42523,
+   "Longitud": -66.143201,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 27 DE MAYO",
+   "Latitud": -17.474951,
+   "Longitud": -66.149199,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 8 SEPTIEMBRE - VILLA MEXICO",
+   "Latitud": -17.434506,
+   "Longitud": -66.15674,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO BARTOLINA SISA",
+   "Latitud": -17.4681,
+   "Longitud": -66.206974,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO",
+   "Latitud": -17.431632,
+   "Longitud": -66.125808,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO",
+   "Latitud": -17.434316,
+   "Longitud": -66.124189,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO",
+   "Latitud": -17.430476,
+   "Longitud": -66.126161,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO",
+   "Latitud": -17.433555,
+   "Longitud": -66.124678,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO DEL NORTE MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR",
+   "Latitud": -17.351226,
+   "Longitud": -66.172623,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO PRIVADO",
+   "Latitud": -17.429383,
+   "Longitud": -66.126429,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CERRO VERDE",
+   "Latitud": -17.413978,
+   "Longitud": -66.144082,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO DE CALA CALA",
+   "Latitud": -17.372261,
+   "Longitud": -66.161775,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO DE VALLE HERMOSO",
+   "Latitud": -17.447943,
+   "Longitud": -66.127207,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO DEL OESTE BELEN TOKIO",
+   "Latitud": -17.382356,
+   "Longitud": -66.194726,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO EL PROGRESO",
+   "Latitud": -17.394689,
+   "Longitud": -66.190325,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO FERROVIARIO",
+   "Latitud": -17.448104,
+   "Longitud": -66.146801,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO FIDEL ARANIBAR",
+   "Latitud": -17.402795,
+   "Longitud": -66.15396,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO INGAVI",
+   "Latitud": -17.390127,
+   "Longitud": -66.171077,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO JAIHUAYCO",
+   "Latitud": -17.415019,
+   "Longitud": -66.164129,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO JUAN XXIII",
+   "Latitud": -17.388831,
+   "Longitud": -66.203724,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO LA PAMPA",
+   "Latitud": -17.403778,
+   "Longitud": -66.152052,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO LORETO",
+   "Latitud": -17.423266,
+   "Longitud": -66.157048,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO MISICUNI",
+   "Latitud": -17.437367,
+   "Longitud": -66.113235,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO MODELO DEL NORTE MINORISTAS",
+   "Latitud": -17.351945,
+   "Longitud": -66.172993,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO MOLINO EL GALLO",
+   "Latitud": -17.406813,
+   "Longitud": -66.155093,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO MOLINO SAN LUIS",
+   "Latitud": -17.405716,
+   "Longitud": -66.155077,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO NORTE CALATAYUD",
+   "Latitud": -17.398351,
+   "Longitud": -66.152809,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO OSORIO",
+   "Latitud": -17.397122,
+   "Longitud": -66.162586,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO PAPA PAULO",
+   "Latitud": -17.383902,
+   "Longitud": -66.147804,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO QUECHISLITAS",
+   "Latitud": -17.375475,
+   "Longitud": -66.185751,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO SAN ANTONIO",
+   "Latitud": -17.402758,
+   "Longitud": -66.155039,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO SECCIONAL 15 DE ABRIL VILLA ALALAY",
+   "Latitud": -17.4203,
+   "Longitud": -66.140075,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO SUD CALATAYUD",
+   "Latitud": -17.39895,
+   "Longitud": -66.152731,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO ZONAL SEÑOR DE MAYO",
+   "Latitud": -17.364564,
+   "Longitud": -66.176323,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADONA",
+   "Latitud": -17.413559,
+   "Longitud": -66.165533,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MOROMERCADO LACTEOS",
+   "Latitud": -17.386795,
+   "Longitud": -66.15759,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 1 DE MAYO",
+   "Latitud": -17.413385,
+   "Longitud": -66.024177,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO BARRIENTOS",
+   "Latitud": -17.375997,
+   "Longitud": -66.11821,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CAMPESINO",
+   "Latitud": -17.377808,
+   "Longitud": -66.112576,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO ESMERALDA",
+   "Latitud": -17.379197,
+   "Longitud": -66.078412,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO QUINTANILLA",
+   "Latitud": -17.387121,
+   "Longitud": -66.110982,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL DE SACABA",
+   "Latitud": -17.402336,
+   "Longitud": -66.037375,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO HUAYYANI GRANDE/SAN ANTONIO",
+   "Latitud": -17.392732,
+   "Longitud": -66.058791,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL SACABA",
+   "Latitud": -17.404887,
+   "Longitud": -66.038608,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO DE BARRIO",
+   "Latitud": -17.376497,
+   "Longitud": -66.065552,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO EL CARMEN DISTRITO 6",
+   "Latitud": -17.41531,
+   "Longitud": -66.079808,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO MORRO(GALPON DE PAPA)",
+   "Latitud": -17.398675,
+   "Longitud": -66.034591,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO VILLA UNION",
+   "Latitud": -17.414834,
+   "Longitud": -66.082962,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CAPACACHI",
+   "Latitud": -17.383518,
+   "Longitud": -66.223757,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL DE KAMY",
+   "Latitud": -17.365939,
+   "Longitud": -66.234565,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO DE ABASTO FLOTIDA NORTE",
+   "Latitud": -17.38682,
+   "Longitud": -66.225445,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL 27 DE MAYO EL PASO",
+   "Latitud": -17.339342,
+   "Longitud": -66.264936,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 9 DE DICIEMBRE",
+   "Latitud": -17.399921,
+   "Longitud": -66.28284,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL DE QUILLACOLLO",
+   "Latitud": -17.397415,
+   "Longitud": -66.279912,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO DE PAPAS",
+   "Latitud": -17.401411,
+   "Longitud": -66.285074,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO DE QUILLACOLLO",
+   "Latitud": -17.39575,
+   "Longitud": -66.282603,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO MARTIN CARDENAS",
+   "Latitud": -17.406035,
+   "Longitud": -66.282849,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO NELIDA DE GUERRA",
+   "Latitud": -17.390006,
+   "Longitud": -66.285944,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO PLAZA DE GRANOS",
+   "Latitud": -17.398767,
+   "Longitud": -66.28404,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO VILLA MARIA",
+   "Latitud": -17.385642,
+   "Longitud": -66.256822,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B",
+   "Latitud": -17.453654,
+   "Longitud": -66.356641,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO 17 DE OCTUBRE",
+   "Latitud": -17.3463,
+   "Longitud": -66.191154,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 24 DE JUNIO",
+   "Latitud": -17.334368,
+   "Longitud": -66.197998,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL DE TIQUIPAYA",
+   "Latitud": -17.337081,
+   "Longitud": -66.218594,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO CHILIMARCA 27 DE MAYO",
+   "Latitud": -17.3364,
+   "Longitud": -66.202946,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO DE LA COMUNIDAD",
+   "Latitud": -17.361834,
+   "Longitud": -66.225057,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "FERIA DEL MERCADO CAMPESINO DE VINTO",
+   "Latitud": -17.398895,
+   "Longitud": -66.316346,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO CENTRAL CHULLA",
+   "Latitud": -17.377769,
+   "Longitud": -66.30824,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MERCADO DE VINTO",
+   "Latitud": -17.39966,
+   "Longitud": -66.316306,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO SEXTA",
+   "Latitud": -17.39804,
+   "Longitud": -66.326043,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA",
+   "Latitud": -17.462301,
+   "Longitud": -66.105928,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "ANTIGUO MERCADO CAMPESINO LAGUNA ALALAY",
+   "Latitud": -17.4004,
+   "Longitud": -66.142597,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "MEGA MERCADO DE FRUTAS",
+   "Latitud": -17.400428,
+   "Longitud": -66.143305,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "Suticollo A",
+   "Latitud": -17.451657,
+   "Longitud": -66.338758,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Suticollo B",
+   "Latitud": -17.471811,
+   "Longitud": -66.338513,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Montenegro",
+   "Latitud": -17.411615,
+   "Longitud": -66.331009,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Alto Mirador",
+   "Latitud": -17.393896,
+   "Longitud": -66.31987,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Chulla Jayata",
+   "Latitud": -17.39414,
+   "Longitud": -66.31267,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "Ironcollo",
+   "Latitud": -17.353241,
+   "Longitud": -66.287256,
+   "Tipo": "Merercado zonal"
+ },
+ {
+   "Nombre": "Mercado Colcapirhua",
+   "Latitud": -17.390211,
+   "Longitud": -66.244173,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "Mercado zonal Capacachi",
+   "Latitud": -17.387045,
+   "Longitud": -66.220598,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Callajchuypa",
+   "Latitud": -17.354007,
+   "Longitud": -66.242358,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria dominical",
+   "Latitud": -17.338155,
+   "Longitud": -66.221165,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "27 De Noviembre Villa Satelite",
+   "Latitud": -17.33276,
+   "Longitud": -66.195522,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "24 De Junio Max Fernandez",
+   "Latitud": -17.329052,
+   "Longitud": -66.202251,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria dominical Trojes",
+   "Latitud": -17.345452,
+   "Longitud": -66.20387,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "17 De Octubre Ciudad Del Niño",
+   "Latitud": -17.346317,
+   "Longitud": -66.193558,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Temporal",
+   "Latitud": -17.358879,
+   "Longitud": -66.171872,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria Dominical Guadalupe",
+   "Latitud": -17.3515,
+   "Longitud": -66.182097,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Taquiña",
+   "Latitud": -17.350163,
+   "Longitud": -66.185433,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Villa Taquiña",
+   "Latitud": -17.344513,
+   "Longitud": -66.1767,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria dominical",
+   "Latitud": -17.342044,
+   "Longitud": -66.179182,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Cruce Taquiña",
+   "Latitud": -17.356744,
+   "Longitud": -66.188116,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Calampampa",
+   "Latitud": -17.357315,
+   "Longitud": -66.184994,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Los Alamos",
+   "Latitud": -17.370885,
+   "Longitud": -66.185652,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Sarco",
+   "Latitud": -17.37343,
+   "Longitud": -66.19152,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria Thunupa",
+   "Latitud": -17.379067,
+   "Longitud": -66.188426,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Coraca",
+   "Latitud": -17.398012,
+   "Longitud": -66.186979,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Pampa grande",
+   "Latitud": -17.398067,
+   "Longitud": -66.178581,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Feria Miercoles Villa Loreto",
+   "Latitud": -17.421108,
+   "Longitud": -66.157441,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Ferial Miercoles Kanata",
+   "Latitud": -17.413707,
+   "Longitud": -66.158799,
+   "Tipo": "Mercado zonal"
+ },
+ {
+   "Nombre": "Santa Bárbara",
+   "Latitud": -17.428427,
+   "Longitud": -66.156129,
+   "Tipo": "Mercado central"
+ },
+ {
+   "Nombre": "Mercado dominical Humberto Asin",
+   "Latitud": -17.442313,
+   "Longitud": -66.116507,
+   "Tipo": "Mercado zonal"
+ }
+]
