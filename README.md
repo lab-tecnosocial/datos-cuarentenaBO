@@ -23,6 +23,33 @@ Valga aclarar que este es un trabajo aún en curso, tú aporte es bienvenido.
 
 La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues provienen de diversas fuentes. Si uno busca datos sobre mercados, por ejemplo, algunos fuentes estarán más completas que otras, tanto en atributos como en extensión. Para la versión 2 (v2) estamos planeando integrar todos los datos en un único modelo de datos. 
 
+## Cantidad de datos hasta el momento
+
+### La Paz (datos en guía urbana municipal)
+
+ * Abastecimiento: 150
+ * Entidades financieras: 779
+ * Farmacias: 470
+ * Servicios de salud: 202
+
+### Santa Cruz (datos en guía urbana municipal)
+
+ * Abastecimiento: 331
+ * Servicios de salud: 77
+ 
+### Región Metropolitana Kanata en Cochabamba
+ * Mercados: 112
+ * Servicios de salud: 152
+ 
+### Bolivia
+ * Mercados en Bolivia (GeoBolivia 2017): 629
+ * Farmacias, bancos, servicios de salud (OpenStreetMap): 3680
+ * Alimentos (diversas fuentes web): 381
+ * Servicios(diversas fuentes web): 367
+ * Salud (diversas fuentes web) :129
+
+
+
 ## Uso de la API 
 
 La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado que es una API estática solo soporta solicitudes `GET` sin parametros.
@@ -116,7 +143,7 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
-Si necesitas ayuda con estos datos para integrarla a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
+Si necesitas ayuda con estos datos para integrarla a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con másdatos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones. 
 
 
 ## Fuentes
