@@ -1,0 +1,968 @@
+[
+ {
+   "amenity": "marketplace",
+   "name": "Centro Comercial Popular Chiriguano",
+   "latitude": -17.7905599,
+   "longitude": -63.2056592,
+   "addr:street": "Avenida El Palmar"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Centro Camiri",
+   "latitude": -20.036831,
+   "longitude": -63.5195041,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria de Computacion",
+   "latitude": -17.7880756,
+   "longitude": -63.1680255,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Abasto",
+   "latitude": -17.3343057,
+   "longitude": -63.2507713,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.3756776,
+   "longitude": -66.1856747,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -17.3992707,
+   "longitude": -63.8243491,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Hinojosa",
+   "latitude": -16.5033768,
+   "longitude": -68.1444995,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal Casta Hurtado",
+   "latitude": -18.1806825,
+   "longitude": -63.8748006,
+   "addr:street": "Calle Arenales"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Riberalta",
+   "latitude": -11.0002458,
+   "longitude": -66.0777538,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Guadalquivir",
+   "latitude": -21.532859,
+   "longitude": -64.7326626,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Comercio Hoja de Coca",
+   "latitude": -16.9959333,
+   "longitude": -65.2484755,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.5228606,
+   "longitude": -68.1022979,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Eco Feria",
+   "latitude": -17.3880133,
+   "longitude": -66.146722,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria de San Pedro",
+   "latitude": -17.3897762,
+   "longitude": -66.1436507,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Gerónimo de Osorio",
+   "latitude": -17.3969654,
+   "longitude": -66.162565,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "El Miamicito",
+   "latitude": -17.404737,
+   "longitude": -66.1549289,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Campesino de San Cristobal",
+   "latitude": -21.1541148,
+   "longitude": -67.1646495,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -15.8322448,
+   "longitude": -67.5673156,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.5078977,
+   "longitude": -63.1676531,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.5091562,
+   "longitude": -63.1671543,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.401955,
+   "longitude": -63.8846647,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.4031759,
+   "longitude": -63.8853808,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.4024618,
+   "longitude": -63.8846888,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.4036827,
+   "longitude": -63.8853701,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.4029353,
+   "longitude": -63.8851233,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Villa Guadalupe",
+   "latitude": -18.2123538,
+   "longitude": -65.1863697,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado El Trompillo",
+   "latitude": -17.8003616,
+   "longitude": -63.1701662,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Huancane",
+   "latitude": -16.3771955,
+   "longitude": -67.535885,
+   "addr:street": "calle Indaburo"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Flores",
+   "latitude": -17.3360384,
+   "longitude": -66.2242033,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Sopocachi",
+   "latitude": -16.5094822,
+   "longitude": -68.1296904,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Teofilo Miranda",
+   "latitude": -16.4972229,
+   "longitude": -68.1162776,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Villa Armonia",
+   "latitude": -16.5087127,
+   "longitude": -68.1105556,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "7 Calles",
+   "latitude": -17.7862491,
+   "longitude": -63.1859825,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -15.4960817,
+   "longitude": -67.8801282,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -15.4985387,
+   "longitude": -67.8785756,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -19.797694,
+   "longitude": -65.9874233,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Madre Nazaria",
+   "latitude": -11.0352245,
+   "longitude": -68.7761175,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Artesanias en Cerámica",
+   "latitude": -17.5460229,
+   "longitude": -65.838721,
+   "addr:street": "Cobija"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Abasto",
+   "latitude": -11.0287675,
+   "longitude": -68.7624211,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central de Shinahota",
+   "latitude": -16.9941266,
+   "longitude": -65.2473179,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.4729947,
+   "longitude": -68.2212784,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Amor de Cobre",
+   "latitude": -16.5313225,
+   "longitude": -68.1916717,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "MERCADO SAN JOSE",
+   "latitude": -16.5303342,
+   "longitude": -68.1552099,
+   "addr:street": "Calle 30 B"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -18.1225471,
+   "longitude": -63.9589713,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.9949542,
+   "longitude": -65.1511006,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Tríangulo",
+   "latitude": -17.3990058,
+   "longitude": -66.1502658,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal",
+   "latitude": -17.407017,
+   "longitude": -63.7305588,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Centro Comercial San José",
+   "latitude": -17.8626327,
+   "longitude": -63.2660777,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "mercado",
+   "latitude": -17.7985146,
+   "longitude": -63.2071476,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Campesanal",
+   "latitude": -19.0332027,
+   "longitude": -65.2541367,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -17.4591928,
+   "longitude": -63.6597053,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Soris Kora de Chicani",
+   "latitude": -16.5005208,
+   "longitude": -68.0821984,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.7779993,
+   "longitude": -63.1791563,
+   "addr:street": "6 de Agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central San Antonio",
+   "latitude": -17.392628,
+   "longitude": -66.0587453,
+   "addr:street": "Camino Sacaba-Palca"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -19.8016652,
+   "longitude": -63.9545758,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado San José",
+   "latitude": -19.8084919,
+   "longitude": -63.9591916,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Antofagasta",
+   "latitude": -20.4614021,
+   "longitude": -66.8251353,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "14 de Septiembre",
+   "latitude": -16.542686,
+   "longitude": -68.1740544,
+   "addr:street": "Calle 30"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado 11 de Mayo",
+   "latitude": -17.425276,
+   "longitude": -65.7225919,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal de Reyes",
+   "latitude": -14.2988681,
+   "longitude": -67.3345281,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado La rotonda",
+   "latitude": -17.8251714,
+   "longitude": -63.1314442,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -19.1816248,
+   "longitude": -64.9122229,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.1983612,
+   "longitude": -64.5377599,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Savi Srl",
+   "latitude": -17.230781,
+   "longitude": -62.1707445,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Comarapa",
+   "latitude": -17.9156037,
+   "longitude": -64.5298861,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Santa Ana",
+   "latitude": -19.0532654,
+   "longitude": -65.2533293,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Evo Morales Ayma",
+   "latitude": -19.0695088,
+   "longitude": -65.2427471,
+   "addr:street": "RN6: Sucre-Tarabuco"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado El Trillo",
+   "latitude": -17.7605707,
+   "longitude": -63.1280068,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.3643258,
+   "longitude": -66.1769912,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Popular Pura Pura",
+   "latitude": -16.4877884,
+   "longitude": -68.1509173,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria Puente Vela",
+   "latitude": -16.5987951,
+   "longitude": -68.1840729,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Young",
+   "latitude": -17.9796196,
+   "longitude": -67.1320534,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado de Trojes",
+   "latitude": -17.3455704,
+   "longitude": -66.204106,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado de Frutas",
+   "latitude": -20.64222,
+   "longitude": -65.2101431,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado El Palmar",
+   "latitude": -21.8791286,
+   "longitude": -63.6137575,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Bolívar",
+   "latitude": -17.9722097,
+   "longitude": -67.105128,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Campesino",
+   "latitude": -18.4924682,
+   "longitude": -64.106678,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "EcoTambo",
+   "latitude": -16.5134761,
+   "longitude": -68.1342533,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.5085949,
+   "longitude": -68.1109271,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Poroma",
+   "latitude": -18.5385208,
+   "longitude": -65.4257394,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Tienda de Productos",
+   "latitude": -21.5429191,
+   "longitude": -64.7142341,
+   "addr:street": "Calle Juan de Dios Trigo"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado San Antonio",
+   "latitude": -19.0505541,
+   "longitude": -65.2407775,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Artesanal",
+   "latitude": -20.3022546,
+   "longitude": -66.9380759,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Bajo Mariscal Santa Cruz",
+   "latitude": -16.4925281,
+   "longitude": -68.1584751,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Bodega Chapas",
+   "latitude": -17.3750327,
+   "longitude": -63.2430667,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Gran mercado",
+   "latitude": -14.8374538,
+   "longitude": -64.9040718,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Almacen MajPrat San Lorenzo",
+   "latitude": -16.8011784,
+   "longitude": -65.430036,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.3685006,
+   "longitude": -66.1397678,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -17.3684292,
+   "longitude": -66.1397414,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Principal",
+   "latitude": -18.9740222,
+   "longitude": -58.2376219,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Alto Mariscal Santa Cruz",
+   "latitude": -16.4930346,
+   "longitude": -68.160447,
+   "addr:street": "Avenida Kollasuyo"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Almacen Campo 2 Nueva Esperanza",
+   "latitude": -17.4412047,
+   "longitude": -60.6329008,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "mercado de fruta",
+   "latitude": -16.4952753,
+   "longitude": -68.1551681,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria Villarroel",
+   "latitude": -17.3725142,
+   "longitude": -66.1590579,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central Distrito V Trojes",
+   "latitude": -17.3458794,
+   "longitude": -66.2035626,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Miami",
+   "latitude": -17.4050965,
+   "longitude": -66.1552582,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Coraca",
+   "latitude": -17.3979717,
+   "longitude": -66.1873565,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Miami",
+   "latitude": -14.8397119,
+   "longitude": -64.9044955,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria (Domingo tarde)",
+   "latitude": -21.4358889,
+   "longitude": -65.7226154,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mrcado Asociación 15 de Agosto",
+   "latitude": -17.4054494,
+   "longitude": -66.154838,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Tienda de barrio",
+   "latitude": -16.5079125,
+   "longitude": -68.1331904,
+   "addr:street": "Calle Harrington"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.5077547,
+   "longitude": -68.1340699,
+   "addr:street": "Calle Landaeta"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "tienda de barrio",
+   "latitude": -16.507938,
+   "longitude": -68.1325268,
+   "addr:street": "Calle Abdón Saavedra"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "MERCADO BOLIVAR",
+   "latitude": -21.5363425,
+   "longitude": -64.7204201,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal Villa El Carmen",
+   "latitude": -21.7906439,
+   "longitude": -63.5704211,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado San Bernardo",
+   "latitude": -21.5253533,
+   "longitude": -64.7236763,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "avaroa",
+   "latitude": -21.521648,
+   "longitude": -64.730984,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Feria de Bella Vista",
+   "latitude": -17.3181643,
+   "longitude": -66.2844167,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Almacen Triple B",
+   "latitude": -17.4444098,
+   "longitude": -66.1253297,
+   "addr:street": "Avenida Siglo XX"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado El Paraiso",
+   "latitude": -17.9986012,
+   "longitude": -67.111651,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Fruit and vegatebles",
+   "latitude": -16.5009363,
+   "longitude": -68.142085,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "MicroMarket Junta de Fomento San Vicente",
+   "latitude": -21.2679052,
+   "longitude": -66.3162458,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal de San Matias",
+   "latitude": -16.3599582,
+   "longitude": -58.4020703,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Municipal de Mataral",
+   "latitude": -18.1155703,
+   "longitude": -64.2154366,
+   "addr:street": "RN7: Mataral-Samaipata"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Triángulo",
+   "latitude": -17.3998055,
+   "longitude": -66.1502771,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Las Torres",
+   "latitude": -17.3810005,
+   "longitude": -66.1999089,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercadillo del Barrio Mendez Arcos",
+   "latitude": -21.5341913,
+   "longitude": -64.7478218,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central",
+   "latitude": -21.6967898,
+   "longitude": -64.6541543,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.537569,
+   "longitude": -64.7541626,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5377802,
+   "longitude": -64.7536353,
+   "addr:street": "Avenida Heroes de la Independencia"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5376117,
+   "longitude": -64.7541663,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5354841,
+   "longitude": -64.7538344,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Comercial Cristina",
+   "latitude": -21.5363798,
+   "longitude": -64.7538539,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5364354,
+   "longitude": -64.7539681,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5378877,
+   "longitude": -64.7537851,
+   "addr:street": "Avenida Heroes de la Independencia"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5380196,
+   "longitude": -64.7540771,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5375185,
+   "longitude": -64.7541567,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5382289,
+   "longitude": -64.754212,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5357601,
+   "longitude": -64.7547458,
+   "addr:street": "Pasaje Los Molles"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -21.5373615,
+   "longitude": -64.7539988,
+   "addr:street": "Avenida 6 de agosto"
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Central Toledo",
+   "latitude": -18.18458,
+   "longitude": -67.4079983,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado de Morochata",
+   "latitude": -17.2310623,
+   "longitude": -66.5332459,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado de Plantas",
+   "latitude": -19.0501845,
+   "longitude": -65.2497708,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Villa 1° de Mayo",
+   "latitude": -17.7980539,
+   "longitude": -63.1325937,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -13.7702024,
+   "longitude": -68.1269982,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "",
+   "latitude": -16.5842981,
+   "longitude": -68.236082,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Ciudad Satélite",
+   "latitude": -16.5247315,
+   "longitude": -68.1508723,
+   "addr:street": ""
+ },
+ {
+   "amenity": "marketplace",
+   "name": "Mercado Villa Obrajes",
+   "latitude": -17.4054331,
+   "longitude": -66.0159665,
+   "addr:street": ""
+ }
+]
