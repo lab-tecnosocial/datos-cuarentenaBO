@@ -11,11 +11,11 @@ Con el crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo
  
 ## ¿Por qué datos abiertos?
 
-Porque son la base para fomentar un ecosistema de datos abiertos que genere productos informativos, como visualizaciones, apps, análisis de datos, toma de decisiones ciudadanas y políticas. etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que nace esta iniciativa ciudadana.
+Porque son la base para fomentar un ecosistema de datos abiertos que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que nace esta iniciativa ciudadana. 
 
 ## Metodología
 
-Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp que nos han llegado y los hemos transcrito manualmente. Segundo, hemos buscado la información geográfica disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
+Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp que nos han llegado y los hemos transcrito manualmente. Segundo, hemos buscado datos geográficos disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
 
 Valga aclarar que este es un trabajo aún en curso, tú aporte es bienvenido.
 
@@ -116,7 +116,7 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
-Si necesitas ayuda con los datos para integrarla a tu aplicación o análisis, o encuentras errores bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
+Si necesitas ayuda con estos datos para integrarla a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
 
 
 ## Fuentes
