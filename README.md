@@ -21,7 +21,7 @@ La v1 (actual) tiene varios modelos de datos pues provienen de diversas fuentes 
 
 ## Documentación de la API 
 
-La URL de base es <>
+La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/v1/`
 
 Dado que es una API estática solo soporta GET requests.
 
