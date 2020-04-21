@@ -1,34 +1,62 @@
 # datos-cuarentenaBO
 
-## Objetivos
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/afiche.png)
 
-A partir del crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios por coronavirus vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. En ciertos momentos, muchos ciudadanos no contamos con la suficiente información para viabilizar de forma más cercaba y efectiva esas necesidades básicas. 
+## Propósito 
 
- * El objetivo de este proyecto consiste en recolectar y verificar datos georeferenciados de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19 que sirvan como insumos de información para la población.
- * Los datos están en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON) o analistas (mediante los datos en CSV).
+Con el crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. Algunos ciudadanos no contamos con la suficiente información para viabilizar de forma más cercana y efectiva esas necesidades básicas. 
+
+ * El objetivo de este repositorio consiste en recolectar y verificar datos georeferenciados de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19.
+ * Los datos están en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON que hemos preparado) o analistas y visualizadores de datos (mediante los datos en CSV).
  
 ## ¿Por qué datos abiertos?
 
-Porque son la base para construir otros productos informativos, como visualizaciones, apps, análisis de datos, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y es dificil encontrar un repositorio nacional sobre esta temática, por lo que nace esta iniciativa ciudadana.
+Porque son la base para fomentar un ecosistema de datos abiertos que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, planificación territorial, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que nace esta iniciativa ciudadana. 
 
 ## Metodología
 
-Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp y los hemos transcrito manualmente. Segundo, hemos buscado la información geográfica disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
+Hemos realizado tres formas de recolección de los datos. Primero hemos recolectado los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp que nos han llegado y los hemos transcrito manualmente. Segundo, hemos buscado datos geográficos disponible. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
 
-Valga aclarar que este es un trabajo aún en curso.
+Valga aclarar que este es un trabajo aún en curso, tú aporte es bienvenido.
 
 ## Versionado
 
-La v1 (actual) tiene diferentes modelos de datos pues provienen de diversas fuentes (verla documentación). En el mismo apartado, por ejemplo de mercados, algunos fuentes están más completas que otras. En la v2 estamos pensando integrar todos los datos en un único modelo de datos. 
+La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues provienen de diversas fuentes. Si uno busca datos sobre mercados, por ejemplo, algunos fuentes estarán más completas que otras, tanto en atributos como en extensión. Para la versión 2 (v2) estamos planeando integrar todos los datos en un único modelo de datos. 
 
-## Documentación de la API 
+## Cantidad de datos hasta el momento
 
-La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO/`. Dado que es una API estática solo soporta GET requests.
+### La Paz (datos en guía urbana municipal)
+
+ * Abastecimiento: 150
+ * Entidades financieras: 779
+ * Farmacias: 470
+ * Servicios de salud: 202
+
+### Santa Cruz (datos en guía urbana municipal)
+
+ * Abastecimiento: 331
+ * Servicios de salud: 77
+ 
+### Región Metropolitana Kanata en Cochabamba
+ * Mercados: 112
+ * Servicios de salud: 152
+ 
+### Bolivia
+ * Mercados en Bolivia (GeoBolivia 2017): 629
+ * Farmacias, bancos, servicios de salud (OpenStreetMap): 3680
+ * Alimentos (diversas fuentes web): 381
+ * Servicios(diversas fuentes web): 367
+ * Salud (diversas fuentes web) :129
+
+
+
+## Uso de la API 
+
+La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado que es una API estática solo soporta solicitudes `GET` sin parametros.
 
 La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
 
 ```
-.
 ├── gamcb
 ├── gamlp
 │   ├── Abasto.csv
@@ -59,8 +87,6 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
 │   │   ├── MercadosMovil.json
 │   │   ├── Supermercados.csv
 │   │   └── Supermercados.json
-│   ├── centro-abastecimiento
-│   │   └── Mercados.json
 │   ├── edificios-administrativos
 │   │   ├── Edificio_adm_salud.json
 │   │   └── Sub_alcaldias_distritales.json
@@ -115,7 +141,9 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ## Soporte y aporte
 
-Si necesitas ayuda con los datos para integrarla a tu aplicación o análisis, o encuentras errores bugs, o quieres aportar con datos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y restricción de movimientos y reuniones, prestos para ayudar y colaborar. 
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
+
+Si necesitas ayuda con estos datos para integrarla a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con másdatos, ideas o código, estamos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones. 
 
 
 ## Fuentes
