@@ -1,0 +1,5654 @@
+[
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "EL MERCADO DE LAS PULGAS",
+   "latitud": "-14,834,710",
+   "longitud": "-64,903,362"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO 26 DE JULIO",
+   "latitud": "-14,838,198",
+   "longitud": "-64,915,429"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO 30 DE JULIO SIN UTILIZAR.",
+   "latitud": "-14,806,752",
+   "longitud": "-64,906,868"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO EL TAJIBITO",
+   "latitud": "-14,837,781",
+   "longitud": "-64,900,964"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO FATIMA",
+   "latitud": "-14,834,495",
+   "longitud": "-64,894,001"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO LOS MENUDOS",
+   "latitud": "-14,838,527",
+   "longitud": "-64,899,134"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO MIAMI",
+   "latitud": "-14,839,781",
+   "longitud": "-64,904,587"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO MUNICIPAL BELLO HORIZONTE",
+   "latitud": "-14,812,041",
+   "longitud": "-64,885,889"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO PAITITI",
+   "latitud": "-14,824,703",
+   "longitud": "-64,887,555"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO POMPEYA",
+   "latitud": "-14,839,506",
+   "longitud": "-64,900,233"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO SAN VICENTE",
+   "latitud": "-14,832,279",
+   "longitud": "-64,909,109"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "MERCADO SECCINAL",
+   "latitud": "-14,833,227",
+   "longitud": "-64,902,203"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Cercado",
+   "municipio": "Trinidad",
+   "ciudad": "Trinidad",
+   "nombre": "NUEVO MERCADO 13 DE ABRIL",
+   "latitud": "-14,834,129",
+   "longitud": "-64,887,880"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Gral. Jose Ballivian",
+   "municipio": "Rurrenabaque",
+   "ciudad": "Rurrenabaque",
+   "nombre": "MERCADO CENTRAL RURRENABAQUE",
+   "latitud": "-14,441,568",
+   "longitud": "-67,528,529"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Gral. Jose Ballivian",
+   "municipio": "Rurrenabaque",
+   "ciudad": "Rurrenabaque",
+   "nombre": "MERCADO DE RURRENABAQUE",
+   "latitud": "-14,430,046",
+   "longitud": "-67,504,601"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Gral. Jose Ballivian",
+   "municipio": "San Borja",
+   "ciudad": "San Borja",
+   "nombre": "MERCADO CAMPESINO PRIMERO DE MAYO",
+   "latitud": "-14,862,765",
+   "longitud": "-66,749,619"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Gral. Jose Ballivian",
+   "municipio": "San Borja",
+   "ciudad": "San Borja",
+   "nombre": "MERCADO CENTRAL LA PAZ",
+   "latitud": "-14,860,600",
+   "longitud": "-66,746,196"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Itenez",
+   "municipio": "Magadalena",
+   "ciudad": "Magdalena",
+   "nombre": "MERCADO SANTA MARIA MAGDALENA",
+   "latitud": "-13,260,531",
+   "longitud": "-64,054,679"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Moxos",
+   "municipio": "San Ignacio",
+   "ciudad": "San Ignacio de Moxos",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-14,993,250",
+   "longitud": "-65,636,371"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Moxos",
+   "municipio": "San Ignacio",
+   "ciudad": "San Ignacio de Moxos",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-14,996,196",
+   "longitud": "-65,640,043"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Moxos",
+   "municipio": "San Ignacio",
+   "ciudad": "San Ignacio de Moxos",
+   "nombre": "MERCADO SANTA FE",
+   "latitud": "-14,999,706",
+   "longitud": "-65,644,056"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Guayaramerin",
+   "ciudad": "Guayaramerin",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-10,822,459",
+   "longitud": "-65,354,893"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Guayaramerin",
+   "ciudad": "Guayaramerin",
+   "nombre": "MERCADO CENTRAL GUAYARAMERIN",
+   "latitud": "-10,817,612",
+   "longitud": "-65,353,601"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Guayaramerin",
+   "ciudad": "Guayaramerin",
+   "nombre": "MERCADO LOS ALMENDROS",
+   "latitud": "-10,832,585",
+   "longitud": "-65,347,465"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Riberalta",
+   "ciudad": "Riberalta",
+   "nombre": "MERCADO 3 DE FEBRERO",
+   "latitud": "-11,003,930",
+   "longitud": "-66,056,500"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Riberalta",
+   "ciudad": "Riberalta",
+   "nombre": "MERCADO LAS MERCEDEZ",
+   "latitud": "-10,998,407",
+   "longitud": "-66,034,914"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Vaca Diez",
+   "municipio": "Riberalta",
+   "ciudad": "Riberalta",
+   "nombre": "MERCADO SAN JOSE",
+   "latitud": "-11,000,263",
+   "longitud": "-66,064,713"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Yacuma",
+   "municipio": "Santa Ana de Yacuma",
+   "ciudad": "Santa Ana del Yacuma",
+   "nombre": "MERCADO CAMPESINO ALONSO HUMAZA  TABABARI",
+   "latitud": "-13,738,694",
+   "longitud": "-65,423,239"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Yacuma",
+   "municipio": "Santa Ana de Yacuma",
+   "ciudad": "Santa Ana del Yacuma",
+   "nombre": "MERCADO DE SANTA ANA",
+   "latitud": "-13,743,833",
+   "longitud": "-65,427,109"
+ },
+ {
+   "departamento": "Beni",
+   "provincia": "Yacuma",
+   "municipio": "Santa Ana de Yacuma",
+   "ciudad": "Santa Ana del Yacuma",
+   "nombre": "MERCADO VEINTISEIS DE JULIO",
+   "latitud": "-13,739,336",
+   "longitud": "-65,421,892"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Arani",
+   "municipio": "Arani",
+   "ciudad": "Arani",
+   "nombre": "MERCADO CENTAL DE ARANI",
+   "latitud": "-17,573,450",
+   "longitud": "-65,771,911"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Campero",
+   "municipio": "Aiquile",
+   "ciudad": "Aiquile",
+   "nombre": "MERCADO CENTRAL AIQUILE",
+   "latitud": "-18,200,487",
+   "longitud": "-65,182,094"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Capinota",
+   "municipio": "Capinota",
+   "ciudad": "Capinota",
+   "nombre": "MERCADO CENTRAL CAPINOTA",
+   "latitud": "-17,714,267",
+   "longitud": "-66,262,038"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Capinota",
+   "municipio": "Capinota",
+   "ciudad": "Irpa Irpa",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-17,723,912",
+   "longitud": "-66,283,844"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Capinota",
+   "municipio": "Capinota",
+   "ciudad": "Irpa Irpa",
+   "nombre": "MERCADO IRPA IRPA",
+   "latitud": "-17,721,716",
+   "longitud": "-66,287,138"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Capinota",
+   "municipio": "Santivañez",
+   "ciudad": "Santivañez",
+   "nombre": "MERCADO CORONEL GERMAN LEMA",
+   "latitud": "-17,550,160",
+   "longitud": "-66,249,214"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Chimore",
+   "ciudad": "Chimore",
+   "nombre": "MERCADO ASOCIACION 13 DE JUNIO",
+   "latitud": "-16,996,032",
+   "longitud": "-65,153,058"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Chimore",
+   "ciudad": "Chimore",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-16,994,898",
+   "longitud": "-65,150,180"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Chimore",
+   "ciudad": "Chimore",
+   "nombre": "MERCADO CENTRAL DE CHIMORE",
+   "latitud": "-16,994,751",
+   "longitud": "-65,149,850"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Chimore",
+   "ciudad": "Chimore",
+   "nombre": "MERCADO DE FRUTAS CHIMORE",
+   "latitud": "-16,996,085",
+   "longitud": "-65,151,573"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Chimore",
+   "ciudad": "Chimore",
+   "nombre": "MERCADO GREMELISTAS  CHIMORE",
+   "latitud": "-16,996,078",
+   "longitud": "-65,152,058"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Entre Rios",
+   "ciudad": "Entre Rios",
+   "nombre": "MERCADO DE LA ZONA",
+   "latitud": "-17,204,348",
+   "longitud": "-64,532,480"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Entre Rios",
+   "ciudad": "Entre Rios",
+   "nombre": "MERCADO ENTRE RIOS",
+   "latitud": "-17,198,678",
+   "longitud": "-64,538,016"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Entre Rios",
+   "ciudad": "Entre Rios",
+   "nombre": "MERCADO NUEVO",
+   "latitud": "-17,195,974",
+   "longitud": "-64,534,470"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Ivirgarzama",
+   "nombre": "MERCADO 14 DE SEPTIEMBRE",
+   "latitud": "-17,032,905",
+   "longitud": "-64,860,856"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Ivirgarzama",
+   "nombre": "MERCADO 15 DE ABRIL",
+   "latitud": "-17,037,919",
+   "longitud": "-64,863,372"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Ivirgarzama",
+   "nombre": "MERCADO CENTRAL 27 DE MAYO",
+   "latitud": "-17,033,594",
+   "longitud": "-64,860,132"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Ivirgarzama",
+   "nombre": "MERCADO DE COCA",
+   "latitud": "-17,041,717",
+   "longitud": "-64,861,130"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Ivirgarzama",
+   "nombre": "MERCADO PRIMARIO DE COCA",
+   "latitud": "-17,032,752",
+   "longitud": "-64,860,202"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Carrasco",
+   "municipio": "Puerto Villarroel",
+   "ciudad": "Puerto Villarroel",
+   "nombre": "MERCADO PUERTO VILLARROEL",
+   "latitud": "-16,839,107",
+   "longitud": "-64,794,150"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "ANTIGUO MERCADO CAMPESINO LAGUNA ALALAY",
+   "latitud": "-17,400,400",
+   "longitud": "-66,142,597"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MEGA MERCADO DE FRUTAS",
+   "latitud": "-17,400,428",
+   "longitud": "-66,143,305"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO",
+   "latitud": "-17,446,730",
+   "longitud": "-66,115,624"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 10 DE FEBRERO",
+   "latitud": "-17,440,041",
+   "longitud": "-66,116,183"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 10 DE FEBRERO",
+   "latitud": "-17,360,889",
+   "longitud": "-66,182,980"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA",
+   "latitud": "-17,462,301",
+   "longitud": "-66,105,928"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 1RO DE MARZO",
+   "latitud": "-17,394,903",
+   "longitud": "-66,154,826"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 20 DE FEBRERO",
+   "latitud": "-17,419,201",
+   "longitud": "-66,144,285"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 20 DE OCTUBRE",
+   "latitud": "-17,490,089",
+   "longitud": "-66,177,713"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 25 DE MAYO",
+   "latitud": "-17,401,180",
+   "longitud": "-66,153,924"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 25 DE MAYO",
+   "latitud": "-17,394,938",
+   "longitud": "-66,155,352"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 25 DE MAYO -A",
+   "latitud": "-17,394,676",
+   "longitud": "-66,154,392"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 25 DE MAYO B",
+   "latitud": "-17,394,703",
+   "longitud": "-66,154,863"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 27 DE MAYO",
+   "latitud": "-17,425,230",
+   "longitud": "-66,143,201"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 27 DE MAYO",
+   "latitud": "-17,474,951",
+   "longitud": "-66,149,199"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO 8DE SEPTIEMBRE",
+   "latitud": "-17,434,506",
+   "longitud": "-66,156,740"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO BARTOLINA SISA",
+   "latitud": "-17,468,100",
+   "longitud": "-66,206,974"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,431,632",
+   "longitud": "-66,125,808"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,434,316",
+   "longitud": "-66,124,189"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,434,047",
+   "longitud": "-66,124,387"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,430,476",
+   "longitud": "-66,126,161"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,433,555",
+   "longitud": "-66,124,678"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO DEL NORTE   MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR",
+   "latitud": "-17,351,226",
+   "longitud": "-66,172,623"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CAMPESINO PRIVADO",
+   "latitud": "-17,429,383",
+   "longitud": "-66,126,429"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO CERRO VERDE",
+   "latitud": "-17,413,978",
+   "longitud": "-66,144,082"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO DE CALA CALA",
+   "latitud": "-17,372,261",
+   "longitud": "-66,161,775"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO DE VALLE HERMOSO",
+   "latitud": "-17,447,943",
+   "longitud": "-66,127,207"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO DEL OESTE BELEN TOKIO",
+   "latitud": "-17,382,356",
+   "longitud": "-66,194,726"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO EL PROGRESO",
+   "latitud": "-17,394,689",
+   "longitud": "-66,190,325"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO FERROVIARIO",
+   "latitud": "-17,448,104",
+   "longitud": "-66,146,801"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO FIDEL ARANIBAR",
+   "latitud": "-17,402,795",
+   "longitud": "-66,153,960"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO INGAVI",
+   "latitud": "-17,390,127",
+   "longitud": "-66,171,077"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO JAIHUAYCO",
+   "latitud": "-17,415,019",
+   "longitud": "-66,164,129"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO JUAN XXIII",
+   "latitud": "-17,388,831",
+   "longitud": "-66,203,724"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO LA PAMPA",
+   "latitud": "-17,403,778",
+   "longitud": "-66,152,052"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO LORETO",
+   "latitud": "-17,423,266",
+   "longitud": "-66,157,048"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO MISICUNI",
+   "latitud": "-17,437,367",
+   "longitud": "-66,113,235"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO MODELO DEL NORTE MINORISTAS",
+   "latitud": "-17,351,945",
+   "longitud": "-66,172,993"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO MOLINO EL GALLO",
+   "latitud": "-17,406,813",
+   "longitud": "-66,155,093"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO MOLINO SAN LUIS",
+   "latitud": "-17,405,716",
+   "longitud": "-66,155,077"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO NORTE CALATAYUD",
+   "latitud": "-17,398,351",
+   "longitud": "-66,152,809"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO OSORIO",
+   "latitud": "-17,397,122",
+   "longitud": "-66,162,586"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO PALMAR",
+   "latitud": "-17,467,134",
+   "longitud": "-66,207,119"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO PAPA PAULO",
+   "latitud": "-17,383,902",
+   "longitud": "-66,147,804"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO QUECHISLITAS",
+   "latitud": "-17,375,552",
+   "longitud": "-66,185,689"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO SAN ANTONIO",
+   "latitud": "-17,402,758",
+   "longitud": "-66,155,039"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO SECCIONAL 15 DE ABRIL VILLA ALALAY",
+   "latitud": "-17,420,300",
+   "longitud": "-66,140,075"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO SUD CALATAYUD",
+   "latitud": "-17,398,950",
+   "longitud": "-66,152,731"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADO ZONAL SEÑOR DE MAYO",
+   "latitud": "-17,364,564",
+   "longitud": "-66,176,323"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MERCADONA",
+   "latitud": "-17,413,559",
+   "longitud": "-66,165,533"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Cercado",
+   "municipio": "Cochabamba",
+   "ciudad": "Cochabamba",
+   "nombre": "MOROMERCADO LACTEOS",
+   "latitud": "-17,386,795",
+   "longitud": "-66,157,590"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Colomi",
+   "ciudad": "Colomi",
+   "nombre": "MERCADO",
+   "latitud": "-17,338,347",
+   "longitud": "-65,866,537"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Colomi",
+   "ciudad": "Colomi",
+   "nombre": "MERCADO CENTRAL DE COLOMI",
+   "latitud": "-17,338,115",
+   "longitud": "-65,866,671"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Colomi",
+   "ciudad": "Colomi",
+   "nombre": "MERCADO CENTRAL DE COLOMI",
+   "latitud": "-17,337,807",
+   "longitud": "-65,864,607"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO 1 DE MAYO",
+   "latitud": "-17,413,385",
+   "longitud": "-66,024,177"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO BARRIENTOS",
+   "latitud": "-17,375,997",
+   "longitud": "-66,118,210"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,377,808",
+   "longitud": "-66,112,576"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL DE ESMERALDA",
+   "latitud": "-17,379,197",
+   "longitud": "-66,078,412"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL DE QUINTANILLA",
+   "latitud": "-17,387,403",
+   "longitud": "-66,110,762"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL DE QUINTANILLA",
+   "latitud": "-17,387,121",
+   "longitud": "-66,110,982"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL DE SACABA",
+   "latitud": "-17,402,336",
+   "longitud": "-66,037,375"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL HUAYYANI GRANDE/SAN ANTONIO",
+   "latitud": "-17,392,732",
+   "longitud": "-66,058,791"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO CENTRAL SACABA",
+   "latitud": "-17,404,887",
+   "longitud": "-66,038,608"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO DE BARRIO",
+   "latitud": "-17,376,497",
+   "longitud": "-66,065,552"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO EL CARMEN DISTRITO 6",
+   "latitud": "-17,415,310",
+   "longitud": "-66,079,808"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO MORRO(GALPON DE PAPA)",
+   "latitud": "-17,398,675",
+   "longitud": "-66,034,591"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Sacaba",
+   "ciudad": "Sacaba",
+   "nombre": "MERCADO VILLA UNION",
+   "latitud": "-17,414,834",
+   "longitud": "-66,082,962"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Villa Tunari",
+   "ciudad": "Eterazama",
+   "nombre": "MERCADO 27 DE MAYO",
+   "latitud": "-16,830,880",
+   "longitud": "-65,521,034"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Villa Tunari",
+   "ciudad": "Eterazama",
+   "nombre": "MERCADO CENTRAL ETERAZAMA",
+   "latitud": "-16,831,453",
+   "longitud": "-65,520,289"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Villa Tunari",
+   "ciudad": "Eterazama",
+   "nombre": "MERCADO DE COMERCIANTES MINORISTAS 1RO DE MAYO",
+   "latitud": "-16,831,420",
+   "longitud": "-65,519,979"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Chapare",
+   "municipio": "Villa Tunari",
+   "ciudad": "Villa Tunari",
+   "nombre": "MUCROMERCADO",
+   "latitud": "-16,974,713",
+   "longitud": "-65,417,948"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Esteban Arze",
+   "municipio": "Tarata",
+   "ciudad": "Tarata",
+   "nombre": "MERCADO MUNICIPAL DE TARATA",
+   "latitud": "-17,613,894",
+   "longitud": "-66,024,214"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Mizque",
+   "municipio": "Mizque",
+   "ciudad": "Mizque",
+   "nombre": "MERCADO MODELO CENTRAL MIZQUE",
+   "latitud": "-17,941,831",
+   "longitud": "-65,341,851"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Punata",
+   "municipio": "Punata",
+   "ciudad": "Punata",
+   "nombre": "MERCADO CENTRAL PUNATA",
+   "latitud": "-17,547,058",
+   "longitud": "-65,836,623"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Punata",
+   "municipio": "Punata",
+   "ciudad": "Punata",
+   "nombre": "MERCADO DE PAPA",
+   "latitud": "-17,542,792",
+   "longitud": "-65,834,452"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Punata",
+   "municipio": "San Benito",
+   "ciudad": "San Benito",
+   "nombre": "MERCADO CENTRAL SAN BENITO CON 90 PUESTOS DE VENTA",
+   "latitud": "-17,521,671",
+   "longitud": "-65,894,679"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Colcapirhua",
+   "ciudad": "Colcapirhua",
+   "nombre": "MERCADO CAPACACHI",
+   "latitud": "-17,383,518",
+   "longitud": "-66,223,757"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Colcapirhua",
+   "ciudad": "Colcapirhua",
+   "nombre": "MERCADO CENTRAL DE KAMY",
+   "latitud": "-17,365,939",
+   "longitud": "-66,234,565"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Colcapirhua",
+   "ciudad": "Colcapirhua",
+   "nombre": "MERCADO DE ABASTO FLOTIDA NORTE",
+   "latitud": "-17,386,820",
+   "longitud": "-66,225,445"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "El Paso",
+   "nombre": "MERCADO CENTRAL 27 DE MAYO EL PASO",
+   "latitud": "-17,339,342",
+   "longitud": "-66,264,936"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO 9 DE DICIEMBRE",
+   "latitud": "-17,399,921",
+   "longitud": "-66,282,840"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO 9 DE DICIEMBRE",
+   "latitud": "-17,400,388",
+   "longitud": "-66,283,251"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO CENTAL DE QUILLACOLLO",
+   "latitud": "-17,397,293",
+   "longitud": "-66,280,488"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO CENTRAL DE QUILLACOLLO",
+   "latitud": "-17,397,415",
+   "longitud": "-66,279,912"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO DE PAPAS",
+   "latitud": "-17,401,411",
+   "longitud": "-66,285,074"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO DE QUILLACOLLO",
+   "latitud": "-17,395,750",
+   "longitud": "-66,282,603"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO MARTIN CARDENAS",
+   "latitud": "-17,406,035",
+   "longitud": "-66,282,849"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO NELIDA DE GUERRA",
+   "latitud": "-17,390,006",
+   "longitud": "-66,285,944"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO PLAZA DE GRANOS",
+   "latitud": "-17,398,767",
+   "longitud": "-66,284,040"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Quillacollo",
+   "ciudad": "Quillacollo",
+   "nombre": "MERCADO VILLA MARIA",
+   "latitud": "-17,385,642",
+   "longitud": "-66,256,822"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Sipesipe",
+   "ciudad": "Sipe Sipe",
+   "nombre": "MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B",
+   "latitud": "-17,453,654",
+   "longitud": "-66,356,641"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO 17 DE OCTUBRE",
+   "latitud": "-17,346,300",
+   "longitud": "-66,191,154"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO 24 DE JUNIO",
+   "latitud": "-17,334,368",
+   "longitud": "-66,197,998"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO CENTRAL DE TIQUIPAYA",
+   "latitud": "-17,337,262",
+   "longitud": "-66,218,661"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO CHILIMARCA 27 DE MAYO",
+   "latitud": "-17,336,400",
+   "longitud": "-66,202,946"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO DE LA COMUNIDAD BARRIO ÑEBERIA",
+   "latitud": "-17,361,834",
+   "longitud": "-66,225,057"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Tiquipaya",
+   "ciudad": "Tiquipaya",
+   "nombre": "MERCADO SANTA ELISA",
+   "latitud": "-17,361,763",
+   "longitud": "-66,215,504"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Vinto",
+   "ciudad": "Vinto",
+   "nombre": "FERIA DEL MERCADO CAMPESINO DE VINTO",
+   "latitud": "-17,399,152",
+   "longitud": "-66,316,880"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Vinto",
+   "ciudad": "Vinto",
+   "nombre": "MERCADO CENTRAL CHULLA",
+   "latitud": "-17,377,769",
+   "longitud": "-66,308,240"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Vinto",
+   "ciudad": "Vinto",
+   "nombre": "MERCADO DE VINTO",
+   "latitud": "-17,399,660",
+   "longitud": "-66,316,306"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Quillacollo",
+   "municipio": "Vinto",
+   "ciudad": "Vinto",
+   "nombre": "MERCADO SEXTA",
+   "latitud": "-17,398,040",
+   "longitud": "-66,326,043"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO",
+   "latitud": "-16,993,608",
+   "longitud": "-65,248,754"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO 10 DE FEBRERO",
+   "latitud": "-16,996,016",
+   "longitud": "-65,246,544"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO 27 DE JULIO",
+   "latitud": "-16,994,008",
+   "longitud": "-65,239,797"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO 27 DE MAYO",
+   "latitud": "-16,994,004",
+   "longitud": "-65,248,758"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO CENTRAL 24 DE AGOSTO",
+   "latitud": "-16,994,153",
+   "longitud": "-65,247,321"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO LA PAZ TROPICO PRIMERA SECCION",
+   "latitud": "-16,993,744",
+   "longitud": "-65,247,649"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO LA PAZ TROPICO SEGUNDA SECCION",
+   "latitud": "-16,994,098",
+   "longitud": "-65,247,711"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO LA PAZ TROPICO TERCERA SECCION",
+   "latitud": "-16,994,404",
+   "longitud": "-65,247,765"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO PRIMARIO DE COCA",
+   "latitud": "-16,992,715",
+   "longitud": "-65,244,050"
+ },
+ {
+   "departamento": "Cochabamba",
+   "provincia": "Tiraque",
+   "municipio": "Shinaota",
+   "ciudad": "Shinahota",
+   "nombre": "MERCADO PRIMARIO DE LA COCA",
+   "latitud": "-16,995,964",
+   "longitud": "-65,248,768"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Candua",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-19,810,768",
+   "longitud": "-63,979,596"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Monteagudo",
+   "nombre": "MERCADO CENTRAL MONTEAGUDO",
+   "latitud": "-19,801,674",
+   "longitud": "-63,954,597"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Monteagudo",
+   "nombre": "MERCADO GREMIALISTA  10 DE NOVIEMBRE",
+   "latitud": "-19,795,762",
+   "longitud": "-63,959,454"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Monteagudo",
+   "nombre": "MERCADO MARACANA",
+   "latitud": "-19,803,808",
+   "longitud": "-63,956,887"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Monteagudo",
+   "nombre": "MERCADO POPULAR",
+   "latitud": "-19,804,907",
+   "longitud": "-63,957,038"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Hernando Siles",
+   "municipio": "Monteagudo",
+   "ciudad": "Monteagudo",
+   "nombre": "MERCADO SAN JOSE",
+   "latitud": "-19,808,443",
+   "longitud": "-63,959,234"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Nor Cinti",
+   "municipio": "Camargo",
+   "ciudad": "Camargo",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-20,642,098",
+   "longitud": "-65,211,327"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Nor Cinti",
+   "municipio": "Camargo",
+   "ciudad": "Camargo",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-20,642,076",
+   "longitud": "-65,210,548"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO BALLIVIAN 17 TIENDAS DE ROPA",
+   "latitud": "-19,042,781",
+   "longitud": "-65,257,327"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-19,033,359",
+   "longitud": "-65,253,625"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO CAPITAL .     TIENDAS DE ROPA",
+   "latitud": "-19,044,016",
+   "longitud": "-65,258,344"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO DE LAJASTAMBO",
+   "latitud": "-19,012,033",
+   "longitud": "-65,309,123"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO EL MORRO",
+   "latitud": "-19,026,918",
+   "longitud": "-65,247,991"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO EVO MORALES AYMA",
+   "latitud": "-19,069,518",
+   "longitud": "-65,242,700"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO LAJASTAMBO",
+   "latitud": "-19,012,676",
+   "longitud": "-65,308,665"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO MINORISTA",
+   "latitud": "-19,040,419",
+   "longitud": "-65,254,812"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO POCONAS",
+   "latitud": "-19,047,369",
+   "longitud": "-65,249,312"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO SAN ANTONIO ( GOBIERNO AUTONOMO MUNICIPAL DE SUCRE)",
+   "latitud": "-19,050,513",
+   "longitud": "-65,240,854"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO SANTA ANA RECOBITA",
+   "latitud": "-19,053,279",
+   "longitud": "-65,253,292"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "MERCADO TOMAS KATARI",
+   "latitud": "-19,020,586",
+   "longitud": "-65,261,213"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Sucre",
+   "ciudad": "Sucre",
+   "nombre": "TIKARIY MERCADO ARTESANAL",
+   "latitud": "-19,033,666",
+   "longitud": "-65,250,373"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Oropeza",
+   "municipio": "Yotala",
+   "ciudad": "Yotala",
+   "nombre": "MERCADO MUNICIPAL DE YOTALA",
+   "latitud": "-19,162,174",
+   "longitud": "-65,263,975"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Yamparaez",
+   "municipio": "Tarabuco",
+   "ciudad": "Tarabuco",
+   "nombre": "MERCADO CAMPESINO DE TARABUCO",
+   "latitud": "-19,181,238",
+   "longitud": "-64,912,127"
+ },
+ {
+   "departamento": "Chuquisaca",
+   "provincia": "Yamparaez",
+   "municipio": "Tarabuco",
+   "ciudad": "Tarabuco",
+   "nombre": "MERCADO CENTRAL TARABUCO",
+   "latitud": "-19,181,738",
+   "longitud": "-64,913,732"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Caranavi",
+   "municipio": "Caranavi",
+   "ciudad": "Caranavi",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-15,832,238",
+   "longitud": "-67,567,519"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Caranavi",
+   "municipio": "Caranavi",
+   "ciudad": "Caranavi",
+   "nombre": "MERCADO PRIMARIO DE COCA APROCOCA CARANAVI",
+   "latitud": "-15,829,210",
+   "longitud": "-67,570,590"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Franz Tamayo",
+   "municipio": "Apolo",
+   "ciudad": "Apolo",
+   "nombre": "MERCADO 3 DE MAYO",
+   "latitud": "-14,710,154",
+   "longitud": "-68,416,153"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Ingavi",
+   "municipio": "Desaguadero",
+   "ciudad": "Desaguadero",
+   "nombre": "MERCADO CENTRAL MUNICIPAL DESAGUADERO VIRGEN DE URCUPIÑA",
+   "latitud": "-16,566,889",
+   "longitud": "-69,035,975"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Ingavi",
+   "municipio": "Viacha",
+   "ciudad": "Viacha",
+   "nombre": "MERCADO MUNICIPAL",
+   "latitud": "-16,654,143",
+   "longitud": "-68,302,044"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Inquisivi",
+   "municipio": "Colquiri",
+   "ciudad": "Colquiri",
+   "nombre": "MERCADO  COLQUIRI",
+   "latitud": "-17,395,967",
+   "longitud": "-67,129,487"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Inquisivi",
+   "municipio": "Colquiri",
+   "ciudad": "Colquiri",
+   "nombre": "MERCADO 6 DE AGOSTO",
+   "latitud": "-17,391,750",
+   "longitud": "-67,124,970"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Inquisivi",
+   "municipio": "Colquiri",
+   "ciudad": "Colquiri",
+   "nombre": "MERCADO CAMPESINO, FRECIA VILLANUEVA CHOQUE",
+   "latitud": "-17,389,033",
+   "longitud": "-67,122,867"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Inquisivi",
+   "municipio": "Colquiri",
+   "ciudad": "Colquiri",
+   "nombre": "MERCADO PEDRO DOMINGO MURILLO",
+   "latitud": "-17,389,035",
+   "longitud": "-67,123,687"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Manco Kapac",
+   "municipio": "Copacabana",
+   "ciudad": "Copacabana",
+   "nombre": "MERCADO DE COPACABANA",
+   "latitud": "-16,164,434",
+   "longitud": "-69,085,864"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO",
+   "latitud": "-16,488,859",
+   "longitud": "-68,171,422"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO  MODELO COSMOS 78",
+   "latitud": "-16,526,254",
+   "longitud": "-68,200,414"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO 12 DE OCTUBRE",
+   "latitud": "-16,520,801",
+   "longitud": "-68,166,439"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO 14 DE SEPTIEMBRE",
+   "latitud": "-16,542,691",
+   "longitud": "-68,174,185"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO 25 DE JULIO DE SANTIAGO II",
+   "latitud": "-16,536,706",
+   "longitud": "-68,178,413"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO 8 DE SEPTIEMBRE",
+   "latitud": "-16,589,905",
+   "longitud": "-68,189,914"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO AMIG-CHACO",
+   "latitud": "-16,526,549",
+   "longitud": "-68,205,115"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO BARTOLINA ZIZA",
+   "latitud": "-16,487,454",
+   "longitud": "-68,194,689"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO BOLIVAR D",
+   "latitud": "-16,524,189",
+   "longitud": "-68,176,356"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO CALUYO",
+   "latitud": "-16,531,266",
+   "longitud": "-68,191,707"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-16,537,427",
+   "longitud": "-68,167,382"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO CENTRAL VILLA DOLORES",
+   "latitud": "-16,512,357",
+   "longitud": "-68,158,903"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO CIUDAD SATELITE",
+   "latitud": "-16,524,838",
+   "longitud": "-68,150,698"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO CORAZON DE JESUS",
+   "latitud": "-16,548,067",
+   "longitud": "-68,189,746"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO DE ALTO LIMA",
+   "latitud": "-16,480,569",
+   "longitud": "-68,175,268"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO DE VILLA ADELA",
+   "latitud": "-16,519,321",
+   "longitud": "-68,211,463"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO DOLORES F",
+   "latitud": "-16,525,866",
+   "longitud": "-68,186,797"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO EL CARMEN",
+   "latitud": "-16,495,726",
+   "longitud": "-68,214,898"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO EL CARMEN",
+   "latitud": "-16,495,661",
+   "longitud": "-68,214,630"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO JUAN CRUZ",
+   "latitud": "-16,472,962",
+   "longitud": "-68,221,260"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO JUANA AZURDUY DE PADILLA",
+   "latitud": "-16,543,383",
+   "longitud": "-68,185,663"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO LUIS PAMPA",
+   "latitud": "-16,538,112",
+   "longitud": "-68,204,294"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO MODELO",
+   "latitud": "-16,619,750",
+   "longitud": "-68,181,631"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO PRIMERO DE MAYO",
+   "latitud": "-16,534,306",
+   "longitud": "-68,199,442"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO PRIVADO DE TUBERCULOS",
+   "latitud": "-16,506,015",
+   "longitud": "-68,160,242"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO QUISWARAS",
+   "latitud": "-16,542,232",
+   "longitud": "-68,230,957"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO SANTA ANA",
+   "latitud": "-16,526,942",
+   "longitud": "-68,207,370"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO SANTA ROSA",
+   "latitud": "-16,536,735",
+   "longitud": "-68,165,063"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO SANTOS MAMANI",
+   "latitud": "-16,494,777",
+   "longitud": "-68,175,121"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO TUNARI",
+   "latitud": "-16,496,642",
+   "longitud": "-68,196,356"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO UNION PROGRESO",
+   "latitud": "-16,503,925",
+   "longitud": "-68,161,529"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO URKUPIÑA",
+   "latitud": "-16,555,858",
+   "longitud": "-68,190,930"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO VILLA EXALTACION",
+   "latitud": "-16,535,768",
+   "longitud": "-68,157,359"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO VILLA MERCEDES",
+   "latitud": "-16,566,814",
+   "longitud": "-68,219,919"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO VILLA TEJADA",
+   "latitud": "-16,521,270",
+   "longitud": "-68,157,088"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO VIRGEN DE LA CANDELARIA",
+   "latitud": "-16,526,668",
+   "longitud": "-68,225,074"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "El Alto",
+   "ciudad": "El Alto",
+   "nombre": "MERCADO ZONA MERCEDARIO",
+   "latitud": "-16,524,015",
+   "longitud": "-68,235,597"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "ASOCIACION MERCADO CANDELARIA EX FONDO OVEJUYO",
+   "latitud": "-16,534,070",
+   "longitud": "-68,038,111"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 10 DE ENERO",
+   "latitud": "-16,501,468",
+   "longitud": "-68,104,484"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 14 DE SEPTIEMBRE",
+   "latitud": "-16,528,293",
+   "longitud": "-68,099,548"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 15 DE ABRIL",
+   "latitud": "-16,476,666",
+   "longitud": "-68,118,147"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 16 DE JULIO",
+   "latitud": "-16,529,857",
+   "longitud": "-68,102,487"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 16 DE JULIO KALAJAHUIRA",
+   "latitud": "-16,453,017",
+   "longitud": "-68,096,536"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 16 DE JULIO KALAJAHUIRA",
+   "latitud": "-16,452,709",
+   "longitud": "-68,096,591"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 19 MARZO",
+   "latitud": "-16,496,455",
+   "longitud": "-68,142,156"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 21 DE ENERO",
+   "latitud": "-16,456,829",
+   "longitud": "-68,149,514"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 29 DE ENERO",
+   "latitud": "-16,536,944",
+   "longitud": "-68,048,392"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 4 DE ABRIL",
+   "latitud": "-16,521,882",
+   "longitud": "-68,145,818"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 8 DE DICIEMBRE",
+   "latitud": "-16,536,944",
+   "longitud": "-68,048,392"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO 8 DE SEPTIEMBRE",
+   "latitud": "-16,517,027",
+   "longitud": "-68,113,639"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ADOLFO ORTEGA",
+   "latitud": "-16,496,016",
+   "longitud": "-68,143,630"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ALTO MARISCAL SANTA CRUZ",
+   "latitud": "-16,493,135",
+   "longitud": "-68,160,590"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ALTO SEGUENCOMA",
+   "latitud": "-16,533,986",
+   "longitud": "-68,104,223"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO AMAPOLA",
+   "latitud": "-16,500,678",
+   "longitud": "-68,139,058"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ANTOFAGASTA",
+   "latitud": "-16,487,708",
+   "longitud": "-68,140,491"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ARTESANAL",
+   "latitud": "-16,495,714",
+   "longitud": "-68,137,648"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO ARTESANAL JUAN XXIII",
+   "latitud": "-16,498,421",
+   "longitud": "-68,137,973"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO BAJO MARISCAL SANTA CRUZ",
+   "latitud": "-16,492,558",
+   "longitud": "-68,158,364"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO BOLIVAR",
+   "latitud": "-16,513,848",
+   "longitud": "-68,141,155"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO BOLIVAR",
+   "latitud": "-16,493,591",
+   "longitud": "-68,131,845"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CALAMA",
+   "latitud": "-16,489,753",
+   "longitud": "-68,137,213"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CALATAYUD",
+   "latitud": "-16,495,439",
+   "longitud": "-68,147,624"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CAMACHO",
+   "latitud": "-16,500,455",
+   "longitud": "-68,131,575"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CAMPESINO (ZENOBIO LOPEZ)",
+   "latitud": "-16,506,862",
+   "longitud": "-68,115,456"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CARMEN ENTRE RIOS",
+   "latitud": "-16,497,277",
+   "longitud": "-68,156,002"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO CENTRAL PURA PURA",
+   "latitud": "-16,481,479",
+   "longitud": "-68,149,226"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO COMEDOR RINCON CRIOLLO",
+   "latitud": "-16,503,262",
+   "longitud": "-68,128,262"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO DE COCA",
+   "latitud": "-16,473,824",
+   "longitud": "-68,118,086"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO DE COCA APOLO CARANAVI",
+   "latitud": "-16,475,955",
+   "longitud": "-68,119,264"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO EL CARMEN",
+   "latitud": "-16,514,695",
+   "longitud": "-68,126,271"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO EL TEJAR",
+   "latitud": "-16,495,322",
+   "longitud": "-68,152,063"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO FRANCISCO CERNADAS",
+   "latitud": "-16,483,771",
+   "longitud": "-68,125,464"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO GERMAN BUCHS",
+   "latitud": "-16,481,803",
+   "longitud": "-68,139,965"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO HAITI",
+   "latitud": "-16,490,814",
+   "longitud": "-68,122,574"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO HINOJOSA",
+   "latitud": "-16,503,350",
+   "longitud": "-68,144,583"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO JERMAN JORDAN",
+   "latitud": "-16,509,999",
+   "longitud": "-68,112,949"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO KILLI KILLI",
+   "latitud": "-16,494,480",
+   "longitud": "-68,127,412"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO KOLLLASUYO",
+   "latitud": "-16,495,182",
+   "longitud": "-68,116,670"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LA MERCED",
+   "latitud": "-16,471,025",
+   "longitud": "-68,118,066"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LA MERCED DE COTA COTA",
+   "latitud": "-16,542,077",
+   "longitud": "-68,058,031"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LA PORTADA",
+   "latitud": "-16,489,251",
+   "longitud": "-68,166,946"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LANZA",
+   "latitud": "-16,494,747",
+   "longitud": "-68,137,328"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LAS DELICIAS",
+   "latitud": "-16,476,973",
+   "longitud": "-68,123,548"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LAS FLORES",
+   "latitud": "-16,495,416",
+   "longitud": "-68,151,104"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LAS LOMAS",
+   "latitud": "-16,522,272",
+   "longitud": "-68,138,834"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LAS NIEVES",
+   "latitud": "-16,497,140",
+   "longitud": "-68,157,388"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LOS ANDES",
+   "latitud": "-16,498,739",
+   "longitud": "-68,148,289"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO LLOJETA VERGEL",
+   "latitud": "-16,534,238",
+   "longitud": "-68,140,376"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MANUEL HOYOS",
+   "latitud": "-16,485,917",
+   "longitud": "-68,134,593"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MARACANA",
+   "latitud": "-16,485,585",
+   "longitud": "-68,137,140"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MODELO ACHUMANI",
+   "latitud": "-16,530,709",
+   "longitud": "-68,073,618"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MODELO ALTO SAN ANTONIO",
+   "latitud": "-16,498,039",
+   "longitud": "-68,108,447"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MODELO IRPAVI",
+   "latitud": "-16,525,088",
+   "longitud": "-68,087,166"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MODELO LAS VELAS",
+   "latitud": "-16,500,744",
+   "longitud": "-68,127,557"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO MODELO OBISPO INDABURO",
+   "latitud": "-16,501,087",
+   "longitud": "-68,145,532"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO N7 VILLA VICTORIA",
+   "latitud": "-16,490,368",
+   "longitud": "-68,151,694"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO NUESTRA SEÑORA DE LA PAZ",
+   "latitud": "-16,495,542",
+   "longitud": "-68,103,042"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO PASANKERI KM7",
+   "latitud": "-16,522,962",
+   "longitud": "-68,143,332"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO POPULAR DE ALTO OBRAJES",
+   "latitud": "-16,523,606",
+   "longitud": "-68,104,050"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO POPULAR PURA PURA",
+   "latitud": "-16,487,745",
+   "longitud": "-68,150,860"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO POPULAR RAUL SALMON 6 DE JUNIO",
+   "latitud": "-16,528,206",
+   "longitud": "-68,123,464"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO PRIVADO DE VILLA FATIMA",
+   "latitud": "-16,481,100",
+   "longitud": "-68,120,901"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO PROVISIONAL LOS PINOS",
+   "latitud": "-16,542,589",
+   "longitud": "-68,071,505"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO RODRIGUES",
+   "latitud": "-16,500,181",
+   "longitud": "-68,138,986"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO RODRIGUEZ",
+   "latitud": "-16,500,800",
+   "longitud": "-68,139,526"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO RURAL DE CHINCANI",
+   "latitud": "-16,500,102",
+   "longitud": "-68,081,892"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAGRADO CORAZON DE JESUS",
+   "latitud": "-16,500,822",
+   "longitud": "-68,153,150"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAN CRISTOBAL",
+   "latitud": "-16,510,396",
+   "longitud": "-68,145,639"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAN ISIDRO",
+   "latitud": "-16,510,877",
+   "longitud": "-68,106,165"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAN JOSE",
+   "latitud": "-16,489,127",
+   "longitud": "-68,158,614"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAN JOSE DE MALLASILLA",
+   "latitud": "-16,566,767",
+   "longitud": "-68,100,704"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SAN JUAN",
+   "latitud": "-16,491,128",
+   "longitud": "-68,104,088"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SANCHEZ LIMA",
+   "latitud": "-16,507,991",
+   "longitud": "-68,136,735"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SANTIAGO DE MUNAYPATA",
+   "latitud": "-16,489,888",
+   "longitud": "-68,156,545"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO SOPOCACHI",
+   "latitud": "-16,509,351",
+   "longitud": "-68,129,408"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO STRONGEST",
+   "latitud": "-16,515,786",
+   "longitud": "-68,139,929"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO TEOFILO MIRANDA",
+   "latitud": "-16,497,146",
+   "longitud": "-68,116,324"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO URKUPIÑA BAJO SAN ISIDRO",
+   "latitud": "-16,512,052",
+   "longitud": "-68,107,734"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO URUGUAY",
+   "latitud": "-16,497,213",
+   "longitud": "-68,143,713"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VICENTE",
+   "latitud": "-16,497,943",
+   "longitud": "-68,144,297"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA ARMONIA",
+   "latitud": "-16,508,744",
+   "longitud": "-68,110,556"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA ARMONIA",
+   "latitud": "-16,508,650",
+   "longitud": "-68,110,747"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA ARMONIA",
+   "latitud": "-16,508,669",
+   "longitud": "-68,110,924"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA ARMONIA",
+   "latitud": "-16,508,706",
+   "longitud": "-68,110,634"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA ARMONIA",
+   "latitud": "-16,508,830",
+   "longitud": "-68,110,426"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA EL CARMEN",
+   "latitud": "-16,469,001",
+   "longitud": "-68,115,255"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA FATIMA",
+   "latitud": "-16,480,552",
+   "longitud": "-68,121,093"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VILLA NUEVA POTOSI",
+   "latitud": "-16,505,482",
+   "longitud": "-68,149,345"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "MERCADO VIRGEN DE LAS NIEVES",
+   "latitud": "-16,475,460",
+   "longitud": "-68,149,372"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Murillo",
+   "municipio": "Nuestra Señora de La Paz",
+   "ciudad": "Nuestra Señora de La Paz",
+   "nombre": "SUMAYA MERCADO DE BRUJAS",
+   "latitud": "-16,496,160",
+   "longitud": "-68,138,757"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Nor Yungas",
+   "municipio": "Coroico",
+   "ciudad": "Coroico",
+   "nombre": "MERCADO MODELO SAN JOSE COROICO",
+   "latitud": "-16,189,497",
+   "longitud": "-67,727,843"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Omasuyos",
+   "municipio": "Achacachi",
+   "ciudad": "Achacachi",
+   "nombre": "MERCADO POPULAR DE ACHACACHI",
+   "latitud": "-16,043,432",
+   "longitud": "-68,683,960"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Sud Yungas",
+   "municipio": "Chulumani",
+   "ciudad": "Chulumani",
+   "nombre": "MERCADO LANZA",
+   "latitud": "-16,410,793",
+   "longitud": "-67,526,487"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Sud Yungas",
+   "municipio": "Chulumani",
+   "ciudad": "Chulumani",
+   "nombre": "MERCADO VIRGEN DE COPACABANA",
+   "latitud": "-16,406,308",
+   "longitud": "-67,529,120"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Sud Yungas",
+   "municipio": "Palos Blancos",
+   "ciudad": "Palos Blancos",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-15,586,936",
+   "longitud": "-67,247,128"
+ },
+ {
+   "departamento": "La Paz",
+   "provincia": "Sud Yungas",
+   "municipio": "Palos Blancos",
+   "ciudad": "Palos Blancos",
+   "nombre": "MERCADO VIRGEN DE CANDELARIA",
+   "latitud": "-15,586,455",
+   "longitud": "-67,247,578"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Abaroa",
+   "municipio": "Challapata",
+   "ciudad": "Challapata",
+   "nombre": "MERCADO ANTOFAGASTA",
+   "latitud": "-18,903,386",
+   "longitud": "-66,764,101"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Abaroa",
+   "municipio": "Challapata",
+   "ciudad": "Challapata",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-18,900,454",
+   "longitud": "-66,763,680"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Caracollo",
+   "ciudad": "Caracollo",
+   "nombre": "MERCADO 6 DE AGOSTO",
+   "latitud": "-17,638,522",
+   "longitud": "-67,219,631"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "ASOCIACION DE COMERCIANTES MERCADO MARIA AYMA",
+   "latitud": "-17,946,043",
+   "longitud": "-67,095,115"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO AURORA",
+   "latitud": "-17,912,889",
+   "longitud": "-67,125,580"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO BARTOLINA SISA",
+   "latitud": "-17,977,681",
+   "longitud": "-67,097,945"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO CAKEO",
+   "latitud": "-17,951,790",
+   "longitud": "-67,110,216"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO CAMACHO",
+   "latitud": "-17,956,560",
+   "longitud": "-67,116,946"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO CAMPERO",
+   "latitud": "-17,970,887",
+   "longitud": "-67,110,124"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO CAMPESINO KANTUTA",
+   "latitud": "-17,949,729",
+   "longitud": "-67,102,134"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO DE LA URBANIZACION BUSTILLOS",
+   "latitud": "-17,970,989",
+   "longitud": "-67,057,449"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO DE VINTO",
+   "latitud": "-17,972,553",
+   "longitud": "-67,047,099"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO EDUARDO AVAROA",
+   "latitud": "-17,987,156",
+   "longitud": "-67,113,831"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO EVO MORALES",
+   "latitud": "-17,964,218",
+   "longitud": "-67,096,846"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO EX ADUANA",
+   "latitud": "-17,971,128",
+   "longitud": "-67,109,614"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO EX ADUANA",
+   "latitud": "-17,970,832",
+   "longitud": "-67,108,766"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO FERMIN LOPEZ",
+   "latitud": "-17,966,703",
+   "longitud": "-67,114,759"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO GRAN PODER",
+   "latitud": "-17,982,801",
+   "longitud": "-67,091,528"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO JORGE PALENQUE",
+   "latitud": "-17,980,288",
+   "longitud": "-67,122,542"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO KANTUTA",
+   "latitud": "-17,950,140",
+   "longitud": "-67,102,728"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO MAX FERNANDEZ",
+   "latitud": "-17,968,282",
+   "longitud": "-67,097,516"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO MIRAFLORES",
+   "latitud": "-17,939,167",
+   "longitud": "-67,113,760"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO POPULAR INCAPOZO",
+   "latitud": "-17,944,731",
+   "longitud": "-67,119,907"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO PUMAS ANDINOS",
+   "latitud": "-17,995,669",
+   "longitud": "-67,068,767"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO RAFAEL PABON",
+   "latitud": "-17,984,349",
+   "longitud": "-67,103,112"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO RAFAEL PABON",
+   "latitud": "-17,983,357",
+   "longitud": "-67,102,600"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO ROBERTO YOUNG",
+   "latitud": "-17,977,894",
+   "longitud": "-67,132,851"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO SAN JOSE",
+   "latitud": "-17,957,845",
+   "longitud": "-67,123,555"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO SAN PEDRO",
+   "latitud": "-17,945,813",
+   "longitud": "-67,113,232"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO V. FATIMA",
+   "latitud": "-17,959,330",
+   "longitud": "-67,117,941"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO VENEZUELA",
+   "latitud": "-17,938,068",
+   "longitud": "-67,110,484"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO VILLA VICTORIA",
+   "latitud": "-17,975,276",
+   "longitud": "-67,054,342"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MERCADO WHALTER KHON",
+   "latitud": "-17,980,694",
+   "longitud": "-67,116,353"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Cercado",
+   "municipio": "Oruro",
+   "ciudad": "Oruro",
+   "nombre": "MKCROMERCADO CLAUDOA",
+   "latitud": "-17,962,785",
+   "longitud": "-67,110,530"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Pantaleón Dalence",
+   "municipio": "Machacamarca",
+   "ciudad": "Machacamarca Ferocorp",
+   "nombre": "MERCADO CENTRAL EDUARDO AVAROA DE COMERCIANTES MINORISTAS MACHACAMARCA",
+   "latitud": "-18,173,053",
+   "longitud": "-67,021,538"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Pantaleeón Dalence",
+   "municipio": "Villa Huanuni",
+   "ciudad": "Huanuni",
+   "nombre": "MERCADO 27 DE JUNIO",
+   "latitud": "-18,286,804",
+   "longitud": "-66,834,589"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Poopeó",
+   "municipio": "Poopeó",
+   "ciudad": "Poopo",
+   "nombre": "MERCADO CENTRAL POOPO",
+   "latitud": "-18,380,705",
+   "longitud": "-66,968,743"
+ },
+ {
+   "departamento": "Oruro",
+   "provincia": "Sebastian Pagador",
+   "municipio": "Santiago de Huari",
+   "ciudad": "Santiago de Huari",
+   "nombre": "MERCADO CENTRAL HUARI",
+   "latitud": "-19,012,678",
+   "longitud": "-66,776,991"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Madre de Dios",
+   "municipio": "Sena",
+   "ciudad": "El Sena",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-11,488,927",
+   "longitud": "-67,245,525"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Manuripi",
+   "municipio": "Puerto Rico",
+   "ciudad": "Puerto Rico",
+   "nombre": "MERCADO",
+   "latitud": "-11,104,234",
+   "longitud": "-67,556,848"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Manuripi",
+   "municipio": "Puerto Rico",
+   "ciudad": "Puerto Rico",
+   "nombre": "MERCADO CENTRAL SANTA ROSA DE PUERTO RICO",
+   "latitud": "-11,107,285",
+   "longitud": "-67,552,912"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Nicolas Suarez",
+   "municipio": "Cobija",
+   "ciudad": "Cobija",
+   "nombre": "MERCADO CENTRAL DE COBIJA",
+   "latitud": "-11,021,479",
+   "longitud": "-68,756,778"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Nicolas Suarez",
+   "municipio": "Cobija",
+   "ciudad": "Cobija",
+   "nombre": "MERCADO NAZARIA",
+   "latitud": "-11,035,075",
+   "longitud": "-68,776,196"
+ },
+ {
+   "departamento": "Pando",
+   "provincia": "Nicolas Suarez",
+   "municipio": "Cobija",
+   "ciudad": "Cobija",
+   "nombre": "MERCADO PARAISO",
+   "latitud": "-11,028,169",
+   "longitud": "-68,775,494"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO ANTOFAGASTA",
+   "latitud": "-20,461,438",
+   "longitud": "-66,825,124"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO AVENIDA POTOSI",
+   "latitud": "-20,464,288",
+   "longitud": "-66,825,113"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO EL GALPON",
+   "latitud": "-20,463,768",
+   "longitud": "-66,824,355"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO EL PROGRESO",
+   "latitud": "-20,460,246",
+   "longitud": "-66,831,732"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO LINDO",
+   "latitud": "-20,467,002",
+   "longitud": "-66,818,474"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO MIRAFLORES",
+   "latitud": "-20,454,092",
+   "longitud": "-66,830,047"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Antonio Quijarro",
+   "municipio": "Uyuni",
+   "ciudad": "Uyuni",
+   "nombre": "MERCADO VALENTIN ARAMAYO",
+   "latitud": "-20,460,096",
+   "longitud": "-66,822,461"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Cornelio Saavedra",
+   "municipio": "Betanzos",
+   "ciudad": "Betanzos",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-19,554,008",
+   "longitud": "-65,453,847"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Cornelio Saavedra",
+   "municipio": "Betanzos",
+   "ciudad": "Betanzos",
+   "nombre": "MERCADO DE CARNE",
+   "latitud": "-19,554,367",
+   "longitud": "-65,453,546"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "FARMACIA SAN NICOLAS DE BARI  DE VERONICA MERCADO",
+   "latitud": "-22,085,390",
+   "longitud": "-65,600,391"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO 20 DE MAYO",
+   "latitud": "-22,092,498",
+   "longitud": "-65,596,174"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO 3 DE MARZO",
+   "latitud": "-22,093,090",
+   "longitud": "-65,595,612"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO ABASTO",
+   "latitud": "-22,084,558",
+   "longitud": "-65,602,377"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO CAMPESINO DE VILLAZON",
+   "latitud": "-22,083,492",
+   "longitud": "-65,602,330"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO HUMMER",
+   "latitud": "-22,095,249",
+   "longitud": "-65,595,947"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO ILIODORO VILLAZON",
+   "latitud": "-22,086,030",
+   "longitud": "-65,599,551"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO LA PAZ",
+   "latitud": "-22,094,132",
+   "longitud": "-65,595,924"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO MODESTO OMISTE",
+   "latitud": "-22,087,795",
+   "longitud": "-65,596,928"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO MUNICIPAL VIVANDERAS",
+   "latitud": "-22,095,309",
+   "longitud": "-65,597,081"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO SAN MARTIN",
+   "latitud": "-22,092,896",
+   "longitud": "-65,593,529"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Modesto Omiste",
+   "municipio": "Villazon",
+   "ciudad": "Villazon",
+   "nombre": "MERCADO URCUPIÑA",
+   "latitud": "-22,092,559",
+   "longitud": "-65,595,960"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Rafael Bustillo",
+   "municipio": "Llallagua",
+   "ciudad": "Llallagua",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-18,424,272",
+   "longitud": "-66,582,350"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Rafael Bustillo",
+   "municipio": "Llallagua",
+   "ciudad": "Llallagua",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-18,426,036",
+   "longitud": "-66,584,123"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Rafael Bustillo",
+   "municipio": "Uncia",
+   "ciudad": "Uncia",
+   "nombre": "MERCADO CENTRAL SAN MIGUEL",
+   "latitud": "-18,466,737",
+   "longitud": "-66,569,741"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Sur Chichas",
+   "municipio": "Tupiza",
+   "ciudad": "Tupiza",
+   "nombre": "MERCADO  VILLA FATIMA",
+   "latitud": "-21,435,589",
+   "longitud": "-65,722,821"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Sur Chichas",
+   "municipio": "Tupiza",
+   "ciudad": "Tupiza",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-21,451,096",
+   "longitud": "-65,717,654"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Sur Chichas",
+   "municipio": "Tupiza",
+   "ciudad": "Tupiza",
+   "nombre": "MERCADO GIL DURAN",
+   "latitud": "-21,444,294",
+   "longitud": "-65,718,964"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Sur Chichas",
+   "municipio": "Tupiza",
+   "ciudad": "Tupiza",
+   "nombre": "MERCADO LA PAZ",
+   "latitud": "-21,438,262",
+   "longitud": "-65,718,977"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Sur Chichas",
+   "municipio": "Tupiza",
+   "ciudad": "Tupiza",
+   "nombre": "MERCADO NEGRO",
+   "latitud": "-21,441,713",
+   "longitud": "-65,719,483"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO 10 DE NOVIEMBRE",
+   "latitud": "-19,587,293",
+   "longitud": "-65,755,027"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO ABASTO",
+   "latitud": "-19,573,918",
+   "longitud": "-65,756,220"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO BALLIVIAN",
+   "latitud": "-19,590,828",
+   "longitud": "-65,750,664"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO CALVARIO",
+   "latitud": "-19,597,349",
+   "longitud": "-65,748,141"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-19,590,715",
+   "longitud": "-65,744,795"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO CHUQUIMIA",
+   "latitud": "-19,580,592",
+   "longitud": "-65,763,242"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO GREMIAL",
+   "latitud": "-19,586,429",
+   "longitud": "-65,756,248"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO LAS LECHERIAS",
+   "latitud": "-19,559,251",
+   "longitud": "-65,758,533"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO PLAZA EL MINERO",
+   "latitud": "-19,594,868",
+   "longitud": "-65,749,974"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO SANTIAGO",
+   "latitud": "-19,593,824",
+   "longitud": "-65,756,725"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO SOLIDARIO SATELITE",
+   "latitud": "-19,567,146",
+   "longitud": "-65,767,717"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO T IKA LOMA",
+   "latitud": "-19,582,211",
+   "longitud": "-65,745,107"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO VICUÑAS",
+   "latitud": "-19,588,179",
+   "longitud": "-65,758,417"
+ },
+ {
+   "departamento": "Potosí",
+   "provincia": "Tomas Frias",
+   "municipio": "Potosi",
+   "ciudad": "Potosi",
+   "nombre": "MERCADO VILLA COPACABANA",
+   "latitud": "-19,574,925",
+   "longitud": "-65,773,255"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Cotoca",
+   "ciudad": "Cotoca",
+   "nombre": "MERCADO 25 DE FEBRERO",
+   "latitud": "-17,757,663",
+   "longitud": "-62,995,103"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Cotoca",
+   "ciudad": "Cotoca",
+   "nombre": "MERCADO 25 DE OCTUBRE",
+   "latitud": "-17,752,873",
+   "longitud": "-62,995,793"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "El Torno",
+   "ciudad": "El Torno",
+   "nombre": "MERCADO CENTRAL DEL TORNO",
+   "latitud": "-17,995,009",
+   "longitud": "-63,383,537"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "El Torno",
+   "ciudad": "El Torno",
+   "nombre": "MERCADO PRIVADO 18 DE NOVIEMBRE",
+   "latitud": "-17,988,305",
+   "longitud": "-63,379,947"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "El Torno",
+   "ciudad": "Jorochito",
+   "nombre": "MERCADO MUNICIPAL DE JOROCHITO",
+   "latitud": "-18,056,598",
+   "longitud": "-63,427,720"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "La Guardia",
+   "nombre": "MERCADO CUMBRE DE LAS AMERICAS",
+   "latitud": "-17,900,659",
+   "longitud": "-63,284,668"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "La Guardia",
+   "nombre": "MERCADO KM 13",
+   "latitud": "-17,880,212",
+   "longitud": "-63,268,778"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "La Guardia",
+   "nombre": "MERCADO MUNICIPAL EL CARMEN (VENTA DE VERDURAS ,FRUTAS,ABARROTES,PRODUCTOS LACTEOS,VENTA DE CARNE DE RES,POLLO,CERDO,COMIDAS,JUGUETES,PAN,ARTICULOS PARA EL HOGAR,LIBRERIA,VENTA DE ROPA USADA,VENTA DE ROPA NUEVA,CALSADOS Y CELULARES)",
+   "latitud": "-17,855,261",
+   "longitud": "-63,249,279"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "La Guardia",
+   "nombre": "MERCADO MUNICIPAL LA GUARDIA",
+   "latitud": "-17,893,381",
+   "longitud": "-63,329,036"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "La Guardia",
+   "nombre": "MERCADO POPULAR DE BARRIO LINDO",
+   "latitud": "-17,899,528",
+   "longitud": "-63,269,622"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "La Guardia",
+   "ciudad": "San Jose",
+   "nombre": "MERCADO SAN JOSE",
+   "latitud": "-17,942,732",
+   "longitud": "-63,351,827"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "ASOCIACION GREMIAL DE COMERCIATES MINORISTAS  18 DE AGOSTO  DEL MERCADO DE LA URBANIZACION  EL RECREO",
+   "latitud": "-17,885,480",
+   "longitud": "-63,095,221"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "ASOCICION 14 DE AGOSTO MERCADO AMBORO",
+   "latitud": "-17,866,398",
+   "longitud": "-63,136,977"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO",
+   "latitud": "-17,890,056",
+   "longitud": "-63,179,042"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO",
+   "latitud": "-17,800,382",
+   "longitud": "-63,170,193"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 1 DE MARZO",
+   "latitud": "-17,745,513",
+   "longitud": "-63,117,157"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 1 DE MAYO",
+   "latitud": "-17,722,294",
+   "longitud": "-63,104,333"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 12 DE OCTUBRE",
+   "latitud": "-17,754,974",
+   "longitud": "-63,179,537"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 12 DE OCTUBRE",
+   "latitud": "-17,754,742",
+   "longitud": "-63,179,727"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 12:DE OCTUBRE",
+   "latitud": "-17,754,939",
+   "longitud": "-63,179,790"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 2 DE AGOSTO",
+   "latitud": "-17,733,994",
+   "longitud": "-63,142,936"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 27 DE MAYO",
+   "latitud": "-17,826,509",
+   "longitud": "-63,094,047"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO 7 CALLES",
+   "latitud": "-17,786,370",
+   "longitud": "-63,185,769"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO ABASTO",
+   "latitud": "-17,796,277",
+   "longitud": "-63,204,430"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO ALTO SAN PEDRO",
+   "latitud": "-17,810,989",
+   "longitud": "-63,188,765"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO ASOCIACION 4 DE NOVIEMBRE",
+   "latitud": "-17,778,434",
+   "longitud": "-63,202,878"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BARRIO LINDO 12 DE JULIO",
+   "latitud": "-17,789,235",
+   "longitud": "-63,167,018"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BELEN",
+   "latitud": "-17,755,077",
+   "longitud": "-63,188,109"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,225",
+   "longitud": "-63,110,013"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,649",
+   "longitud": "-63,109,804"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,392",
+   "longitud": "-63,109,949"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,121",
+   "longitud": "-63,109,707"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,549",
+   "longitud": "-63,109,531"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,544",
+   "longitud": "-63,109,886"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,277",
+   "longitud": "-63,109,641"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO BIBOSI",
+   "latitud": "-17,724,428",
+   "longitud": "-63,109,577"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,777,530",
+   "longitud": "-63,108,242"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO COMUNIDAD LAS PIEDADES",
+   "latitud": "-17,740,338",
+   "longitud": "-63,055,419"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO COPACABANA",
+   "latitud": "-17,826,495",
+   "longitud": "-63,125,938"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO CHACARILLA",
+   "latitud": "-17,773,012",
+   "longitud": "-63,150,537"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO CHINBOL",
+   "latitud": "-17,783,481",
+   "longitud": "-63,174,038"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO DE BARRIO  (SIN NOMBRE)",
+   "latitud": "-17,854,719",
+   "longitud": "-63,041,063"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO ECOLOGICO PATUJU",
+   "latitud": "-17,773,776",
+   "longitud": "-63,052,784"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO EL DORADO NORTE CONSTA DE 99 PUESTO, 1PUESTO DE LICORERIA , 3 PUESTOS DE DULCES Y GALLETAS, 2 PUESTOS EMBUTIDOS Y FIAMBRES, 2 PUESTOS DE VENTA DE COCA, 3 PUESTOS DE REGALOS Y JUGUETERIA, 5 PUESTOS DE CARNICERIA DE POLLO, 5 PUESTOS DE VERDURAS, 3",
+   "latitud": "-17,735,459",
+   "longitud": "-63,098,157"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO EL FUERTE",
+   "latitud": "-17,847,103",
+   "longitud": "-63,147,983"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO EL PROGRESO",
+   "latitud": "-17,823,311",
+   "longitud": "-63,136,074"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO EL QUIOR",
+   "latitud": "-17,847,159",
+   "longitud": "-63,081,322"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO EL TRIUNFO",
+   "latitud": "-17,861,001",
+   "longitud": "-63,154,675"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO FLORIDA",
+   "latitud": "-17,870,530",
+   "longitud": "-63,166,894"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO GUAPILO VENTA",
+   "latitud": "-17,765,632",
+   "longitud": "-63,087,175"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO GUAPURU",
+   "latitud": "-17,851,729",
+   "longitud": "-63,099,774"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO GUAPURU 2",
+   "latitud": "-17,810,605",
+   "longitud": "-63,104,579"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO INTERNACIONAL",
+   "latitud": "-17,796,028",
+   "longitud": "-63,105,944"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO JULIO LEYGUE",
+   "latitud": "-17,731,247",
+   "longitud": "-63,121,514"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA AMISTA",
+   "latitud": "-17,837,632",
+   "longitud": "-63,176,965"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA CUCHILLA (COMERCIO)",
+   "latitud": "-17,826,290",
+   "longitud": "-63,201,526"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA MORITA",
+   "latitud": "-17,816,430",
+   "longitud": "-63,187,816"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA PRIMAVERA",
+   "latitud": "-17,823,398",
+   "longitud": "-63,163,838"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,791,848",
+   "longitud": "-63,188,893"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,109",
+   "longitud": "-63,187,990"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,286",
+   "longitud": "-63,188,291"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,257",
+   "longitud": "-63,188,550"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,792,060",
+   "longitud": "-63,188,952"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,194",
+   "longitud": "-63,188,449"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,310",
+   "longitud": "-63,187,715"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,391",
+   "longitud": "-63,187,901"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,346",
+   "longitud": "-63,187,831"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,399",
+   "longitud": "-63,188,054"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,228",
+   "longitud": "-63,187,609"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,120",
+   "longitud": "-63,187,841"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,170",
+   "longitud": "-63,187,456"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,793,547",
+   "longitud": "-63,188,151"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADA",
+   "latitud": "-17,792,843",
+   "longitud": "-63,188,737"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LA RAMADS",
+   "latitud": "-17,791,634",
+   "longitud": "-63,188,703"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LAS PAMPITAS",
+   "latitud": "-17,769,147",
+   "longitud": "-63,122,608"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LAZARETO",
+   "latitud": "-17,783,124",
+   "longitud": "-63,159,894"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LIBERTAD",
+   "latitud": "-17,741,980",
+   "longitud": "-63,086,626"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LOS POCITOS",
+   "latitud": "-17,841,486",
+   "longitud": "-63,110,585"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO LOS POZOS",
+   "latitud": "-17,778,467",
+   "longitud": "-63,177,598"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MAYORISTA ABASTO 2",
+   "latitud": "-17,849,325",
+   "longitud": "-63,231,043"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MIRAFLORES",
+   "latitud": "-17,800,226",
+   "longitud": "-63,130,373"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MODELO PLAN 3000",
+   "latitud": "-17,821,496",
+   "longitud": "-63,147,411"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL ABASTO 3",
+   "latitud": "-17,828,319",
+   "longitud": "-63,208,275"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL EL BOSQUE",
+   "latitud": "-17,812,737",
+   "longitud": "-63,214,771"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL EL TRILLO",
+   "latitud": "-17,760,545",
+   "longitud": "-63,127,731"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL FORTALEZA",
+   "latitud": "-17,863,387",
+   "longitud": "-63,160,854"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL LOS TUSEQUIS",
+   "latitud": "-17,741,709",
+   "longitud": "-63,154,345"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL MAGISTERIO SUR",
+   "latitud": "-17,870,993",
+   "longitud": "-63,178,297"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUNICIPAL TURERE",
+   "latitud": "-17,842,328",
+   "longitud": "-63,100,562"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUSICAL 26 DE ABRIL",
+   "latitud": "-17,829,840",
+   "longitud": "-63,174,521"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO MUTUALISTA",
+   "latitud": "-17,762,798",
+   "longitud": "-63,161,995"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO NUEVA EZPERANZA",
+   "latitud": "-17,735,383",
+   "longitud": "-63,111,870"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO PLAN 3000",
+   "latitud": "-17,823,292",
+   "longitud": "-63,112,258"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO PRIMERO DE MAYO",
+   "latitud": "-17,798,178",
+   "longitud": "-63,132,608"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO RETOÑO",
+   "latitud": "-17,740,034",
+   "longitud": "-63,073,727"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SAN ANTONIO VENTA DE ABARROTES, VENTA DE CARNE DE RES, POLLO Y CERDO, VENTA DE ROPA NUEBA, VENTA DE ROPA USADA  VENTA DE  CALZADOS, VENTA DE PAN, VENTA DE VERDURAS, VENTA FRUTA, VENTA DE PRODUCTOS DE LIMPIEZA DEL HOGAR",
+   "latitud": "-17,826,107",
+   "longitud": "-63,226,997"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SAN JORGE",
+   "latitud": "-17,736,622",
+   "longitud": "-63,090,661"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SAN JUAN",
+   "latitud": "-17,791,105",
+   "longitud": "-63,137,102"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SAN LUIS",
+   "latitud": "-17,783,839",
+   "longitud": "-63,195,445"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SANTA CRUZ SUR",
+   "latitud": "-17,850,954",
+   "longitud": "-63,181,306"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO SANTA ROSA",
+   "latitud": "-17,810,874",
+   "longitud": "-63,189,433"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO TOBOROCH",
+   "latitud": "-17,848,762",
+   "longitud": "-63,078,859"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VICTORIA",
+   "latitud": "-17,815,400",
+   "longitud": "-63,109,698"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VICTORIA",
+   "latitud": "-17,814,555",
+   "longitud": "-63,109,709"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VICTORIA",
+   "latitud": "-17,817,643",
+   "longitud": "-63,109,736"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VICTORIA",
+   "latitud": "-17,816,903",
+   "longitud": "-63,109,731"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VILLA ESPERANZA",
+   "latitud": "-17,863,046",
+   "longitud": "-63,168,704"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VILLA FATIMA",
+   "latitud": "-17,812,977",
+   "longitud": "-63,202,617"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MERCADO VIRGEN DEL LUJAN",
+   "latitud": "-17,754,417",
+   "longitud": "-63,124,179"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "MIKRO MERCADO LA BOBEDA",
+   "latitud": "-17,766,734",
+   "longitud": "-63,150,704"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Andres Ibañez",
+   "municipio": "Santa Cruz",
+   "ciudad": "Santa Cruz de la Sierra",
+   "nombre": "VENTAS AL POR MENOR EN EL MERCADO MAX FERNANDEZ",
+   "latitud": "-17,868,127",
+   "longitud": "-63,194,996"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Cordillera",
+   "municipio": "Camiri",
+   "ciudad": "Camiri",
+   "nombre": "MERCADO ABASTO",
+   "latitud": "-20,044,980",
+   "longitud": "-63,531,708"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Cordillera",
+   "municipio": "Camiri",
+   "ciudad": "Camiri",
+   "nombre": "MERCADO MINORISTA SAN ANTONIO",
+   "latitud": "-20,039,303",
+   "longitud": "-63,529,746"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Cordillera",
+   "municipio": "Camiri",
+   "ciudad": "Camiri",
+   "nombre": "MERCADO SAN ANTONIO",
+   "latitud": "-20,039,322",
+   "longitud": "-63,530,007"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Chiquitos",
+   "municipio": "Robore",
+   "ciudad": "Robore",
+   "nombre": "MERCADO MUNICIPAL DE ROBORE",
+   "latitud": "-18,329,536",
+   "longitud": "-59,756,404"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Chiquitos",
+   "municipio": "San Jose de Chiquitos",
+   "ciudad": "San Jose de Chiquitos",
+   "nombre": "MERCADO 15 DE AGOSTO",
+   "latitud": "-17,843,533",
+   "longitud": "-60,738,172"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Chiquitos",
+   "municipio": "San Jose de Chiquitos",
+   "ciudad": "San Jose de Chiquitos",
+   "nombre": "MERCADO MODELO 15 DE AGOSTO",
+   "latitud": "-17,840,549",
+   "longitud": "-60,742,438"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Florida",
+   "municipio": "Samaipata",
+   "ciudad": "Samaipata",
+   "nombre": "MERCADO MUNICIPAL CASTA ROJAS",
+   "latitud": "-18,180,735",
+   "longitud": "-63,874,751"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "German Busch",
+   "municipio": "Puerto Quijarro",
+   "ciudad": "Puerto Quijarro",
+   "nombre": "MERCADO MUNICIPAL DE PUERTO QUIJARRO",
+   "latitud": "-19,004,274",
+   "longitud": "-57,712,068"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "German Busch",
+   "municipio": "Puerto Suarez",
+   "ciudad": "Puerto Suarez",
+   "nombre": "MERCADO EL CARMEN",
+   "latitud": "-18,967,900",
+   "longitud": "-57,799,909"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Guarayos",
+   "municipio": "Ascencion de Guarayos",
+   "ciudad": "Ascencion de Guarayos",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-15,892,561",
+   "longitud": "-63,189,353"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Guarayos",
+   "municipio": "Ascencion de Guarayos",
+   "ciudad": "Ascencion de Guarayos",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-15,898,603",
+   "longitud": "-63,188,809"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "Buena Vista",
+   "ciudad": "Buena Vista",
+   "nombre": "MERCADO CAMPESINO 2 DE AGOSTO",
+   "latitud": "-17,455,881",
+   "longitud": "-63,663,217"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "San Carlos",
+   "ciudad": "San Carlos",
+   "nombre": "MERCADO 1 DE MAYO",
+   "latitud": "-17,407,409",
+   "longitud": "-63,730,385"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "San Carlos",
+   "ciudad": "San Carlos",
+   "nombre": "MERCADO SAN CARLOS",
+   "latitud": "-17,406,954",
+   "longitud": "-63,730,785"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "San Carlos",
+   "ciudad": "Santa Fe de Yapacani",
+   "nombre": "MERCADO COOPERATIVA",
+   "latitud": "-17,399,496",
+   "longitud": "-63,824,528"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "San Juan",
+   "ciudad": "San Juan de Yapacani",
+   "nombre": "MERCADO MUNICIPAL DE SAN JUAN ( VENTA AL POR MENOR DE ROPA ,JUGUETES,CD,ZAPATOS,ABARROTES,COTILLON, EN TIENDAS)",
+   "latitud": "-17,291,464",
+   "longitud": "-63,852,664"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "Yapacani",
+   "ciudad": "Yapacani",
+   "nombre": "MERCADO",
+   "latitud": "-17,403,511",
+   "longitud": "-63,885,682"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "Yapacani",
+   "ciudad": "Yapacani",
+   "nombre": "MERCADO AVAROA",
+   "latitud": "-17,401,350",
+   "longitud": "-63,884,304"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ichilo",
+   "municipio": "Yapacani",
+   "ciudad": "Yapacani",
+   "nombre": "MERCADO YAPACANI",
+   "latitud": "-17,403,458",
+   "longitud": "-63,884,986"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "├æuflo de Chavez",
+   "municipio": "Concepcion",
+   "ciudad": "Concepcion",
+   "nombre": "MERCADO 8 DE OCTUBRE",
+   "latitud": "-16,133,005",
+   "longitud": "-62,027,461"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "Concepcion",
+   "ciudad": "Concepcion",
+   "nombre": "MERCADO CONCEPCION",
+   "latitud": "-16,126,790",
+   "longitud": "-62,031,034"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "Concepcion",
+   "ciudad": "Concepcion",
+   "nombre": "MERCADO CONCEPCION",
+   "latitud": "-16,125,622",
+   "longitud": "-62,031,018"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "Concepcion",
+   "ciudad": "Concepcion",
+   "nombre": "MERCADO EL TROMPILLO",
+   "latitud": "-16,132,529",
+   "longitud": "-62,026,472"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "Cuatro Cañadas",
+   "ciudad": "Cuatro Cañadas",
+   "nombre": "ASOCIACION GREMIAL DE COMERCIANTES MERCADO MUNICIPAL",
+   "latitud": "-17,271,177",
+   "longitud": "-62,557,058"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "Cuatro Cañadas",
+   "ciudad": "Cuatro Cañadas",
+   "nombre": "MERCADO 4 CAÑADAS",
+   "latitud": "-17,262,706",
+   "longitud": "-62,555,873"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "San Javier",
+   "ciudad": "San Javier",
+   "nombre": "MERCADO MUNICIPAL 24 DE SEPTIEMBRE",
+   "latitud": "-16,274,346",
+   "longitud": "-62,501,198"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "San Julian",
+   "ciudad": "San Julian",
+   "nombre": "MERCADO DE SAN JULIAN",
+   "latitud": "-16,911,647",
+   "longitud": "-62,617,941"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Ñuflo de Chavez",
+   "municipio": "San Ramon",
+   "ciudad": "San Ramon",
+   "nombre": "MERCADO SAN RAMON",
+   "latitud": "-16,613,410",
+   "longitud": "-62,500,517"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Mineros",
+   "ciudad": "Mineros",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-17,125,372",
+   "longitud": "-63,228,163"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO  PRINCIPAL DE MONTERO",
+   "latitud": "-17,342,849",
+   "longitud": "-63,247,044"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO BARRIENTOS",
+   "latitud": "-17,342,596",
+   "longitud": "-63,246,971"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO DOMINICAL EL CARMEN",
+   "latitud": "-17,346,524",
+   "longitud": "-63,259,961"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO EL CARMEN",
+   "latitud": "-17,346,982",
+   "longitud": "-63,260,559"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO GERMAN MORENO",
+   "latitud": "-17,342,964",
+   "longitud": "-63,249,040"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO POPULAR",
+   "latitud": "-17,349,089",
+   "longitud": "-63,244,717"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO POPULAR",
+   "latitud": "-17,349,234",
+   "longitud": "-63,245,679"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO PRINCIPAL DE MONTERO",
+   "latitud": "-17,342,791",
+   "longitud": "-63,246,664"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO VILLA VERDE",
+   "latitud": "-17,334,114",
+   "longitud": "-63,250,422"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "MERCADO VILLA VERDE",
+   "latitud": "-17,333,500",
+   "longitud": "-63,249,318"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Obispo Santistevan",
+   "municipio": "Montero",
+   "ciudad": "Montero",
+   "nombre": "SUPEMERCADO UNION NORTE",
+   "latitud": "-17,340,973",
+   "longitud": "-63,256,594"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Sara",
+   "municipio": "Portachuelo",
+   "ciudad": "Portachuelo",
+   "nombre": "MERCADO BOLIVAR",
+   "latitud": "-17,356,702",
+   "longitud": "-63,399,027"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Sara",
+   "municipio": "Portachuelo",
+   "ciudad": "Portachuelo",
+   "nombre": "MERCADO MUNICIPAL DE PORTACHUELO",
+   "latitud": "-17,356,095",
+   "longitud": "-63,395,383"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Sara",
+   "municipio": "Santa Rosa del Sara",
+   "ciudad": "Santa Rosa del Sara",
+   "nombre": "MERCADO 5 DE FEBRERO",
+   "latitud": "-17,111,718",
+   "longitud": "-63,597,966"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Valle Grande",
+   "municipio": "Valle Grande",
+   "ciudad": "Vallegrande",
+   "nombre": "MERCADO ABASTO DE VALLEGRANDE",
+   "latitud": "-18,484,165",
+   "longitud": "-64,101,778"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Valle Grande",
+   "municipio": "Valle Grande",
+   "ciudad": "Vallegrande",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-18,492,509",
+   "longitud": "-64,106,702"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Valle Grande",
+   "municipio": "Valle Grande",
+   "ciudad": "Vallegrande",
+   "nombre": "MERCADO CELSO CAMACHO",
+   "latitud": "-18,491,388",
+   "longitud": "-64,106,893"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Valle Grande",
+   "municipio": "Valle Grande",
+   "ciudad": "Vallegrande",
+   "nombre": "MERCADO SAMUEL VILLAZON",
+   "latitud": "-18,491,377",
+   "longitud": "-64,107,197"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Velasco",
+   "municipio": "San Ignacio de Velasco",
+   "ciudad": "San Ignacio de Velasco",
+   "nombre": "MERCADO  31 DE JULIO",
+   "latitud": "-16,377,395",
+   "longitud": "-60,963,311"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Velasco",
+   "municipio": "San Ignacio de Velasco",
+   "ciudad": "San Ignacio de Velasco",
+   "nombre": "MERCADO 23 DE MARZO",
+   "latitud": "-16,379,211",
+   "longitud": "-60,967,508"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Velasco",
+   "municipio": "San Ignacio de Velasco",
+   "ciudad": "San Ignacio de Velasco",
+   "nombre": "MERCADO 8 DE DICIEMBRE NUEVAS CASETAS",
+   "latitud": "-16,376,300",
+   "longitud": "-60,963,197"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Velasco",
+   "municipio": "San Ignacio de Velasco",
+   "ciudad": "San Ignacio de Velasco",
+   "nombre": "MERCADO 8 DE DICIEMBRE VIEJO QUEMADO",
+   "latitud": "-16,376,405",
+   "longitud": "-60,963,615"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Velasco",
+   "municipio": "San Ignacio de Velasco",
+   "ciudad": "San Ignacio de Velasco",
+   "nombre": "MERCADO COMERCIAL SAN IGNACIO",
+   "latitud": "-16,377,039",
+   "longitud": "-60,964,119"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO",
+   "latitud": "-17,561,450",
+   "longitud": "-63,174,773"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO 12 DE ABRIL",
+   "latitud": "-17,605,429",
+   "longitud": "-63,154,435"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO CAMPESINO 30 DE AGOSTO",
+   "latitud": "-17,511,377",
+   "longitud": "-63,159,180"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO CENTRAL LAS LOMAS UV7",
+   "latitud": "-17,607,703",
+   "longitud": "-63,165,221"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO CENTRAL PENTAGUAZU 1",
+   "latitud": "-17,601,021",
+   "longitud": "-63,125,260"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO COOPERATIVA 25 DENOVIEMBRE",
+   "latitud": "-17,515,180",
+   "longitud": "-63,166,700"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO INTEGRACION DEL NORTE",
+   "latitud": "-17,597,710",
+   "longitud": "-63,171,580"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO MUNICIPAL ALFREDO VACA DIEZ",
+   "latitud": "-17,509,528",
+   "longitud": "-63,167,274"
+ },
+ {
+   "departamento": "Santa Cruz",
+   "provincia": "Warnes",
+   "municipio": "Warnes",
+   "ciudad": "Warnes",
+   "nombre": "MERCADO SATELITE NORTE",
+   "latitud": "-17,603,284",
+   "longitud": "-63,137,408"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Arce",
+   "municipio": "Bermejo",
+   "ciudad": "Bermejo",
+   "nombre": "MERCADO BOLIVAR",
+   "latitud": "-22,735,593",
+   "longitud": "-64,335,774"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Arce",
+   "municipio": "Bermejo",
+   "ciudad": "Bermejo",
+   "nombre": "MERCADO CAMPESINO",
+   "latitud": "-22,729,632",
+   "longitud": "-64,339,866"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Arce",
+   "municipio": "Bermejo",
+   "ciudad": "Bermejo",
+   "nombre": "MERCADO CAMPESINO 2 DE AGOSTO",
+   "latitud": "-22,733,323",
+   "longitud": "-64,326,481"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Arce",
+   "municipio": "Bermejo",
+   "ciudad": "Bermejo",
+   "nombre": "MERCADO LAS CHALANAS",
+   "latitud": "-22,732,139",
+   "longitud": "-64,349,274"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Arce",
+   "municipio": "Bermejo",
+   "ciudad": "Bermejo",
+   "nombre": "MERCADO SAN ANTONIO",
+   "latitud": "-22,743,541",
+   "longitud": "-64,331,680"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Avilez",
+   "municipio": "Uriondo",
+   "ciudad": "Valle de Concepcion",
+   "nombre": "MERCADO CENTRAL EL VALLE DE LA CONCEPCION",
+   "latitud": "-21,696,816",
+   "longitud": "-64,654,160"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Burnet O'connor",
+   "municipio": "Entre Rios",
+   "ciudad": "Entre Rios",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-21,525,623",
+   "longitud": "-64,173,112"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Burnet O'connor",
+   "municipio": "Entre Rios",
+   "ciudad": "Entre Rios",
+   "nombre": "NUEVO MERCADO CENTRAL ENTRE RIOS",
+   "latitud": "-21,522,380",
+   "longitud": "-64,170,802"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO ABASTO DEL SUR-MODULO 1",
+   "latitud": "-21,551,887",
+   "longitud": "-64,691,004"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO AVASTO DEL SUR",
+   "latitud": "-21,551,837",
+   "longitud": "-64,690,004"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO BOLIVAR",
+   "latitud": "-21,536,294",
+   "longitud": "-64,720,296"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO CAMPESINO CERCAT",
+   "latitud": "-21,519,907",
+   "longitud": "-64,741,822"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO CAMPESINO CRAMA",
+   "latitud": "-21,519,306",
+   "longitud": "-64,742,636"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO CENTRAL",
+   "latitud": "-21,531,172",
+   "longitud": "-64,734,947"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO DEL SUR",
+   "latitud": "-21,553,217",
+   "longitud": "-64,689,161"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO EL ABASTO",
+   "latitud": "-21,512,688",
+   "longitud": "-64,736,592"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO EL MOLINO",
+   "latitud": "-21,533,025",
+   "longitud": "-64,737,729"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO IV CENTENARIO",
+   "latitud": "-21,530,392",
+   "longitud": "-64,736,898"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO LA LOMA",
+   "latitud": "-21,526,437",
+   "longitud": "-64,736,841"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO LUIS DE FUENTES",
+   "latitud": "-21,540,056",
+   "longitud": "-64,740,850"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO NEGRO",
+   "latitud": "-21,534,973",
+   "longitud": "-64,730,389"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO SAN BERNARDO",
+   "latitud": "-21,525,041",
+   "longitud": "-64,723,568"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO SAN GERONIMO",
+   "latitud": "-21,544,159",
+   "longitud": "-64,716,526"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO SAN MARTIN",
+   "latitud": "-21,535,169",
+   "longitud": "-64,741,309"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "MERCADO VILLA AVAROA",
+   "latitud": "-21,521,620",
+   "longitud": "-64,731,314"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Cercado",
+   "municipio": "Tarija",
+   "ciudad": "Tarija",
+   "nombre": "VENTA DE ABARROTES MERCADO GRAMA",
+   "latitud": "-21,518,738",
+   "longitud": "-64,741,635"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Carapari",
+   "ciudad": "Carapari",
+   "nombre": "MERCADO CENTRAL DE CARAPARI",
+   "latitud": "-21,829,015",
+   "longitud": "-63,739,488"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Villamontes",
+   "ciudad": "Villamontes",
+   "nombre": "ASOCIACION DE COMERCIALES 6 DE AGOSTO MERCADO CAMPESINO",
+   "latitud": "-21,261,811",
+   "longitud": "-63,457,174"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Villamontes",
+   "ciudad": "Villamontes",
+   "nombre": "MERCADO CENTRAL DE VILLAMONTES",
+   "latitud": "-21,264,908",
+   "longitud": "-63,471,529"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO ABASTO",
+   "latitud": "-22,025,110",
+   "longitud": "-63,680,184"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO BARRIO NUEVO",
+   "latitud": "-22,042,405",
+   "longitud": "-63,682,845"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO CENTRAL DE YACUIBA",
+   "latitud": "-22,014,810",
+   "longitud": "-63,679,239"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO CENTRAL HECTOR BLACUT",
+   "latitud": "-22,047,940",
+   "longitud": "-63,682,228"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO CENTRAL SECCION TELAS",
+   "latitud": "-22,015,957",
+   "longitud": "-63,679,039"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO LOURDES",
+   "latitud": "-22,011,031",
+   "longitud": "-63,676,135"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Gran Chaco",
+   "municipio": "Yacuiba",
+   "ciudad": "Yacuiba",
+   "nombre": "MERCADO MAGALEÑOS",
+   "latitud": "-22,021,439",
+   "longitud": "-63,676,665"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Mendez",
+   "municipio": "San Lorenzo",
+   "ciudad": "San Lorenzo",
+   "nombre": "MERCADO DE SAN LORENZO",
+   "latitud": "-21,418,330",
+   "longitud": "-64,749,765"
+ },
+ {
+   "departamento": "Tarija",
+   "provincia": "Mendez",
+   "municipio": "San Lorenzo",
+   "ciudad": "San Lorenzo",
+   "nombre": "MERCADO EVO MORALES SAN LORENZO",
+   "latitud": "-21,404,705",
+   "longitud": "-64,747,039"
+ }
+]
