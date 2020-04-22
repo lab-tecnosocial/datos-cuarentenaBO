@@ -42,7 +42,6 @@ paths:
           schema:
             type: object
             items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
     
