@@ -109,9 +109,6 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
 ├── geobo
 │   ├── Mercados2017.csv
 │   └── Mercados2017.json
-├── minsalud
-│   ├── establecimientos_salud.csv
-│   └── establecimientos_salud.json
 ├── osm
 │   ├── Bank.csv
 │   ├── Bank.json
@@ -133,6 +130,8 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
 └── web
     ├── Alimentos.csv
     ├── Alimentos.json
+    ├── establecimientos_salud.csv
+    ├── establecimientos_salud.json
     ├── Salud.csv
     ├── Salud.json
     ├── Servicios.csv
