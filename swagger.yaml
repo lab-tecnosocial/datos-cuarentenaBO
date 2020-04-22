@@ -70,7 +70,7 @@ paths:
         404:
           description: bad input parameter
 
-  v1/gamlp/Salud.json:
+  /v1/gamlp/Salud.json:
     get:
       tags:
       - gamlp

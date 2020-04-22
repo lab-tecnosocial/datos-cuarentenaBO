@@ -135,18 +135,19 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html).
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación (en construcción)](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
 
 ## Soporte y aporte
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
-Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones. 
+Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena.
 
+El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
 
 ## Fuentes
 
-* https://www.openstreetmap.org/
+* https://www.openstreetmap.org/. Requiere de la atribución de "© Colaboradores de OpenStreetMap". Más info [aquí](https://www.openstreetmap.org/copyright).
 * https://www.cochabamba.bo/application/municipio/mapa
 * http://sitservicios.lapaz.bo/mapas/abasto/
 * https://www.lapaz.bo/
@@ -155,3 +156,7 @@ Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis
 * http://conectandobolivia.fepc.bo/
 * Grupos de facebook
 * Grupos de WhatsApp
+
+## Atribución
+
+Dependiendo de los datos utilizados, se debe dar credito a su fuente original cuando se usen los datos en algún proyecto. Esta sólo una recopilación, filtrado y adecuación de formato y distribución, exceptuando los datos en el nodo `/web/` que es una recopilación manual de muchas fuentes. 
