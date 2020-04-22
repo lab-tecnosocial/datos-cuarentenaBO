@@ -39,9 +39,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: object
-            items:
         404:
           description: bad input parameter
     
@@ -56,10 +53,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: object
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
           
@@ -74,10 +67,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: object
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
@@ -92,10 +81,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: object
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
@@ -111,10 +96,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
@@ -130,10 +111,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
@@ -149,10 +126,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
@@ -168,10 +141,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         4040:
           description: bad input parameter
 
@@ -187,10 +156,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/InventoryItem'
         400:
           description: bad input parameter
 
@@ -206,10 +171,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
       
@@ -225,10 +186,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
   /v1/web/Salud.json:
@@ -242,10 +199,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
   /v1/web/Servicios.json:
@@ -259,10 +212,6 @@ paths:
       responses:
         200:
           description: search results matching criteria
-          schema:
-            type: array
-            items:
-              $ref: '#/definitions/Item'
         404:
           description: bad input parameter
 
