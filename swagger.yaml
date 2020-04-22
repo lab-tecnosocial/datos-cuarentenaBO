@@ -1,0 +1,280 @@
+swagger: '2.0'
+info:
+  description: Documentación de la API estática para el proyecto "datos-cuarentenaBO"
+  url: https://github.com/lab-tecnosocial/datos-cuarentenaBO
+  version: 1.0.0
+  title: datos-cuarentenaBO
+  # put the contact info for your development or API team
+  contact:
+    email: contacto@labtecnosocia.org
+    website: labtecnosocial.org
+  
+
+
+tags:
+- name: gamcb
+  description: Datos del Gobierno Autonomo Municipal de Cochabamba
+- name: gamlp
+  description: Datos del Gobierno Autonomo Municipal de La Paz
+- name: gamsc
+  description: Datos del Gobierno Autonomo Municipal de Santa Cruz
+- name: geobo
+  description: Datos de GeoBolivia
+- name: osm
+  description: Datos de OpenStretMap
+- name: rmk
+  description: Datos de la Región Metropolitana Kanata
+- name: web
+  description: Datos recolectados de la web y redes sociales
+
+paths:
+  /v1/gamlp/Abasto.json:
+    get:
+      tags:
+      - gamlp
+      summary: Centros de abasto en tiempos de cuarentena
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: object
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+    
+  /v1/gamlp/EntidadesFinancieras.json:
+    get:
+      tags:
+      - gamlp
+      summary: Entidades financieras
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: object
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+          
+  /v1/gamlp/ModulosPoliciales.json:
+    get:
+      tags:
+      - gamlp
+      summary: Modulos policiales
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: object
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+  v1/gamlp/Salud.json:
+    get:
+      tags:
+      - gamlp
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: object
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+          
+  /v1/gamsc/abastecimiento-emergencia/Mercados.json:
+    get:
+      tags:
+      - gamsc
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+          
+  /v1/gamsc/abastecimiento-emergencia/MercadosMovil.json:
+    get:
+      tags:
+      - gamsc
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+  
+  /v1/gamsc/abastecimiento-emergencia/Supermercados.json:
+    get:
+      tags:
+      - gamsc
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+
+  /v1/geobo/Mercados2017.json:
+    get:
+      tags:
+      - geobo
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        4040:
+          description: bad input parameter
+
+  
+  /v1/osm/Pharmacy.json:
+    get:
+      tags:
+      - osm
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/InventoryItem'
+        400:
+          description: bad input parameter
+
+  
+  /v1/rmk/Salud.json:
+    get:
+      tags:
+      - rmk
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+      
+      
+  /v1/web/Alimentos.json:
+    get:
+      tags:
+      - web
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+  /v1/web/Salud.json:
+    get:
+      tags:
+      - web
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+  /v1/web/Servicios.json:
+    get:
+      tags:
+      - web
+      summary: 
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        404:
+          description: bad input parameter
+
+
+
+# Added by API Auto Mocking Plugin
+# host: 
+# basePath: 
+schemes:
+ - https
+
+host: lab-tecnosocial.github.io/datos-cuarentenaBO
+# basePath: /
+basePath: /
