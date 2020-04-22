@@ -155,6 +155,3 @@ Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis
 * http://conectandobolivia.fepc.bo/
 * Grupos de facebook
 * Grupos de WhatsApp
-
-**Con el apoyo de Hivos Bolivia**
-
