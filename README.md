@@ -159,4 +159,4 @@ El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cua
 
 ## Atribución
 
-Dependiendo de los datos utilizados, se debe dar credito a la fuente original. Esta sólo una recopilación y adecuación de formato y distribución, exceptuando los datos en el nodo `web` que es una recopilación manual de muchas fuentes. 
+Dependiendo de los datos utilizados, se debe dar credito a su fuente original cuando se usen los datos en algún proyecto. Esta sólo una recopilación, filtrado y adecuación de formato y distribución, exceptuando los datos en el nodo `/web/` que es una recopilación manual de muchas fuentes. 
