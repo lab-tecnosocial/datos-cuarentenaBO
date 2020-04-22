@@ -23,7 +23,7 @@ Valga aclarar que este es un trabajo aún en curso, todo aporte es bienvenido.
 
 La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues los datos provienen de diversas fuentes. Si uno busca datos sobre mercados, por ejemplo, algunas fuentes estarán más completas que otras, tanto en atributos como en extensión. Para la versión 2 (v2) estamos planeando integrar todos los datos en un único modelo. 
 
-## Cantidad de datos hasta el momento
+## Cantidad de registros hasta el momento
 
 ### La Paz (datos municipales)
 
