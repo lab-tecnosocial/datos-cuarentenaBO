@@ -141,7 +141,7 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
-Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminan las medidas de cuarentena y las restricción de movimientos y reuniones. 
+Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena.
 
 El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
 
