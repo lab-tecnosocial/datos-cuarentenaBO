@@ -135,7 +135,7 @@ La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html).
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
 
 ## Soporte y aporte
 
