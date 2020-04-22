@@ -147,7 +147,7 @@ El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cua
 
 ## Fuentes
 
-* https://www.openstreetmap.org/
+* https://www.openstreetmap.org/. Requiere de la atribución de "© Colaboradores de OpenStreetMap". Más info [aquí](https://www.openstreetmap.org/copyright).
 * https://www.cochabamba.bo/application/municipio/mapa
 * http://sitservicios.lapaz.bo/mapas/abasto/
 * https://www.lapaz.bo/
