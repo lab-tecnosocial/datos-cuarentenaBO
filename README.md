@@ -156,3 +156,7 @@ El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cua
 * http://conectandobolivia.fepc.bo/
 * Grupos de facebook
 * Grupos de WhatsApp
+
+## Atribución
+
+Dependiendo de los datos utilizados, se debe dar credito a la fuente original. Esta sólo una recopilación y adecuación de formato y distribución, exceptuando los datos en el nodo `web` que es una recopilación manual de muchas fuentes. 
