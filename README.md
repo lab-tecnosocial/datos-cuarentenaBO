@@ -52,7 +52,7 @@ La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues l
 
 La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado que es una API estática solo soporta solicitudes `GET` sin parametros.
 
-La /v1/ tiene la siguiente estructura con sus respectivos endpoints:
+La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
 
 ```
 ├── gamcb
@@ -141,9 +141,7 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
-Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena.
-
-El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
+Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena. El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
 
 ## Uso en proyectos
 
