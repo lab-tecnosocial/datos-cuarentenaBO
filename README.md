@@ -137,15 +137,15 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
 
 Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación (en construcción)](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
 
+## Uso en proyectos
+
+Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
+
 ## Soporte y aporte
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png)
 
 Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena. El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
-
-## Uso en proyectos
-
-Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
 ## Fuentes
 
