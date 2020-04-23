@@ -145,6 +145,10 @@ Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis
 
 El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
 
+## Uso en proyectos
+
+Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
+
 ## Fuentes
 
 * https://www.openstreetmap.org/. Requiere de la atribución de "© Colaboradores de OpenStreetMap". Más info [aquí](https://www.openstreetmap.org/copyright).
@@ -156,7 +160,3 @@ El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cua
 * http://conectandobolivia.fepc.bo/
 * Grupos de facebook
 * Grupos de WhatsApp
-
-## Atribución
-
-Dependiendo de los datos utilizados, se debe dar credito a su fuente original cuando se usen los datos en algún proyecto. Esta sólo una recopilación, filtrado y adecuación de formato y distribución, exceptuando los datos en el nodo `/web/` que es una recopilación manual de muchas fuentes. 
