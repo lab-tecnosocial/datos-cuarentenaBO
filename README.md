@@ -55,7 +55,6 @@ La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado q
 La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
 
 ```
-├── gamcb
 ├── gamlp
 │   ├── Abasto.csv
 │   ├── Abasto.json
@@ -119,6 +118,8 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
 │   ├── Doctors.json
 │   ├── Hospital.csv
 │   ├── Hospital.json
+│   ├── Marketplace.csv
+│   ├── Marketplace.json
 │   ├── Pharmacy.csv
 │   └── Pharmacy.json
 ├── rmk
@@ -129,6 +130,8 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
 └── web
     ├── Alimentos.csv
     ├── Alimentos.json
+    ├── establecimientos_salud.csv
+    ├── establecimientos_salud.json
     ├── Salud.csv
     ├── Salud.json
     ├── Servicios.csv
@@ -156,5 +159,6 @@ Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis
 * https://guiaurbana.gmsantacruz.gob.bo/guiaurbana/
 * https://geo.gob.bo/
 * http://conectandobolivia.fepc.bo/
+* https://snis.minsalud.gob.bo/
 * Grupos de facebook
 * Grupos de WhatsApp
