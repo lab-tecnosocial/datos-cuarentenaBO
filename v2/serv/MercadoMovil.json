@@ -1,0 +1,2211 @@
+[
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Valle de la Luna",
+    "Direccion": "Av. Mallasa Altura Banderas",
+    "Telefono": "null",
+    "Latitud": -68.1004,
+    "Longitud": -16.5625,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza Uyuni",
+    "Direccion": "Plaza Uyuni",
+    "Telefono": "null",
+    "Latitud": -68.1243,
+    "Longitud": -16.497,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza Lira",
+    "Direccion": "Plaza Lira, Sopocachi",
+    "Telefono": "null",
+    "Latitud": -68.1342,
+    "Longitud": -16.5135,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza Bolivia",
+    "Direccion": "Plaza Bolivia",
+    "Telefono": "null",
+    "Latitud": -68.1266,
+    "Longitud": -16.5069,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Mariscal Santa Cruz",
+    "Direccion": "Av. Segundo Bascones",
+    "Telefono": "null",
+    "Latitud": -68.163,
+    "Longitud": -16.4935,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Kupini",
+    "Direccion": "Av. Escobar Uria y Periferica, interseccion Jockoni y Callapa",
+    "Telefono": "null",
+    "Latitud": -68.0945,
+    "Longitud": -16.5058,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Jupapina",
+    "Direccion": "Av. Tricentenario c. 5 Jupapina",
+    "Telefono": "null",
+    "Latitud": -68.0708,
+    "Longitud": -16.5913,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Heroes del Chaco",
+    "Direccion": "C. Heroes del Chaco entre 1 y 2",
+    "Telefono": "null",
+    "Latitud": -68.1106,
+    "Longitud": -16.5125,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Hernando Siles",
+    "Direccion": "Av. Hernando Siles",
+    "Telefono": "null",
+    "Latitud": -68.105,
+    "Longitud": -16.5571,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Cosmos 85",
+    "Direccion": "Cosmos 85 parada del pumakatari",
+    "Telefono": "null",
+    "Latitud": -68.0943,
+    "Longitud": -16.4867,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Chuquiaguillo",
+    "Direccion": "Av. Ramiro Castillo",
+    "Telefono": "null",
+    "Latitud": -68.1021,
+    "Longitud": -16.4594,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Casegural",
+    "Direccion": "Wilacota",
+    "Telefono": "null",
+    "Latitud": -68.0412,
+    "Longitud": -16.5322,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Caja Ferroviaria",
+    "Direccion": "Caja Ferroviaria, Altura Rotonda",
+    "Telefono": "null",
+    "Latitud": -68.1492,
+    "Longitud": -16.4501,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Baden Pawell",
+    "Direccion": "Plaza Baden Pawell (calles Jaimes y Mariaca)",
+    "Telefono": "null",
+    "Latitud": -68.1173,
+    "Longitud": -16.5047,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "9 de abril",
+    "Direccion": "Av. 5 de agosto",
+    "Telefono": "null",
+    "Latitud": -68.1524,
+    "Longitud": -16.5061,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "24 de junio",
+    "Direccion": "Cancha Zona 24 de junio",
+    "Telefono": "null",
+    "Latitud": -68.1084,
+    "Longitud": -16.4801,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "23 de marzo",
+    "Direccion": "FInaL 23 MARZO (INGRESO VALLE DE LAS FLORES ZOna PAMPAHASI",
+    "Telefono": "null",
+    "Latitud": -68.0999,
+    "Longitud": -16.499,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza Riosinio",
+    "Direccion": "Av. Armentia",
+    "Telefono": "null",
+    "Latitud": -68.1356,
+    "Longitud": -16.4915,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Almirante Grau",
+    "Direccion": "Irpavi calle 5",
+    "Telefono": "null",
+    "Latitud": -68.0874,
+    "Longitud": -16.5242,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "18 de obrajes",
+    "Direccion": "obrajes calle 18",
+    "Telefono": "null",
+    "Latitud": -68.1084,
+    "Longitud": -16.5271,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Universidad Saleciana",
+    "Direccion": "Av. Chacaltaya, Altura Universidad Saleciana",
+    "Telefono": "null",
+    "Latitud": -68.1501,
+    "Longitud": -16.4775,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Cupilupaca",
+    "Direccion": "Av. Periferica, Zona Cupilupaca",
+    "Telefono": "null",
+    "Latitud": -68.1301,
+    "Longitud": -16.4796,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Hogares Fatima",
+    "Direccion": "Zona Hogares Fatima",
+    "Telefono": "null",
+    "Latitud": -68.118,
+    "Longitud": -16.4694,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza El Condor",
+    "Direccion": "Av. Landaeta, media cuadra mas arriba de la plaza el condor",
+    "Telefono": "null",
+    "Latitud": -68.136,
+    "Longitud": -16.5095,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "San Lorenzo",
+    "Direccion": "Av. San Lorenzo, Sede Social",
+    "Telefono": "null",
+    "Latitud": -68.1511,
+    "Longitud": -16.4467,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Plaza Andrew",
+    "Direccion": "Plaza Andrew",
+    "Telefono": "null",
+    "Latitud": -68.1359,
+    "Longitud": -16.5111,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Av. Mario Mercado",
+    "Direccion": "Av. Mario Mercado, frente a la UE Hugo Chavez",
+    "Telefono": "null",
+    "Latitud": -68.1266,
+    "Longitud": -16.5315,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Tres Fuerzas",
+    "Direccion": "Av. Alexander",
+    "Telefono": "null",
+    "Latitud": -68.074,
+    "Longitud": -16.5359,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Virgen de La Merced",
+    "Telefono": "null",
+    "Latitud": -68.0698,
+    "Longitud": -16.5415,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Alto Obrajes",
+    "Direccion": "Alto Obrajes Sector D",
+    "Telefono": "null",
+    "Latitud": -68.103,
+    "Longitud": -16.52,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Bajo Seguencoma",
+    "Direccion": "Bajo Seguencoma",
+    "Telefono": "null",
+    "Latitud": -68.0959,
+    "Longitud": -16.5401,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. BENI",
+    "Telefono": "null",
+    "Latitud": -17.7704,
+    "Longitud": -63.1789,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "ROTONDA 2DO ANILLO CRISTO REDENTOR",
+    "Telefono": "null",
+    "Latitud": -17.7705,
+    "Longitud": -63.1825,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "ROTONDA 2DO ANILLO CENTEnaRIO",
+    "Telefono": "null",
+    "Latitud": -17.7793,
+    "Longitud": -63.1937,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "ROTONDA 2DO ANILLO AV. BRASIL",
+    "Telefono": "null",
+    "Latitud": -17.7874,
+    "Longitud": -63.1643,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "ROTONDA 2DO ANILLO AV. LA BARRANCA",
+    "Telefono": "null",
+    "Latitud": -17.7981,
+    "Longitud": -63.1754,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "MELCHOR PINTO PARADA",
+    "Telefono": "null",
+    "Latitud": -17.783,
+    "Longitud": -63.1722,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. LAS AMERICAS",
+    "Telefono": "null",
+    "Latitud": -17.7919,
+    "Longitud": -63.1777,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "PLAZA ESPA?A / AV. ARGENTIna",
+    "Telefono": "null",
+    "Latitud": -17.7912,
+    "Longitud": -63.1736,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. EJERCITO /AV. IRALA",
+    "Telefono": "null",
+    "Latitud": -17.7932,
+    "Longitud": -63.1869,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. LANDIVAR",
+    "Telefono": "null",
+    "Latitud": -17.7844,
+    "Longitud": -63.1889,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. BRASIL/ AV. VIEDMA",
+    "Telefono": "null",
+    "Latitud": -17.7855,
+    "Longitud": -63.1719,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "CALLE PARI/ ISABEL LA CATOLICA",
+    "Telefono": "null",
+    "Latitud": -17.7886,
+    "Longitud": -63.1878,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7623,
+    "Longitud": -63.1913,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7609,
+    "Longitud": -63.1873,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7599,
+    "Longitud": -63.1828,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7595,
+    "Longitud": -63.1748,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7765,
+    "Longitud": -63.155,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7798,
+    "Longitud": -63.1474,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7857,
+    "Longitud": -63.148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7891,
+    "Longitud": -63.1482,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8024,
+    "Longitud": -63.1516,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8089,
+    "Longitud": -63.1576,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8105,
+    "Longitud": -63.1599,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8059,
+    "Longitud": -63.1541,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8198,
+    "Longitud": -63.1717,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8221,
+    "Longitud": -63.177,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8227,
+    "Longitud": -63.1843,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8192,
+    "Longitud": -63.1983,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8155,
+    "Longitud": -63.2042,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8057,
+    "Longitud": -63.2127,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8013,
+    "Longitud": -63.2148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7918,
+    "Longitud": -63.2167,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7778,
+    "Longitud": -63.2163,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.752,
+    "Longitud": -63.1921,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7505,
+    "Longitud": -63.1868,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7497,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.75,
+    "Longitud": -63.1753,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7518,
+    "Longitud": -63.1639,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7548,
+    "Longitud": -63.1574,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7652,
+    "Longitud": -63.1487,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7756,
+    "Longitud": -63.1471,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7913,
+    "Longitud": -63.1393,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8005,
+    "Longitud": -63.1423,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8077,
+    "Longitud": -63.1412,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8117,
+    "Longitud": -63.1433,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8311,
+    "Longitud": -63.1757,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8324,
+    "Longitud": -63.1945,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8249,
+    "Longitud": -63.2064,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8214,
+    "Longitud": -63.209,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8163,
+    "Longitud": -63.2132,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8016,
+    "Longitud": -63.2263,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7891,
+    "Longitud": -63.2245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7862,
+    "Longitud": -63.2236,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7408,
+    "Longitud": -63.1899,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7374,
+    "Longitud": -63.1797,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7405,
+    "Longitud": -63.1714,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7444,
+    "Longitud": -63.1611,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7478,
+    "Longitud": -63.1524,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7489,
+    "Longitud": -63.1498,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7866,
+    "Longitud": -63.1338,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8015,
+    "Longitud": -63.1353,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7845,
+    "Longitud": -63.1275,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7924,
+    "Longitud": -63.1266,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.797,
+    "Longitud": -63.127,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8022,
+    "Longitud": -63.1276,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.812,
+    "Longitud": -63.1366,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8149,
+    "Longitud": -63.1287,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8211,
+    "Longitud": -63.1358,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8264,
+    "Longitud": -63.1587,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8289,
+    "Longitud": -63.1391,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8344,
+    "Longitud": -63.1657,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8235,
+    "Longitud": -63.1647,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8411,
+    "Longitud": -63.1722,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8407,
+    "Longitud": -63.1605,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8451,
+    "Longitud": -63.1811,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8519,
+    "Longitud": -63.1812,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8591,
+    "Longitud": -63.1864,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8518,
+    "Longitud": -63.1986,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8415,
+    "Longitud": -63.1959,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8356,
+    "Longitud": -63.2082,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8435,
+    "Longitud": -63.2137,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8273,
+    "Longitud": -63.2151,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8373,
+    "Longitud": -63.2231,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8224,
+    "Longitud": -63.2202,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8315,
+    "Longitud": -63.2304,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8174,
+    "Longitud": -63.2257,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8248,
+    "Longitud": -63.234,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8108,
+    "Longitud": -63.2328,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.816,
+    "Longitud": -63.2386,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7249,
+    "Longitud": -63.1908,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7209,
+    "Longitud": -63.1893,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7293,
+    "Longitud": -63.1759,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7223,
+    "Longitud": -63.1734,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7199,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7349,
+    "Longitud": -63.1603,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7283,
+    "Longitud": -63.157,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.731,
+    "Longitud": -63.1502,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8009,
+    "Longitud": -63.1857,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8009,
+    "Longitud": -63.1892,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7981,
+    "Longitud": -63.1927,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7849,
+    "Longitud": -63.195,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8045,
+    "Longitud": -63.1654,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8111,
+    "Longitud": -63.1742,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8106,
+    "Longitud": -63.1774,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.811,
+    "Longitud": -63.1902,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8104,
+    "Longitud": -63.1951,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7373,
+    "Longitud": -63.1542,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7368,
+    "Longitud": -63.1416,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7425,
+    "Longitud": -63.1455,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7348,
+    "Longitud": -63.1439,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.741,
+    "Longitud": -63.148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7426,
+    "Longitud": -63.114,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.752,
+    "Longitud": -63.1291,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7618,
+    "Longitud": -63.1274,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7594,
+    "Longitud": -63.1205,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7163,
+    "Longitud": -63.162,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8294,
+    "Longitud": -63.2001,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7094,
+    "Longitud": -63.16,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7039,
+    "Longitud": -63.1597,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6984,
+    "Longitud": -63.1351,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.687,
+    "Longitud": -63.1464,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7328,
+    "Longitud": -63.156,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7315,
+    "Longitud": -63.1638,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7164,
+    "Longitud": -63.1562,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.696,
+    "Longitud": -63.1591,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7493,
+    "Longitud": -63.1104,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7519,
+    "Longitud": -63.0941,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7501,
+    "Longitud": -63.09,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7535,
+    "Longitud": -63.0987,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7652,
+    "Longitud": -63.1131,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7658,
+    "Longitud": -63.1077,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7768,
+    "Longitud": -63.1075,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7602,
+    "Longitud": -63.0899,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7218,
+    "Longitud": -63.0832,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.759,
+    "Longitud": -63.0994,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7914,
+    "Longitud": -63.0894,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7986,
+    "Longitud": -63.0862,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7835,
+    "Longitud": -63.0907,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7667,
+    "Longitud": -63.0949,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7927,
+    "Longitud": -63.1181,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7929,
+    "Longitud": -63.1085,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7974,
+    "Longitud": -63.1185,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "B. LAS CARMELITAS  UE SARAH PORRAS",
+    "Telefono": "null",
+    "Latitud": -17.796,
+    "Longitud": -63.2231,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. GUAPAY O CAnaL COTOCA",
+    "Telefono": "null",
+    "Latitud": -17.7783,
+    "Longitud": -63.1651,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO PARAGUA",
+    "Telefono": "null",
+    "Latitud": -17.7743,
+    "Longitud": -63.1659,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO MUTUALISTA",
+    "Telefono": "null",
+    "Latitud": -17.7716,
+    "Longitud": -63.1681,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. ALEMAna",
+    "Telefono": "null",
+    "Latitud": -17.7703,
+    "Longitud": -63.1712,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8064,
+    "Longitud": -63.1972,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8039,
+    "Longitud": -63.1992,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.79,
+    "Longitud": -63.2049,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7853,
+    "Longitud": -63.2046,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7776,
+    "Longitud": -63.2036,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7696,
+    "Longitud": -63.2017,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7979,
+    "Longitud": -63.1088,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8024,
+    "Longitud": -63.1171,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8028,
+    "Longitud": -63.1091,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8022,
+    "Longitud": -63.0982,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8217,
+    "Longitud": -63.125,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8138,
+    "Longitud": -63.1098,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8276,
+    "Longitud": -63.0966,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8386,
+    "Longitud": -63.1202,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6941,
+    "Longitud": -63.1636,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.723,
+    "Longitud": -63.1794,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7295,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7368,
+    "Longitud": -63.1116,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8429,
+    "Longitud": -63.1725,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8731,
+    "Longitud": -63.1923,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8539,
+    "Longitud": -63.1468,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8511,
+    "Longitud": -63.2191,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.856,
+    "Longitud": -63.2139,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7141,
+    "Longitud": -63.1864,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6836,
+    "Longitud": -63.1803,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6865,
+    "Longitud": -63.172,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8658,
+    "Longitud": -63.2022,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8546,
+    "Longitud": -63.1636,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.857,
+    "Longitud": -63.1769,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8657,
+    "Longitud": -63.1893,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano/Rural 13",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8857,
+    "Longitud": -63.1145,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7115,
+    "Longitud": -63.1277,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7039,
+    "Longitud": -63.173,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7199,
+    "Longitud": -63.1526,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7281,
+    "Longitud": -63.1359,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7201,
+    "Longitud": -63.1306,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7136,
+    "Longitud": -63.147,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7384,
+    "Longitud": -63.1072,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7354,
+    "Longitud": -63.1017,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7322,
+    "Longitud": -63.0962,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7456,
+    "Longitud": -63.1027,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7433,
+    "Longitud": -63.0977,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7407,
+    "Longitud": -63.0917,
+    "Fuente": "gamsc"
+  }
+]

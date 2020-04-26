@@ -1,0 +1,265 @@
+Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+Cochabamba,CentroMedico,C.S. Alalay,NA,null,"-17,421,917","-66,137,409",rmk
+Cochabamba,CentroMedico,C.S. ALTO COCHABAMBA,NA,null,"-17,424,687","-66,149,130",rmk
+Cochabamba,CentroMedico,HOSPITAL MATERNOLOGICO GERMAN URQUIDI,NA,null,"-17,386,659","-66,148,535",rmk
+Cochabamba,CentroMedico,HOSPITAL PEDIATRICO M.A. VILLARROEL,NA,null,"-17,386,174","-66,148,265",rmk
+Cochabamba,CentroMedico,C.S. BEATO SALOMON,NA,null,"-17,360,823","-66,174,445",rmk
+Cochabamba,CentroMedico,C.S. CERRO VERDE,NA,null,"-17,414,987","-66,143,665",rmk
+Cochabamba,CentroMedico,C.S. CHAVEZ RANCHO,NA,null,"-17,394,885","-66,190,366",rmk
+Cochabamba,CentroMedico,C.S. CHIMBA,NA,null,"-17,405,736","-66,181,741",rmk
+Cochabamba,CentroMedico,INST. GASTROENTEROLOGICO BOLIVIANO-JAPONES,NA,null,"-17,386,190","-66,149,165",rmk
+Cochabamba,CentroMedico,INSTITUTO PSIQUIATRICO SAN JUAN DE DIOS,NA,null,"-17,391,663","-66,231,215",rmk
+Cochabamba,CentroMedico,C.S. CONDEBAMBA,NA,null,"-17,357,187","-66,177,832",rmk
+Cochabamba,CentroMedico,C.S. JAIHUAYCO,NA,null,"-17,416,873","-66,162,925",rmk
+Cochabamba,CentroMedico,C.S. KAnaTA,NA,null,"-17,413,307","-66,159,230",rmk
+Cochabamba,CentroMedico,C.S. LA MAICA,NA,null,"-17,416,621","-66,194,587",rmk
+Cochabamba,CentroMedico,C.S. LACMA,NA,null,"-17,434,458","-66,156,000",rmk
+Cochabamba,CentroMedico,C.S. VILLA ISRAEL PUCARA,NA,null,"-17,486,039","-66,172,578",rmk
+Cochabamba,CentroMedico,C.S. PUCARITA,NA,null,"-17,451,883","-66,201,474",rmk
+Cochabamba,CentroMedico,C.S. ESPAÑA,NA,null,"-17,457,509","-66,156,144",rmk
+Cochabamba,CentroMedico,C.S. SARCOBAMBA,NA,null,"-17,378,976","-66,188,432",rmk
+Cochabamba,CentroMedico,C.S. SEBASTIAN PAGADOR,NA,null,"-17,441,744","-66,116,309",rmk
+Cochabamba,CentroMedico,C.S. TEMPORAL,NA,null,"-17,360,313","-66,158,141",rmk
+Cochabamba,CentroMedico,C.S. TICTI NORTE,NA,null,"-17,349,740","-66,170,602",rmk
+Cochabamba,CentroMedico,HOSPITAL VIEDMA,NA,null,"-17,385,814","-66,148,868",rmk
+Cochabamba,CentroMedico,C.S. GLORIA ALTO BUEna VISTA,NA,null,"-17,469,836","-66,156,082",rmk
+Cochabamba,CentroMedico,C.S. SENNFELD,NA,null,"-17,406,438","-66,152,585",rmk
+Cochabamba,CentroMedico,C.S. VILLA MARIA,NA,null,"-17,394,000","-66,280,000",rmk
+Cochabamba,CentroMedico,C.S. EL PASO,NA,null,"-17,334,000","-66,266,000",rmk
+Cochabamba,CentroMedico,C.S. IRONCOLLO,NA,null,"-17,368,000","-66,283,000",rmk
+Cochabamba,CentroMedico,C.S. KAUSAY,NA,null,"-17,372,000","-66,258,000",rmk
+Cochabamba,CentroMedico,C.S. DISTRITO 3,NA,null,"-17,377,000","-66,288,000",rmk
+Cochabamba,CentroMedico,HOSPITAL QUILLACOLLO,NA,null,"-17,394,000","-66,280,000",rmk
+Cochabamba,CentroMedico,C.S. CALVARIO,NA,null,"-17,394,000","-66,280,000",rmk
+Cochabamba,CentroMedico,C.S.C.C. MALLCO RANCHO,NA,null,"-17,419,396","-66,364,550",rmk
+Cochabamba,CentroMedico,C.S. MONTE NEGRO,NA,null,"-17,454,000","-66,339,000",rmk
+Cochabamba,CentroMedico,C.S. PAYACOLLO,NA,null,"-17,431,179","-66,336,658",rmk
+Cochabamba,CentroMedico,C.S.C.C. SIPE SIPE,NA,null,"-17,455,169","-66,352,460",rmk
+Cochabamba,CentroMedico,C.S. VINTO CHICO,NA,null,"-17,414,686","-66,326,581",rmk
+Cochabamba,CentroMedico,C.S. LINDE,NA,null,"-17,353,188","-66,195,954",rmk
+Cochabamba,CentroMedico,Hospital Municipal de Vinto,NA,null,"-17,397,025","-66,318,349",rmk
+Cochabamba,CentroMedico,C.S. Capacachi,NA,null,"-17,384,712","-66,223,042",rmk
+Cochabamba,CentroMedico,C.S. Kami,NA,null,"-17,367,466","-66,236,312",rmk
+Cochabamba,CentroMedico,Hospital Mexico,NA,null,"-17,400,743","-66,035,197",rmk
+Cochabamba,CentroMedico,Hospital Solomon Klein,NA,null,"-17,383,045","-66,109,678",rmk
+Cochabamba,CentroMedico,C.S. Minero San Juan de Uspa Uspa,NA,null,"-17,482,883","-66,105,355",rmk
+Cochabamba,CentroMedico,Hospital Cochabamba,NA,null,"-17,400,580","-66,156,062",rmk
+Cochabamba,CentroMedico,C.S. Kara Kara,NA,null,"-17,465,414","-66,127,004",rmk
+Cochabamba,CentroMedico,C.S. Tuscapujio,NA,null,"-17,414,051","-66,056,302",rmk
+Cochabamba,CentroMedico,C.S. Huayllania,NA,null,"-17,387,406","-66,058,340",rmk
+Cochabamba,CentroMedico,C.S. Apote,NA,null,"-17,330,083","-66,242,200",rmk
+Cochabamba,CentroMedico,C.S. Alalay,NA,null,"-17,419,816","-66,026,989",rmk
+Cochabamba,CentroMedico,C.S. E Abra,NA,null,"-17,407,712","-66,087,801",rmk
+Cochabamba,CentroMedico,C.S. Maica Central,NA,null,"-17,422,269","-66,202,288",rmk
+Cochabamba,CentroMedico,C.S. Machajmarca,NA,null,"-17,386,859","-66,345,019",rmk
+Cochabamba,CentroMedico,C.S. Villa Oruro,NA,null,"-17,327,000","-66,225,000",rmk
+Cochabamba,CentroMedico,C.S. 4 Esquinas,NA,null,"-17,361,188","-66,227,689",rmk
+Cochabamba,CentroMedico,Hospital Comunitario Valle Hermoso,NA,null,"-17,447,116","-66,126,268",rmk
+Cochabamba,CentroMedico,C.S. Nueva Gante,NA,null,"-17,447,067","-66,144,399",rmk
+Cochabamba,CentroMedico,C.S. Combuyo,NA,null,"-17,362,206","-66,340,638",rmk
+Cochabamba,CentroMedico,C.S. Callaj Chullpa,NA,null,"-17,353,456","-66,243,199",rmk
+Cochabamba,CentroMedico,Hospital Parotani,NA,null,"-17,563,000","-66,346,000",rmk
+Cochabamba,CentroMedico,C.S. Viloma,NA,null,"-17,414,845","-66,381,721",rmk
+Cochabamba,CentroMedico,C.S. Iscaypata,NA,null,"-17,351,558","-66,327,291",rmk
+Cochabamba,CentroMedico,C.S. Keraya,NA,null,"-17,297,000","-66,458,000",rmk
+Cochabamba,CentroMedico,Centro de Salud Chulla,NA,null,"-17,374,595","-66,307,043",rmk
+Cochabamba,CentroMedico,C.S. Ucuchi,NA,null,"-17,414,951","-65,920,996",rmk
+Cochabamba,CentroMedico,C.S. Alto Pagador,NA,null,"-17,450,162","-66,114,232",rmk
+Cochabamba,CentroMedico,C.S. Tajra Itapaya,NA,null,"-17,582,656","-66,332,109",rmk
+Cochabamba,CentroMedico,C.S. Villa Asunción,NA,null,"-17,407,624","-66,294,411",rmk
+Cochabamba,CentroMedico,C.S. Kausay,NA,null,"-17,400,448","-66,283,237",rmk
+Cochabamba,CentroMedico,C.S. Villa Maria,NA,null,"-17,384,125","-66,258,318",rmk
+Cochabamba,CentroMedico,C.S. Simón Bolivar,NA,null,"-17,402,595","-66,235,560",rmk
+Cochabamba,CentroMedico,Centro de Salud Integral Colcapirhua,NA,null,"-17,393,254","-66,227,669",rmk
+Cochabamba,CentroMedico,C.S. Ciudad del Niño,NA,null,"-17,341,771","-66,191,871",rmk
+Cochabamba,CentroMedico,C.S. Pacata D3,NA,null,"-17,365,761","-66,124,186",rmk
+Cochabamba,CentroMedico,C.S. Pacata,NA,null,"-17,373,584","-66,124,244",rmk
+Cochabamba,CentroMedico,C.S. Villa El Mar,NA,null,"-17,359,873","-66,124,561",rmk
+Cochabamba,CentroMedico,C.S. Melga,NA,null,"-17,427,400","-65,914,785",rmk
+Cochabamba,CentroMedico,C.S. Catachilla,NA,null,"-17,404,754","-65,985,254",rmk
+Cochabamba,CentroMedico,C.S. Tutimayo,NA,null,"-17,417,765","-65,950,038",rmk
+Cochabamba,CentroMedico,C.S. Villa Venezuela,NA,null,"-17,426,660","-66,127,266",rmk
+Cochabamba,CentroMedico,C.S. Combase,NA,null,"-17,456,157","-66,160,813",rmk
+Cochabamba,CentroMedico,C.S. Guadalupe,NA,null,"-17,378,273","-66,074,058",rmk
+Cochabamba,CentroMedico,C.S. Laraty,NA,null,"-17,343,549","-66,013,188",rmk
+Cochabamba,CentroMedico,C.S. Pacatasapanani,NA,null,"-17,342,245","-66,054,952",rmk
+Cochabamba,CentroMedico,C.S. Pisli,NA,null,"-17,190,480","-66,026,739",rmk
+Cochabamba,CentroMedico,C.S. Kaluyo Chico,NA,null,"-17,219,088","-66,082,494",rmk
+Cochabamba,CentroMedico,C.S. Ichucollo,NA,null,"-17,187,384","-66,121,404",rmk
+Cochabamba,CentroMedico,C.S. Palca A,NA,null,"-17,187,501","-66,075,569",rmk
+Cochabamba,CentroMedico,Clinica Alvares,NA,null,"-17,396,054","-66,294,895",rmk
+Cochabamba,CentroMedico,"""Santa Rosa"" Centro medico Quirúrgico",NA,null,"-17,396,939","-66,286,427",rmk
+Cochabamba,CentroMedico,Hospitals of Hope,NA,null,"-17,374,211","-66,322,918",rmk
+Cochabamba,CentroMedico,Unidad de nutricion y adulto mayor CRIN,NA,null,"-17,400,029","-66,316,519",rmk
+Cochabamba,CentroMedico,Posta Hospital Esperanza,NA,null,"-17,395,735","-66,315,304",rmk
+Cochabamba,CentroMedico,Clinica Los Gemelos,NA,null,"-17,399,201","-66,285,428",rmk
+Cochabamba,CentroMedico,"Caja nacional de Salud, Quillacollo",NA,null,"-17,396,586","-66,282,576",rmk
+Cochabamba,CentroMedico,Clinica El Carmen,NA,null,"-17,388,676","-66,281,219",rmk
+Cochabamba,CentroMedico,Centro de Pediatríco Niño Jesús,NA,null,"-17,390,206","-66,278,594",rmk
+Cochabamba,CentroMedico,FISIOSAM,NA,null,"-17,394,640","-66,276,482",rmk
+Cochabamba,CentroMedico,"Hospital Villa Moderna, Quillacollo",NA,null,"-17,387,782","-66,281,539",rmk
+Cochabamba,CentroMedico,Clinica Bustamante,NA,null,"-17,389,611","-66,277,184",rmk
+Cochabamba,CentroMedico,Hospital Andres Cushieri,NA,null,"-17,385,496","-66,239,705",rmk
+Cochabamba,CentroMedico,Aquaspa,NA,null,"-17,382,831","-66,277,689",rmk
+Cochabamba,CentroMedico,Instituto Psiquiatrico San Juan De Dios,NA,null,"-17,391,663","-66,231,215",rmk
+Cochabamba,CentroMedico,"Posta Sanitaria, Quillacollo",NA,null,"-17,421,742","-66,286,890",rmk
+Cochabamba,CentroMedico,"Villa Urkupiña, Hospital",NA,null,"-17,422,097","-66,286,909",rmk
+Cochabamba,CentroMedico,Policlinico Quillacollo,NA,null,"-17,392,311","-66,256,974",rmk
+Cochabamba,CentroMedico,Caja de Salud CORDES Quillacollo,NA,null,"-17,393,570","-66,280,843",rmk
+Cochabamba,CentroMedico,CNS Quillacollo,NA,null,"-17,398,821","-66,281,901",rmk
+Cochabamba,CentroMedico,Clinica San Jose,NA,null,"-17,392,687","-66,279,249",rmk
+Cochabamba,CentroMedico,Centro medico Quirurgico LOS ANGELES,NA,null,"-17,393,054","-66,279,409",rmk
+Cochabamba,CentroMedico,Clinica San Bernardo,NA,null,"-17,393,389","-66,277,271",rmk
+Cochabamba,CentroMedico,Centro de Diagnostico y Rehabilitacion Sakura,NA,null,"-17,394,815","-66,227,630",rmk
+Cochabamba,CentroMedico,Hospital de Tiquipaya,NA,null,"-17,337,060","-66,217,664",rmk
+Cochabamba,CentroMedico,"CENTRO RADIOLOGICO ""IMAGEN SALUD""",NA,null,"-17,340,318","-66,219,346",rmk
+Cochabamba,CentroMedico,Posta Medica Chilimarca,NA,null,"-17,334,903","-66,200,212",rmk
+Cochabamba,CentroMedico,Instituto Oncológico nacional CPS,NA,null,"-17,352,724","-66,200,315",rmk
+Cochabamba,CentroMedico,Caja nacional de Salud (Sacaba),NA,null,"-17,402,234","-66,044,726",rmk
+Cochabamba,CentroMedico,Centro de Hemodiálisis Ma. Esperanza,NA,null,"-17,383,584","-66,116,545",rmk
+Cochabamba,CentroMedico,"Clinica ""Asuncion Sacaba""",NA,null,"-17,399,486","-66,036,333",rmk
+Cochabamba,CentroMedico,"Clinica ""Arebalo""",NA,null,"-17,403,124","-66,043,869",rmk
+Cochabamba,CentroMedico,Hospital Salomon Klein,NA,null,"-17,383,045","-66,109,678",rmk
+Cochabamba,CentroMedico,Hospital Harry Williams,NA,null,"-17,419,851","-66,146,825",rmk
+Cochabamba,CentroMedico,Hospital Univalle,NA,null,"-17,421,234","-66,132,900",rmk
+Cochabamba,CentroMedico,Hospital Univalle Norte,NA,null,"-17,372,202","-66,160,836",rmk
+Cochabamba,CentroMedico,Hospital del Sud,NA,null,"-17,450,202","-66,149,911",rmk
+Cochabamba,CentroMedico,ProSalud,NA,null,"-17,364,575","-66,179,145",rmk
+Cochabamba,CentroMedico,"ProSalud, Acre",NA,null,"-17,394,788","-66,180,625",rmk
+Cochabamba,CentroMedico,Clinica Cochabamba,NA,null,"-17,399,628","-66,151,999",rmk
+Cochabamba,CentroMedico,Clinica Boliviana Americana,NA,null,"-17,400,758","-66,153,231",rmk
+Cochabamba,CentroMedico,Clinica Guadalupe,NA,null,"-17,399,301","-66,152,681",rmk
+Cochabamba,CentroMedico,Clinica Los Angeles,NA,null,"-17,378,568","-66,164,733",rmk
+Cochabamba,CentroMedico,Clinica Aranjuez,NA,null,"-17,382,315","-66,153,516",rmk
+Cochabamba,CentroMedico,Clinica San Miguel,NA,null,"-17,414,286","-66,160,793",rmk
+Cochabamba,CentroMedico,Clinica Los Olivos,NA,null,"-17,389,608","-66,179,731",rmk
+Cochabamba,CentroMedico,Centro Medico Los Olivos,NA,null,"-17,377,777","-66,176,236",rmk
+Cochabamba,CentroMedico,Clinica Amazonas Cochabamba Bolivia,NA,null,"-17,396,008","-66,146,992",rmk
+Cochabamba,CentroMedico,Instituto Oftalmológico Cochabamba,NA,null,"-17,386,070","-66,152,300",rmk
+Cochabamba,CentroMedico,Clinica Maria de los Angeles S.R.L.,NA,null,"-17,383,342","-66,149,073",rmk
+Cochabamba,CentroMedico,Clinica Saavedra,NA,null,"-17,397,292","-66,161,201",rmk
+Cochabamba,CentroMedico,Hospital Cochabamba,NA,null,"-17,400,580","-66,156,062",rmk
+Cochabamba,CentroMedico,CIES Cochabamba,NA,null,"-17,398,247","-66,154,054",rmk
+Cochabamba,CentroMedico,Hospital Belga,NA,null,"-17,387,509","-66,153,315",rmk
+Cochabamba,CentroMedico,Seguro Social Universitario Cochabamba,NA,null,"-17,388,533","-66,148,064",rmk
+Cochabamba,CentroMedico,Albina R. de Patiño,NA,null,"-17,394,627","-66,149,613",rmk
+Cochabamba,CentroMedico,Centro De Nutricion Infantil Cerro Verde - Fundacion Abina R. Patiño.,NA,null,"-17,416,451","-66,147,913",rmk
+Cochabamba,CentroMedico,Caja nacional de Salud,NA,null,"-17,393,846","-66,205,853",rmk
+Cochabamba,CentroMedico,Caja de Salud CORDES,NA,null,"-17,376,571","-66,162,707",rmk
+Cochabamba,CentroMedico,"Caja nacional De Salud, Ayacucho",NA,null,"-17,393,957","-66,158,454",rmk
+Cochabamba,CentroMedico,Caja Petrolera de Salud,NA,null,"-17,392,936","-66,154,268",rmk
+Cochabamba,CentroMedico,P.A.I.S.E Caja nacional de Salud,NA,null,"-17,376,575","-66,153,886",rmk
+Cochabamba,CentroMedico,Hospital Edgar Montaño,NA,null,"-17,342,679","-66,179,490",rmk
+Cochabamba,CentroMedico,Centro Medico San Vicente,NA,null,"-17,373,898","-66,144,038",rmk
+Cochabamba,Mercado,MERCADO LA FLORIDA,NA,null,-17.44673,-66.115624,rmk
+Cochabamba,Mercado,MERCADO 10 DE FEBRERO,NA,null,-17.440041,-66.116183,rmk
+Cochabamba,Mercado,MERCADO 10 DE FEBRERO,NA,null,-17.361067,-66.182637,rmk
+Cochabamba,Mercado,MERCADO 1RO DE MARZO,NA,null,-17.394903,-66.154826,rmk
+Cochabamba,Mercado,MERCADO 20 DE FEBRERO,NA,null,-17.419201,-66.144285,rmk
+Cochabamba,Mercado,MERCADO 20 DE OCTUBRE,NA,null,-17.490089,-66.177713,rmk
+Cochabamba,Mercado,MERCADO 25 DE MAYO,NA,null,-17.394938,-66.155352,rmk
+Cochabamba,Mercado,MERCADO 25 DE MAYO -A,NA,null,-17.394676,-66.154392,rmk
+Cochabamba,Mercado,MERCADO 25 DE MAYO B,NA,null,-17.394703,-66.154863,rmk
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,-17.42523,-66.143201,rmk
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,-17.474951,-66.149199,rmk
+Cochabamba,Mercado,MERCADO 8 SEPTIEMBRE - VILLA MEXICO,NA,null,-17.434506,-66.15674,rmk
+Cochabamba,Mercado,MERCADO BARTOLIna SISA,NA,null,-17.4681,-66.206974,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,-17.431632,-66.125808,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,-17.434316,-66.124189,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,-17.430476,-66.126161,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,-17.433555,-66.124678,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO DEL NORTE MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR,NA,null,-17.351226,-66.172623,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO PRIVADO,NA,null,-17.429383,-66.126429,rmk
+Cochabamba,Mercado,MERCADO CERRO VERDE,NA,null,-17.413978,-66.144082,rmk
+Cochabamba,Mercado,MERCADO DE CALA CALA,NA,null,-17.372261,-66.161775,rmk
+Cochabamba,Mercado,MERCADO DE VALLE HERMOSO,NA,null,-17.447943,-66.127207,rmk
+Cochabamba,Mercado,MERCADO DEL OESTE BELEN TOKIO,NA,null,-17.382356,-66.194726,rmk
+Cochabamba,Mercado,MERCADO EL PROGRESO,NA,null,-17.394689,-66.190325,rmk
+Cochabamba,Mercado,MERCADO FERROVIARIO,NA,null,-17.448104,-66.146801,rmk
+Cochabamba,Mercado,MERCADO FIDEL ARANIBAR,NA,null,-17.402795,-66.15396,rmk
+Cochabamba,Mercado,MERCADO INGAVI,NA,null,-17.390127,-66.171077,rmk
+Cochabamba,Mercado,MERCADO JAIHUAYCO,NA,null,-17.415019,-66.164129,rmk
+Cochabamba,Mercado,MERCADO JUAN XXIII,NA,null,-17.388831,-66.203724,rmk
+Cochabamba,Mercado,MERCADO LA PAMPA,NA,null,-17.403778,-66.152052,rmk
+Cochabamba,Mercado,MERCADO LORETO,NA,null,-17.423266,-66.157048,rmk
+Cochabamba,Mercado,MERCADO MISICUNI,NA,null,-17.437367,-66.113235,rmk
+Cochabamba,Mercado,MERCADO MODELO DEL NORTE MINORISTAS,NA,null,-17.351945,-66.172993,rmk
+Cochabamba,Mercado,MERCADO MOLINO EL GALLO,NA,null,-17.406813,-66.155093,rmk
+Cochabamba,Mercado,MERCADO MOLINO SAN LUIS,NA,null,-17.405716,-66.155077,rmk
+Cochabamba,Mercado,MERCADO NORTE CALATAYUD,NA,null,-17.398351,-66.152809,rmk
+Cochabamba,Mercado,MERCADO OSORIO,NA,null,-17.397122,-66.162586,rmk
+Cochabamba,Mercado,MERCADO PAPA PAULO,NA,null,-17.383902,-66.147804,rmk
+Cochabamba,Mercado,MERCADO QUECHISLITAS,NA,null,-17.375475,-66.185751,rmk
+Cochabamba,Mercado,MERCADO SAN ANTONIO,NA,null,-17.402758,-66.155039,rmk
+Cochabamba,Mercado,MERCADO SECCIOnaL 15 DE ABRIL VILLA ALALAY,NA,null,-17.4203,-66.140075,rmk
+Cochabamba,Mercado,MERCADO SUD CALATAYUD,NA,null,-17.39895,-66.152731,rmk
+Cochabamba,Mercado,MERCADO ZOnaL SEÑOR DE MAYO,NA,null,-17.364564,-66.176323,rmk
+Cochabamba,Mercado,MERCADOna,NA,null,-17.413559,-66.165533,rmk
+Cochabamba,Mercado,MOROMERCADO LACTEOS,NA,null,-17.386795,-66.15759,rmk
+Cochabamba,Mercado,MERCADO 1 DE MAYO,NA,null,-17.413385,-66.024177,rmk
+Cochabamba,Mercado,MERCADO BARRIENTOS,NA,null,-17.375997,-66.11821,rmk
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,-17.377808,-66.112576,rmk
+Cochabamba,Mercado,MERCADO ESMERALDA,NA,null,-17.379197,-66.078412,rmk
+Cochabamba,Mercado,MERCADO QUINTANILLA,NA,null,-17.387121,-66.110982,rmk
+Cochabamba,Mercado,MERCADO CENTRAL DE SACABA,NA,null,-17.402336,-66.037375,rmk
+Cochabamba,Mercado,MERCADO HUAYYANI GRANDE/SAN ANTONIO,NA,null,-17.392732,-66.058791,rmk
+Cochabamba,Mercado,MERCADO CENTRAL SACABA,NA,null,-17.404887,-66.038608,rmk
+Cochabamba,Mercado,MERCADO DE BARRIO,NA,null,-17.376497,-66.065552,rmk
+Cochabamba,Mercado,MERCADO EL CARMEN DISTRITO 6,NA,null,-17.41531,-66.079808,rmk
+Cochabamba,Mercado,MERCADO MORRO(GALPON DE PAPA),NA,null,-17.398675,-66.034591,rmk
+Cochabamba,Mercado,MERCADO VILLA UNION,NA,null,-17.414834,-66.082962,rmk
+Cochabamba,Mercado,MERCADO CAPACACHI,NA,null,-17.383518,-66.223757,rmk
+Cochabamba,Mercado,MERCADO CENTRAL DE KAMY,NA,null,-17.365939,-66.234565,rmk
+Cochabamba,Mercado,MERCADO DE ABASTO FLOTIDA NORTE,NA,null,-17.38682,-66.225445,rmk
+Cochabamba,Mercado,MERCADO CENTRAL 27 DE MAYO EL PASO,NA,null,-17.339342,-66.264936,rmk
+Cochabamba,Mercado,MERCADO 9 DE DICIEMBRE,NA,null,-17.399921,-66.28284,rmk
+Cochabamba,Mercado,MERCADO CENTRAL DE QUILLACOLLO,NA,null,-17.397415,-66.279912,rmk
+Cochabamba,Mercado,MERCADO DE PAPAS,NA,null,-17.401411,-66.285074,rmk
+Cochabamba,Mercado,MERCADO DE QUILLACOLLO,NA,null,-17.39575,-66.282603,rmk
+Cochabamba,Mercado,MERCADO MARTIN CARDEnaS,NA,null,-17.406035,-66.282849,rmk
+Cochabamba,Mercado,MERCADO NELIDA DE GUERRA,NA,null,-17.390006,-66.285944,rmk
+Cochabamba,Mercado,MERCADO PLAZA DE GRANOS,NA,null,-17.398767,-66.28404,rmk
+Cochabamba,Mercado,MERCADO VILLA MARIA,NA,null,-17.385642,-66.256822,rmk
+Cochabamba,Mercado,MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B,NA,null,-17.453654,-66.356641,rmk
+Cochabamba,Mercado,MERCADO 17 DE OCTUBRE,NA,null,-17.3463,-66.191154,rmk
+Cochabamba,Mercado,MERCADO 24 DE JUNIO,NA,null,-17.334368,-66.197998,rmk
+Cochabamba,Mercado,MERCADO CENTRAL DE TIQUIPAYA,NA,null,-17.337081,-66.218594,rmk
+Cochabamba,Mercado,MERCADO CHILIMARCA 27 DE MAYO,NA,null,-17.3364,-66.202946,rmk
+Cochabamba,Mercado,MERCADO DE LA COMUNIDAD,NA,null,-17.361834,-66.225057,rmk
+Cochabamba,Mercado,FERIA DEL MERCADO CAMPESINO DE VINTO,NA,null,-17.398895,-66.316346,rmk
+Cochabamba,Mercado,MERCADO CENTRAL CHULLA,NA,null,-17.377769,-66.30824,rmk
+Cochabamba,Mercado,MERCADO DE VINTO,NA,null,-17.39966,-66.316306,rmk
+Cochabamba,Mercado,MERCADO SEXTA,NA,null,-17.39804,-66.326043,rmk
+Cochabamba,Mercado,MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA,NA,null,-17.462301,-66.105928,rmk
+Cochabamba,Mercado,ANTIGUO MERCADO CAMPESINO LAGUna ALALAY,NA,null,-17.4004,-66.142597,rmk
+Cochabamba,Mercado,MEGA MERCADO DE FRUTAS,NA,null,-17.400428,-66.143305,rmk
+Cochabamba,Mercado,Suticollo A,NA,null,-17.451657,-66.338758,rmk
+Cochabamba,Mercado,Suticollo B,NA,null,-17.471811,-66.338513,rmk
+Cochabamba,Mercado,Montenegro,NA,null,-17.411615,-66.331009,rmk
+Cochabamba,Mercado,Alto Mirador,NA,null,-17.393896,-66.31987,rmk
+Cochabamba,Mercado,Chulla Jayata,NA,null,-17.39414,-66.31267,rmk
+Cochabamba,Mercado,Ironcollo,NA,null,-17.353241,-66.287256,rmk
+Cochabamba,Mercado,Mercado Colcapirhua,NA,null,-17.390211,-66.244173,rmk
+Cochabamba,Mercado,Mercado zonal Capacachi,NA,null,-17.387045,-66.220598,rmk
+Cochabamba,Mercado,Callajchuypa,NA,null,-17.354007,-66.242358,rmk
+Cochabamba,Mercado,Feria dominical,NA,null,-17.338155,-66.221165,rmk
+Cochabamba,Mercado,27 De Noviembre Villa Satelite,NA,null,-17.33276,-66.195522,rmk
+Cochabamba,Mercado,24 De Junio Max Fernandez,NA,null,-17.329052,-66.202251,rmk
+Cochabamba,Mercado,Feria dominical Trojes,NA,null,-17.345452,-66.20387,rmk
+Cochabamba,Mercado,17 De Octubre Ciudad Del Niño,NA,null,-17.346317,-66.193558,rmk
+Cochabamba,Mercado,Temporal,NA,null,-17.358879,-66.171872,rmk
+Cochabamba,Mercado,Feria Dominical Guadalupe,NA,null,-17.3515,-66.182097,rmk
+Cochabamba,Mercado,Taquiña,NA,null,-17.350163,-66.185433,rmk
+Cochabamba,Mercado,Villa Taquiña,NA,null,-17.344513,-66.1767,rmk
+Cochabamba,Mercado,Feria dominical,NA,null,-17.342044,-66.179182,rmk
+Cochabamba,Mercado,Cruce Taquiña,NA,null,-17.356744,-66.188116,rmk
+Cochabamba,Mercado,Calampampa,NA,null,-17.357315,-66.184994,rmk
+Cochabamba,Mercado,Los Alamos,NA,null,-17.370885,-66.185652,rmk
+Cochabamba,Mercado,Sarco,NA,null,-17.37343,-66.19152,rmk
+Cochabamba,Mercado,Feria Thunupa,NA,null,-17.379067,-66.188426,rmk
+Cochabamba,Mercado,Coraca,NA,null,-17.398012,-66.186979,rmk
+Cochabamba,Mercado,Pampa grande,NA,null,-17.398067,-66.178581,rmk
+Cochabamba,Mercado,Feria Miercoles Villa Loreto,NA,null,-17.421108,-66.157441,rmk
+Cochabamba,Mercado,Ferial Miercoles Kanata,NA,null,-17.413707,-66.158799,rmk
+Cochabamba,Mercado,Santa Bárbara,NA,null,-17.428427,-66.156129,rmk
+Cochabamba,Mercado,Mercado dominical Humberto Asin,NA,null,-17.442313,-66.116507,rmk

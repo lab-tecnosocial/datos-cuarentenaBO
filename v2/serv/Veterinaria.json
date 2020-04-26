@@ -1,0 +1,401 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Mauricio Camacho",
+    "Direccion": "Z/ Hipódromo",
+    "Telefono": "69448268",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Cristian Herrera",
+    "Direccion": "Z/ Chimba",
+    "Telefono": "75910589",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Mauricio Catorceno",
+    "Direccion": "Circunvalación y Beijing",
+    "Telefono": "70765804",
+    "Latitud": "-17.357125",
+    "Longitud": "-66.175947",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Hospicio Animal",
+    "Direccion": "Tadeo Haenke y Antofagasta",
+    "Telefono": "76472124",
+    "Latitud": "-17.382859",
+    "Longitud": "-66.180372",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Radiografia Digital Malluicy",
+    "Direccion": "Z/ Muyurina",
+    "Telefono": "75900858 - 72743200",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria ExoVet",
+    "Direccion": "Av. Libertador Simón Bolivar #1314",
+    "Telefono": "60393960 - 4424177",
+    "Latitud": "-17.377125",
+    "Longitud": "-66.161148",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Jasmine Torrico",
+    "Direccion": "Puente Cobija",
+    "Telefono": "70794078",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Monica Montes",
+    "Direccion": "Z/ Mesadilla - Pacata",
+    "Telefono": "77417339",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Ameridog",
+    "Direccion": "Ayacucho norte - Costanera",
+    "Telefono": "70727814 - 70750372",
+    "Latitud": "-17.386414",
+    "Longitud": "-66.159959",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "José Luis M",
+    "Direccion": "Av. Víctor Ustariz",
+    "Telefono": "71460528",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Lorena Rojas",
+    "Direccion": "Circunvalación Km. 7 - Sacaba",
+    "Telefono": "76454466",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Don Animales",
+    "Direccion": "Z/ Sud - Base Aérea",
+    "Telefono": "70352125 -  4739462",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Vasan",
+    "Direccion": "Villa Granado",
+    "Telefono": "78364101",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Patushino",
+    "Direccion": "Z/ Las Cuadras av. 9 de Abril",
+    "Telefono": "71412435",
+    "Latitud": "-17.399437",
+    "Longitud": "-66.144656",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Lulyvet",
+    "Direccion": "Av. Huaynakapac - Z/ Villa Coronilla",
+    "Telefono": "null",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Paraiso de los Animales",
+    "Direccion": "Los Ceibos",
+    "Telefono": "79790979",
+    "Latitud": "-17.367883",
+    "Longitud": "-66.171076",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Dulces Mascotas",
+    "Direccion": "Simon Lopez- Z/ Cala Cala",
+    "Telefono": "77413146",
+    "Latitud": "-17.366189",
+    "Longitud": "-66.169723",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria CInaVET",
+    "Direccion": "Z/Quintanilla, Av. Chapare.",
+    "Telefono": "71771720",
+    "Latitud": "-17.388979",
+    "Longitud": "-66.110836",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Punto Pets",
+    "Direccion": "Av. General Galindo y America",
+    "Telefono": "77480497",
+    "Latitud": "-17.37465",
+    "Longitud": "-66.142739",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria VetCat",
+    "Direccion": "Villavivencio y Av. Dorbigni",
+    "Telefono": "72773969 - 74834384",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "Carmen Morales",
+    "Direccion": "Z/ Norte. Candelaria, Segunda Circunvalación. Av. Los Ángeles calle 3",
+    "Telefono": "79983827",
+    "Latitud": "-17.344612",
+    "Longitud": "-66.172317",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Del Sur",
+    "Direccion": "Z/ Calacoto",
+    "Telefono": "70616221",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Animal Centro medico",
+    "Direccion": "Av. Montenegro",
+    "Telefono": "73006002",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Dogtora Osita",
+    "Telefono": "78910774",
+    "Latitud": "-16.523415",
+    "Longitud": "-68.148859",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "San José",
+    "Direccion": "C/Teniente Oquendo N°290",
+    "Telefono": "71247989",
+    "Latitud": "-16.487455",
+    "Longitud": "-68.142825",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Wolf Vet",
+    "Direccion": "C/Juanito Benavente",
+    "Telefono": "75206916",
+    "Latitud": "-16.510631",
+    "Longitud": "-68.130081",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Petite Pompom",
+    "Direccion": "Av. Sánchez Lima",
+    "Telefono": "71503365",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Fátima",
+    "Direccion": "Z/Chasquipampa",
+    "Telefono": "72849127",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Mejor Amigo",
+    "Direccion": "Z/Villa Fátima",
+    "Telefono": "71246688",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Canis y Feliz",
+    "Direccion": "Plaza Villarroel",
+    "Telefono": "68044781",
+    "Latitud": "-16.484212",
+    "Longitud": "-68.121062",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Sabuezo",
+    "Direccion": "Av. Tito Hupanqui",
+    "Telefono": "77244537",
+    "Latitud": "-16.493207",
+    "Longitud": "-68.117341",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Bigotes",
+    "Direccion": "Av. Iturralde",
+    "Telefono": "70144342",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Animalandia",
+    "Direccion": "C/Colombia",
+    "Telefono": "70149500",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Peñaranda",
+    "Direccion": "Z/Chuquisaca",
+    "Telefono": "79130429",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Animal Town",
+    "Direccion": "Z/Bajo Llojeta",
+    "Telefono": "76242259",
+    "Latitud": "-16.510168",
+    "Longitud": "-68.132681",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Doberman",
+    "Direccion": "C/Claudio Sanjinez",
+    "Telefono": "72539572",
+    "Latitud": "-16.505554",
+    "Longitud": "-68.119471",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Mariano Rubín de Celiz",
+    "Direccion": "Plaza Villarroel",
+    "Telefono": "75823142",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Engreidogs",
+    "Direccion": "Av. Baltazar de Salas",
+    "Telefono": "78923498",
+    "Latitud": "-16.482388",
+    "Longitud": "-68.141914",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Veterinaria",
+    "Nombre": "Veterinaria Ciudad Satélite",
+    "Direccion": "Ciudad Satélite",
+    "Telefono": "78801673",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Veterinaria",
+    "Nombre": "CentralVet",
+    "Direccion": "Calle Colombia 641 entre Lanza y Antezana",
+    "Telefono": "4230865 - 65368404 - 65368404",
+    "Latitud": "-17.390496",
+    "Longitud": "-66.153997",
+    "Fuente": "web"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "Departamento": "La Paz",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "70169907 - 76217775",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "71554627 - 71554670",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "72949005 - 71554631",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "72329947 - 78603180",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "3431222 - 3530008",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "El Alto",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "71948831 - 78848039",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "77117444 - 68660082",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "75895532 - 73934734",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "72697370 - 72938540",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "72365931 - 79436705",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "EquiposBioseguridad",
+    "Nombre": "SEDEM",
+    "Telefono": "77841467 - 73216064",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

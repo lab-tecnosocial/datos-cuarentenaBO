@@ -1,0 +1,2378 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Alalay",
+    "Telefono": "null",
+    "Latitud": -17421917,
+    "Longitud": -66137409,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. ALTO COCHABAMBA",
+    "Telefono": "null",
+    "Latitud": -17424687,
+    "Longitud": -66149130,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL MATERNOLOGICO GERMAN URQUIDI",
+    "Telefono": "null",
+    "Latitud": -17386659,
+    "Longitud": -66148535,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL PEDIATRICO M.A. VILLARROEL",
+    "Telefono": "null",
+    "Latitud": -17386174,
+    "Longitud": -66148265,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. BEATO SALOMON",
+    "Telefono": "null",
+    "Latitud": -17360823,
+    "Longitud": -66174445,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. CERRO VERDE",
+    "Telefono": "null",
+    "Latitud": -17414987,
+    "Longitud": -66143665,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. CHAVEZ RANCHO",
+    "Telefono": "null",
+    "Latitud": -17394885,
+    "Longitud": -66190366,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. CHIMBA",
+    "Telefono": "null",
+    "Latitud": -17405736,
+    "Longitud": -66181741,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "INST. GASTROENTEROLOGICO BOLIVIANO-JAPONES",
+    "Telefono": "null",
+    "Latitud": -17386190,
+    "Longitud": -66149165,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "INSTITUTO PSIQUIATRICO SAN JUAN DE DIOS",
+    "Telefono": "null",
+    "Latitud": -17391663,
+    "Longitud": -66231215,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. CONDEBAMBA",
+    "Telefono": "null",
+    "Latitud": -17357187,
+    "Longitud": -66177832,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. JAIHUAYCO",
+    "Telefono": "null",
+    "Latitud": -17416873,
+    "Longitud": -66162925,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. KAnaTA",
+    "Telefono": "null",
+    "Latitud": -17413307,
+    "Longitud": -66159230,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. LA MAICA",
+    "Telefono": "null",
+    "Latitud": -17416621,
+    "Longitud": -66194587,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. LACMA",
+    "Telefono": "null",
+    "Latitud": -17434458,
+    "Longitud": -66156000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. VILLA ISRAEL PUCARA",
+    "Telefono": "null",
+    "Latitud": -17486039,
+    "Longitud": -66172578,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. PUCARITA",
+    "Telefono": "null",
+    "Latitud": -17451883,
+    "Longitud": -66201474,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. ESPAÑA",
+    "Telefono": "null",
+    "Latitud": -17457509,
+    "Longitud": -66156144,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. SARCOBAMBA",
+    "Telefono": "null",
+    "Latitud": -17378976,
+    "Longitud": -66188432,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. SEBASTIAN PAGADOR",
+    "Telefono": "null",
+    "Latitud": -17441744,
+    "Longitud": -66116309,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. TEMPORAL",
+    "Telefono": "null",
+    "Latitud": -17360313,
+    "Longitud": -66158141,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. TICTI NORTE",
+    "Telefono": "null",
+    "Latitud": -17349740,
+    "Longitud": -66170602,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL VIEDMA",
+    "Telefono": "null",
+    "Latitud": -17385814,
+    "Longitud": -66148868,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. GLORIA ALTO BUEna VISTA",
+    "Telefono": "null",
+    "Latitud": -17469836,
+    "Longitud": -66156082,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. SENNFELD",
+    "Telefono": "null",
+    "Latitud": -17406438,
+    "Longitud": -66152585,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. VILLA MARIA",
+    "Telefono": "null",
+    "Latitud": -17394000,
+    "Longitud": -66280000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. EL PASO",
+    "Telefono": "null",
+    "Latitud": -17334000,
+    "Longitud": -66266000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. IRONCOLLO",
+    "Telefono": "null",
+    "Latitud": -17368000,
+    "Longitud": -66283000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. KAUSAY",
+    "Telefono": "null",
+    "Latitud": -17372000,
+    "Longitud": -66258000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. DISTRITO 3",
+    "Telefono": "null",
+    "Latitud": -17377000,
+    "Longitud": -66288000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17394000,
+    "Longitud": -66280000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. CALVARIO",
+    "Telefono": "null",
+    "Latitud": -17394000,
+    "Longitud": -66280000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S.C.C. MALLCO RANCHO",
+    "Telefono": "null",
+    "Latitud": -17419396,
+    "Longitud": -66364550,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. MONTE NEGRO",
+    "Telefono": "null",
+    "Latitud": -17454000,
+    "Longitud": -66339000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. PAYACOLLO",
+    "Telefono": "null",
+    "Latitud": -17431179,
+    "Longitud": -66336658,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S.C.C. SIPE SIPE",
+    "Telefono": "null",
+    "Latitud": -17455169,
+    "Longitud": -66352460,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. VINTO CHICO",
+    "Telefono": "null",
+    "Latitud": -17414686,
+    "Longitud": -66326581,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. LINDE",
+    "Telefono": "null",
+    "Latitud": -17353188,
+    "Longitud": -66195954,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Municipal de Vinto",
+    "Telefono": "null",
+    "Latitud": -17397025,
+    "Longitud": -66318349,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Capacachi",
+    "Telefono": "null",
+    "Latitud": -17384712,
+    "Longitud": -66223042,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Kami",
+    "Telefono": "null",
+    "Latitud": -17367466,
+    "Longitud": -66236312,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Mexico",
+    "Telefono": "null",
+    "Latitud": -17400743,
+    "Longitud": -66035197,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Solomon Klein",
+    "Telefono": "null",
+    "Latitud": -17383045,
+    "Longitud": -66109678,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Minero San Juan de Uspa Uspa",
+    "Telefono": "null",
+    "Latitud": -17482883,
+    "Longitud": -66105355,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17400580,
+    "Longitud": -66156062,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Kara Kara",
+    "Telefono": "null",
+    "Latitud": -17465414,
+    "Longitud": -66127004,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Tuscapujio",
+    "Telefono": "null",
+    "Latitud": -17414051,
+    "Longitud": -66056302,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Huayllania",
+    "Telefono": "null",
+    "Latitud": -17387406,
+    "Longitud": -66058340,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Apote",
+    "Telefono": "null",
+    "Latitud": -17330083,
+    "Longitud": -66242200,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Alalay",
+    "Telefono": "null",
+    "Latitud": -17419816,
+    "Longitud": -66026989,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. E Abra",
+    "Telefono": "null",
+    "Latitud": -17407712,
+    "Longitud": -66087801,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Maica Central",
+    "Telefono": "null",
+    "Latitud": -17422269,
+    "Longitud": -66202288,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Machajmarca",
+    "Telefono": "null",
+    "Latitud": -17386859,
+    "Longitud": -66345019,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Villa Oruro",
+    "Telefono": "null",
+    "Latitud": -17327000,
+    "Longitud": -66225000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. 4 Esquinas",
+    "Telefono": "null",
+    "Latitud": -17361188,
+    "Longitud": -66227689,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Comunitario Valle Hermoso",
+    "Telefono": "null",
+    "Latitud": -17447116,
+    "Longitud": -66126268,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Nueva Gante",
+    "Telefono": "null",
+    "Latitud": -17447067,
+    "Longitud": -66144399,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Combuyo",
+    "Telefono": "null",
+    "Latitud": -17362206,
+    "Longitud": -66340638,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Callaj Chullpa",
+    "Telefono": "null",
+    "Latitud": -17353456,
+    "Longitud": -66243199,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Parotani",
+    "Telefono": "null",
+    "Latitud": -17563000,
+    "Longitud": -66346000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Viloma",
+    "Telefono": "null",
+    "Latitud": -17414845,
+    "Longitud": -66381721,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Iscaypata",
+    "Telefono": "null",
+    "Latitud": -17351558,
+    "Longitud": -66327291,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Keraya",
+    "Telefono": "null",
+    "Latitud": -17297000,
+    "Longitud": -66458000,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro de Salud Chulla",
+    "Telefono": "null",
+    "Latitud": -17374595,
+    "Longitud": -66307043,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Ucuchi",
+    "Telefono": "null",
+    "Latitud": -17414951,
+    "Longitud": -65920996,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Alto Pagador",
+    "Telefono": "null",
+    "Latitud": -17450162,
+    "Longitud": -66114232,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Tajra Itapaya",
+    "Telefono": "null",
+    "Latitud": -17582656,
+    "Longitud": -66332109,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Villa Asunción",
+    "Telefono": "null",
+    "Latitud": -17407624,
+    "Longitud": -66294411,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Kausay",
+    "Telefono": "null",
+    "Latitud": -17400448,
+    "Longitud": -66283237,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Villa Maria",
+    "Telefono": "null",
+    "Latitud": -17384125,
+    "Longitud": -66258318,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Simón Bolivar",
+    "Telefono": "null",
+    "Latitud": -17402595,
+    "Longitud": -66235560,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro de Salud Integral Colcapirhua",
+    "Telefono": "null",
+    "Latitud": -17393254,
+    "Longitud": -66227669,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Ciudad del Niño",
+    "Telefono": "null",
+    "Latitud": -17341771,
+    "Longitud": -66191871,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Pacata D3",
+    "Telefono": "null",
+    "Latitud": -17365761,
+    "Longitud": -66124186,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Pacata",
+    "Telefono": "null",
+    "Latitud": -17373584,
+    "Longitud": -66124244,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Villa El Mar",
+    "Telefono": "null",
+    "Latitud": -17359873,
+    "Longitud": -66124561,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Melga",
+    "Telefono": "null",
+    "Latitud": -17427400,
+    "Longitud": -65914785,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Catachilla",
+    "Telefono": "null",
+    "Latitud": -17404754,
+    "Longitud": -65985254,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Tutimayo",
+    "Telefono": "null",
+    "Latitud": -17417765,
+    "Longitud": -65950038,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Villa Venezuela",
+    "Telefono": "null",
+    "Latitud": -17426660,
+    "Longitud": -66127266,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Combase",
+    "Telefono": "null",
+    "Latitud": -17456157,
+    "Longitud": -66160813,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Guadalupe",
+    "Telefono": "null",
+    "Latitud": -17378273,
+    "Longitud": -66074058,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Laraty",
+    "Telefono": "null",
+    "Latitud": -17343549,
+    "Longitud": -66013188,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Pacatasapanani",
+    "Telefono": "null",
+    "Latitud": -17342245,
+    "Longitud": -66054952,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Pisli",
+    "Telefono": "null",
+    "Latitud": -17190480,
+    "Longitud": -66026739,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Kaluyo Chico",
+    "Telefono": "null",
+    "Latitud": -17219088,
+    "Longitud": -66082494,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Ichucollo",
+    "Telefono": "null",
+    "Latitud": -17187384,
+    "Longitud": -66121404,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "C.S. Palca A",
+    "Telefono": "null",
+    "Latitud": -17187501,
+    "Longitud": -66075569,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Alvares",
+    "Telefono": "null",
+    "Latitud": -17396054,
+    "Longitud": -66294895,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "\"Santa Rosa\" Centro medico Quirúrgico",
+    "Telefono": "null",
+    "Latitud": -17396939,
+    "Longitud": -66286427,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospitals of Hope",
+    "Telefono": "null",
+    "Latitud": -17374211,
+    "Longitud": -66322918,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Unidad de nutricion y adulto mayor CRIN",
+    "Telefono": "null",
+    "Latitud": -17400029,
+    "Longitud": -66316519,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Posta Hospital Esperanza",
+    "Telefono": "null",
+    "Latitud": -17395735,
+    "Longitud": -66315304,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Los Gemelos",
+    "Telefono": "null",
+    "Latitud": -17399201,
+    "Longitud": -66285428,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja nacional de Salud, Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17396586,
+    "Longitud": -66282576,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica El Carmen",
+    "Telefono": "null",
+    "Latitud": -17388676,
+    "Longitud": -66281219,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro de Pediatríco Niño Jesús",
+    "Telefono": "null",
+    "Latitud": -17390206,
+    "Longitud": -66278594,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "FISIOSAM",
+    "Telefono": "null",
+    "Latitud": -17394640,
+    "Longitud": -66276482,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Villa Moderna, Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17387782,
+    "Longitud": -66281539,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Bustamante",
+    "Telefono": "null",
+    "Latitud": -17389611,
+    "Longitud": -66277184,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Andres Cushieri",
+    "Telefono": "null",
+    "Latitud": -17385496,
+    "Longitud": -66239705,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Aquaspa",
+    "Telefono": "null",
+    "Latitud": -17382831,
+    "Longitud": -66277689,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Instituto Psiquiatrico San Juan De Dios",
+    "Telefono": "null",
+    "Latitud": -17391663,
+    "Longitud": -66231215,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Posta Sanitaria, Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17421742,
+    "Longitud": -66286890,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Villa Urkupiña, Hospital",
+    "Telefono": "null",
+    "Latitud": -17422097,
+    "Longitud": -66286909,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Policlinico Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17392311,
+    "Longitud": -66256974,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja de Salud CORDES Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17393570,
+    "Longitud": -66280843,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "CNS Quillacollo",
+    "Telefono": "null",
+    "Latitud": -17398821,
+    "Longitud": -66281901,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica San Jose",
+    "Telefono": "null",
+    "Latitud": -17392687,
+    "Longitud": -66279249,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro medico Quirurgico LOS ANGELES",
+    "Telefono": "null",
+    "Latitud": -17393054,
+    "Longitud": -66279409,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica San Bernardo",
+    "Telefono": "null",
+    "Latitud": -17393389,
+    "Longitud": -66277271,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro de Diagnostico y Rehabilitacion Sakura",
+    "Telefono": "null",
+    "Latitud": -17394815,
+    "Longitud": -66227630,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital de Tiquipaya",
+    "Telefono": "null",
+    "Latitud": -17337060,
+    "Longitud": -66217664,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO RADIOLOGICO \"IMAGEN SALUD\"",
+    "Telefono": "null",
+    "Latitud": -17340318,
+    "Longitud": -66219346,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Posta Medica Chilimarca",
+    "Telefono": "null",
+    "Latitud": -17334903,
+    "Longitud": -66200212,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Instituto Oncológico nacional CPS",
+    "Telefono": "null",
+    "Latitud": -17352724,
+    "Longitud": -66200315,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja nacional de Salud (Sacaba)",
+    "Telefono": "null",
+    "Latitud": -17402234,
+    "Longitud": -66044726,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro de Hemodiálisis Ma. Esperanza",
+    "Telefono": "null",
+    "Latitud": -17383584,
+    "Longitud": -66116545,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica \"Asuncion Sacaba\"",
+    "Telefono": "null",
+    "Latitud": -17399486,
+    "Longitud": -66036333,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica \"Arebalo\"",
+    "Telefono": "null",
+    "Latitud": -17403124,
+    "Longitud": -66043869,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Salomon Klein",
+    "Telefono": "null",
+    "Latitud": -17383045,
+    "Longitud": -66109678,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Harry Williams",
+    "Telefono": "null",
+    "Latitud": -17419851,
+    "Longitud": -66146825,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Univalle",
+    "Telefono": "null",
+    "Latitud": -17421234,
+    "Longitud": -66132900,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Univalle Norte",
+    "Telefono": "null",
+    "Latitud": -17372202,
+    "Longitud": -66160836,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital del Sud",
+    "Telefono": "null",
+    "Latitud": -17450202,
+    "Longitud": -66149911,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "ProSalud",
+    "Telefono": "null",
+    "Latitud": -17364575,
+    "Longitud": -66179145,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "ProSalud, Acre",
+    "Telefono": "null",
+    "Latitud": -17394788,
+    "Longitud": -66180625,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17399628,
+    "Longitud": -66151999,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Boliviana Americana",
+    "Telefono": "null",
+    "Latitud": -17400758,
+    "Longitud": -66153231,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Guadalupe",
+    "Telefono": "null",
+    "Latitud": -17399301,
+    "Longitud": -66152681,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Los Angeles",
+    "Telefono": "null",
+    "Latitud": -17378568,
+    "Longitud": -66164733,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Aranjuez",
+    "Telefono": "null",
+    "Latitud": -17382315,
+    "Longitud": -66153516,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica San Miguel",
+    "Telefono": "null",
+    "Latitud": -17414286,
+    "Longitud": -66160793,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Los Olivos",
+    "Telefono": "null",
+    "Latitud": -17389608,
+    "Longitud": -66179731,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro Medico Los Olivos",
+    "Telefono": "null",
+    "Latitud": -17377777,
+    "Longitud": -66176236,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Amazonas Cochabamba Bolivia",
+    "Telefono": "null",
+    "Latitud": -17396008,
+    "Longitud": -66146992,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Instituto Oftalmológico Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17386070,
+    "Longitud": -66152300,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Maria de los Angeles S.R.L.",
+    "Telefono": "null",
+    "Latitud": -17383342,
+    "Longitud": -66149073,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Clinica Saavedra",
+    "Telefono": "null",
+    "Latitud": -17397292,
+    "Longitud": -66161201,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17400580,
+    "Longitud": -66156062,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "CIES Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17398247,
+    "Longitud": -66154054,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Belga",
+    "Telefono": "null",
+    "Latitud": -17387509,
+    "Longitud": -66153315,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Seguro Social Universitario Cochabamba",
+    "Telefono": "null",
+    "Latitud": -17388533,
+    "Longitud": -66148064,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Albina R. de Patiño",
+    "Telefono": "null",
+    "Latitud": -17394627,
+    "Longitud": -66149613,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro De Nutricion Infantil Cerro Verde - Fundacion Abina R. Patiño.",
+    "Telefono": "null",
+    "Latitud": -17416451,
+    "Longitud": -66147913,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja nacional de Salud",
+    "Telefono": "null",
+    "Latitud": -17393846,
+    "Longitud": -66205853,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja de Salud CORDES",
+    "Telefono": "null",
+    "Latitud": -17376571,
+    "Longitud": -66162707,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja nacional De Salud, Ayacucho",
+    "Telefono": "null",
+    "Latitud": -17393957,
+    "Longitud": -66158454,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Caja Petrolera de Salud",
+    "Telefono": "null",
+    "Latitud": -17392936,
+    "Longitud": -66154268,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "P.A.I.S.E Caja nacional de Salud",
+    "Telefono": "null",
+    "Latitud": -17376575,
+    "Longitud": -66153886,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Hospital Edgar Montaño",
+    "Telefono": "null",
+    "Latitud": -17342679,
+    "Longitud": -66179490,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "CentroMedico",
+    "Nombre": "Centro Medico San Vicente",
+    "Telefono": "null",
+    "Latitud": -17373898,
+    "Longitud": -66144038,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA FLORIDA",
+    "Telefono": "null",
+    "Latitud": -17.4467,
+    "Longitud": -66.1156,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17.44,
+    "Longitud": -66.1162,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17.3611,
+    "Longitud": -66.1826,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1RO DE MARZO",
+    "Telefono": "null",
+    "Latitud": -17.3949,
+    "Longitud": -66.1548,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 20 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17.4192,
+    "Longitud": -66.1443,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 20 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17.4901,
+    "Longitud": -66.1777,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.3949,
+    "Longitud": -66.1554,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO -A",
+    "Telefono": "null",
+    "Latitud": -17.3947,
+    "Longitud": -66.1544,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO B",
+    "Telefono": "null",
+    "Latitud": -17.3947,
+    "Longitud": -66.1549,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.4252,
+    "Longitud": -66.1432,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.475,
+    "Longitud": -66.1492,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 SEPTIEMBRE - VILLA MEXICO",
+    "Telefono": "null",
+    "Latitud": -17.4345,
+    "Longitud": -66.1567,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARTOLIna SISA",
+    "Telefono": "null",
+    "Latitud": -17.4681,
+    "Longitud": -66.207,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17.4316,
+    "Longitud": -66.1258,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17.4343,
+    "Longitud": -66.1242,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17.4305,
+    "Longitud": -66.1262,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17.4336,
+    "Longitud": -66.1247,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO DEL NORTE MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR",
+    "Telefono": "null",
+    "Latitud": -17.3512,
+    "Longitud": -66.1726,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO PRIVADO",
+    "Telefono": "null",
+    "Latitud": -17.4294,
+    "Longitud": -66.1264,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CERRO VERDE",
+    "Telefono": "null",
+    "Latitud": -17.414,
+    "Longitud": -66.1441,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE CALA CALA",
+    "Telefono": "null",
+    "Latitud": -17.3723,
+    "Longitud": -66.1618,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VALLE HERMOSO",
+    "Telefono": "null",
+    "Latitud": -17.4479,
+    "Longitud": -66.1272,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DEL OESTE BELEN TOKIO",
+    "Telefono": "null",
+    "Latitud": -17.3824,
+    "Longitud": -66.1947,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL PROGRESO",
+    "Telefono": "null",
+    "Latitud": -17.3947,
+    "Longitud": -66.1903,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FERROVIARIO",
+    "Telefono": "null",
+    "Latitud": -17.4481,
+    "Longitud": -66.1468,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FIDEL ARANIBAR",
+    "Telefono": "null",
+    "Latitud": -17.4028,
+    "Longitud": -66.154,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO INGAVI",
+    "Telefono": "null",
+    "Latitud": -17.3901,
+    "Longitud": -66.1711,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JAIHUAYCO",
+    "Telefono": "null",
+    "Latitud": -17.415,
+    "Longitud": -66.1641,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JUAN XXIII",
+    "Telefono": "null",
+    "Latitud": -17.3888,
+    "Longitud": -66.2037,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAMPA",
+    "Telefono": "null",
+    "Latitud": -17.4038,
+    "Longitud": -66.1521,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LORETO",
+    "Telefono": "null",
+    "Latitud": -17.4233,
+    "Longitud": -66.157,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MISICUNI",
+    "Telefono": "null",
+    "Latitud": -17.4374,
+    "Longitud": -66.1132,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO DEL NORTE MINORISTAS",
+    "Telefono": "null",
+    "Latitud": -17.3519,
+    "Longitud": -66.173,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MOLINO EL GALLO",
+    "Telefono": "null",
+    "Latitud": -17.4068,
+    "Longitud": -66.1551,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MOLINO SAN LUIS",
+    "Telefono": "null",
+    "Latitud": -17.4057,
+    "Longitud": -66.1551,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NORTE CALATAYUD",
+    "Telefono": "null",
+    "Latitud": -17.3984,
+    "Longitud": -66.1528,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO OSORIO",
+    "Telefono": "null",
+    "Latitud": -17.3971,
+    "Longitud": -66.1626,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PAPA PAULO",
+    "Telefono": "null",
+    "Latitud": -17.3839,
+    "Longitud": -66.1478,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO QUECHISLITAS",
+    "Telefono": "null",
+    "Latitud": -17.3755,
+    "Longitud": -66.1858,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -17.4028,
+    "Longitud": -66.155,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SECCIOnaL 15 DE ABRIL VILLA ALALAY",
+    "Telefono": "null",
+    "Latitud": -17.4203,
+    "Longitud": -66.1401,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SUD CALATAYUD",
+    "Telefono": "null",
+    "Latitud": -17.399,
+    "Longitud": -66.1527,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ZOnaL SEÑOR DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.3646,
+    "Longitud": -66.1763,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADOna",
+    "Telefono": "null",
+    "Latitud": -17.4136,
+    "Longitud": -66.1655,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MOROMERCADO LACTEOS",
+    "Telefono": "null",
+    "Latitud": -17.3868,
+    "Longitud": -66.1576,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.4134,
+    "Longitud": -66.0242,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARRIENTOS",
+    "Telefono": "null",
+    "Latitud": -17.376,
+    "Longitud": -66.1182,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17.3778,
+    "Longitud": -66.1126,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ESMERALDA",
+    "Telefono": "null",
+    "Latitud": -17.3792,
+    "Longitud": -66.0784,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO QUINTANILLA",
+    "Telefono": "null",
+    "Latitud": -17.3871,
+    "Longitud": -66.111,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE SACABA",
+    "Telefono": "null",
+    "Latitud": -17.4023,
+    "Longitud": -66.0374,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO HUAYYANI GRANDE/SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -17.3927,
+    "Longitud": -66.0588,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SACABA",
+    "Telefono": "null",
+    "Latitud": -17.4049,
+    "Longitud": -66.0386,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE BARRIO",
+    "Telefono": "null",
+    "Latitud": -17.3765,
+    "Longitud": -66.0656,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN DISTRITO 6",
+    "Telefono": "null",
+    "Latitud": -17.4153,
+    "Longitud": -66.0798,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MORRO(GALPON DE PAPA)",
+    "Telefono": "null",
+    "Latitud": -17.3987,
+    "Longitud": -66.0346,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA UNION",
+    "Telefono": "null",
+    "Latitud": -17.4148,
+    "Longitud": -66.083,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAPACACHI",
+    "Telefono": "null",
+    "Latitud": -17.3835,
+    "Longitud": -66.2238,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE KAMY",
+    "Telefono": "null",
+    "Latitud": -17.3659,
+    "Longitud": -66.2346,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE ABASTO FLOTIDA NORTE",
+    "Telefono": "null",
+    "Latitud": -17.3868,
+    "Longitud": -66.2254,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL 27 DE MAYO EL PASO",
+    "Telefono": "null",
+    "Latitud": -17.3393,
+    "Longitud": -66.2649,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 9 DE DICIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17.3999,
+    "Longitud": -66.2828,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17.3974,
+    "Longitud": -66.2799,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE PAPAS",
+    "Telefono": "null",
+    "Latitud": -17.4014,
+    "Longitud": -66.2851,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17.3957,
+    "Longitud": -66.2826,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MARTIN CARDEnaS",
+    "Telefono": "null",
+    "Latitud": -17.406,
+    "Longitud": -66.2828,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NELIDA DE GUERRA",
+    "Telefono": "null",
+    "Latitud": -17.39,
+    "Longitud": -66.2859,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PLAZA DE GRANOS",
+    "Telefono": "null",
+    "Latitud": -17.3988,
+    "Longitud": -66.284,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA MARIA",
+    "Telefono": "null",
+    "Latitud": -17.3856,
+    "Longitud": -66.2568,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B",
+    "Telefono": "null",
+    "Latitud": -17.4537,
+    "Longitud": -66.3566,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 17 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17.3463,
+    "Longitud": -66.1912,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 24 DE JUNIO",
+    "Telefono": "null",
+    "Latitud": -17.3344,
+    "Longitud": -66.198,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE TIQUIPAYA",
+    "Telefono": "null",
+    "Latitud": -17.3371,
+    "Longitud": -66.2186,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CHILIMARCA 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17.3364,
+    "Longitud": -66.2029,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE LA COMUNIDAD",
+    "Telefono": "null",
+    "Latitud": -17.3618,
+    "Longitud": -66.2251,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "FERIA DEL MERCADO CAMPESINO DE VINTO",
+    "Telefono": "null",
+    "Latitud": -17.3989,
+    "Longitud": -66.3163,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL CHULLA",
+    "Telefono": "null",
+    "Latitud": -17.3778,
+    "Longitud": -66.3082,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VINTO",
+    "Telefono": "null",
+    "Latitud": -17.3997,
+    "Longitud": -66.3163,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SEXTA",
+    "Telefono": "null",
+    "Latitud": -17.398,
+    "Longitud": -66.326,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA",
+    "Telefono": "null",
+    "Latitud": -17.4623,
+    "Longitud": -66.1059,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "ANTIGUO MERCADO CAMPESINO LAGUna ALALAY",
+    "Telefono": "null",
+    "Latitud": -17.4004,
+    "Longitud": -66.1426,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MEGA MERCADO DE FRUTAS",
+    "Telefono": "null",
+    "Latitud": -17.4004,
+    "Longitud": -66.1433,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Suticollo A",
+    "Telefono": "null",
+    "Latitud": -17.4517,
+    "Longitud": -66.3388,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Suticollo B",
+    "Telefono": "null",
+    "Latitud": -17.4718,
+    "Longitud": -66.3385,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Montenegro",
+    "Telefono": "null",
+    "Latitud": -17.4116,
+    "Longitud": -66.331,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Alto Mirador",
+    "Telefono": "null",
+    "Latitud": -17.3939,
+    "Longitud": -66.3199,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Chulla Jayata",
+    "Telefono": "null",
+    "Latitud": -17.3941,
+    "Longitud": -66.3127,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Ironcollo",
+    "Telefono": "null",
+    "Latitud": -17.3532,
+    "Longitud": -66.2873,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Colcapirhua",
+    "Telefono": "null",
+    "Latitud": -17.3902,
+    "Longitud": -66.2442,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado zonal Capacachi",
+    "Telefono": "null",
+    "Latitud": -17.387,
+    "Longitud": -66.2206,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Callajchuypa",
+    "Telefono": "null",
+    "Latitud": -17.354,
+    "Longitud": -66.2424,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria dominical",
+    "Telefono": "null",
+    "Latitud": -17.3382,
+    "Longitud": -66.2212,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "27 De Noviembre Villa Satelite",
+    "Telefono": "null",
+    "Latitud": -17.3328,
+    "Longitud": -66.1955,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "24 De Junio Max Fernandez",
+    "Telefono": "null",
+    "Latitud": -17.3291,
+    "Longitud": -66.2023,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria dominical Trojes",
+    "Telefono": "null",
+    "Latitud": -17.3455,
+    "Longitud": -66.2039,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "17 De Octubre Ciudad Del Niño",
+    "Telefono": "null",
+    "Latitud": -17.3463,
+    "Longitud": -66.1936,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Temporal",
+    "Telefono": "null",
+    "Latitud": -17.3589,
+    "Longitud": -66.1719,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria Dominical Guadalupe",
+    "Telefono": "null",
+    "Latitud": -17.3515,
+    "Longitud": -66.1821,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Taquiña",
+    "Telefono": "null",
+    "Latitud": -17.3502,
+    "Longitud": -66.1854,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Villa Taquiña",
+    "Telefono": "null",
+    "Latitud": -17.3445,
+    "Longitud": -66.1767,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria dominical",
+    "Telefono": "null",
+    "Latitud": -17.342,
+    "Longitud": -66.1792,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Cruce Taquiña",
+    "Telefono": "null",
+    "Latitud": -17.3567,
+    "Longitud": -66.1881,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Calampampa",
+    "Telefono": "null",
+    "Latitud": -17.3573,
+    "Longitud": -66.185,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Los Alamos",
+    "Telefono": "null",
+    "Latitud": -17.3709,
+    "Longitud": -66.1857,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Sarco",
+    "Telefono": "null",
+    "Latitud": -17.3734,
+    "Longitud": -66.1915,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria Thunupa",
+    "Telefono": "null",
+    "Latitud": -17.3791,
+    "Longitud": -66.1884,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Coraca",
+    "Telefono": "null",
+    "Latitud": -17.398,
+    "Longitud": -66.187,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Pampa grande",
+    "Telefono": "null",
+    "Latitud": -17.3981,
+    "Longitud": -66.1786,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Feria Miercoles Villa Loreto",
+    "Telefono": "null",
+    "Latitud": -17.4211,
+    "Longitud": -66.1574,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Ferial Miercoles Kanata",
+    "Telefono": "null",
+    "Latitud": -17.4137,
+    "Longitud": -66.1588,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Santa Bárbara",
+    "Telefono": "null",
+    "Latitud": -17.4284,
+    "Longitud": -66.1561,
+    "Fuente": "rmk"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado dominical Humberto Asin",
+    "Telefono": "null",
+    "Latitud": -17.4423,
+    "Longitud": -66.1165,
+    "Fuente": "rmk"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Odontologia",
+    "Nombre": "Albana Escobar",
+    "Telefono": 76454928,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Odontologia",
+    "Nombre": "Cristian Aguilar",
+    "Telefono": 72092920,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Odontologia",
+    "Nombre": "Jacqueline Ustarez",
+    "Telefono": 77216026,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Departamento": "La Paz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-La Paz",
+    "Telefono": "61000523-67008570",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-El Alto",
+    "Telefono": "72042202",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Cochabamba",
+    "Telefono": "60707069",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Santa Cruz",
+    "Telefono": "72048864",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Oruro",
+    "Telefono": "62805818",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Potosi",
+    "Telefono": "72042570",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Sucre",
+    "Telefono": "72042698",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Tarija",
+    "Telefono": "78241690",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Trinidad",
+    "Telefono": "72042202",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "FELCV-Cobija",
+    "Telefono": "72042740",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "156 - 800104100",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "156 - 69952322 - 69900536",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "80014205 - 76425835",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "156 - 70960050 - 70060050",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "68351338",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "72426236",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "77114241",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "800140348",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "69376262",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "ServiciosLegales",
+    "Nombre": "Servicios legales Municipales",
+    "Telefono": "75104501",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

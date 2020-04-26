@@ -1,0 +1,38 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Laboratorio",
+    "Nombre": "Carla Copaititi Montaño",
+    "Telefono": 70765979,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Laboratorio",
+    "Nombre": "Carmen Lucía Paz",
+    "Telefono": 60721909,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Laboratorio",
+    "Nombre": "Cuper Maldonado Panozo",
+    "Telefono": 68444923,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Laboratorio",
+    "Nombre": "Marisol Molina",
+    "Telefono": 70615300,
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

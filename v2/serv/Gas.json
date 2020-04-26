@@ -1,0 +1,340 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB: entregas de gas a domicilio",
+    "Telefono": "null",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Gral Ballivian esq. Muñoz Reyes No. 80 Zona Calacoto",
+    "Telefono": "800106006 - 72072300",
+    "Latitud": "-16.539065",
+    "Longitud": "-68.075553",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. 20 de Octubre esq. Machicado No. 434, Zona San Pedro",
+    "Telefono": "800106007 - 72072300",
+    "Latitud": "-16.504065",
+    "Longitud": "-68.133668",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Entre Ríos esq. Ayata No. 1349, Zona el Tejar",
+    "Telefono": "800106008 - 72072300",
+    "Latitud": "-16.498887",
+    "Longitud": "-68.152085",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. 6 de Octubre esq. Héroes del Chaco",
+    "Telefono": "800106009 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Carretera SC-CBBA Km 3 1/2 Zona Cuarto Anillo",
+    "Telefono": "800106010 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Grigotá Uv. 0029 Dist: 5 Mza 0043 Sec. 3",
+    "Telefono": "800106011 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Brasil s/n Zona Central",
+    "Telefono": "800106012 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Mariscal Sucre s/n Zona Central",
+    "Telefono": "800106013 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Simón López entre M. Pérez de Holguín G.R. Moreno No. 0 Zona/Barrio Cala Cala",
+    "Telefono": "800106014 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Petrolera km 5 1/2 Zona Valle Hermoso",
+    "Telefono": "800106015 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. América esq. Pachamama  No. s/n Barrio Cala Cala",
+    "Telefono": "800106016 - 72072300",
+    "Latitud": "-17.371740",
+    "Longitud": "-66.173618",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Carretera Cbba-Sta Cruz nro. s/n Zona Villa Tunari",
+    "Telefono": "800106017 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Carretera Cochabamba - Santa Cruz km. 221 Zona/Barrio Central, PT, Villarroel",
+    "Telefono": "800106018 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Panamericana, Zona Luis Pizarro",
+    "Telefono": "800106019 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Panamericana, Zona Morros Blancos",
+    "Telefono": "800106020 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. San Martín esq. Jacinto Delfín",
+    "Telefono": "800106021 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Calle Avaroa esq. Chuquisaca",
+    "Telefono": "800106022 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Petrolera s/n Carretera a Tarija",
+    "Telefono": "800106023 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Carretera Tarija -Yacuiba Zona El Común",
+    "Telefono": "800106024 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Carretera a Bermejo Localidad el Padcaya",
+    "Telefono": "800106025 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Ostria Gutierrez, esq. nataniel Aguirre",
+    "Telefono": "800106026 - 72072300",
+    "Latitud": "-19.039644",
+    "Longitud": "-65.249234",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Héroes de la Calancha s/n Salida a Potosí",
+    "Telefono": "800106027 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Piraimiri. s/n Final",
+    "Telefono": "800106028 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Monteagudo, Zona Zapallar, Salida a Camiri",
+    "Telefono": "800106029 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Cívica esq. Calle Serrudo s/n",
+    "Telefono": "800106030 - 72072300",
+    "Latitud": "-19.583858",
+    "Longitud": "-65.755807",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Antofagasta s/n",
+    "Telefono": "800106031 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Chorrillos s/n Carretera Sucre-Potosí",
+    "Telefono": "800106032 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Internacional No. 55-2 Zona Central",
+    "Telefono": "800106033 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Alberto Saens No. S/n Barrio San Juan",
+    "Telefono": "800106034 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Pedro Ignacio Muiba, Circunvalación Sur s/n Barrio Pompeya",
+    "Telefono": "800106035 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Calle Juan Adad, s/n. Barrio Belén",
+    "Telefono": "800106036 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Direccion": "Av. Federico Román s/n Zona Central",
+    "Telefono": "800106037 - 72072300",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Gas",
+    "Nombre": "YPFB",
+    "Telefono": "72072300-800106006",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

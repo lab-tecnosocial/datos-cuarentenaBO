@@ -1,0 +1,434 @@
+Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+Santa Cruz,Mercado,Mercadito 2 de Agosto,Santa Cruz de la Sierra,null,-17.7339537,-63.1430012,gamsc
+Santa Cruz,Mercado,Mercado las Pampitas,"Av. Las Pampas, Santa Cruz de la Sierra",null,-17.7691437,-63.1223247,gamsc
+Santa Cruz,Mercado,Mercado LIBERTAD,"Calle Jorori, Santa Cruz de la Sierra",null,-17.7418531,-63.0865538,gamsc
+Santa Cruz,Mercado,Mercado Panamericano,Santa Cruz de la Sierra,null,-17.7444869,-63.1134466,gamsc
+Santa Cruz,Mercado,"Mercado Modelo ""Cortez""",Santa Cruz de la Sierra,null,-17.8897895,-63.1786824,gamsc
+Santa Cruz,Mercado,MUTUALISTA 8000 MT.,NA,null,-17.76289118,-63.16182859,gamsc
+Santa Cruz,Mercado,CENTRO DE ABASTECIMIENTO( Mercado El Dorado Norte),"000, Santa Cruz de la Sierra",null,-17.7353823,-63.0981818,gamsc
+Santa Cruz,Mercado,Mercado 21 De MAYO (ARROYITO),"Av Arroyito, Santa Cruz de la Sierra",null,-17.8196528,-63.1065447,gamsc
+Santa Cruz,Mercado,NUEVO PALMAR mercado parada 15,"Nuevo Palmar 23, Santa Cruz de la Sierra",null,-17.87019,-63.16424,gamsc
+Santa Cruz,Mercado,Mercado La Morita,C/ Francisco Kempff y Armando Jordan,null,-17.81645847,-63.18780086,gamsc
+Santa Cruz,Mercado,Mercado Santa Rosa,NA,null,-17.80725259,-63.19691994,gamsc
+Santa Cruz,Mercado,Pro Mayor,NA,null,-17.78921333,-63.15065899,gamsc
+Santa Cruz,Mercado,"Mercado ""EL PARAISO""",Santa Cruz de la Sierra,null,-17.8552352,-63.1992998,gamsc
+Santa Cruz,Mercado,Mercado La Ramada Centro,NA,null,-17.79390268,-63.18731004,gamsc
+Santa Cruz,Mercado,Mercado Modelo Plan 3000 - MERCADO SAN AURELIO,Santa Cruz de la Sierra,null,-17.8221431,-63.1469843,gamsc
+Santa Cruz,Mercado,"Mercado Plan 3000 ""COPACABAna""",Av. El Mechero,null,-17.82606781,-63.12625716,gamsc
+Santa Cruz,Mercado,Mercado  Los Pozos,entre C/ 6 Agosto C/Quijarro y Campero,null,-17.77850714,-63.17757144,gamsc
+Santa Cruz,Mercado,Mercado Chacarilla,NA,null,-17.77279903,-63.15073613,gamsc
+Santa Cruz,Mercado,Mercado Mutualista,NA,null,-17.76371847,-63.16096535,gamsc
+Santa Cruz,Mercado,Mercado Ramafa,Av. Fuerza Aerea Boliviana y Tumpa,null,-17.80766694,-63.18091613,gamsc
+Santa Cruz,Mercado,Mercado Miraflores,Av. 3 pasos al frente y C/ 13 este,null,-17.80026052,-63.1304017,gamsc
+Santa Cruz,Mercado,Mercado 7 Calles,entre C/ Vallegrande C/ Isabel La Catolica,null,-17.78640429,-63.18578691,gamsc
+Santa Cruz,Mercado,Mercado La Ramada,C/Suto Esq. C/Amboro,null,-17.79475044,-63.19072515,gamsc
+Santa Cruz,Mercado,Mercado San Luis,2 anillo Av. Roca yCoronado,null,-17.78384372,-63.19534336,gamsc
+Santa Cruz,Mercado,Mercado 4 de Noviembre,Av. Centenario  y 3 anillo,null,-17.7784488,-63.20289953,gamsc
+Santa Cruz,Mercado,Mercado El Trompillo,C/José Mercado Aguado,null,-17.8004194,-63.17021976,gamsc
+Santa Cruz,Mercado,Mercado Coarco,entre C/12 este C/ 13 este,null,-17.79811372,-63.13259607,gamsc
+Santa Cruz,Mercado,Mercado Belen,Radial 26 C/ Los Guapos,null,-17.75511292,-63.18826569,gamsc
+Santa Cruz,Mercado,Mercado 12 de Octubre,C/ 8 y Antonio Vicente Ardaya,null,-17.75487911,-63.17960821,gamsc
+Santa Cruz,Mercado,Mercado Santa Rosa,3er anillo yAv.Prefecto R.,null,-17.81091454,-63.18953342,gamsc
+Santa Cruz,Mercado,Mercado El Progreso,NA,null,-17.82326728,-63.13607201,gamsc
+Santa Cruz,Mercado,Mercado Guapurú,Santa Cruz de la Sierra,null,-17.8514883,-63.0994603,gamsc
+Santa Cruz,Mercado,Mercado La Campana,"Unnamed Road, Santa Cruz de la Sierra",null,-17.8181695,-63.1181657,gamsc
+Santa Cruz,Mercado,Mercado Los Pocitos,"Entel - Plan 3000, Santa Cruz de la Sierra",null,-17.8414924,-63.1105623,gamsc
+Santa Cruz,Mercado,Mercado Max Fernandez,Santa Cruz de la Sierra,null,-17.8679625,-63.1950069,gamsc
+Santa Cruz,Mercado,Mercado Municipal La Cuchilla,"Avenida Moscú, Santa Cruz de la Sierra",null,-17.8262973,-63.2015669,gamsc
+Santa Cruz,Mercado,Mercado 25 Mayo,Santa Cruz de la Sierra,null,-17.836757,-63.2391345,gamsc
+Santa Cruz,Mercado,Mercado De Alto San Pedro De Comestibles y Material De Ferreteria,"Av Roque Aguilera y, Santa Cruz de la Sierra",null,-17.8108333,-63.1894444,gamsc
+Santa Cruz,Mercado,Mercado el Fuerte,"Av El Fuerte, Santa Cruz de la Sierra",null,-17.8472035,-63.1478262,gamsc
+Santa Cruz,Mercado,Mercado El Progreso,"Calle 9, Santa Cruz de la Sierra",null,-17.8234055,-63.1359169,gamsc
+Santa Cruz,Mercado,Mercado El Quior,Santa Cruz de la Sierra,null,-17.8470775,-63.0813926,gamsc
+Santa Cruz,Mercado,Mercado 7 de Abril,Santa Cruz de la Sierra,null,-17.77727,-63.1080071,gamsc
+Santa Cruz,Mercado,Mercado Santa Cruz Sur,"Nuevo Palmar, Santa Cruz de la Sierra",null,-17.8512496,-63.1818255,gamsc
+Santa Cruz,Mercado,Mercado Palmira(plan 4000),"Unnamed Road, Santa Cruz de la Sierra",null,-17.8772261,-63.1711899,gamsc
+Santa Cruz,Mercado,Mercado Santa Cruz Sur,"Nuevo Palmar, Santa Cruz de la Sierra",null,-17.8512496,-63.1818255,gamsc
+Santa Cruz,Mercado,Mercado Villa Ortuño,NA,null,-17.82861809,-63.2078499,gamsc
+Santa Cruz,Mercado,Mercado El Triunfo,NA,null,-17.86089593,-63.15467595,gamsc
+Santa Cruz,Mercado,Mercado Magisterio Sur,NA,null,-17.87082417,-63.17814525,gamsc
+Santa Cruz,Mercado,Mercado Urkupiña,NA,null,-17.83403551,-63.11437107,gamsc
+Santa Cruz,Mercado,Mercado Turere,NA,null,-17.84236458,-63.10044299,gamsc
+Santa Cruz,Mercado,Mercado Los Tusequis,NA,null,-17.74167794,-63.15435609,gamsc
+Santa Cruz,Mercado,Mercado  Estacion Argentina,NA,null,-17.80006128,-63.15242164,gamsc
+Santa Cruz,Mercado,Mercado Villa Fatima,C/ Quirusillas y El Torno,null,-17.81304109,-63.20268356,gamsc
+Santa Cruz,Mercado,Mercado Noel Kempffp,Av. Radial 10,null,-17.81239363,-63.12363208,gamsc
+Santa Cruz,Mercado,Mercado Primavera,5to anillo de circunvalacion y radial 12,null,-17.8234298,-63.16356301,gamsc
+Santa Cruz,Mercado,Mercado Nuevo(Sucre),"entre C/Isabel La Catolica, C/ Sucre",null,-17.78374905,-63.17843778,gamsc
+Santa Cruz,Mercado,Mercado Las Orquideas,NA,null,-17.83005594,-63.12850049,gamsc
+Santa Cruz,Mercado,Mercado Virgen de Lujan,NA,null,-17.76040858,-63.12800344,gamsc
+Santa Cruz,Mercado,Mercado San Antonio,Av. El Bajio y C/Bibosi,null,-17.82649136,-63.22736845,gamsc
+Santa Cruz,Mercado,Mercado La Cuchilla,Av. Moscu y C/ 16 de Julio,null,-17.8263304,-63.2015264,gamsc
+Santa Cruz,Mercado,Mercado Los Bosques,Av. Los Bosques. Esq. C/Coridin,null,-17.81273214,-63.21454177,gamsc
+Santa Cruz,Mercado,Mercado copacabana,"Calle 6, Santa Cruz de la Sierra",null,-17.8265825,-63.1258009,gamsc
+Santa Cruz,Mercado,Cooperativa Societaria 2 de junio Abasto R.L.,Santa Cruz de la Sierra,null,-17.7948076,-63.2042517,gamsc
+Santa Cruz,Mercado,Mercado Tito Solari,Av. Lujan y El Bateon,null,-17.74163402,-63.10740385,gamsc
+Santa Cruz,Mercado,"Mercado ""Coarco""",Santa Cruz de la Sierra,null,-17.797998,-63.1325829,gamsc
+Santa Cruz,Mercado,26 de Abril,"Tamarindo Seco, Santa Cruz de la Sierra",null,-17.829973,-63.1745862,gamsc
+Santa Cruz,Mercado,Mercado David Trapero,NA,null,-17.75883045,-63.15874104,gamsc
+Santa Cruz,Mercado,Mercado San Juan,Av. Cumavi y C/6,null,-17.79126078,-63.13705227,gamsc
+Santa Cruz,Mercado,Mercado Las Américas,NA,null,-17.85727331,-63.19548427,gamsc
+Santa Cruz,Mercado,Mercado Paurito,NA,null,-17.88189407,-62.93980766,gamsc
+Santa Cruz,Mercado,Mercado Montero Hoyos,NA,null,-17.63954371,-62.81686787,gamsc
+Santa Cruz,Mercado,"Mercado ""La Ramada"" C/ámboro y muchiri",NA,null,-17.79423929,-63.19021631,gamsc
+Santa Cruz,Mercado,Mercado Fortaleza,Santa Cruz de la Sierra,null,-17.863198,-63.1608602,gamsc
+Santa Cruz,Mercado,Mercado La Ramada Minorista,NA,null,-17.83592135,-63.21466629,gamsc
+Santa Cruz,Mercado,Mercado Mutualista Abasto II,NA,null,-17.76259265,-63.16236778,gamsc
+Santa Cruz,Mercado,Mercado Modelo Plan 3000,NA,null,-17.82184518,-63.14740188,gamsc
+Santa Cruz,Mercado,Mercado Abasto Campesino,3er anillo ext. Av. Pirai,null,-17.79647282,-63.20429949,gamsc
+Santa Cruz,Mercado,Mercado Abasto Mayorista,NA,null,-17.85012871,-63.23106488,gamsc
+Santa Cruz,Mercado,Mercado Los Pozos Minorista,NA,null,-17.72544061,-63.14821123,gamsc
+Santa Cruz,Mercado,Mercado San Jose Obrero,C/Fernando Paticu y Pailon,null,-17.78325663,-63.15992301,gamsc
+Santa Cruz,Mercado,Mercado Florida,C/Florida y Buenos Aires,null,-17.78177828,-63.18786543,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. BENI,null,-17.77044125,-63.17889528,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,ROTONDA 2DO ANILLO CRISTO REDENTOR,null,-17.77047364,-63.18251518,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,ROTONDA 2DO ANILLO CENTEnaRIO,null,-17.77932454,-63.19374089,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,ROTONDA 2DO ANILLO AV. BRASIL,null,-17.78743188,-63.16429706,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,ROTONDA 2DO ANILLO AV. LA BARRANCA,null,-17.79807425,-63.17541183,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,MELCHOR PINTO PARADA,null,-17.78298819,-63.17219627,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. LAS AMERICAS,null,-17.79185328,-63.17773762,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,PLAZA ESPA?A / AV. ARGENTIna,null,-17.79118198,-63.17360488,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. EJERCITO /AV. IRALA,null,-17.79318484,-63.18685614,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. LANDIVAR,null,-17.78442258,-63.18889968,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. BRASIL/ AV. VIEDMA,null,-17.78554638,-63.17185951,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,CALLE PARI/ ISABEL LA CATOLICA,null,-17.78856728,-63.18775502,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.76230002,-63.19134522,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.76090016,-63.18733726,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.75989219,-63.18275657,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.7595335,-63.17477323,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.77650143,-63.15499478,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.77975839,-63.14739752,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.78574996,-63.14798611,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.78912579,-63.1482125,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.80238848,-63.15160927,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.80893846,-63.15762262,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.81047995,-63.15989078,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.80591154,-63.15410878,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.81980636,-63.17166413,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.82208665,-63.17695682,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.82273256,-63.18429209,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81920639,-63.19826805,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81549223,-63.20418909,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.80571295,-63.2127281,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.8013294,-63.21482403,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.79179499,-63.21666101,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.77781989,-63.21629923,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.75203562,-63.19214037,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.7505225,-63.18676936,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.74969676,-63.18072271,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.74996729,-63.17526727,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.75177067,-63.16393826,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.75480472,-63.15740231,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.76520261,-63.14871044,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,null,-17.77561812,-63.14709662,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79129889,-63.13925759,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80053969,-63.1422784,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.80767518,-63.14120459,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.81168442,-63.14330935,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.83105686,-63.1756561,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.83236979,-63.19446511,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.82486741,-63.20635629,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.82144681,-63.20895015,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81629594,-63.21322578,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.80159273,-63.22628443,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.78905488,-63.22453978,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.78616535,-63.22357023,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.74080772,-63.18986777,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73741932,-63.17966801,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.74048532,-63.1714299,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.74437107,-63.1610551,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.74775684,-63.15244192,gamsc
+Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,null,-17.74887159,-63.14983052,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.78663431,-63.13383933,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80150187,-63.13528316,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.78448674,-63.12745863,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79244772,-63.12663225,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79699843,-63.12700214,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80222628,-63.12760927,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.81202825,-63.13657817,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.81490514,-63.12874446,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.82112112,-63.13579158,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.82640307,-63.15871143,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.8288625,-63.13909032,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.8344185,-63.16566962,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.82347771,-63.16467902,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.84111399,-63.17218296,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.84065525,-63.16054815,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.84509827,-63.18106332,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.85193376,-63.1812451,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.85908666,-63.18644056,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.85178682,-63.19863487,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.84151089,-63.19589138,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.83559575,-63.20815072,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.84347178,-63.21366001,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.82733811,-63.21506868,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.83732439,-63.223119,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.82244285,-63.22021412,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.83149926,-63.23044772,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81740329,-63.22569406,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.82479495,-63.23396665,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81075779,-63.23279193,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.81598261,-63.23862829,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72486957,-63.19082872,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72089014,-63.18934121,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72926775,-63.17589375,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72232656,-63.1733522,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71987433,-63.18067423,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73490134,-63.16027737,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72828648,-63.15698179,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.730965,-63.15016576,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.80090445,-63.1857232,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.80089074,-63.18921633,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,Mercado movilES,null,-17.7980912,-63.19267393,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.78489176,-63.19497644,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,null,-17.80447009,-63.16538533,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.81107005,-63.17419823,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.81060506,-63.17744634,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.81096846,-63.19020028,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.81038557,-63.19509891,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73729143,-63.15421698,gamsc
+Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,null,-17.73675197,-63.14162159,gamsc
+Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,null,-17.74253827,-63.14553986,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73475798,-63.14388245,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.74102868,-63.14800868,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.74261721,-63.11395071,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.7519594,-63.12908538,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.76177271,-63.12742023,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.75938456,-63.12050508,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.7162665,-63.16200539,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.82943988,-63.20012123,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.70937639,-63.1600095,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.7038927,-63.15971505,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.69837883,-63.13508282,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.68704996,-63.14639791,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73279544,-63.15600747,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.73154726,-63.1638269,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71635912,-63.15616704,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.69602194,-63.15908678,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.74932709,-63.11042233,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.75188553,-63.09406335,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.75006515,-63.08999816,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.75347631,-63.09870106,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.76519018,-63.11310974,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.76575123,-63.1077068,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.77677431,-63.10754439,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.76016159,-63.08989564,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.7217731,-63.08317536,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.75902629,-63.09944092,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.7913792,-63.08944205,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79862304,-63.08624718,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.78345981,-63.09070387,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.76669797,-63.09490807,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79267027,-63.1181056,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79294893,-63.10846392,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79742112,-63.11851504,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,B. LAS CARMELITAS  UE SARAH PORRAS,null,-17.79595367,-63.22314453,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. GUAPAY O CAnaL COTOCA,null,-17.77830699,-63.1651107,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO PARAGUA,null,-17.77433209,-63.16593307,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO MUTUALISTA,null,-17.77158243,-63.1680694,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. ALEMAna,null,-17.77027676,-63.17123194,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.80639408,-63.19719071,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,null,-17.80391322,-63.19924142,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.79003211,-63.20491315,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.78533242,-63.20462805,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.77755922,-63.2035587,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,null,-17.76956324,-63.20165779,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.79794057,-63.10876975,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80238543,-63.11713628,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80276573,-63.10907407,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,null,-17.80219555,-63.09820925,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.8216843,-63.12496679,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.81379399,-63.10976608,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.82761606,-63.09664131,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,null,-17.83864566,-63.12019793,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.69406501,-63.16363144,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72298587,-63.17943458,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.72948257,-63.18072891,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.73682094,-63.1115504,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.84292281,-63.17254998,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.87314918,-63.19226811,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.85390294,-63.14684675,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.85113734,-63.2191097,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,null,-17.85598583,-63.21388192,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71407882,-63.18635366,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.68357269,-63.18030356,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.68651676,-63.17202944,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.86578036,-63.20216772,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.85458084,-63.16360132,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,null,-17.85701101,-63.17690303,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,null,-17.86571442,-63.18931232,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano/Rural 13,Mercado movilES,null,-17.88569577,-63.1144977,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71145469,-63.12765901,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.70387533,-63.17302406,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71992821,-63.15259141,gamsc
+Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,null,-17.7281359,-63.13587039,gamsc
+Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,null,-17.72012696,-63.13055392,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,null,-17.71359245,-63.14696121,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.73839527,-63.10719512,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.73538216,-63.10165632,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.73218332,-63.09621227,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.74558432,-63.10273345,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.7433466,-63.09767024,gamsc
+Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,null,-17.74071666,-63.09165169,gamsc
+Santa Cruz,Supermercado,Hipermaxi Suc. España,Santa Cruz de la Sierra,null,-17.8418859,-63.1956215,gamsc
+Santa Cruz,Supermercado,Supermercado Wonderful,Santa Cruz de la Sierra,null,-17.8413689,-63.1956466,gamsc
+Santa Cruz,Supermercado,Estación de Servicio Moragrande 1,"Zona La Cuchilla, Av Moscú, Quinto anillo, Santa Cruz de la Sierra",null,-17.8278735,-63.2030322,gamsc
+Santa Cruz,Supermercado,Hipermaxi Las Palmas,"Doble vía La Guardia, Santa Cruz de la Sierra",null,-17.8106481,-63.2084721,gamsc
+Santa Cruz,Supermercado,Hiper Bagio,Santa Cruz de la Sierra,null,-17.8278194,-63.2266057,gamsc
+Santa Cruz,Supermercado,Micromercado Macarena,"Avenida Iberica, Santa Cruz de la Sierra",null,-17.8065814,-63.2069088,gamsc
+Santa Cruz,Supermercado,Hipermercado Plaza,"Av. Grigota entre 2do. y 3er. Anillo, Av Grigotá, Santa Cruz de la Sierra",null,-17.8013409,-63.1959615,gamsc
+Santa Cruz,Supermercado,Supermercados Wonderful,Santa Cruz de la Sierra,null,-17.8189215,-63.1835814,gamsc
+Santa Cruz,Supermercado,Super Tienda QUIna,"Av Santos Dumont esquina, Santa Cruz de la Sierra",null,-17.8201459,-63.1840816,gamsc
+Santa Cruz,Supermercado,Hipermaxi Sur,"Av. Santos Dumont entre Av. Mario R. Gutierrez y, Av Roque Aguilera, Santa Cruz de la Sierra",null,-17.8134789,-63.1840799,gamsc
+Santa Cruz,Supermercado,Supermercados MAX,"Av. Radial 12, Santa Cruz de la Sierra",null,-17.8076051,-63.1719195,gamsc
+Santa Cruz,Supermercado,Supermercado Quina Sucursal 3,"Av.Prefecto Rivas Nro 250, Santa Cruz de la Sierra",null,-17.8043765,-63.1904368,gamsc
+Santa Cruz,Supermercado,Fidalga,"Avenida El Trompillo 632, Santa Cruz de la Sierra",null,-17.8005058,-63.1833125,gamsc
+Santa Cruz,Supermercado,Fidalga Reyes,"Avenida 26 De Febrero, Santa Cruz de la Sierra",null,-17.7896614,-63.194313,gamsc
+Santa Cruz,Supermercado,Hipermaxi Piraí,"Segundo anillo esquina, Santa Cruz de la Sierra",null,-17.7896995,-63.1950572,gamsc
+Santa Cruz,Supermercado,H P Medical,"Av. Roca y Coronado, Santa Cruz de la Sierra",null,-17.785211,-63.1997375,gamsc
+Santa Cruz,Supermercado,Hipermaxi,"Avenida Roca y Coronado # 800, Santa Cruz de la Sierra",null,-17.7848854,-63.2118606,gamsc
+Santa Cruz,Supermercado,IC Norte,"3er anillo interno,, Avenida Busch, Santa Cruz de la Sierra",null,-17.7726559,-63.2034348,gamsc
+Santa Cruz,Supermercado,Fidalga Equipetrol,"Dr Fermín Peralta, Santa Cruz de la Sierra",null,-17.7603094,-63.1979808,gamsc
+Santa Cruz,Supermercado,Tía,Santa Cruz de la Sierra,null,-17.7551671,-63.1998213,gamsc
+Santa Cruz,Supermercado,Hipermaxi Equipetrol,Santa Cruz de la Sierra,null,-17.7566582,-63.2000408,gamsc
+Santa Cruz,Supermercado,Supermercado El Cristo,Santa Cruz de la Sierra,null,-17.7735315,-63.1820667,gamsc
+Santa Cruz,Supermercado,FIDALGA,Santa Cruz de la Sierra,null,-17.7713961,-63.1857563,gamsc
+Santa Cruz,Supermercado,Shopping Fidalga,"Av. Cristo Redentor entre Av. Pedro Ribera Mendez, Tercer Anillo Externo, Santa Cruz de la Sierra",null,-17.7584827,-63.1781405,gamsc
+Santa Cruz,Supermercado,Fidalga Hamacas,"Av. Beni # 500 esquina, Santa Cruz de la Sierra",null,-17.7551307,-63.1716852,gamsc
+Santa Cruz,Supermercado,Hiper Plaza,Santa Cruz de la Sierra,null,-17.7504544,-63.1765193,gamsc
+Santa Cruz,Supermercado,Supermercado,NA,null,-17.74583301,-63.17418417,gamsc
+Santa Cruz,Supermercado,Hipermaxi,"Avenida Cuarto Anillo, Santa Cruz de la Sierra",null,-17.7497121,-63.1853561,gamsc
+Santa Cruz,Supermercado,Hipermaxi Gourmet,"Avenida Cuarto Anillo, Santa Cruz de la Sierra",null,-17.7493364,-63.1761379,gamsc
+Santa Cruz,Supermercado,Hipermaxi Super Center,"Av. Cristo Redentor 6500, Santa Cruz de la Sierra",null,-17.7287799,-63.1659811,gamsc
+Santa Cruz,Supermercado,Drinksmart,Santa Cruz de la Sierra,null,-17.7152375,-63.1661635,gamsc
+Santa Cruz,Supermercado,Supermercado Wonderful,Santa Cruz de la Sierra,null,-17.7148987,-63.1693177,gamsc
+Santa Cruz,Supermercado,Micro Mercado Wonderfull,"Unnamed Road, Santa Cruz de la Sierra",null,-17.6820083,-63.1544167,gamsc
+Santa Cruz,Supermercado,Fresh meat,"Unnamed Road, Santa Cruz de la Sierra",null,-17.6831864,-63.1547238,gamsc
+Santa Cruz,Supermercado,Hipermaxi beni,Santa Cruz de la Sierra,null,-17.7503854,-63.1685784,gamsc
+Santa Cruz,Supermercado,Supermercados Tia,"Av Alemania, Santa Cruz de la Sierra",null,-17.7546741,-63.1654144,gamsc
+Santa Cruz,Supermercado,Hipermaxi Mutualista,"zona Mutualista, Tercer Anillo Externo, Santa Cruz de la Sierra",null,-17.7657748,-63.1587096,gamsc
+Santa Cruz,Supermercado,Supermercado Pronto,"Av. Sta. Cruz, Santa Cruz de la Sierra",null,-17.7746246,-63.1661179,gamsc
+Santa Cruz,Supermercado,Makro Parque,"Av Cuarto Anillo y, Santa Cruz de la Sierra",null,-17.7650907,-63.1474896,gamsc
+Santa Cruz,Supermercado,Hipermaxi Embutidos Fabrica,Santa Cruz de la Sierra,null,-17.7726783,-63.1340451,gamsc
+Santa Cruz,Supermercado,Hipermaxi La Pampa,"4 Oeste, Santa Cruz de la Sierra",null,-17.7717552,-63.1244885,gamsc
+Santa Cruz,Supermercado,Fidalga Cotoca,Km. 8 Doble Via a Cotoca,null,-17.7657307,-63.1044874,gamsc
+Santa Cruz,Supermercado,Pampa De La Isla,Santa Cruz de la Sierra,null,-17.7676244,-63.1151462,gamsc
+Santa Cruz,Supermercado,Mercado,NA,null,-17.7646022,-63.0967341,gamsc
+Santa Cruz,Supermercado,Hipermaxi,"Av Tres Pasos Al Frente, Santa Cruz de la Sierra",null,-17.7953405,-63.160821,gamsc
+Santa Cruz,Supermercado,Hipermaxi Villa 1° de Mayo,"Calle 10 Este, Santa Cruz de la Sierra",null,-17.7979264,-63.1341808,gamsc
+Santa Cruz,Supermercado,PUNTO,"Avenida 3 Pasos Al Frente, Santa Cruz de la Sierra",null,-17.8076089,-63.1058064,gamsc
+Santa Cruz,Supermercado,Hipermaxi Plan 3000,Santa Cruz de la Sierra,null,-17.835581,-63.1322654,gamsc
+Santa Cruz,Supermercado,Placemark,"Avenida Principal Plan 3 Mil, Santa Cruz de la Sierra",null,-17.8287696,-63.1385317,gamsc
+Santa Cruz,Supermercado,Super Sur Fidalga SRL Central,"Av. Rene Moreno # 212 esquina, Diego de Mendoza, Santa Cruz de la Sierra",null,-17.7937629,-63.1800008,gamsc
+Santa Cruz,Supermercado,Hipermaxi,Santa Cruz de la Sierra,null,-17.7942153,-63.1812914,gamsc
+Santa Cruz,Supermercado,HiperMaxi Centro,Santa Cruz de la Sierra,null,-17.7884775,-63.1790471,gamsc
+Santa Cruz,Supermercado,Hipermaxi Florida,"Florida, Santa Cruz de la Sierra",null,-17.7819361,-63.1835479,gamsc
+Santa Cruz,Supermercado,Hipermaxi Cañoto,"Avenida Cañoto, Santa Cruz de la Sierra",null,-17.7788502,-63.1882784,gamsc
+Santa Cruz,Supermercado,Supermercado Ekko Fidalga,"Avenida Cañoto 202, Santa Cruz de la Sierra",null,-17.779121,-63.1883872,gamsc
+Santa Cruz,Supermercado,Supermercados Tia,"24 de septiembre, Santa Cruz de la Sierra",null,-17.7788213,-63.1817441,gamsc
+Santa Cruz,Supermercado,CHINBOL,"Centro,, Santa Cruz de la Sierra",null,-17.7833437,-63.1740787,gamsc
+Santa Cruz,Supermercado,Macro Fidalga,"G.Velasco, Santa Cruz de la Sierra",null,-17.7766503,-63.1733266,gamsc
+Santa Cruz,Supermercado,Supermercado Okinawa,"Calle Quijarro, Santa Cruz de la Sierra",null,-17.7766149,-63.1785435,gamsc
+Santa Cruz,Supermercado,Yuri Market,"0000, Santa Cruz de la Sierra",null,-17.776894,-63.1784891,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD TIERRAS NUEVAS,"Barrio Tierras Nuevas, Av. Moscú, 5 cuadras antes del Rest. Tutumazo",3 3536010,-17.84877248,-63.21526977,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD MONTERO HOYOS,Localidad de  Montero Hoyos,6 9561424,-17.64088279,-62.82446159,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ZAFRANILLA,Comunidad Zafranilla,NA,-17.62075081,-62.98875836,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN MIGUEL DE LOS JUNOS,Comunidad San Miguel De Los Junos – Zona del Tanque de Agua Elevado,3 3226753,-17.93249116,-63.02661422,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PALMASOLA,Centro Penitenciario Palmasola,3 3562928,-17.87368083,-63.18491907,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL DORADO NORTE,"B/ El Dorado Norte, llegar a la Av. Virgen de Lujan donde termina el pavimento, ir a la derecha  4 cuadras, luego entrar al lado izquierdo 3 cuadras hasta llegar a una plazuela.",3 3224388,-17.73923037,-63.09655495,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL RETOÑO/LOS CUSIS,B/ El Retoño / Los Cusis,3 3498786,-17.73564235,-63.07702381,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LAS GRAMAS/26 DE SEPTIEMBRE,B/ Las Gramas / 26 de Septiembre,3 3224504,-17.72095643,-63.10485142,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL PORVENIR,B/ El Porvenir,"3 3621675
+",-17.78707938,-63.12917801,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ROQUE AGUILERA,C/ Santiago Vaca Guzman C/Antoni Barba,"3 3377366
+",-17.76609775,-63.18628524,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL RECREO,URB/ EL RECREO,NA,-17.87276716,-63.10133254,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD BUEN SAMARITANO,B/ Buen Samaritano,"3 3226439
+",-17.7951417,-63.09568584,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SANTIAGO PARADA,B/ Santiago Parada,3 3224920,-17.78184534,-63.10680324,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN AGUSTIN,Av. Paurito frente a la plaza San Agustín,3 3701909,-17.84000194,-63.11991053,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN LUISITO,"B/ San Luisito o Roberto Fernandez, ingresando por la Av.  Espinal Campos entrando C/Mexico, detrás del cementerio. Parada final de la linea 70.",3 3222191,-17.82835478,-63.10323133,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD MARIA CECILIA,Av. Radial 10 Final,3621699,-17.81388132,-63.11453819,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PALMAR DEL ORATORIO,Palmar del Oratorio Frente a la Plaza,3 3227404,-17.88157836,-63.15093899,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL TAJIBO,B/ El Tajibo pasando Av. Bolivia del mercado Fortaleza,3 3280587,-17.86201186,-63.15020145,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD CORTEZ,B/ URB. CORTEZ,3 3280532,-17.89365826,-63.17350204,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD MAGISTERIO,B/ MAGISTERIO,3 3280943,-17.86876228,-63.18392428,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PLAN 4000,B/ Plan 4000,3 3280563,-17.8822421,-63.17462014,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ROCA Y COROnaDO,"B/ Roca y Coronado entrando por Mercado Primavera, pasar el trillo e ingresar 9 cuadras, luego ingresar a la derecha 1 1/2 cuadra.",3 3568829,-17.83623929,-63.15775803,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD VILLA BERMUDEZ,"Rad 17/2 -8 Ani, 2 cuadras de Piramide",3 3550468,-17.82151141,-63.24909198,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PEDRO DIEZ,B/Pedro Diez 2 1/2 cuadras Av. Los Lotes,3 3227909,-17.86042607,-63.17700841,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD VILLA BRIGIDA,Barrio Villa Brígida Calle Nª 7,"3 3418228
+",-17.75621619,-63.19488779,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL PAJOnaL,Pajonal lado del Centro Cultural El Pajonal,"3 3582246
+",-17.81327279,-63.16683416,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SANTA ISABEL,Av. Paraguá pasando el tercer anillo calle Nº 6  lado Colegio  Wenceslao Montero  Barrio Conavi,3 3475090,-17.76973242,-63.15070507,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD HAMACAS,B/  Hamacas C/ Río Blanco 3105 entre C/ 11 y Av. Alemana,3 3427473,-17.75632577,-63.16896807,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ANITA SUÁREZ DE LEIGUE,Av. Banzer Km. 4½ al norte detrás Coop. Humberto Leigue,3 3438531,-17.73709788,-63.17159111,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD NOEL KEMPFF,"B/ Noel Kempff Merado, a la Radial 10 5to Anillo","3 3621781
+",-17.81110609,-63.12366594,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LOS TUSEQUIS,NA,3 3469644,-17.74203918,-63.15516892,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SANTE SUD,B/ Alto Olivo calle Nº 9 entre Radial 13 y Av. Santos Dumont Entrando seis cuadra a mano izquierda,3 3560379,-17.83385341,-63.17806344,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ONDULINE GUAPURU,B/ Onduline Guapuru,"3 3226438
+
+",-17.80978947,-63.10676384,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD CAÑADA EL CARMEN,B/ Cañada El Carmen,"3 3556492
+",-17.81050265,-63.15272453,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD POCHOLA TRAPERO,B/ Claracuta lado Col. Vertino Candia,3 3442168,-17.73295401,-63.15594826,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD MI SALUD,"Barrio  7 de Julio  Av. Campana, lado escuela 7 de julio","3 3628357
+
+",-17.82859483,-63.11281417,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LA COLORADA,B/ La Colorada Calle Nº 6 Radial 13 entre 4º y 5º anillo,3 3569872,-17.82361478,-63.17195786,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LAS AMÉRICAS,B/El Paraiso Av. Las AmÚricas,3 3569332,-17.85883395,-63.19411298,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ANTOFAGASTA,"B/Antofagasta Avenida San Martín entre 5º y 6º anillo, se entra 5 cuadras por la calle B",3 3580418,-17.82691997,-63.21056979,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD BARRIO NUEVO/30 DE ENERO,B/ NUEVO / 30 ENERO,NA,-17.83060566,-63.08439665,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL QUIOR,B/ EL QUIOR,"3 3223616
+",-17.84772124,-63.08370465,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LOS BOSQUES,"B/ Los Bosques, lado del mercado Los Bosques",3 3563252,-17.81230111,-63.21481342,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD VIRGEN DE COTOCA,Cuarto anillo  y Radial 27 c/ San Pedro lado Guardería PRONIDES Barrio Virgen de Cotoca,"3 3425834
+",-17.74745084,-63.18179332,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD WILLY LEMAITRE,"Entre 2° y 3° anillo, Av. Busch, ingresando por la calle 6 esq. Calle Nicolás Ortiz.","3 3427701
+",-17.77022834,-63.19790484,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD NUTRICIOnaL,"Av. Cumavi Final, entre 6º y 7º anillo","3 3476900
+",-17.79274442,-63.12286782,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD 12 DE DICIEMBRE,B/ 12 de Diciembre C/ Los Sauces final,"3 3628161
+
+",-17.81998477,-63.13075743,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PUEBLO NUEVO,Normandía,3 3229902,-17.85072021,-63.0642515,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PAURITO - HOSPITAL SAN PANTALEÓN,Localidad Paurito - Las Brechas,3 3884241,-17.87779329,-62.94430716,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD NORTE,Barrio Universitario Norte (km 6 1/2 al Norte pasando el Surtidor L¾pez entrando por el Kiosko Susy tres cuadras estß a la derecha ),NA,-17.72200382,-63.1594369,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SANTA ROSITA,"Entre 2° y 3° anillo, entre Av. Pirai y Av. Roca y Coronado, Barrio Santa Rosita,  Calle Mataral S/N., lado de la plazuela, zona complejo deportivo Santa Rosita","3 3524933
+",-17.78824494,-63.19796618,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL TATU,NA,NA,-17.81530509,-63.07533901,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL TRAPICHE,Carretera Cotoca entrando por Urbanización Barrio Trapiche,NA,-17.74968973,-63.07681867,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN CARLOS,"Entre 3° y 4° anillo, Radial 27, por la Av. Principal de Zoológico, entrando 4 cuadras y 1 a la derecha,  entre calle 3 y 4","3 3435058
+",-17.75633984,-63.18003805,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD VIRGEN DE FÁTIMA,Entre 3er y 4to anillo. Barrio Villa Fátima Av. Fátima N° 510.  Ingresando por la Av. Escuadrón Velasco y continuando la Av. Fátima. Frente a la plazuela del mismo nombre.,"3 3526720
+",-17.81500988,-63.19918672,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD  BOLINTER,B/ Bolinter  Av. Los Chacos,3 3646236,-17.76317981,-63.11388851,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD 25 DE DICIEMBRE,"Av. Principal del Plan Tres Mil,  Al lado de la Escuela 25 de Diciembre",3 3622308,-17.81615352,-63.14318816,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAGRADA FAMILIA,"km.6 Doble vía La Guardia, Barrio Bajío Sur, Calle 24 de Junio",3 3547686,-17.83093092,-63.22462468,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LOS OLIVOS,B/ Bajo Olivo Av. Santos Dumont pasando el 4º anillo entre Av. 14 de Septiembre y calle Nº 2,3 3563660,-17.82857938,-63.18092567,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PERPETUO SOCORRO,Barrio Los Milagros C/7 entre Av. Centenario y Av. Busch frente Plazuela 6 de Enero,"3 3526882
+",-17.77442366,-63.20985672,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD  PALOS VERDE,"U.V. 194 frente al Condominio Los Cedros, entre 8vo y 9no anillo, barrio Palos Verdes",3 3226334,-17.712661,-63.144564,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD  VILLA BOLIVIA,NA,3 3565100,-17.84442691,-63.16868257,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD VIDA Y ESPERANZA,Parada Linea 4,3 3625952,-17.81492469,-63.10287969,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD EL REMANZO,7º Anillo pasando Canal Pedro Velez Barrio 24 de Septiembre,NA,-17.71461205,-63.17863866,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD PREVENTIVA SUD,"Av. Internacional y Pacífico, frente a la iglesia Virgen del Rosario",3 3620313,-17.83041195,-63.1229054,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LA FORTALEZA,B/ La Fortaleza a 3 cuadras Av. El Palmar,NA,-17.86603762,-63.16794814,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD 18 DE MARZO,Av. Cumavi entre 6 y 7 anillo,"3 3493919
+",-17.79282023,-63.1227004,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN LUIS,NA,"3 3538270
+",-17.78201226,-63.20045857,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD MONTERO HOYOS,Localidad de  Montero Hoyos,3225064,-17.64088279,-62.82446159,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD SAN ANTONIO,Av. Virgen de Cotoca altura del matadero,3 3491199,-17.77581546,-63.12163436,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD 10 DE OCTUBRE,Av. Virgen de Luján pasando a dos cuadras del Centro Cultural,3 3498786,-17.74352615,-63.11994428,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD ELVIRA WUNDERLICH,"Entre 2° y 3° anillo,   Av. Pilcomayo, calle Yacuiba S/N. ingresando por el Supermercado Fidalga 2 cuadras atras. Zona aeropuerto El Trompillo y Saguapac.","3 3579524
+",-17.80203516,-63.1833257,gamsc
+Santa Cruz,CentroMedico,CENTRO DE SALUD LAZARETO,B/ Lazareto C/ Corumbá esq. C/ Pailón,3 3461151,-17.78356664,-63.15956305,gamsc
+Santa Cruz,CentroMedico,HOSPITAL PLAN 3000,B/ Piraicito Av. Prefectural Diagonal Mercado Los Pocitos A 2 Cuadras De La Av. Paurito,‎3 3621402,-17.83914504,-63.11000585,gamsc
+Santa Cruz,CentroMedico,HOSPITAL FRANCÉS,"Av. Santos Dumont 6to anillo, B/Paititi C/1 entre C/ Mático y C/1",3 3518973,-17.8548051,-63.18910972,gamsc
+Santa Cruz,CentroMedico,HOSPITAL VILLA 1ro DE MAYO,7mo anillo entre Cumavi y Av. 3 pasos al frente. B/ Libertad Av.  La Tradición A Una Cuadra De La Av. Libertadores,800121700,-17.79955955,-63.11832109,gamsc
+Santa Cruz,CentroMedico,HOSPITAL OBRERO 400 CAMAS,NA,NA,-17.76719608,-63.15739804,gamsc
+Santa Cruz,CentroMedico,HOSPITAL PAMPA DE LA ISLA,B/ Bolinter Av. Montecristo A 5 Cuadras De La Av. Los Chacos,‎3 3494008,-17.7594904,-63.10717521,gamsc
+Santa Cruz,CentroMedico,HOSPITAL EL BAJÍO DEL ORIENTE,B/ Urb. Santa Cruz Av. Simon Bolivar Calle Eslovaquia A 2 Cuadras Del 6To Anillo.,3 3555008,-17.8320556,-63.20943273,gamsc

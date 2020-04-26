@@ -1,0 +1,29 @@
+[
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Agua",
+    "Nombre": "Agua Rica",
+    "Telefono": "4244721-4430410",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Agua",
+    "Nombre": "natureza",
+    "Telefono": "70700891",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Agua",
+    "Nombre": "Eco Pura",
+    "Telefono": "72748678",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

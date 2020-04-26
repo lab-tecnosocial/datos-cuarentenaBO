@@ -1,0 +1,5654 @@
+[
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "EL MERCADO DE LAS PULGAS",
+    "Telefono": "null",
+    "Latitud": -14834710,
+    "Longitud": -64903362,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 26 DE JULIO",
+    "Telefono": "null",
+    "Latitud": -14838198,
+    "Longitud": -64915429,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 30 DE JULIO SIN UTILIZAR.",
+    "Telefono": "null",
+    "Latitud": -14806752,
+    "Longitud": -64906868,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL TAJIBITO",
+    "Telefono": "null",
+    "Latitud": -14837781,
+    "Longitud": -64900964,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FATIMA",
+    "Telefono": "null",
+    "Latitud": -14834495,
+    "Longitud": -64894001,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOS MENUDOS",
+    "Telefono": "null",
+    "Latitud": -14838527,
+    "Longitud": -64899134,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MIAMI",
+    "Telefono": "null",
+    "Latitud": -14839781,
+    "Longitud": -64904587,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL BELLO HORIZONTE",
+    "Telefono": "null",
+    "Latitud": -14812041,
+    "Longitud": -64885889,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PAITITI",
+    "Telefono": "null",
+    "Latitud": -14824703,
+    "Longitud": -64887555,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POMPEYA",
+    "Telefono": "null",
+    "Latitud": -14839506,
+    "Longitud": -64900233,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN VICENTE",
+    "Telefono": "null",
+    "Latitud": -14832279,
+    "Longitud": -64909109,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SECCInaL",
+    "Telefono": "null",
+    "Latitud": -14833227,
+    "Longitud": -64902203,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "NUEVO MERCADO 13 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -14834129,
+    "Longitud": -64887880,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL RURREnaBAQUE",
+    "Telefono": "null",
+    "Latitud": -14441568,
+    "Longitud": -67528529,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE RURREnaBAQUE",
+    "Telefono": "null",
+    "Latitud": -14430046,
+    "Longitud": -67504601,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO PRIMERO DE MAYO",
+    "Telefono": "null",
+    "Latitud": -14862765,
+    "Longitud": -66749619,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL LA PAZ",
+    "Telefono": "null",
+    "Latitud": -14860600,
+    "Longitud": -66746196,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA MARIA MAGDALEna",
+    "Telefono": "null",
+    "Latitud": -13260531,
+    "Longitud": -64054679,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -14993250,
+    "Longitud": -65636371,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -14996196,
+    "Longitud": -65640043,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA FE",
+    "Telefono": "null",
+    "Latitud": -14999706,
+    "Longitud": -65644056,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -10822459,
+    "Longitud": -65354893,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL GUAYARAMERIN",
+    "Telefono": "null",
+    "Latitud": -10817612,
+    "Longitud": -65353601,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOS ALMENDROS",
+    "Telefono": "null",
+    "Latitud": -10832585,
+    "Longitud": -65347465,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 3 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -11003930,
+    "Longitud": -66056500,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS MERCEDEZ",
+    "Telefono": "null",
+    "Latitud": -10998407,
+    "Longitud": -66034914,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE",
+    "Telefono": "null",
+    "Latitud": -11000263,
+    "Longitud": -66064713,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO ALONSO HUMAZA  TABABARI",
+    "Telefono": "null",
+    "Latitud": -13738694,
+    "Longitud": -65423239,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE SANTA Ana",
+    "Telefono": "null",
+    "Latitud": -13743833,
+    "Longitud": -65427109,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VEINTISEIS DE JULIO",
+    "Telefono": "null",
+    "Latitud": -13739336,
+    "Longitud": -65421892,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTAL DE ARANI",
+    "Telefono": "null",
+    "Latitud": -17573450,
+    "Longitud": -65771911,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL AIQUILE",
+    "Telefono": "null",
+    "Latitud": -18200487,
+    "Longitud": -65182094,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL CAPINOTA",
+    "Telefono": "null",
+    "Latitud": -17714267,
+    "Longitud": -66262038,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -17723912,
+    "Longitud": -66283844,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO IRPA IRPA",
+    "Telefono": "null",
+    "Latitud": -17721716,
+    "Longitud": -66287138,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CORONEL GERMAN LEMA",
+    "Telefono": "null",
+    "Latitud": -17550160,
+    "Longitud": -66249214,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ASOCIACION 13 DE JUNIO",
+    "Telefono": "null",
+    "Latitud": -16996032,
+    "Longitud": -65153058,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -16994898,
+    "Longitud": -65150180,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE CHIMORE",
+    "Telefono": "null",
+    "Latitud": -16994751,
+    "Longitud": -65149850,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE FRUTAS CHIMORE",
+    "Telefono": "null",
+    "Latitud": -16996085,
+    "Longitud": -65151573,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GREMELISTAS  CHIMORE",
+    "Telefono": "null",
+    "Latitud": -16996078,
+    "Longitud": -65152058,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE LA ZOna",
+    "Telefono": "null",
+    "Latitud": -17204348,
+    "Longitud": -64532480,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ENTRE RIOS",
+    "Telefono": "null",
+    "Latitud": -17198678,
+    "Longitud": -64538016,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NUEVO",
+    "Telefono": "null",
+    "Latitud": -17195974,
+    "Longitud": -64534470,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 14 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17032905,
+    "Longitud": -64860856,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 15 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -17037919,
+    "Longitud": -64863372,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17033594,
+    "Longitud": -64860132,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE COCA",
+    "Telefono": "null",
+    "Latitud": -17041717,
+    "Longitud": -64861130,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMARIO DE COCA",
+    "Telefono": "null",
+    "Latitud": -17032752,
+    "Longitud": -64860202,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PUERTO VILLARROEL",
+    "Telefono": "null",
+    "Latitud": -16839107,
+    "Longitud": -64794150,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "ANTIGUO MERCADO CAMPESINO LAGUna ALALAY",
+    "Telefono": "null",
+    "Latitud": -17400400,
+    "Longitud": -66142597,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MEGA MERCADO DE FRUTAS",
+    "Telefono": "null",
+    "Latitud": -17400428,
+    "Longitud": -66143305,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17446730,
+    "Longitud": -66115624,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17440041,
+    "Longitud": -66116183,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17360889,
+    "Longitud": -66182980,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA",
+    "Telefono": "null",
+    "Latitud": -17462301,
+    "Longitud": -66105928,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1RO DE MARZO",
+    "Telefono": "null",
+    "Latitud": -17394903,
+    "Longitud": -66154826,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 20 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17419201,
+    "Longitud": -66144285,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 20 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17490089,
+    "Longitud": -66177713,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17401180,
+    "Longitud": -66153924,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17394938,
+    "Longitud": -66155352,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO -A",
+    "Telefono": "null",
+    "Latitud": -17394676,
+    "Longitud": -66154392,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE MAYO B",
+    "Telefono": "null",
+    "Latitud": -17394703,
+    "Longitud": -66154863,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17425230,
+    "Longitud": -66143201,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17474951,
+    "Longitud": -66149199,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17434506,
+    "Longitud": -66156740,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARTOLIna SISA",
+    "Telefono": "null",
+    "Latitud": -17468100,
+    "Longitud": -66206974,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17431632,
+    "Longitud": -66125808,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17434316,
+    "Longitud": -66124189,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17434047,
+    "Longitud": -66124387,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17430476,
+    "Longitud": -66126161,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17433555,
+    "Longitud": -66124678,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO DEL NORTE   MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR",
+    "Telefono": "null",
+    "Latitud": -17351226,
+    "Longitud": -66172623,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO PRIVADO",
+    "Telefono": "null",
+    "Latitud": -17429383,
+    "Longitud": -66126429,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CERRO VERDE",
+    "Telefono": "null",
+    "Latitud": -17413978,
+    "Longitud": -66144082,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE CALA CALA",
+    "Telefono": "null",
+    "Latitud": -17372261,
+    "Longitud": -66161775,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VALLE HERMOSO",
+    "Telefono": "null",
+    "Latitud": -17447943,
+    "Longitud": -66127207,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DEL OESTE BELEN TOKIO",
+    "Telefono": "null",
+    "Latitud": -17382356,
+    "Longitud": -66194726,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL PROGRESO",
+    "Telefono": "null",
+    "Latitud": -17394689,
+    "Longitud": -66190325,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FERROVIARIO",
+    "Telefono": "null",
+    "Latitud": -17448104,
+    "Longitud": -66146801,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FIDEL ARANIBAR",
+    "Telefono": "null",
+    "Latitud": -17402795,
+    "Longitud": -66153960,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO INGAVI",
+    "Telefono": "null",
+    "Latitud": -17390127,
+    "Longitud": -66171077,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JAIHUAYCO",
+    "Telefono": "null",
+    "Latitud": -17415019,
+    "Longitud": -66164129,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JUAN XXIII",
+    "Telefono": "null",
+    "Latitud": -17388831,
+    "Longitud": -66203724,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAMPA",
+    "Telefono": "null",
+    "Latitud": -17403778,
+    "Longitud": -66152052,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LORETO",
+    "Telefono": "null",
+    "Latitud": -17423266,
+    "Longitud": -66157048,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MISICUNI",
+    "Telefono": "null",
+    "Latitud": -17437367,
+    "Longitud": -66113235,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO DEL NORTE MINORISTAS",
+    "Telefono": "null",
+    "Latitud": -17351945,
+    "Longitud": -66172993,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MOLINO EL GALLO",
+    "Telefono": "null",
+    "Latitud": -17406813,
+    "Longitud": -66155093,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MOLINO SAN LUIS",
+    "Telefono": "null",
+    "Latitud": -17405716,
+    "Longitud": -66155077,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NORTE CALATAYUD",
+    "Telefono": "null",
+    "Latitud": -17398351,
+    "Longitud": -66152809,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO OSORIO",
+    "Telefono": "null",
+    "Latitud": -17397122,
+    "Longitud": -66162586,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PALMAR",
+    "Telefono": "null",
+    "Latitud": -17467134,
+    "Longitud": -66207119,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PAPA PAULO",
+    "Telefono": "null",
+    "Latitud": -17383902,
+    "Longitud": -66147804,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO QUECHISLITAS",
+    "Telefono": "null",
+    "Latitud": -17375552,
+    "Longitud": -66185689,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -17402758,
+    "Longitud": -66155039,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SECCIOnaL 15 DE ABRIL VILLA ALALAY",
+    "Telefono": "null",
+    "Latitud": -17420300,
+    "Longitud": -66140075,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SUD CALATAYUD",
+    "Telefono": "null",
+    "Latitud": -17398950,
+    "Longitud": -66152731,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ZOnaL SEÑOR DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17364564,
+    "Longitud": -66176323,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADOna",
+    "Telefono": "null",
+    "Latitud": -17413559,
+    "Longitud": -66165533,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MOROMERCADO LACTEOS",
+    "Telefono": "null",
+    "Latitud": -17386795,
+    "Longitud": -66157590,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17338347,
+    "Longitud": -65866537,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE COLOMI",
+    "Telefono": "null",
+    "Latitud": -17338115,
+    "Longitud": -65866671,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE COLOMI",
+    "Telefono": "null",
+    "Latitud": -17337807,
+    "Longitud": -65864607,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17413385,
+    "Longitud": -66024177,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARRIENTOS",
+    "Telefono": "null",
+    "Latitud": -17375997,
+    "Longitud": -66118210,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17377808,
+    "Longitud": -66112576,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE ESMERALDA",
+    "Telefono": "null",
+    "Latitud": -17379197,
+    "Longitud": -66078412,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE QUINTANILLA",
+    "Telefono": "null",
+    "Latitud": -17387403,
+    "Longitud": -66110762,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE QUINTANILLA",
+    "Telefono": "null",
+    "Latitud": -17387121,
+    "Longitud": -66110982,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE SACABA",
+    "Telefono": "null",
+    "Latitud": -17402336,
+    "Longitud": -66037375,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL HUAYYANI GRANDE/SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -17392732,
+    "Longitud": -66058791,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SACABA",
+    "Telefono": "null",
+    "Latitud": -17404887,
+    "Longitud": -66038608,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE BARRIO",
+    "Telefono": "null",
+    "Latitud": -17376497,
+    "Longitud": -66065552,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN DISTRITO 6",
+    "Telefono": "null",
+    "Latitud": -17415310,
+    "Longitud": -66079808,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MORRO(GALPON DE PAPA)",
+    "Telefono": "null",
+    "Latitud": -17398675,
+    "Longitud": -66034591,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA UNION",
+    "Telefono": "null",
+    "Latitud": -17414834,
+    "Longitud": -66082962,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -16830880,
+    "Longitud": -65521034,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL ETERAZAMA",
+    "Telefono": "null",
+    "Latitud": -16831453,
+    "Longitud": -65520289,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE COMERCIANTES MINORISTAS 1RO DE MAYO",
+    "Telefono": "null",
+    "Latitud": -16831420,
+    "Longitud": -65519979,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MUCROMERCADO",
+    "Telefono": "null",
+    "Latitud": -16974713,
+    "Longitud": -65417948,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE TARATA",
+    "Telefono": "null",
+    "Latitud": -17613894,
+    "Longitud": -66024214,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO CENTRAL MIZQUE",
+    "Telefono": "null",
+    "Latitud": -17941831,
+    "Longitud": -65341851,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL PUnaTA",
+    "Telefono": "null",
+    "Latitud": -17547058,
+    "Longitud": -65836623,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE PAPA",
+    "Telefono": "null",
+    "Latitud": -17542792,
+    "Longitud": -65834452,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SAN BENITO CON 90 PUESTOS DE VENTA",
+    "Telefono": "null",
+    "Latitud": -17521671,
+    "Longitud": -65894679,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAPACACHI",
+    "Telefono": "null",
+    "Latitud": -17383518,
+    "Longitud": -66223757,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE KAMY",
+    "Telefono": "null",
+    "Latitud": -17365939,
+    "Longitud": -66234565,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE ABASTO FLOTIDA NORTE",
+    "Telefono": "null",
+    "Latitud": -17386820,
+    "Longitud": -66225445,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL 27 DE MAYO EL PASO",
+    "Telefono": "null",
+    "Latitud": -17339342,
+    "Longitud": -66264936,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 9 DE DICIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17399921,
+    "Longitud": -66282840,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 9 DE DICIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17400388,
+    "Longitud": -66283251,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTAL DE QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17397293,
+    "Longitud": -66280488,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17397415,
+    "Longitud": -66279912,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE PAPAS",
+    "Telefono": "null",
+    "Latitud": -17401411,
+    "Longitud": -66285074,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE QUILLACOLLO",
+    "Telefono": "null",
+    "Latitud": -17395750,
+    "Longitud": -66282603,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MARTIN CARDEnaS",
+    "Telefono": "null",
+    "Latitud": -17406035,
+    "Longitud": -66282849,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NELIDA DE GUERRA",
+    "Telefono": "null",
+    "Latitud": -17390006,
+    "Longitud": -66285944,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PLAZA DE GRANOS",
+    "Telefono": "null",
+    "Latitud": -17398767,
+    "Longitud": -66284040,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA MARIA",
+    "Telefono": "null",
+    "Latitud": -17385642,
+    "Longitud": -66256822,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B",
+    "Telefono": "null",
+    "Latitud": -17453654,
+    "Longitud": -66356641,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 17 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17346300,
+    "Longitud": -66191154,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 24 DE JUNIO",
+    "Telefono": "null",
+    "Latitud": -17334368,
+    "Longitud": -66197998,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE TIQUIPAYA",
+    "Telefono": "null",
+    "Latitud": -17337262,
+    "Longitud": -66218661,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CHILIMARCA 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17336400,
+    "Longitud": -66202946,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE LA COMUNIDAD BARRIO ÑEBERIA",
+    "Telefono": "null",
+    "Latitud": -17361834,
+    "Longitud": -66225057,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA ELISA",
+    "Telefono": "null",
+    "Latitud": -17361763,
+    "Longitud": -66215504,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "FERIA DEL MERCADO CAMPESINO DE VINTO",
+    "Telefono": "null",
+    "Latitud": -17399152,
+    "Longitud": -66316880,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL CHULLA",
+    "Telefono": "null",
+    "Latitud": -17377769,
+    "Longitud": -66308240,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VINTO",
+    "Telefono": "null",
+    "Latitud": -17399660,
+    "Longitud": -66316306,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SEXTA",
+    "Telefono": "null",
+    "Latitud": -17398040,
+    "Longitud": -66326043,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -16993608,
+    "Longitud": -65248754,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -16996016,
+    "Longitud": -65246544,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE JULIO",
+    "Telefono": "null",
+    "Latitud": -16994008,
+    "Longitud": -65239797,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -16994004,
+    "Longitud": -65248758,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL 24 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -16994153,
+    "Longitud": -65247321,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAZ TROPICO PRIMERA SECCION",
+    "Telefono": "null",
+    "Latitud": -16993744,
+    "Longitud": -65247649,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAZ TROPICO SEGUNDA SECCION",
+    "Telefono": "null",
+    "Latitud": -16994098,
+    "Longitud": -65247711,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAZ TROPICO TERCERA SECCION",
+    "Telefono": "null",
+    "Latitud": -16994404,
+    "Longitud": -65247765,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMARIO DE COCA",
+    "Telefono": "null",
+    "Latitud": -16992715,
+    "Longitud": -65244050,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMARIO DE LA COCA",
+    "Telefono": "null",
+    "Latitud": -16995964,
+    "Longitud": -65248768,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -19810768,
+    "Longitud": -63979596,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL MONTEAGUDO",
+    "Telefono": "null",
+    "Latitud": -19801674,
+    "Longitud": -63954597,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GREMIALISTA  10 DE NOVIEMBRE",
+    "Telefono": "null",
+    "Latitud": -19795762,
+    "Longitud": -63959454,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MARACAna",
+    "Telefono": "null",
+    "Latitud": -19803808,
+    "Longitud": -63956887,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR",
+    "Telefono": "null",
+    "Latitud": -19804907,
+    "Longitud": -63957038,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE",
+    "Telefono": "null",
+    "Latitud": -19808443,
+    "Longitud": -63959234,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -20642098,
+    "Longitud": -65211327,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -20642076,
+    "Longitud": -65210548,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BALLIVIAN 17 TIENDAS DE ROPA",
+    "Telefono": "null",
+    "Latitud": -19042781,
+    "Longitud": -65257327,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -19033359,
+    "Longitud": -65253625,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAPITAL .     TIENDAS DE ROPA",
+    "Telefono": "null",
+    "Latitud": -19044016,
+    "Longitud": -65258344,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE LAJASTAMBO",
+    "Telefono": "null",
+    "Latitud": -19012033,
+    "Longitud": -65309123,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL MORRO",
+    "Telefono": "null",
+    "Latitud": -19026918,
+    "Longitud": -65247991,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EVO MORALES AYMA",
+    "Telefono": "null",
+    "Latitud": -19069518,
+    "Longitud": -65242700,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAJASTAMBO",
+    "Telefono": "null",
+    "Latitud": -19012676,
+    "Longitud": -65308665,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MINORISTA",
+    "Telefono": "null",
+    "Latitud": -19040419,
+    "Longitud": -65254812,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POCOnaS",
+    "Telefono": "null",
+    "Latitud": -19047369,
+    "Longitud": -65249312,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO ( GOBIERNO AUTONOMO MUNICIPAL DE SUCRE)",
+    "Telefono": "null",
+    "Latitud": -19050513,
+    "Longitud": -65240854,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA Ana RECOBITA",
+    "Telefono": "null",
+    "Latitud": -19053279,
+    "Longitud": -65253292,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO TOMAS KATARI",
+    "Telefono": "null",
+    "Latitud": -19020586,
+    "Longitud": -65261213,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "TIKARIY MERCADO ARTESAnaL",
+    "Telefono": "null",
+    "Latitud": -19033666,
+    "Longitud": -65250373,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE YOTALA",
+    "Telefono": "null",
+    "Latitud": -19162174,
+    "Longitud": -65263975,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO DE TARABUCO",
+    "Telefono": "null",
+    "Latitud": -19181238,
+    "Longitud": -64912127,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Chuquisaca",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL TARABUCO",
+    "Telefono": "null",
+    "Latitud": -19181738,
+    "Longitud": -64913732,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -15832238,
+    "Longitud": -67567519,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMARIO DE COCA APROCOCA CARAnaVI",
+    "Telefono": "null",
+    "Latitud": -15829210,
+    "Longitud": -67570590,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 3 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -14710154,
+    "Longitud": -68416153,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL MUNICIPAL DESAGUADERO VIRGEN DE URCUPIÑA",
+    "Telefono": "null",
+    "Latitud": -16566889,
+    "Longitud": -69035975,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL",
+    "Telefono": "null",
+    "Latitud": -16654143,
+    "Longitud": -68302044,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO  COLQUIRI",
+    "Telefono": "null",
+    "Latitud": -17395967,
+    "Longitud": -67129487,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 6 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17391750,
+    "Longitud": -67124970,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO, FRECIA VILLANUEVA CHOQUE",
+    "Telefono": "null",
+    "Latitud": -17389033,
+    "Longitud": -67122867,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PEDRO DOMINGO MURILLO",
+    "Telefono": "null",
+    "Latitud": -17389035,
+    "Longitud": -67123687,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE COPACABAna",
+    "Telefono": "null",
+    "Latitud": -16164434,
+    "Longitud": -69085864,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -16488859,
+    "Longitud": -68171422,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO  MODELO COSMOS 78",
+    "Telefono": "null",
+    "Latitud": -16526254,
+    "Longitud": -68200414,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -16520801,
+    "Longitud": -68166439,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 14 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16542691,
+    "Longitud": -68174185,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE JULIO DE SANTIAGO II",
+    "Telefono": "null",
+    "Latitud": -16536706,
+    "Longitud": -68178413,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16589905,
+    "Longitud": -68189914,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AMIG-CHACO",
+    "Telefono": "null",
+    "Latitud": -16526549,
+    "Longitud": -68205115,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARTOLIna ZIZA",
+    "Telefono": "null",
+    "Latitud": -16487454,
+    "Longitud": -68194689,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR D",
+    "Telefono": "null",
+    "Latitud": -16524189,
+    "Longitud": -68176356,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CALUYO",
+    "Telefono": "null",
+    "Latitud": -16531266,
+    "Longitud": -68191707,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -16537427,
+    "Longitud": -68167382,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL VILLA DOLORES",
+    "Telefono": "null",
+    "Latitud": -16512357,
+    "Longitud": -68158903,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CIUDAD SATELITE",
+    "Telefono": "null",
+    "Latitud": -16524838,
+    "Longitud": -68150698,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CORAZON DE JESUS",
+    "Telefono": "null",
+    "Latitud": -16548067,
+    "Longitud": -68189746,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE ALTO LIMA",
+    "Telefono": "null",
+    "Latitud": -16480569,
+    "Longitud": -68175268,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VILLA ADELA",
+    "Telefono": "null",
+    "Latitud": -16519321,
+    "Longitud": -68211463,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DOLORES F",
+    "Telefono": "null",
+    "Latitud": -16525866,
+    "Longitud": -68186797,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -16495726,
+    "Longitud": -68214898,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -16495661,
+    "Longitud": -68214630,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JUAN CRUZ",
+    "Telefono": "null",
+    "Latitud": -16472962,
+    "Longitud": -68221260,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JUAna AZURDUY DE PADILLA",
+    "Telefono": "null",
+    "Latitud": -16543383,
+    "Longitud": -68185663,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LUIS PAMPA",
+    "Telefono": "null",
+    "Latitud": -16538112,
+    "Longitud": -68204294,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO",
+    "Telefono": "null",
+    "Latitud": -16619750,
+    "Longitud": -68181631,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMERO DE MAYO",
+    "Telefono": "null",
+    "Latitud": -16534306,
+    "Longitud": -68199442,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIVADO DE TUBERCULOS",
+    "Telefono": "null",
+    "Latitud": -16506015,
+    "Longitud": -68160242,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO QUISWARAS",
+    "Telefono": "null",
+    "Latitud": -16542232,
+    "Longitud": -68230957,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA Ana",
+    "Telefono": "null",
+    "Latitud": -16526942,
+    "Longitud": -68207370,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA ROSA",
+    "Telefono": "null",
+    "Latitud": -16536735,
+    "Longitud": -68165063,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTOS MAMANI",
+    "Telefono": "null",
+    "Latitud": -16494777,
+    "Longitud": -68175121,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO TUnaRI",
+    "Telefono": "null",
+    "Latitud": -16496642,
+    "Longitud": -68196356,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO UNION PROGRESO",
+    "Telefono": "null",
+    "Latitud": -16503925,
+    "Longitud": -68161529,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO URKUPIÑA",
+    "Telefono": "null",
+    "Latitud": -16555858,
+    "Longitud": -68190930,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA EXALTACION",
+    "Telefono": "null",
+    "Latitud": -16535768,
+    "Longitud": -68157359,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA MERCEDES",
+    "Telefono": "null",
+    "Latitud": -16566814,
+    "Longitud": -68219919,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA TEJADA",
+    "Telefono": "null",
+    "Latitud": -16521270,
+    "Longitud": -68157088,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VIRGEN DE LA CANDELARIA",
+    "Telefono": "null",
+    "Latitud": -16526668,
+    "Longitud": -68225074,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ZOna MERCEDARIO",
+    "Telefono": "null",
+    "Latitud": -16524015,
+    "Longitud": -68235597,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCIACION MERCADO CANDELARIA EX FONDO OVEJUYO",
+    "Telefono": "null",
+    "Latitud": -16534070,
+    "Longitud": -68038111,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE ENERO",
+    "Telefono": "null",
+    "Latitud": -16501468,
+    "Longitud": -68104484,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 14 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16528293,
+    "Longitud": -68099548,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 15 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -16476666,
+    "Longitud": -68118147,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 16 DE JULIO",
+    "Telefono": "null",
+    "Latitud": -16529857,
+    "Longitud": -68102487,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 16 DE JULIO KALAJAHUIRA",
+    "Telefono": "null",
+    "Latitud": -16453017,
+    "Longitud": -68096536,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 16 DE JULIO KALAJAHUIRA",
+    "Telefono": "null",
+    "Latitud": -16452709,
+    "Longitud": -68096591,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 19 MARZO",
+    "Telefono": "null",
+    "Latitud": -16496455,
+    "Longitud": -68142156,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 21 DE ENERO",
+    "Telefono": "null",
+    "Latitud": -16456829,
+    "Longitud": -68149514,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 29 DE ENERO",
+    "Telefono": "null",
+    "Latitud": -16536944,
+    "Longitud": -68048392,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 4 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -16521882,
+    "Longitud": -68145818,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE DICIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16536944,
+    "Longitud": -68048392,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16517027,
+    "Longitud": -68113639,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ADOLFO ORTEGA",
+    "Telefono": "null",
+    "Latitud": -16496016,
+    "Longitud": -68143630,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ALTO MARISCAL SANTA CRUZ",
+    "Telefono": "null",
+    "Latitud": -16493135,
+    "Longitud": -68160590,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ALTO SEGUENCOMA",
+    "Telefono": "null",
+    "Latitud": -16533986,
+    "Longitud": -68104223,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AMAPOLA",
+    "Telefono": "null",
+    "Latitud": -16500678,
+    "Longitud": -68139058,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ANTOFAGASTA",
+    "Telefono": "null",
+    "Latitud": -16487708,
+    "Longitud": -68140491,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ARTESAnaL",
+    "Telefono": "null",
+    "Latitud": -16495714,
+    "Longitud": -68137648,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ARTESAnaL JUAN XXIII",
+    "Telefono": "null",
+    "Latitud": -16498421,
+    "Longitud": -68137973,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BAJO MARISCAL SANTA CRUZ",
+    "Telefono": "null",
+    "Latitud": -16492558,
+    "Longitud": -68158364,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR",
+    "Telefono": "null",
+    "Latitud": -16513848,
+    "Longitud": -68141155,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR",
+    "Telefono": "null",
+    "Latitud": -16493591,
+    "Longitud": -68131845,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CALAMA",
+    "Telefono": "null",
+    "Latitud": -16489753,
+    "Longitud": -68137213,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CALATAYUD",
+    "Telefono": "null",
+    "Latitud": -16495439,
+    "Longitud": -68147624,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMACHO",
+    "Telefono": "null",
+    "Latitud": -16500455,
+    "Longitud": -68131575,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO (ZENOBIO LOPEZ)",
+    "Telefono": "null",
+    "Latitud": -16506862,
+    "Longitud": -68115456,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CARMEN ENTRE RIOS",
+    "Telefono": "null",
+    "Latitud": -16497277,
+    "Longitud": -68156002,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL PURA PURA",
+    "Telefono": "null",
+    "Latitud": -16481479,
+    "Longitud": -68149226,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COMEDOR RINCON CRIOLLO",
+    "Telefono": "null",
+    "Latitud": -16503262,
+    "Longitud": -68128262,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE COCA",
+    "Telefono": "null",
+    "Latitud": -16473824,
+    "Longitud": -68118086,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE COCA APOLO CARAnaVI",
+    "Telefono": "null",
+    "Latitud": -16475955,
+    "Longitud": -68119264,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -16514695,
+    "Longitud": -68126271,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL TEJAR",
+    "Telefono": "null",
+    "Latitud": -16495322,
+    "Longitud": -68152063,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FRANCISCO CERnaDAS",
+    "Telefono": "null",
+    "Latitud": -16483771,
+    "Longitud": -68125464,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GERMAN BUCHS",
+    "Telefono": "null",
+    "Latitud": -16481803,
+    "Longitud": -68139965,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO HAITI",
+    "Telefono": "null",
+    "Latitud": -16490814,
+    "Longitud": -68122574,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO HINOJOSA",
+    "Telefono": "null",
+    "Latitud": -16503350,
+    "Longitud": -68144583,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JERMAN JORDAN",
+    "Telefono": "null",
+    "Latitud": -16509999,
+    "Longitud": -68112949,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO KILLI KILLI",
+    "Telefono": "null",
+    "Latitud": -16494480,
+    "Longitud": -68127412,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO KOLLLASUYO",
+    "Telefono": "null",
+    "Latitud": -16495182,
+    "Longitud": -68116670,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA MERCED",
+    "Telefono": "null",
+    "Latitud": -16471025,
+    "Longitud": -68118066,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA MERCED DE COTA COTA",
+    "Telefono": "null",
+    "Latitud": -16542077,
+    "Longitud": -68058031,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PORTADA",
+    "Telefono": "null",
+    "Latitud": -16489251,
+    "Longitud": -68166946,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LANZA",
+    "Telefono": "null",
+    "Latitud": -16494747,
+    "Longitud": -68137328,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS DELICIAS",
+    "Telefono": "null",
+    "Latitud": -16476973,
+    "Longitud": -68123548,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS FLORES",
+    "Telefono": "null",
+    "Latitud": -16495416,
+    "Longitud": -68151104,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS LOMAS",
+    "Telefono": "null",
+    "Latitud": -16522272,
+    "Longitud": -68138834,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS NIEVES",
+    "Telefono": "null",
+    "Latitud": -16497140,
+    "Longitud": -68157388,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOS ANDES",
+    "Telefono": "null",
+    "Latitud": -16498739,
+    "Longitud": -68148289,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LLOJETA VERGEL",
+    "Telefono": "null",
+    "Latitud": -16534238,
+    "Longitud": -68140376,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MANUEL HOYOS",
+    "Telefono": "null",
+    "Latitud": -16485917,
+    "Longitud": -68134593,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MARACAna",
+    "Telefono": "null",
+    "Latitud": -16485585,
+    "Longitud": -68137140,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO ACHUMANI",
+    "Telefono": "null",
+    "Latitud": -16530709,
+    "Longitud": -68073618,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO ALTO SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -16498039,
+    "Longitud": -68108447,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO IRPAVI",
+    "Telefono": "null",
+    "Latitud": -16525088,
+    "Longitud": -68087166,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO LAS VELAS",
+    "Telefono": "null",
+    "Latitud": -16500744,
+    "Longitud": -68127557,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO OBISPO INDABURO",
+    "Telefono": "null",
+    "Latitud": -16501087,
+    "Longitud": -68145532,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO N7 VILLA VICTORIA",
+    "Telefono": "null",
+    "Latitud": -16490368,
+    "Longitud": -68151694,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NUESTRA SEÑORA DE LA PAZ",
+    "Telefono": "null",
+    "Latitud": -16495542,
+    "Longitud": -68103042,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PASANKERI KM7",
+    "Telefono": "null",
+    "Latitud": -16522962,
+    "Longitud": -68143332,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR DE ALTO OBRAJES",
+    "Telefono": "null",
+    "Latitud": -16523606,
+    "Longitud": -68104050,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR PURA PURA",
+    "Telefono": "null",
+    "Latitud": -16487745,
+    "Longitud": -68150860,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR RAUL SALMON 6 DE JUNIO",
+    "Telefono": "null",
+    "Latitud": -16528206,
+    "Longitud": -68123464,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIVADO DE VILLA FATIMA",
+    "Telefono": "null",
+    "Latitud": -16481100,
+    "Longitud": -68120901,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PROVISIOnaL LOS PINOS",
+    "Telefono": "null",
+    "Latitud": -16542589,
+    "Longitud": -68071505,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RODRIGUES",
+    "Telefono": "null",
+    "Latitud": -16500181,
+    "Longitud": -68138986,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RODRIGUEZ",
+    "Telefono": "null",
+    "Latitud": -16500800,
+    "Longitud": -68139526,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RURAL DE CHINCANI",
+    "Telefono": "null",
+    "Latitud": -16500102,
+    "Longitud": -68081892,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAGRADO CORAZON DE JESUS",
+    "Telefono": "null",
+    "Latitud": -16500822,
+    "Longitud": -68153150,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN CRISTOBAL",
+    "Telefono": "null",
+    "Latitud": -16510396,
+    "Longitud": -68145639,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ISIDRO",
+    "Telefono": "null",
+    "Latitud": -16510877,
+    "Longitud": -68106165,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE",
+    "Telefono": "null",
+    "Latitud": -16489127,
+    "Longitud": -68158614,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE DE MALLASILLA",
+    "Telefono": "null",
+    "Latitud": -16566767,
+    "Longitud": -68100704,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JUAN",
+    "Telefono": "null",
+    "Latitud": -16491128,
+    "Longitud": -68104088,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANCHEZ LIMA",
+    "Telefono": "null",
+    "Latitud": -16507991,
+    "Longitud": -68136735,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTIAGO DE MUnaYPATA",
+    "Telefono": "null",
+    "Latitud": -16489888,
+    "Longitud": -68156545,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SOPOCACHI",
+    "Telefono": "null",
+    "Latitud": -16509351,
+    "Longitud": -68129408,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO STRONGEST",
+    "Telefono": "null",
+    "Latitud": -16515786,
+    "Longitud": -68139929,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO TEOFILO MIRANDA",
+    "Telefono": "null",
+    "Latitud": -16497146,
+    "Longitud": -68116324,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO URKUPIÑA BAJO SAN ISIDRO",
+    "Telefono": "null",
+    "Latitud": -16512052,
+    "Longitud": -68107734,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO URUGUAY",
+    "Telefono": "null",
+    "Latitud": -16497213,
+    "Longitud": -68143713,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICENTE",
+    "Telefono": "null",
+    "Latitud": -16497943,
+    "Longitud": -68144297,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ARMONIA",
+    "Telefono": "null",
+    "Latitud": -16508744,
+    "Longitud": -68110556,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ARMONIA",
+    "Telefono": "null",
+    "Latitud": -16508650,
+    "Longitud": -68110747,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ARMONIA",
+    "Telefono": "null",
+    "Latitud": -16508669,
+    "Longitud": -68110924,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ARMONIA",
+    "Telefono": "null",
+    "Latitud": -16508706,
+    "Longitud": -68110634,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ARMONIA",
+    "Telefono": "null",
+    "Latitud": -16508830,
+    "Longitud": -68110426,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -16469001,
+    "Longitud": -68115255,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA FATIMA",
+    "Telefono": "null",
+    "Latitud": -16480552,
+    "Longitud": -68121093,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA NUEVA POTOSI",
+    "Telefono": "null",
+    "Latitud": -16505482,
+    "Longitud": -68149345,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VIRGEN DE LAS NIEVES",
+    "Telefono": "null",
+    "Latitud": -16475460,
+    "Longitud": -68149372,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "SUMAYA MERCADO DE BRUJAS",
+    "Telefono": "null",
+    "Latitud": -16496160,
+    "Longitud": -68138757,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO SAN JOSE COROICO",
+    "Telefono": "null",
+    "Latitud": -16189497,
+    "Longitud": -67727843,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR DE ACHACACHI",
+    "Telefono": "null",
+    "Latitud": -16043432,
+    "Longitud": -68683960,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LANZA",
+    "Telefono": "null",
+    "Latitud": -16410793,
+    "Longitud": -67526487,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VIRGEN DE COPACABAna",
+    "Telefono": "null",
+    "Latitud": -16406308,
+    "Longitud": -67529120,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -15586936,
+    "Longitud": -67247128,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VIRGEN DE CANDELARIA",
+    "Telefono": "null",
+    "Latitud": -15586455,
+    "Longitud": -67247578,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ANTOFAGASTA",
+    "Telefono": "null",
+    "Latitud": -18903386,
+    "Longitud": -66764101,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -18900454,
+    "Longitud": -66763680,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 6 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17638522,
+    "Longitud": -67219631,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCIACION DE COMERCIANTES MERCADO MARIA AYMA",
+    "Telefono": "null",
+    "Latitud": -17946043,
+    "Longitud": -67095115,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AURORA",
+    "Telefono": "null",
+    "Latitud": -17912889,
+    "Longitud": -67125580,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARTOLIna SISA",
+    "Telefono": "null",
+    "Latitud": -17977681,
+    "Longitud": -67097945,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAKEO",
+    "Telefono": "null",
+    "Latitud": -17951790,
+    "Longitud": -67110216,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMACHO",
+    "Telefono": "null",
+    "Latitud": -17956560,
+    "Longitud": -67116946,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPERO",
+    "Telefono": "null",
+    "Latitud": -17970887,
+    "Longitud": -67110124,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO KANTUTA",
+    "Telefono": "null",
+    "Latitud": -17949729,
+    "Longitud": -67102134,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE LA URBANIZACION BUSTILLOS",
+    "Telefono": "null",
+    "Latitud": -17970989,
+    "Longitud": -67057449,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE VINTO",
+    "Telefono": "null",
+    "Latitud": -17972553,
+    "Longitud": -67047099,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EDUARDO AVAROA",
+    "Telefono": "null",
+    "Latitud": -17987156,
+    "Longitud": -67113831,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EVO MORALES",
+    "Telefono": "null",
+    "Latitud": -17964218,
+    "Longitud": -67096846,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EX ADUAna",
+    "Telefono": "null",
+    "Latitud": -17971128,
+    "Longitud": -67109614,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EX ADUAna",
+    "Telefono": "null",
+    "Latitud": -17970832,
+    "Longitud": -67108766,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FERMIN LOPEZ",
+    "Telefono": "null",
+    "Latitud": -17966703,
+    "Longitud": -67114759,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GRAN PODER",
+    "Telefono": "null",
+    "Latitud": -17982801,
+    "Longitud": -67091528,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JORGE PALENQUE",
+    "Telefono": "null",
+    "Latitud": -17980288,
+    "Longitud": -67122542,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO KANTUTA",
+    "Telefono": "null",
+    "Latitud": -17950140,
+    "Longitud": -67102728,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MAX FERnaNDEZ",
+    "Telefono": "null",
+    "Latitud": -17968282,
+    "Longitud": -67097516,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MIRAFLORES",
+    "Telefono": "null",
+    "Latitud": -17939167,
+    "Longitud": -67113760,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR INCAPOZO",
+    "Telefono": "null",
+    "Latitud": -17944731,
+    "Longitud": -67119907,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PUMAS ANDINOS",
+    "Telefono": "null",
+    "Latitud": -17995669,
+    "Longitud": -67068767,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RAFAEL PABON",
+    "Telefono": "null",
+    "Latitud": -17984349,
+    "Longitud": -67103112,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RAFAEL PABON",
+    "Telefono": "null",
+    "Latitud": -17983357,
+    "Longitud": -67102600,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ROBERTO YOUNG",
+    "Telefono": "null",
+    "Latitud": -17977894,
+    "Longitud": -67132851,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE",
+    "Telefono": "null",
+    "Latitud": -17957845,
+    "Longitud": -67123555,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN PEDRO",
+    "Telefono": "null",
+    "Latitud": -17945813,
+    "Longitud": -67113232,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO V. FATIMA",
+    "Telefono": "null",
+    "Latitud": -17959330,
+    "Longitud": -67117941,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VENEZUELA",
+    "Telefono": "null",
+    "Latitud": -17938068,
+    "Longitud": -67110484,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA VICTORIA",
+    "Telefono": "null",
+    "Latitud": -17975276,
+    "Longitud": -67054342,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO WHALTER KHON",
+    "Telefono": "null",
+    "Latitud": -17980694,
+    "Longitud": -67116353,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MKCROMERCADO CLAUDOA",
+    "Telefono": "null",
+    "Latitud": -17962785,
+    "Longitud": -67110530,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL EDUARDO AVAROA DE COMERCIANTES MINORISTAS MACHACAMARCA",
+    "Telefono": "null",
+    "Latitud": -18173053,
+    "Longitud": -67021538,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE JUNIO",
+    "Telefono": "null",
+    "Latitud": -18286804,
+    "Longitud": -66834589,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL POOPO",
+    "Telefono": "null",
+    "Latitud": -18380705,
+    "Longitud": -66968743,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL HUARI",
+    "Telefono": "null",
+    "Latitud": -19012678,
+    "Longitud": -66776991,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -11488927,
+    "Longitud": -67245525,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -11104234,
+    "Longitud": -67556848,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SANTA ROSA DE PUERTO RICO",
+    "Telefono": "null",
+    "Latitud": -11107285,
+    "Longitud": -67552912,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE COBIJA",
+    "Telefono": "null",
+    "Latitud": -11021479,
+    "Longitud": -68756778,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO naZARIA",
+    "Telefono": "null",
+    "Latitud": -11035075,
+    "Longitud": -68776196,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PARAISO",
+    "Telefono": "null",
+    "Latitud": -11028169,
+    "Longitud": -68775494,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ANTOFAGASTA",
+    "Telefono": "null",
+    "Latitud": -20461438,
+    "Longitud": -66825124,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AVENIDA POTOSI",
+    "Telefono": "null",
+    "Latitud": -20464288,
+    "Longitud": -66825113,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL GALPON",
+    "Telefono": "null",
+    "Latitud": -20463768,
+    "Longitud": -66824355,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL PROGRESO",
+    "Telefono": "null",
+    "Latitud": -20460246,
+    "Longitud": -66831732,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LINDO",
+    "Telefono": "null",
+    "Latitud": -20467002,
+    "Longitud": -66818474,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MIRAFLORES",
+    "Telefono": "null",
+    "Latitud": -20454092,
+    "Longitud": -66830047,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VALENTIN ARAMAYO",
+    "Telefono": "null",
+    "Latitud": -20460096,
+    "Longitud": -66822461,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -19554008,
+    "Longitud": -65453847,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE CARNE",
+    "Telefono": "null",
+    "Latitud": -19554367,
+    "Longitud": -65453546,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "FARMACIA SAN NICOLAS DE BARI  DE VERONICA MERCADO",
+    "Telefono": "null",
+    "Latitud": -22085390,
+    "Longitud": -65600391,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 20 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -22092498,
+    "Longitud": -65596174,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 3 DE MARZO",
+    "Telefono": "null",
+    "Latitud": -22093090,
+    "Longitud": -65595612,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO",
+    "Telefono": "null",
+    "Latitud": -22084558,
+    "Longitud": -65602377,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO DE VILLAZON",
+    "Telefono": "null",
+    "Latitud": -22083492,
+    "Longitud": -65602330,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO HUMMER",
+    "Telefono": "null",
+    "Latitud": -22095249,
+    "Longitud": -65595947,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ILIODORO VILLAZON",
+    "Telefono": "null",
+    "Latitud": -22086030,
+    "Longitud": -65599551,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAZ",
+    "Telefono": "null",
+    "Latitud": -22094132,
+    "Longitud": -65595924,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODESTO OMISTE",
+    "Telefono": "null",
+    "Latitud": -22087795,
+    "Longitud": -65596928,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL VIVANDERAS",
+    "Telefono": "null",
+    "Latitud": -22095309,
+    "Longitud": -65597081,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN MARTIN",
+    "Telefono": "null",
+    "Latitud": -22092896,
+    "Longitud": -65593529,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO URCUPIÑA",
+    "Telefono": "null",
+    "Latitud": -22092559,
+    "Longitud": -65595960,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -18424272,
+    "Longitud": -66582350,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -18426036,
+    "Longitud": -66584123,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SAN MIGUEL",
+    "Telefono": "null",
+    "Latitud": -18466737,
+    "Longitud": -66569741,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO  VILLA FATIMA",
+    "Telefono": "null",
+    "Latitud": -21435589,
+    "Longitud": -65722821,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -21451096,
+    "Longitud": -65717654,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GIL DURAN",
+    "Telefono": "null",
+    "Latitud": -21444294,
+    "Longitud": -65718964,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PAZ",
+    "Telefono": "null",
+    "Latitud": -21438262,
+    "Longitud": -65718977,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NEGRO",
+    "Telefono": "null",
+    "Latitud": -21441713,
+    "Longitud": -65719483,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 10 DE NOVIEMBRE",
+    "Telefono": "null",
+    "Latitud": -19587293,
+    "Longitud": -65755027,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO",
+    "Telefono": "null",
+    "Latitud": -19573918,
+    "Longitud": -65756220,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BALLIVIAN",
+    "Telefono": "null",
+    "Latitud": -19590828,
+    "Longitud": -65750664,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CALVARIO",
+    "Telefono": "null",
+    "Latitud": -19597349,
+    "Longitud": -65748141,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -19590715,
+    "Longitud": -65744795,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CHUQUIMIA",
+    "Telefono": "null",
+    "Latitud": -19580592,
+    "Longitud": -65763242,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GREMIAL",
+    "Telefono": "null",
+    "Latitud": -19586429,
+    "Longitud": -65756248,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS LECHERIAS",
+    "Telefono": "null",
+    "Latitud": -19559251,
+    "Longitud": -65758533,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PLAZA EL MINERO",
+    "Telefono": "null",
+    "Latitud": -19594868,
+    "Longitud": -65749974,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTIAGO",
+    "Telefono": "null",
+    "Latitud": -19593824,
+    "Longitud": -65756725,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SOLIDARIO SATELITE",
+    "Telefono": "null",
+    "Latitud": -19567146,
+    "Longitud": -65767717,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO T IKA LOMA",
+    "Telefono": "null",
+    "Latitud": -19582211,
+    "Longitud": -65745107,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICUÑAS",
+    "Telefono": "null",
+    "Latitud": -19588179,
+    "Longitud": -65758417,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Potosí",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA COPACABAna",
+    "Telefono": "null",
+    "Latitud": -19574925,
+    "Longitud": -65773255,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17757663,
+    "Longitud": -62995103,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 25 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17752873,
+    "Longitud": -62995793,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DEL TORNO",
+    "Telefono": "null",
+    "Latitud": -17995009,
+    "Longitud": -63383537,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIVADO 18 DE NOVIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17988305,
+    "Longitud": -63379947,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE JOROCHITO",
+    "Telefono": "null",
+    "Latitud": -18056598,
+    "Longitud": -63427720,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CUMBRE DE LAS AMERICAS",
+    "Telefono": "null",
+    "Latitud": -17900659,
+    "Longitud": -63284668,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO KM 13",
+    "Telefono": "null",
+    "Latitud": -17880212,
+    "Longitud": -63268778,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL EL CARMEN (VENTA DE VERDURAS ,FRUTAS,ABARROTES,PRODUCTOS LACTEOS,VENTA DE CARNE DE RES,POLLO,CERDO,COMIDAS,JUGUETES,PAN,ARTICULOS PARA EL HOGAR,LIBRERIA,VENTA DE ROPA USADA,VENTA DE ROPA NUEVA,CALSADOS Y CELULARES)",
+    "Telefono": "null",
+    "Latitud": -17855261,
+    "Longitud": -63249279,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL LA GUARDIA",
+    "Telefono": "null",
+    "Latitud": -17893381,
+    "Longitud": -63329036,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR DE BARRIO LINDO",
+    "Telefono": "null",
+    "Latitud": -17899528,
+    "Longitud": -63269622,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JOSE",
+    "Telefono": "null",
+    "Latitud": -17942732,
+    "Longitud": -63351827,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCIACION GREMIAL DE COMERCIATES MINORISTAS  18 DE AGOSTO  DEL MERCADO DE LA URBANIZACION  EL RECREO",
+    "Telefono": "null",
+    "Latitud": -17885480,
+    "Longitud": -63095221,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCICION 14 DE AGOSTO MERCADO AMBORO",
+    "Telefono": "null",
+    "Latitud": -17866398,
+    "Longitud": -63136977,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17890056,
+    "Longitud": -63179042,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17800382,
+    "Longitud": -63170193,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1 DE MARZO",
+    "Telefono": "null",
+    "Latitud": -17745513,
+    "Longitud": -63117157,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17722294,
+    "Longitud": -63104333,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17754974,
+    "Longitud": -63179537,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17754742,
+    "Longitud": -63179727,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12:DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -17754939,
+    "Longitud": -63179790,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 2 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17733994,
+    "Longitud": -63142936,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 27 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17826509,
+    "Longitud": -63094047,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 7 CALLES",
+    "Telefono": "null",
+    "Latitud": -17786370,
+    "Longitud": -63185769,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO",
+    "Telefono": "null",
+    "Latitud": -17796277,
+    "Longitud": -63204430,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ALTO SAN PEDRO",
+    "Telefono": "null",
+    "Latitud": -17810989,
+    "Longitud": -63188765,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ASOCIACION 4 DE NOVIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17778434,
+    "Longitud": -63202878,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARRIO LINDO 12 DE JULIO",
+    "Telefono": "null",
+    "Latitud": -17789235,
+    "Longitud": -63167018,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BELEN",
+    "Telefono": "null",
+    "Latitud": -17755077,
+    "Longitud": -63188109,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724225,
+    "Longitud": -63110013,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724649,
+    "Longitud": -63109804,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724392,
+    "Longitud": -63109949,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724121,
+    "Longitud": -63109707,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724549,
+    "Longitud": -63109531,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724544,
+    "Longitud": -63109886,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724277,
+    "Longitud": -63109641,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BIBOSI",
+    "Telefono": "null",
+    "Latitud": -17724428,
+    "Longitud": -63109577,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17777530,
+    "Longitud": -63108242,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COMUNIDAD LAS PIEDADES",
+    "Telefono": "null",
+    "Latitud": -17740338,
+    "Longitud": -63055419,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COPACABAna",
+    "Telefono": "null",
+    "Latitud": -17826495,
+    "Longitud": -63125938,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CHACARILLA",
+    "Telefono": "null",
+    "Latitud": -17773012,
+    "Longitud": -63150537,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CHINBOL",
+    "Telefono": "null",
+    "Latitud": -17783481,
+    "Longitud": -63174038,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE BARRIO  (SIN NOMBRE)",
+    "Telefono": "null",
+    "Latitud": -17854719,
+    "Longitud": -63041063,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ECOLOGICO PATUJU",
+    "Telefono": "null",
+    "Latitud": -17773776,
+    "Longitud": -63052784,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL DORADO NORTE CONSTA DE 99 PUESTO, 1PUESTO DE LICORERIA , 3 PUESTOS DE DULCES Y GALLETAS, 2 PUESTOS EMBUTIDOS Y FIAMBRES, 2 PUESTOS DE VENTA DE COCA, 3 PUESTOS DE REGALOS Y JUGUETERIA, 5 PUESTOS DE CARNICERIA DE POLLO, 5 PUESTOS DE VERDURAS, 3",
+    "Telefono": "null",
+    "Latitud": -17735459,
+    "Longitud": -63098157,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL FUERTE",
+    "Telefono": "null",
+    "Latitud": -17847103,
+    "Longitud": -63147983,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL PROGRESO",
+    "Telefono": "null",
+    "Latitud": -17823311,
+    "Longitud": -63136074,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL QUIOR",
+    "Telefono": "null",
+    "Latitud": -17847159,
+    "Longitud": -63081322,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL TRIUNFO",
+    "Telefono": "null",
+    "Latitud": -17861001,
+    "Longitud": -63154675,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO FLORIDA",
+    "Telefono": "null",
+    "Latitud": -17870530,
+    "Longitud": -63166894,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GUAPILO VENTA",
+    "Telefono": "null",
+    "Latitud": -17765632,
+    "Longitud": -63087175,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GUAPURU",
+    "Telefono": "null",
+    "Latitud": -17851729,
+    "Longitud": -63099774,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GUAPURU 2",
+    "Telefono": "null",
+    "Latitud": -17810605,
+    "Longitud": -63104579,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO INTERnaCIOnaL",
+    "Telefono": "null",
+    "Latitud": -17796028,
+    "Longitud": -63105944,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO JULIO LEYGUE",
+    "Telefono": "null",
+    "Latitud": -17731247,
+    "Longitud": -63121514,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA AMISTA",
+    "Telefono": "null",
+    "Latitud": -17837632,
+    "Longitud": -63176965,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA CUCHILLA (COMERCIO)",
+    "Telefono": "null",
+    "Latitud": -17826290,
+    "Longitud": -63201526,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA MORITA",
+    "Telefono": "null",
+    "Latitud": -17816430,
+    "Longitud": -63187816,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA PRIMAVERA",
+    "Telefono": "null",
+    "Latitud": -17823398,
+    "Longitud": -63163838,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17791848,
+    "Longitud": -63188893,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793109,
+    "Longitud": -63187990,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793286,
+    "Longitud": -63188291,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793257,
+    "Longitud": -63188550,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17792060,
+    "Longitud": -63188952,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793194,
+    "Longitud": -63188449,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793310,
+    "Longitud": -63187715,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793391,
+    "Longitud": -63187901,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793346,
+    "Longitud": -63187831,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793399,
+    "Longitud": -63188054,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793228,
+    "Longitud": -63187609,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793120,
+    "Longitud": -63187841,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793170,
+    "Longitud": -63187456,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17793547,
+    "Longitud": -63188151,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADA",
+    "Telefono": "null",
+    "Latitud": -17792843,
+    "Longitud": -63188737,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA RAMADS",
+    "Telefono": "null",
+    "Latitud": -17791634,
+    "Longitud": -63188703,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS PAMPITAS",
+    "Telefono": "null",
+    "Latitud": -17769147,
+    "Longitud": -63122608,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAZARETO",
+    "Telefono": "null",
+    "Latitud": -17783124,
+    "Longitud": -63159894,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LIBERTAD",
+    "Telefono": "null",
+    "Latitud": -17741980,
+    "Longitud": -63086626,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOS POCITOS",
+    "Telefono": "null",
+    "Latitud": -17841486,
+    "Longitud": -63110585,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOS POZOS",
+    "Telefono": "null",
+    "Latitud": -17778467,
+    "Longitud": -63177598,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MAYORISTA ABASTO 2",
+    "Telefono": "null",
+    "Latitud": -17849325,
+    "Longitud": -63231043,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MIRAFLORES",
+    "Telefono": "null",
+    "Latitud": -17800226,
+    "Longitud": -63130373,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO PLAN 3000",
+    "Telefono": "null",
+    "Latitud": -17821496,
+    "Longitud": -63147411,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL ABASTO 3",
+    "Telefono": "null",
+    "Latitud": -17828319,
+    "Longitud": -63208275,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL EL BOSQUE",
+    "Telefono": "null",
+    "Latitud": -17812737,
+    "Longitud": -63214771,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL EL TRILLO",
+    "Telefono": "null",
+    "Latitud": -17760545,
+    "Longitud": -63127731,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL FORTALEZA",
+    "Telefono": "null",
+    "Latitud": -17863387,
+    "Longitud": -63160854,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL LOS TUSEQUIS",
+    "Telefono": "null",
+    "Latitud": -17741709,
+    "Longitud": -63154345,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL MAGISTERIO SUR",
+    "Telefono": "null",
+    "Latitud": -17870993,
+    "Longitud": -63178297,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL TURERE",
+    "Telefono": "null",
+    "Latitud": -17842328,
+    "Longitud": -63100562,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUSICAL 26 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -17829840,
+    "Longitud": -63174521,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUTUALISTA",
+    "Telefono": "null",
+    "Latitud": -17762798,
+    "Longitud": -63161995,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NUEVA EZPERANZA",
+    "Telefono": "null",
+    "Latitud": -17735383,
+    "Longitud": -63111870,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PLAN 3000",
+    "Telefono": "null",
+    "Latitud": -17823292,
+    "Longitud": -63112258,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRIMERO DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17798178,
+    "Longitud": -63132608,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO RETOÑO",
+    "Telefono": "null",
+    "Latitud": -17740034,
+    "Longitud": -63073727,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO VENTA DE ABARROTES, VENTA DE CARNE DE RES, POLLO Y CERDO, VENTA DE ROPA NUEBA, VENTA DE ROPA USADA  VENTA DE  CALZADOS, VENTA DE PAN, VENTA DE VERDURAS, VENTA FRUTA, VENTA DE PRODUCTOS DE LIMPIEZA DEL HOGAR",
+    "Telefono": "null",
+    "Latitud": -17826107,
+    "Longitud": -63226997,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JORGE",
+    "Telefono": "null",
+    "Latitud": -17736622,
+    "Longitud": -63090661,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN JUAN",
+    "Telefono": "null",
+    "Latitud": -17791105,
+    "Longitud": -63137102,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN LUIS",
+    "Telefono": "null",
+    "Latitud": -17783839,
+    "Longitud": -63195445,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA CRUZ SUR",
+    "Telefono": "null",
+    "Latitud": -17850954,
+    "Longitud": -63181306,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SANTA ROSA",
+    "Telefono": "null",
+    "Latitud": -17810874,
+    "Longitud": -63189433,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO TOBOROCH",
+    "Telefono": "null",
+    "Latitud": -17848762,
+    "Longitud": -63078859,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICTORIA",
+    "Telefono": "null",
+    "Latitud": -17815400,
+    "Longitud": -63109698,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICTORIA",
+    "Telefono": "null",
+    "Latitud": -17814555,
+    "Longitud": -63109709,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICTORIA",
+    "Telefono": "null",
+    "Latitud": -17817643,
+    "Longitud": -63109736,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VICTORIA",
+    "Telefono": "null",
+    "Latitud": -17816903,
+    "Longitud": -63109731,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA ESPERANZA",
+    "Telefono": "null",
+    "Latitud": -17863046,
+    "Longitud": -63168704,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA FATIMA",
+    "Telefono": "null",
+    "Latitud": -17812977,
+    "Longitud": -63202617,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VIRGEN DEL LUJAN",
+    "Telefono": "null",
+    "Latitud": -17754417,
+    "Longitud": -63124179,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MIKRO MERCADO LA BOBEDA",
+    "Telefono": "null",
+    "Latitud": -17766734,
+    "Longitud": -63150704,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "VENTAS AL POR MENOR EN EL MERCADO MAX FERnaNDEZ",
+    "Telefono": "null",
+    "Latitud": -17868127,
+    "Longitud": -63194996,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO",
+    "Telefono": "null",
+    "Latitud": -20044980,
+    "Longitud": -63531708,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MINORISTA SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -20039303,
+    "Longitud": -63529746,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -20039322,
+    "Longitud": -63530007,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE ROBORE",
+    "Telefono": "null",
+    "Latitud": -18329536,
+    "Longitud": -59756404,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 15 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17843533,
+    "Longitud": -60738172,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MODELO 15 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17840549,
+    "Longitud": -60742438,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL CASTA ROJAS",
+    "Telefono": "null",
+    "Latitud": -18180735,
+    "Longitud": -63874751,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE PUERTO QUIJARRO",
+    "Telefono": "null",
+    "Latitud": -19004274,
+    "Longitud": -57712068,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -18967900,
+    "Longitud": -57799909,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -15892561,
+    "Longitud": -63189353,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -15898603,
+    "Longitud": -63188809,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO 2 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17455881,
+    "Longitud": -63663217,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 1 DE MAYO",
+    "Telefono": "null",
+    "Latitud": -17407409,
+    "Longitud": -63730385,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN CARLOS",
+    "Telefono": "null",
+    "Latitud": -17406954,
+    "Longitud": -63730785,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COOPERATIVA",
+    "Telefono": "null",
+    "Latitud": -17399496,
+    "Longitud": -63824528,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE SAN JUAN ( VENTA AL POR MENOR DE ROPA ,JUGUETES,CD,ZAPATOS,ABARROTES,COTILLON, EN TIENDAS)",
+    "Telefono": "null",
+    "Latitud": -17291464,
+    "Longitud": -63852664,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17403511,
+    "Longitud": -63885682,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AVAROA",
+    "Telefono": "null",
+    "Latitud": -17401350,
+    "Longitud": -63884304,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO YAPACANI",
+    "Telefono": "null",
+    "Latitud": -17403458,
+    "Longitud": -63884986,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE OCTUBRE",
+    "Telefono": "null",
+    "Latitud": -16133005,
+    "Longitud": -62027461,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CONCEPCION",
+    "Telefono": "null",
+    "Latitud": -16126790,
+    "Longitud": -62031034,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CONCEPCION",
+    "Telefono": "null",
+    "Latitud": -16125622,
+    "Longitud": -62031018,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL TROMPILLO",
+    "Telefono": "null",
+    "Latitud": -16132529,
+    "Longitud": -62026472,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCIACION GREMIAL DE COMERCIANTES MERCADO MUNICIPAL",
+    "Telefono": "null",
+    "Latitud": -17271177,
+    "Longitud": -62557058,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 4 CAÑADAS",
+    "Telefono": "null",
+    "Latitud": -17262706,
+    "Longitud": -62555873,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL 24 DE SEPTIEMBRE",
+    "Telefono": "null",
+    "Latitud": -16274346,
+    "Longitud": -62501198,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE SAN JULIAN",
+    "Telefono": "null",
+    "Latitud": -16911647,
+    "Longitud": -62617941,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN RAMON",
+    "Telefono": "null",
+    "Latitud": -16613410,
+    "Longitud": -62500517,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -17125372,
+    "Longitud": -63228163,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO  PRINCIPAL DE MONTERO",
+    "Telefono": "null",
+    "Latitud": -17342849,
+    "Longitud": -63247044,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARRIENTOS",
+    "Telefono": "null",
+    "Latitud": -17342596,
+    "Longitud": -63246971,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DOMINICAL EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -17346524,
+    "Longitud": -63259961,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL CARMEN",
+    "Telefono": "null",
+    "Latitud": -17346982,
+    "Longitud": -63260559,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO GERMAN MORENO",
+    "Telefono": "null",
+    "Latitud": -17342964,
+    "Longitud": -63249040,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR",
+    "Telefono": "null",
+    "Latitud": -17349089,
+    "Longitud": -63244717,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO POPULAR",
+    "Telefono": "null",
+    "Latitud": -17349234,
+    "Longitud": -63245679,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO PRINCIPAL DE MONTERO",
+    "Telefono": "null",
+    "Latitud": -17342791,
+    "Longitud": -63246664,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA VERDE",
+    "Telefono": "null",
+    "Latitud": -17334114,
+    "Longitud": -63250422,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA VERDE",
+    "Telefono": "null",
+    "Latitud": -17333500,
+    "Longitud": -63249318,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "SUPEMERCADO UNION NORTE",
+    "Telefono": "null",
+    "Latitud": -17340973,
+    "Longitud": -63256594,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR",
+    "Telefono": "null",
+    "Latitud": -17356702,
+    "Longitud": -63399027,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL DE PORTACHUELO",
+    "Telefono": "null",
+    "Latitud": -17356095,
+    "Longitud": -63395383,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 5 DE FEBRERO",
+    "Telefono": "null",
+    "Latitud": -17111718,
+    "Longitud": -63597966,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO DE VALLEGRANDE",
+    "Telefono": "null",
+    "Latitud": -18484165,
+    "Longitud": -64101778,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -18492509,
+    "Longitud": -64106702,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CELSO CAMACHO",
+    "Telefono": "null",
+    "Latitud": -18491388,
+    "Longitud": -64106893,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAMUEL VILLAZON",
+    "Telefono": "null",
+    "Latitud": -18491377,
+    "Longitud": -64107197,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO  31 DE JULIO",
+    "Telefono": "null",
+    "Latitud": -16377395,
+    "Longitud": -60963311,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 23 DE MARZO",
+    "Telefono": "null",
+    "Latitud": -16379211,
+    "Longitud": -60967508,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE DICIEMBRE NUEVAS CASETAS",
+    "Telefono": "null",
+    "Latitud": -16376300,
+    "Longitud": -60963197,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 8 DE DICIEMBRE VIEJO QUEMADO",
+    "Telefono": "null",
+    "Latitud": -16376405,
+    "Longitud": -60963615,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COMERCIAL SAN IGnaCIO",
+    "Telefono": "null",
+    "Latitud": -16377039,
+    "Longitud": -60964119,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO",
+    "Telefono": "null",
+    "Latitud": -17561450,
+    "Longitud": -63174773,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO 12 DE ABRIL",
+    "Telefono": "null",
+    "Latitud": -17605429,
+    "Longitud": -63154435,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO 30 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -17511377,
+    "Longitud": -63159180,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL LAS LOMAS UV7",
+    "Telefono": "null",
+    "Latitud": -17607703,
+    "Longitud": -63165221,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL PENTAGUAZU 1",
+    "Telefono": "null",
+    "Latitud": -17601021,
+    "Longitud": -63125260,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO COOPERATIVA 25 DENOVIEMBRE",
+    "Telefono": "null",
+    "Latitud": -17515180,
+    "Longitud": -63166700,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO INTEGRACION DEL NORTE",
+    "Telefono": "null",
+    "Latitud": -17597710,
+    "Longitud": -63171580,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MUNICIPAL ALFREDO VACA DIEZ",
+    "Telefono": "null",
+    "Latitud": -17509528,
+    "Longitud": -63167274,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SATELITE NORTE",
+    "Telefono": "null",
+    "Latitud": -17603284,
+    "Longitud": -63137408,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR",
+    "Telefono": "null",
+    "Latitud": -22735593,
+    "Longitud": -64335774,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -22729632,
+    "Longitud": -64339866,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO 2 DE AGOSTO",
+    "Telefono": "null",
+    "Latitud": -22733323,
+    "Longitud": -64326481,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LAS CHALAnaS",
+    "Telefono": "null",
+    "Latitud": -22732139,
+    "Longitud": -64349274,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN ANTONIO",
+    "Telefono": "null",
+    "Latitud": -22743541,
+    "Longitud": -64331680,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL EL VALLE DE LA CONCEPCION",
+    "Telefono": "null",
+    "Latitud": -21696816,
+    "Longitud": -64654160,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -21525623,
+    "Longitud": -64173112,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "NUEVO MERCADO CENTRAL ENTRE RIOS",
+    "Telefono": "null",
+    "Latitud": -21522380,
+    "Longitud": -64170802,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO DEL SUR-MODULO 1",
+    "Telefono": "null",
+    "Latitud": -21551887,
+    "Longitud": -64691004,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO AVASTO DEL SUR",
+    "Telefono": "null",
+    "Latitud": -21551837,
+    "Longitud": -64690004,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BOLIVAR",
+    "Telefono": "null",
+    "Latitud": -21536294,
+    "Longitud": -64720296,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO CERCAT",
+    "Telefono": "null",
+    "Latitud": -21519907,
+    "Longitud": -64741822,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CAMPESINO CRAMA",
+    "Telefono": "null",
+    "Latitud": -21519306,
+    "Longitud": -64742636,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL",
+    "Telefono": "null",
+    "Latitud": -21531172,
+    "Longitud": -64734947,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DEL SUR",
+    "Telefono": "null",
+    "Latitud": -21553217,
+    "Longitud": -64689161,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL ABASTO",
+    "Telefono": "null",
+    "Latitud": -21512688,
+    "Longitud": -64736592,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EL MOLINO",
+    "Telefono": "null",
+    "Latitud": -21533025,
+    "Longitud": -64737729,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO IV CENTEnaRIO",
+    "Telefono": "null",
+    "Latitud": -21530392,
+    "Longitud": -64736898,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LA LOMA",
+    "Telefono": "null",
+    "Latitud": -21526437,
+    "Longitud": -64736841,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LUIS DE FUENTES",
+    "Telefono": "null",
+    "Latitud": -21540056,
+    "Longitud": -64740850,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO NEGRO",
+    "Telefono": "null",
+    "Latitud": -21534973,
+    "Longitud": -64730389,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN BERnaRDO",
+    "Telefono": "null",
+    "Latitud": -21525041,
+    "Longitud": -64723568,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN GERONIMO",
+    "Telefono": "null",
+    "Latitud": -21544159,
+    "Longitud": -64716526,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO SAN MARTIN",
+    "Telefono": "null",
+    "Latitud": -21535169,
+    "Longitud": -64741309,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO VILLA AVAROA",
+    "Telefono": "null",
+    "Latitud": -21521620,
+    "Longitud": -64731314,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "VENTA DE ABARROTES MERCADO GRAMA",
+    "Telefono": "null",
+    "Latitud": -21518738,
+    "Longitud": -64741635,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE CARAPARI",
+    "Telefono": "null",
+    "Latitud": -21829015,
+    "Longitud": -63739488,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "ASOCIACION DE COMERCIALES 6 DE AGOSTO MERCADO CAMPESINO",
+    "Telefono": "null",
+    "Latitud": -21261811,
+    "Longitud": -63457174,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE VILLAMONTES",
+    "Telefono": "null",
+    "Latitud": -21264908,
+    "Longitud": -63471529,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO ABASTO",
+    "Telefono": "null",
+    "Latitud": -22025110,
+    "Longitud": -63680184,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO BARRIO NUEVO",
+    "Telefono": "null",
+    "Latitud": -22042405,
+    "Longitud": -63682845,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL DE YACUIBA",
+    "Telefono": "null",
+    "Latitud": -22014810,
+    "Longitud": -63679239,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL HECTOR BLACUT",
+    "Telefono": "null",
+    "Latitud": -22047940,
+    "Longitud": -63682228,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO CENTRAL SECCION TELAS",
+    "Telefono": "null",
+    "Latitud": -22015957,
+    "Longitud": -63679039,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO LOURDES",
+    "Telefono": "null",
+    "Latitud": -22011031,
+    "Longitud": -63676135,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO MAGALEÑOS",
+    "Telefono": "null",
+    "Latitud": -22021439,
+    "Longitud": -63676665,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO DE SAN LORENZO",
+    "Telefono": "null",
+    "Latitud": -21418330,
+    "Longitud": -64749765,
+    "Fuente": "geobo"
+  },
+  {
+    "Departamento": "Tarija",
+    "Tipo": "Mercado",
+    "Nombre": "MERCADO EVO MORALES SAN LORENZO",
+    "Telefono": "null",
+    "Latitud": -21404705,
+    "Longitud": -64747039,
+    "Fuente": "geobo"
+  }
+]

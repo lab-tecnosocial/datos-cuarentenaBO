@@ -1,0 +1,209 @@
+[
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi de la V",
+    "Telefono": "67205906",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi la pirámide",
+    "Telefono": "5254444",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi el Faro",
+    "Telefono": "5273399",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio movil SAS Oruro",
+    "Telefono": "5219999",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Móvil tu piloto",
+    "Telefono": "5266166",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Oruro",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Movil Tours Forever",
+    "Telefono": "8421114",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Movilidad",
+    "Nombre": "Servicio Urbano Radio Taxi",
+    "Telefono": "8421588",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Pando",
+    "Tipo": "Movilidad",
+    "Nombre": "Expreso departamental",
+    "Telefono": "null",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Movil Vial Trinidad",
+    "Telefono": "null",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Beni",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi German Busch",
+    "Telefono": "null",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi Jardín",
+    "Direccion": "Av. General Galindo",
+    "Telefono": "4241111",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi H",
+    "Direccion": "Calle Potosí",
+    "Telefono": "4455120",
+    "Latitud": "-17.371774",
+    "Longitud": "-66.150484",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Movil HOLIDAY KANTUTA",
+    "Direccion": "Felix Lopez de la Vega",
+    "Telefono": "4293777",
+    "Latitud": "-17.361546",
+    "Longitud": "-66.160843",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Cochabamba",
+    "Direccion": "Oeste",
+    "Telefono": "65366001",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Movil Aranjuez",
+    "Direccion": "Av. Thunupa",
+    "Telefono": "4241212",
+    "Latitud": "-17.376329",
+    "Longitud": "-66.187595",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Taxi Ejecutivo",
+    "Direccion": "Av. 9 de abril, Cochabamba",
+    "Telefono": "4225050",
+    "Latitud": "-17.397834",
+    "Longitud": "-66.137910",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Radio Movil Incacollo",
+    "Direccion": "Av. Papa Paulo",
+    "Telefono": "4200355",
+    "Latitud": "-17.385807",
+    "Longitud": "-66.141854",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Verdecio",
+    "Direccion": "Av. Tadeo Haenke. no. 1450",
+    "Telefono": "4280000",
+    "Latitud": "-17.384349",
+    "Longitud": "-66.168059",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "PERZEO",
+    "Telefono": "76991360",
+    "Latitud": "-17.367135",
+    "Longitud": "-66.133661",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Taxi Ciudad Digital",
+    "Telefono": "61782828",
+    "Latitud": "-17.365238",
+    "Longitud": "-66.161960",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Movil",
+    "Direccion": "Manuel Marin no. 1021",
+    "Telefono": "4200520",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  },
+  {
+    "Departamento": "Cochabamba",
+    "Tipo": "Movilidad",
+    "Nombre": "Genial",
+    "Telefono": "61783111-4200424",
+    "Latitud": "null",
+    "Longitud": "null",
+    "Fuente": "web"
+  }
+]

@@ -1,0 +1,4050 @@
+[
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercadito 2 de Agosto",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.734,
+    "Longitud": -63.143,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado las Pampitas",
+    "Direccion": "Av. Las Pampas, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7691,
+    "Longitud": -63.1223,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado LIBERTAD",
+    "Direccion": "Calle Jorori, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7419,
+    "Longitud": -63.0866,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Panamericano",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7445,
+    "Longitud": -63.1134,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Modelo \"Cortez\"",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8898,
+    "Longitud": -63.1787,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "MUTUALISTA 8000 MT.",
+    "Telefono": "null",
+    "Latitud": -17.7629,
+    "Longitud": -63.1618,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "CENTRO DE ABASTECIMIENTO( Mercado El Dorado Norte)",
+    "Direccion": "000, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7354,
+    "Longitud": -63.0982,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 21 De MAYO (ARROYITO)",
+    "Direccion": "Av Arroyito, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8197,
+    "Longitud": -63.1065,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "NUEVO PALMAR mercado parada 15",
+    "Direccion": "Nuevo Palmar 23, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8702,
+    "Longitud": -63.1642,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Morita",
+    "Direccion": "C/ Francisco Kempff y Armando Jordan",
+    "Telefono": "null",
+    "Latitud": -17.8165,
+    "Longitud": -63.1878,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Santa Rosa",
+    "Telefono": "null",
+    "Latitud": -17.8073,
+    "Longitud": -63.1969,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Pro Mayor",
+    "Telefono": "null",
+    "Latitud": -17.7892,
+    "Longitud": -63.1507,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado \"EL PARAISO\"",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8552,
+    "Longitud": -63.1993,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Ramada Centro",
+    "Telefono": "null",
+    "Latitud": -17.7939,
+    "Longitud": -63.1873,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Modelo Plan 3000 - MERCADO SAN AURELIO",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8221,
+    "Longitud": -63.147,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Plan 3000 \"COPACABAna\"",
+    "Direccion": "Av. El Mechero",
+    "Telefono": "null",
+    "Latitud": -17.8261,
+    "Longitud": -63.1263,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado  Los Pozos",
+    "Direccion": "entre C/ 6 Agosto C/Quijarro y Campero",
+    "Telefono": "null",
+    "Latitud": -17.7785,
+    "Longitud": -63.1776,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Chacarilla",
+    "Telefono": "null",
+    "Latitud": -17.7728,
+    "Longitud": -63.1507,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Mutualista",
+    "Telefono": "null",
+    "Latitud": -17.7637,
+    "Longitud": -63.161,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Ramafa",
+    "Direccion": "Av. Fuerza Aerea Boliviana y Tumpa",
+    "Telefono": "null",
+    "Latitud": -17.8077,
+    "Longitud": -63.1809,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Miraflores",
+    "Direccion": "Av. 3 pasos al frente y C/ 13 este",
+    "Telefono": "null",
+    "Latitud": -17.8003,
+    "Longitud": -63.1304,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 7 Calles",
+    "Direccion": "entre C/ Vallegrande C/ Isabel La Catolica",
+    "Telefono": "null",
+    "Latitud": -17.7864,
+    "Longitud": -63.1858,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Ramada",
+    "Direccion": "C/Suto Esq. C/Amboro",
+    "Telefono": "null",
+    "Latitud": -17.7948,
+    "Longitud": -63.1907,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado San Luis",
+    "Direccion": "2 anillo Av. Roca yCoronado",
+    "Telefono": "null",
+    "Latitud": -17.7838,
+    "Longitud": -63.1953,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 4 de Noviembre",
+    "Direccion": "Av. Centenario  y 3 anillo",
+    "Telefono": "null",
+    "Latitud": -17.7784,
+    "Longitud": -63.2029,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado El Trompillo",
+    "Direccion": "C/José Mercado Aguado",
+    "Telefono": "null",
+    "Latitud": -17.8004,
+    "Longitud": -63.1702,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Coarco",
+    "Direccion": "entre C/12 este C/ 13 este",
+    "Telefono": "null",
+    "Latitud": -17.7981,
+    "Longitud": -63.1326,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Belen",
+    "Direccion": "Radial 26 C/ Los Guapos",
+    "Telefono": "null",
+    "Latitud": -17.7551,
+    "Longitud": -63.1883,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 12 de Octubre",
+    "Direccion": "C/ 8 y Antonio Vicente Ardaya",
+    "Telefono": "null",
+    "Latitud": -17.7549,
+    "Longitud": -63.1796,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Santa Rosa",
+    "Direccion": "3er anillo yAv.Prefecto R.",
+    "Telefono": "null",
+    "Latitud": -17.8109,
+    "Longitud": -63.1895,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado El Progreso",
+    "Telefono": "null",
+    "Latitud": -17.8233,
+    "Longitud": -63.1361,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Guapurú",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8515,
+    "Longitud": -63.0995,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Campana",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8182,
+    "Longitud": -63.1182,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Los Pocitos",
+    "Direccion": "Entel - Plan 3000, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8415,
+    "Longitud": -63.1106,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Max Fernandez",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.868,
+    "Longitud": -63.195,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Municipal La Cuchilla",
+    "Direccion": "Avenida Moscú, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8263,
+    "Longitud": -63.2016,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 25 Mayo",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8368,
+    "Longitud": -63.2391,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado De Alto San Pedro De Comestibles y Material De Ferreteria",
+    "Direccion": "Av Roque Aguilera y, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8108,
+    "Longitud": -63.1894,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado el Fuerte",
+    "Direccion": "Av El Fuerte, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8472,
+    "Longitud": -63.1478,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado El Progreso",
+    "Direccion": "Calle 9, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8234,
+    "Longitud": -63.1359,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado El Quior",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8471,
+    "Longitud": -63.0814,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado 7 de Abril",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7773,
+    "Longitud": -63.108,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Santa Cruz Sur",
+    "Direccion": "Nuevo Palmar, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8512,
+    "Longitud": -63.1818,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Palmira(plan 4000)",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8772,
+    "Longitud": -63.1712,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Santa Cruz Sur",
+    "Direccion": "Nuevo Palmar, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8512,
+    "Longitud": -63.1818,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Villa Ortuño",
+    "Telefono": "null",
+    "Latitud": -17.8286,
+    "Longitud": -63.2078,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado El Triunfo",
+    "Telefono": "null",
+    "Latitud": -17.8609,
+    "Longitud": -63.1547,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Magisterio Sur",
+    "Telefono": "null",
+    "Latitud": -17.8708,
+    "Longitud": -63.1781,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Urkupiña",
+    "Telefono": "null",
+    "Latitud": -17.834,
+    "Longitud": -63.1144,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Turere",
+    "Telefono": "null",
+    "Latitud": -17.8424,
+    "Longitud": -63.1004,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Los Tusequis",
+    "Telefono": "null",
+    "Latitud": -17.7417,
+    "Longitud": -63.1544,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado  Estacion Argentina",
+    "Telefono": "null",
+    "Latitud": -17.8001,
+    "Longitud": -63.1524,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Villa Fatima",
+    "Direccion": "C/ Quirusillas y El Torno",
+    "Telefono": "null",
+    "Latitud": -17.813,
+    "Longitud": -63.2027,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Noel Kempffp",
+    "Direccion": "Av. Radial 10",
+    "Telefono": "null",
+    "Latitud": -17.8124,
+    "Longitud": -63.1236,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Primavera",
+    "Direccion": "5to anillo de circunvalacion y radial 12",
+    "Telefono": "null",
+    "Latitud": -17.8234,
+    "Longitud": -63.1636,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Nuevo(Sucre)",
+    "Direccion": "entre C/Isabel La Catolica, C/ Sucre",
+    "Telefono": "null",
+    "Latitud": -17.7837,
+    "Longitud": -63.1784,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Las Orquideas",
+    "Telefono": "null",
+    "Latitud": -17.8301,
+    "Longitud": -63.1285,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Virgen de Lujan",
+    "Telefono": "null",
+    "Latitud": -17.7604,
+    "Longitud": -63.128,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado San Antonio",
+    "Direccion": "Av. El Bajio y C/Bibosi",
+    "Telefono": "null",
+    "Latitud": -17.8265,
+    "Longitud": -63.2274,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Cuchilla",
+    "Direccion": "Av. Moscu y C/ 16 de Julio",
+    "Telefono": "null",
+    "Latitud": -17.8263,
+    "Longitud": -63.2015,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Los Bosques",
+    "Direccion": "Av. Los Bosques. Esq. C/Coridin",
+    "Telefono": "null",
+    "Latitud": -17.8127,
+    "Longitud": -63.2145,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado copacabana",
+    "Direccion": "Calle 6, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8266,
+    "Longitud": -63.1258,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Cooperativa Societaria 2 de junio Abasto R.L.",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7948,
+    "Longitud": -63.2043,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Tito Solari",
+    "Direccion": "Av. Lujan y El Bateon",
+    "Telefono": "null",
+    "Latitud": -17.7416,
+    "Longitud": -63.1074,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado \"Coarco\"",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.798,
+    "Longitud": -63.1326,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "26 de Abril",
+    "Direccion": "Tamarindo Seco, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.83,
+    "Longitud": -63.1746,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado David Trapero",
+    "Telefono": "null",
+    "Latitud": -17.7588,
+    "Longitud": -63.1587,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado San Juan",
+    "Direccion": "Av. Cumavi y C/6",
+    "Telefono": "null",
+    "Latitud": -17.7913,
+    "Longitud": -63.1371,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Las Américas",
+    "Telefono": "null",
+    "Latitud": -17.8573,
+    "Longitud": -63.1955,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Paurito",
+    "Telefono": "null",
+    "Latitud": -17.8819,
+    "Longitud": -62.9398,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Montero Hoyos",
+    "Telefono": "null",
+    "Latitud": -17.6395,
+    "Longitud": -62.8169,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado \"La Ramada\" C/ámboro y muchiri",
+    "Telefono": "null",
+    "Latitud": -17.7942,
+    "Longitud": -63.1902,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Fortaleza",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8632,
+    "Longitud": -63.1609,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado La Ramada Minorista",
+    "Telefono": "null",
+    "Latitud": -17.8359,
+    "Longitud": -63.2147,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Mutualista Abasto II",
+    "Telefono": "null",
+    "Latitud": -17.7626,
+    "Longitud": -63.1624,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Modelo Plan 3000",
+    "Telefono": "null",
+    "Latitud": -17.8218,
+    "Longitud": -63.1474,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Abasto Campesino",
+    "Direccion": "3er anillo ext. Av. Pirai",
+    "Telefono": "null",
+    "Latitud": -17.7965,
+    "Longitud": -63.2043,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Abasto Mayorista",
+    "Telefono": "null",
+    "Latitud": -17.8501,
+    "Longitud": -63.2311,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Los Pozos Minorista",
+    "Telefono": "null",
+    "Latitud": -17.7254,
+    "Longitud": -63.1482,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado San Jose Obrero",
+    "Direccion": "C/Fernando Paticu y Pailon",
+    "Telefono": "null",
+    "Latitud": -17.7833,
+    "Longitud": -63.1599,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Mercado",
+    "Nombre": "Mercado Florida",
+    "Direccion": "C/Florida y Buenos Aires",
+    "Telefono": "null",
+    "Latitud": -17.7818,
+    "Longitud": -63.1879,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. BENI",
+    "Telefono": "null",
+    "Latitud": -17.7704,
+    "Longitud": -63.1789,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "ROTONDA 2DO ANILLO CRISTO REDENTOR",
+    "Telefono": "null",
+    "Latitud": -17.7705,
+    "Longitud": -63.1825,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "ROTONDA 2DO ANILLO CENTEnaRIO",
+    "Telefono": "null",
+    "Latitud": -17.7793,
+    "Longitud": -63.1937,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "ROTONDA 2DO ANILLO AV. BRASIL",
+    "Telefono": "null",
+    "Latitud": -17.7874,
+    "Longitud": -63.1643,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "ROTONDA 2DO ANILLO AV. LA BARRANCA",
+    "Telefono": "null",
+    "Latitud": -17.7981,
+    "Longitud": -63.1754,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "MELCHOR PINTO PARADA",
+    "Telefono": "null",
+    "Latitud": -17.783,
+    "Longitud": -63.1722,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. LAS AMERICAS",
+    "Telefono": "null",
+    "Latitud": -17.7919,
+    "Longitud": -63.1777,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "PLAZA ESPA?A / AV. ARGENTIna",
+    "Telefono": "null",
+    "Latitud": -17.7912,
+    "Longitud": -63.1736,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. EJERCITO /AV. IRALA",
+    "Telefono": "null",
+    "Latitud": -17.7932,
+    "Longitud": -63.1869,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. LANDIVAR",
+    "Telefono": "null",
+    "Latitud": -17.7844,
+    "Longitud": -63.1889,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "AV. BRASIL/ AV. VIEDMA",
+    "Telefono": "null",
+    "Latitud": -17.7855,
+    "Longitud": -63.1719,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "CALLE PARI/ ISABEL LA CATOLICA",
+    "Telefono": "null",
+    "Latitud": -17.7886,
+    "Longitud": -63.1878,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7623,
+    "Longitud": -63.1913,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7609,
+    "Longitud": -63.1873,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7599,
+    "Longitud": -63.1828,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7595,
+    "Longitud": -63.1748,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7765,
+    "Longitud": -63.155,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7798,
+    "Longitud": -63.1474,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7857,
+    "Longitud": -63.148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7891,
+    "Longitud": -63.1482,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8024,
+    "Longitud": -63.1516,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8089,
+    "Longitud": -63.1576,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8105,
+    "Longitud": -63.1599,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8059,
+    "Longitud": -63.1541,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8198,
+    "Longitud": -63.1717,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8221,
+    "Longitud": -63.177,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8227,
+    "Longitud": -63.1843,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8192,
+    "Longitud": -63.1983,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8155,
+    "Longitud": -63.2042,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8057,
+    "Longitud": -63.2127,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8013,
+    "Longitud": -63.2148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7918,
+    "Longitud": -63.2167,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7778,
+    "Longitud": -63.2163,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.752,
+    "Longitud": -63.1921,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7505,
+    "Longitud": -63.1868,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7497,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.75,
+    "Longitud": -63.1753,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7518,
+    "Longitud": -63.1639,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7548,
+    "Longitud": -63.1574,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7652,
+    "Longitud": -63.1487,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 2",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7756,
+    "Longitud": -63.1471,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7913,
+    "Longitud": -63.1393,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8005,
+    "Longitud": -63.1423,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8077,
+    "Longitud": -63.1412,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8117,
+    "Longitud": -63.1433,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8311,
+    "Longitud": -63.1757,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8324,
+    "Longitud": -63.1945,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8249,
+    "Longitud": -63.2064,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8214,
+    "Longitud": -63.209,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8163,
+    "Longitud": -63.2132,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8016,
+    "Longitud": -63.2263,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7891,
+    "Longitud": -63.2245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7862,
+    "Longitud": -63.2236,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7408,
+    "Longitud": -63.1899,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7374,
+    "Longitud": -63.1797,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7405,
+    "Longitud": -63.1714,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7444,
+    "Longitud": -63.1611,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7478,
+    "Longitud": -63.1524,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7489,
+    "Longitud": -63.1498,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7866,
+    "Longitud": -63.1338,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8015,
+    "Longitud": -63.1353,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7845,
+    "Longitud": -63.1275,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7924,
+    "Longitud": -63.1266,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.797,
+    "Longitud": -63.127,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8022,
+    "Longitud": -63.1276,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.812,
+    "Longitud": -63.1366,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8149,
+    "Longitud": -63.1287,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8211,
+    "Longitud": -63.1358,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8264,
+    "Longitud": -63.1587,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8289,
+    "Longitud": -63.1391,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8344,
+    "Longitud": -63.1657,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8235,
+    "Longitud": -63.1647,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8411,
+    "Longitud": -63.1722,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8407,
+    "Longitud": -63.1605,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8451,
+    "Longitud": -63.1811,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8519,
+    "Longitud": -63.1812,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8591,
+    "Longitud": -63.1864,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8518,
+    "Longitud": -63.1986,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8415,
+    "Longitud": -63.1959,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8356,
+    "Longitud": -63.2082,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8435,
+    "Longitud": -63.2137,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8273,
+    "Longitud": -63.2151,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8373,
+    "Longitud": -63.2231,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8224,
+    "Longitud": -63.2202,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8315,
+    "Longitud": -63.2304,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8174,
+    "Longitud": -63.2257,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8248,
+    "Longitud": -63.234,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8108,
+    "Longitud": -63.2328,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.816,
+    "Longitud": -63.2386,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7249,
+    "Longitud": -63.1908,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7209,
+    "Longitud": -63.1893,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7293,
+    "Longitud": -63.1759,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7223,
+    "Longitud": -63.1734,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7199,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7349,
+    "Longitud": -63.1603,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7283,
+    "Longitud": -63.157,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.731,
+    "Longitud": -63.1502,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8009,
+    "Longitud": -63.1857,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8009,
+    "Longitud": -63.1892,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7981,
+    "Longitud": -63.1927,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7849,
+    "Longitud": -63.195,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 3",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8045,
+    "Longitud": -63.1654,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8111,
+    "Longitud": -63.1742,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8106,
+    "Longitud": -63.1774,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.811,
+    "Longitud": -63.1902,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8104,
+    "Longitud": -63.1951,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7373,
+    "Longitud": -63.1542,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7368,
+    "Longitud": -63.1416,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7425,
+    "Longitud": -63.1455,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7348,
+    "Longitud": -63.1439,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.741,
+    "Longitud": -63.148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7426,
+    "Longitud": -63.114,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.752,
+    "Longitud": -63.1291,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7618,
+    "Longitud": -63.1274,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7594,
+    "Longitud": -63.1205,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7163,
+    "Longitud": -63.162,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8294,
+    "Longitud": -63.2001,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7094,
+    "Longitud": -63.16,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7039,
+    "Longitud": -63.1597,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6984,
+    "Longitud": -63.1351,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.687,
+    "Longitud": -63.1464,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7328,
+    "Longitud": -63.156,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7315,
+    "Longitud": -63.1638,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7164,
+    "Longitud": -63.1562,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.696,
+    "Longitud": -63.1591,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7493,
+    "Longitud": -63.1104,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7519,
+    "Longitud": -63.0941,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7501,
+    "Longitud": -63.09,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7535,
+    "Longitud": -63.0987,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7652,
+    "Longitud": -63.1131,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7658,
+    "Longitud": -63.1077,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7768,
+    "Longitud": -63.1075,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7602,
+    "Longitud": -63.0899,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7218,
+    "Longitud": -63.0832,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.759,
+    "Longitud": -63.0994,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7914,
+    "Longitud": -63.0894,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7986,
+    "Longitud": -63.0862,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7835,
+    "Longitud": -63.0907,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7667,
+    "Longitud": -63.0949,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7927,
+    "Longitud": -63.1181,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7929,
+    "Longitud": -63.1085,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7974,
+    "Longitud": -63.1185,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "B. LAS CARMELITAS  UE SARAH PORRAS",
+    "Telefono": "null",
+    "Latitud": -17.796,
+    "Longitud": -63.2231,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. GUAPAY O CAnaL COTOCA",
+    "Telefono": "null",
+    "Latitud": -17.7783,
+    "Longitud": -63.1651,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO PARAGUA",
+    "Telefono": "null",
+    "Latitud": -17.7743,
+    "Longitud": -63.1659,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO MUTUALISTA",
+    "Telefono": "null",
+    "Latitud": -17.7716,
+    "Longitud": -63.1681,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 11",
+    "Direccion": "ROTONDA 2DO ANILLO AV. ALEMAna",
+    "Telefono": "null",
+    "Latitud": -17.7703,
+    "Longitud": -63.1712,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8064,
+    "Longitud": -63.1972,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 4",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8039,
+    "Longitud": -63.1992,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.79,
+    "Longitud": -63.2049,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7853,
+    "Longitud": -63.2046,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7776,
+    "Longitud": -63.2036,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 1",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7696,
+    "Longitud": -63.2017,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7979,
+    "Longitud": -63.1088,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8024,
+    "Longitud": -63.1171,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8028,
+    "Longitud": -63.1091,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 7",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8022,
+    "Longitud": -63.0982,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8217,
+    "Longitud": -63.125,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8138,
+    "Longitud": -63.1098,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8276,
+    "Longitud": -63.0966,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 8",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8386,
+    "Longitud": -63.1202,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6941,
+    "Longitud": -63.1636,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.723,
+    "Longitud": -63.1794,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7295,
+    "Longitud": -63.1807,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7368,
+    "Longitud": -63.1116,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8429,
+    "Longitud": -63.1725,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8731,
+    "Longitud": -63.1923,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8539,
+    "Longitud": -63.1468,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8511,
+    "Longitud": -63.2191,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 10",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.856,
+    "Longitud": -63.2139,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7141,
+    "Longitud": -63.1864,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6836,
+    "Longitud": -63.1803,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.6865,
+    "Longitud": -63.172,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8658,
+    "Longitud": -63.2022,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8546,
+    "Longitud": -63.1636,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 12",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.857,
+    "Longitud": -63.1769,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 9",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8657,
+    "Longitud": -63.1893,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano/Rural 13",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.8857,
+    "Longitud": -63.1145,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7115,
+    "Longitud": -63.1277,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7039,
+    "Longitud": -63.173,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7199,
+    "Longitud": -63.1526,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7281,
+    "Longitud": -63.1359,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Industrial",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7201,
+    "Longitud": -63.1306,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 5",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7136,
+    "Longitud": -63.147,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7384,
+    "Longitud": -63.1072,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7354,
+    "Longitud": -63.1017,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7322,
+    "Longitud": -63.0962,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7456,
+    "Longitud": -63.1027,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7433,
+    "Longitud": -63.0977,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "MercadoMovil",
+    "Nombre": "Distrito Urbano 6",
+    "Direccion": "Mercado movilES",
+    "Telefono": "null",
+    "Latitud": -17.7407,
+    "Longitud": -63.0917,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Suc. España",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8419,
+    "Longitud": -63.1956,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8414,
+    "Longitud": -63.1956,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Estación de Servicio Moragrande 1",
+    "Direccion": "Zona La Cuchilla, Av Moscú, Quinto anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8279,
+    "Longitud": -63.203,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Las Palmas",
+    "Direccion": "Doble vía La Guardia, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8106,
+    "Longitud": -63.2085,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hiper Bagio",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8278,
+    "Longitud": -63.2266,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Micromercado Macarena",
+    "Direccion": "Avenida Iberica, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8066,
+    "Longitud": -63.2069,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermercado Plaza",
+    "Direccion": "Av. Grigota entre 2do. y 3er. Anillo, Av Grigotá, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8013,
+    "Longitud": -63.196,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8189,
+    "Longitud": -63.1836,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Super Tienda QUIna",
+    "Direccion": "Av Santos Dumont esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8201,
+    "Longitud": -63.1841,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Sur",
+    "Direccion": "Av. Santos Dumont entre Av. Mario R. Gutierrez y, Av Roque Aguilera, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8135,
+    "Longitud": -63.1841,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados MAX",
+    "Direccion": "Av. Radial 12, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8076,
+    "Longitud": -63.1719,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Quina Sucursal 3",
+    "Direccion": "Av.Prefecto Rivas Nro 250, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8044,
+    "Longitud": -63.1904,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "Avenida El Trompillo 632, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8005,
+    "Longitud": -63.1833,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Reyes",
+    "Direccion": "Avenida 26 De Febrero, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7897,
+    "Longitud": -63.1943,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Piraí",
+    "Direccion": "Segundo anillo esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7897,
+    "Longitud": -63.1951,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "H P Medical",
+    "Direccion": "Av. Roca y Coronado, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7852,
+    "Longitud": -63.1997,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Avenida Roca y Coronado # 800, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7849,
+    "Longitud": -63.2119,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "IC Norte",
+    "Direccion": "3er anillo interno,, Avenida Busch, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7727,
+    "Longitud": -63.2034,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Equipetrol",
+    "Direccion": "Dr Fermín Peralta, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7603,
+    "Longitud": -63.198,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Tía",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7552,
+    "Longitud": -63.1998,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Equipetrol",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7567,
+    "Longitud": -63.2,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado El Cristo",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7735,
+    "Longitud": -63.1821,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "FIDALGA",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7714,
+    "Longitud": -63.1858,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Shopping Fidalga",
+    "Direccion": "Av. Cristo Redentor entre Av. Pedro Ribera Mendez, Tercer Anillo Externo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7585,
+    "Longitud": -63.1781,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Hamacas",
+    "Direccion": "Av. Beni # 500 esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7551,
+    "Longitud": -63.1717,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hiper Plaza",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7505,
+    "Longitud": -63.1765,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado",
+    "Telefono": "null",
+    "Latitud": -17.7458,
+    "Longitud": -63.1742,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Avenida Cuarto Anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7497,
+    "Longitud": -63.1854,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Gourmet",
+    "Direccion": "Avenida Cuarto Anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7493,
+    "Longitud": -63.1761,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Super Center",
+    "Direccion": "Av. Cristo Redentor 6500, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7288,
+    "Longitud": -63.166,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Drinksmart",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7152,
+    "Longitud": -63.1662,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7149,
+    "Longitud": -63.1693,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Micro Mercado Wonderfull",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.682,
+    "Longitud": -63.1544,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fresh meat",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.6832,
+    "Longitud": -63.1547,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi beni",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7504,
+    "Longitud": -63.1686,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Tia",
+    "Direccion": "Av Alemania, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7547,
+    "Longitud": -63.1654,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Mutualista",
+    "Direccion": "zona Mutualista, Tercer Anillo Externo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7658,
+    "Longitud": -63.1587,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Pronto",
+    "Direccion": "Av. Sta. Cruz, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7746,
+    "Longitud": -63.1661,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Makro Parque",
+    "Direccion": "Av Cuarto Anillo y, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7651,
+    "Longitud": -63.1475,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Embutidos Fabrica",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7727,
+    "Longitud": -63.134,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi La Pampa",
+    "Direccion": "4 Oeste, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7718,
+    "Longitud": -63.1245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Cotoca",
+    "Direccion": "Km. 8 Doble Via a Cotoca",
+    "Telefono": "null",
+    "Latitud": -17.7657,
+    "Longitud": -63.1045,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Pampa De La Isla",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7676,
+    "Longitud": -63.1151,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Mercado",
+    "Telefono": "null",
+    "Latitud": -17.7646,
+    "Longitud": -63.0967,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Av Tres Pasos Al Frente, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7953,
+    "Longitud": -63.1608,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Villa 1° de Mayo",
+    "Direccion": "Calle 10 Este, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7979,
+    "Longitud": -63.1342,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "PUNTO",
+    "Direccion": "Avenida 3 Pasos Al Frente, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8076,
+    "Longitud": -63.1058,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Plan 3000",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8356,
+    "Longitud": -63.1323,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Placemark",
+    "Direccion": "Avenida Principal Plan 3 Mil, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8288,
+    "Longitud": -63.1385,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Super Sur Fidalga SRL Central",
+    "Direccion": "Av. Rene Moreno # 212 esquina, Diego de Mendoza, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7938,
+    "Longitud": -63.18,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7942,
+    "Longitud": -63.1813,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "HiperMaxi Centro",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7885,
+    "Longitud": -63.179,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Florida",
+    "Direccion": "Florida, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7819,
+    "Longitud": -63.1835,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Cañoto",
+    "Direccion": "Avenida Cañoto, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7789,
+    "Longitud": -63.1883,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Ekko Fidalga",
+    "Direccion": "Avenida Cañoto 202, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7791,
+    "Longitud": -63.1884,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Tia",
+    "Direccion": "24 de septiembre, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7788,
+    "Longitud": -63.1817,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "CHINBOL",
+    "Direccion": "Centro,, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7833,
+    "Longitud": -63.1741,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Macro Fidalga",
+    "Direccion": "G.Velasco, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7767,
+    "Longitud": -63.1733,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Okinawa",
+    "Direccion": "Calle Quijarro, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7766,
+    "Longitud": -63.1785,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Yuri Market",
+    "Direccion": "0000, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7769,
+    "Longitud": -63.1785,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD TIERRAS NUEVAS",
+    "Direccion": "Barrio Tierras Nuevas, Av. Moscú, 5 cuadras antes del Rest. Tutumazo",
+    "Telefono": "3 3536010",
+    "Latitud": -17.8488,
+    "Longitud": -63.2153,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD MONTERO HOYOS",
+    "Direccion": "Localidad de  Montero Hoyos",
+    "Telefono": "6 9561424",
+    "Latitud": -17.6409,
+    "Longitud": -62.8245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ZAFRANILLA",
+    "Direccion": "Comunidad Zafranilla",
+    "Latitud": -17.6208,
+    "Longitud": -62.9888,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN MIGUEL DE LOS JUNOS",
+    "Direccion": "Comunidad San Miguel De Los Junos – Zona del Tanque de Agua Elevado",
+    "Telefono": "3 3226753",
+    "Latitud": -17.9325,
+    "Longitud": -63.0266,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PALMASOLA",
+    "Direccion": "Centro Penitenciario Palmasola",
+    "Telefono": "3 3562928",
+    "Latitud": -17.8737,
+    "Longitud": -63.1849,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL DORADO NORTE",
+    "Direccion": "B/ El Dorado Norte, llegar a la Av. Virgen de Lujan donde termina el pavimento, ir a la derecha  4 cuadras, luego entrar al lado izquierdo 3 cuadras hasta llegar a una plazuela.",
+    "Telefono": "3 3224388",
+    "Latitud": -17.7392,
+    "Longitud": -63.0966,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL RETOÑO/LOS CUSIS",
+    "Direccion": "B/ El Retoño / Los Cusis",
+    "Telefono": "3 3498786",
+    "Latitud": -17.7356,
+    "Longitud": -63.077,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LAS GRAMAS/26 DE SEPTIEMBRE",
+    "Direccion": "B/ Las Gramas / 26 de Septiembre",
+    "Telefono": "3 3224504",
+    "Latitud": -17.721,
+    "Longitud": -63.1049,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL PORVENIR",
+    "Direccion": "B/ El Porvenir",
+    "Telefono": "3 3621675\n",
+    "Latitud": -17.7871,
+    "Longitud": -63.1292,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ROQUE AGUILERA",
+    "Direccion": "C/ Santiago Vaca Guzman C/Antoni Barba",
+    "Telefono": "3 3377366\n",
+    "Latitud": -17.7661,
+    "Longitud": -63.1863,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL RECREO",
+    "Direccion": "URB/ EL RECREO",
+    "Latitud": -17.8728,
+    "Longitud": -63.1013,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD BUEN SAMARITANO",
+    "Direccion": "B/ Buen Samaritano",
+    "Telefono": "3 3226439\n",
+    "Latitud": -17.7951,
+    "Longitud": -63.0957,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SANTIAGO PARADA",
+    "Direccion": "B/ Santiago Parada",
+    "Telefono": "3 3224920",
+    "Latitud": -17.7818,
+    "Longitud": -63.1068,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN AGUSTIN",
+    "Direccion": "Av. Paurito frente a la plaza San Agustín",
+    "Telefono": "3 3701909",
+    "Latitud": -17.84,
+    "Longitud": -63.1199,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN LUISITO",
+    "Direccion": "B/ San Luisito o Roberto Fernandez, ingresando por la Av.  Espinal Campos entrando C/Mexico, detrás del cementerio. Parada final de la linea 70.",
+    "Telefono": "3 3222191",
+    "Latitud": -17.8284,
+    "Longitud": -63.1032,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD MARIA CECILIA",
+    "Direccion": "Av. Radial 10 Final",
+    "Telefono": "3621699",
+    "Latitud": -17.8139,
+    "Longitud": -63.1145,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PALMAR DEL ORATORIO",
+    "Direccion": "Palmar del Oratorio Frente a la Plaza",
+    "Telefono": "3 3227404",
+    "Latitud": -17.8816,
+    "Longitud": -63.1509,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL TAJIBO",
+    "Direccion": "B/ El Tajibo pasando Av. Bolivia del mercado Fortaleza",
+    "Telefono": "3 3280587",
+    "Latitud": -17.862,
+    "Longitud": -63.1502,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD CORTEZ",
+    "Direccion": "B/ URB. CORTEZ",
+    "Telefono": "3 3280532",
+    "Latitud": -17.8937,
+    "Longitud": -63.1735,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD MAGISTERIO",
+    "Direccion": "B/ MAGISTERIO",
+    "Telefono": "3 3280943",
+    "Latitud": -17.8688,
+    "Longitud": -63.1839,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PLAN 4000",
+    "Direccion": "B/ Plan 4000",
+    "Telefono": "3 3280563",
+    "Latitud": -17.8822,
+    "Longitud": -63.1746,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ROCA Y COROnaDO",
+    "Direccion": "B/ Roca y Coronado entrando por Mercado Primavera, pasar el trillo e ingresar 9 cuadras, luego ingresar a la derecha 1 1/2 cuadra.",
+    "Telefono": "3 3568829",
+    "Latitud": -17.8362,
+    "Longitud": -63.1578,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD VILLA BERMUDEZ",
+    "Direccion": "Rad 17/2 -8 Ani, 2 cuadras de Piramide",
+    "Telefono": "3 3550468",
+    "Latitud": -17.8215,
+    "Longitud": -63.2491,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PEDRO DIEZ",
+    "Direccion": "B/Pedro Diez 2 1/2 cuadras Av. Los Lotes",
+    "Telefono": "3 3227909",
+    "Latitud": -17.8604,
+    "Longitud": -63.177,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD VILLA BRIGIDA",
+    "Direccion": "Barrio Villa Brígida Calle Nª 7",
+    "Telefono": "3 3418228\n",
+    "Latitud": -17.7562,
+    "Longitud": -63.1949,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL PAJOnaL",
+    "Direccion": "Pajonal lado del Centro Cultural El Pajonal",
+    "Telefono": "3 3582246\n",
+    "Latitud": -17.8133,
+    "Longitud": -63.1668,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SANTA ISABEL",
+    "Direccion": "Av. Paraguá pasando el tercer anillo calle Nº 6  lado Colegio  Wenceslao Montero  Barrio Conavi",
+    "Telefono": "3 3475090",
+    "Latitud": -17.7697,
+    "Longitud": -63.1507,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD HAMACAS",
+    "Direccion": "B/  Hamacas C/ Río Blanco 3105 entre C/ 11 y Av. Alemana",
+    "Telefono": "3 3427473",
+    "Latitud": -17.7563,
+    "Longitud": -63.169,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ANITA SUÁREZ DE LEIGUE",
+    "Direccion": "Av. Banzer Km. 4½ al norte detrás Coop. Humberto Leigue",
+    "Telefono": "3 3438531",
+    "Latitud": -17.7371,
+    "Longitud": -63.1716,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD NOEL KEMPFF",
+    "Direccion": "B/ Noel Kempff Merado, a la Radial 10 5to Anillo",
+    "Telefono": "3 3621781\n",
+    "Latitud": -17.8111,
+    "Longitud": -63.1237,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LOS TUSEQUIS",
+    "Telefono": "3 3469644",
+    "Latitud": -17.742,
+    "Longitud": -63.1552,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SANTE SUD",
+    "Direccion": "B/ Alto Olivo calle Nº 9 entre Radial 13 y Av. Santos Dumont Entrando seis cuadra a mano izquierda",
+    "Telefono": "3 3560379",
+    "Latitud": -17.8339,
+    "Longitud": -63.1781,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ONDULINE GUAPURU",
+    "Direccion": "B/ Onduline Guapuru",
+    "Telefono": "3 3226438\n\n",
+    "Latitud": -17.8098,
+    "Longitud": -63.1068,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD CAÑADA EL CARMEN",
+    "Direccion": "B/ Cañada El Carmen",
+    "Telefono": "3 3556492\n",
+    "Latitud": -17.8105,
+    "Longitud": -63.1527,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD POCHOLA TRAPERO",
+    "Direccion": "B/ Claracuta lado Col. Vertino Candia",
+    "Telefono": "3 3442168",
+    "Latitud": -17.733,
+    "Longitud": -63.1559,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD MI SALUD",
+    "Direccion": "Barrio  7 de Julio  Av. Campana, lado escuela 7 de julio",
+    "Telefono": "3 3628357\n\n",
+    "Latitud": -17.8286,
+    "Longitud": -63.1128,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LA COLORADA",
+    "Direccion": "B/ La Colorada Calle Nº 6 Radial 13 entre 4º y 5º anillo",
+    "Telefono": "3 3569872",
+    "Latitud": -17.8236,
+    "Longitud": -63.172,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LAS AMÉRICAS",
+    "Direccion": "B/El Paraiso Av. Las AmÚricas",
+    "Telefono": "3 3569332",
+    "Latitud": -17.8588,
+    "Longitud": -63.1941,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ANTOFAGASTA",
+    "Direccion": "B/Antofagasta Avenida San Martín entre 5º y 6º anillo, se entra 5 cuadras por la calle B",
+    "Telefono": "3 3580418",
+    "Latitud": -17.8269,
+    "Longitud": -63.2106,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD BARRIO NUEVO/30 DE ENERO",
+    "Direccion": "B/ NUEVO / 30 ENERO",
+    "Latitud": -17.8306,
+    "Longitud": -63.0844,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL QUIOR",
+    "Direccion": "B/ EL QUIOR",
+    "Telefono": "3 3223616\n",
+    "Latitud": -17.8477,
+    "Longitud": -63.0837,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LOS BOSQUES",
+    "Direccion": "B/ Los Bosques, lado del mercado Los Bosques",
+    "Telefono": "3 3563252",
+    "Latitud": -17.8123,
+    "Longitud": -63.2148,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD VIRGEN DE COTOCA",
+    "Direccion": "Cuarto anillo  y Radial 27 c/ San Pedro lado Guardería PRONIDES Barrio Virgen de Cotoca",
+    "Telefono": "3 3425834\n",
+    "Latitud": -17.7475,
+    "Longitud": -63.1818,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD WILLY LEMAITRE",
+    "Direccion": "Entre 2° y 3° anillo, Av. Busch, ingresando por la calle 6 esq. Calle Nicolás Ortiz.",
+    "Telefono": "3 3427701\n",
+    "Latitud": -17.7702,
+    "Longitud": -63.1979,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD NUTRICIOnaL",
+    "Direccion": "Av. Cumavi Final, entre 6º y 7º anillo",
+    "Telefono": "3 3476900\n",
+    "Latitud": -17.7927,
+    "Longitud": -63.1229,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD 12 DE DICIEMBRE",
+    "Direccion": "B/ 12 de Diciembre C/ Los Sauces final",
+    "Telefono": "3 3628161\n\n",
+    "Latitud": -17.82,
+    "Longitud": -63.1308,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PUEBLO NUEVO",
+    "Direccion": "Normandía",
+    "Telefono": "3 3229902",
+    "Latitud": -17.8507,
+    "Longitud": -63.0643,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PAURITO - HOSPITAL SAN PANTALEÓN",
+    "Direccion": "Localidad Paurito - Las Brechas",
+    "Telefono": "3 3884241",
+    "Latitud": -17.8778,
+    "Longitud": -62.9443,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD NORTE",
+    "Direccion": "Barrio Universitario Norte (km 6 1/2 al Norte pasando el Surtidor L¾pez entrando por el Kiosko Susy tres cuadras estß a la derecha )",
+    "Latitud": -17.722,
+    "Longitud": -63.1594,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SANTA ROSITA",
+    "Direccion": "Entre 2° y 3° anillo, entre Av. Pirai y Av. Roca y Coronado, Barrio Santa Rosita,  Calle Mataral S/N., lado de la plazuela, zona complejo deportivo Santa Rosita",
+    "Telefono": "3 3524933\n",
+    "Latitud": -17.7882,
+    "Longitud": -63.198,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL TATU",
+    "Latitud": -17.8153,
+    "Longitud": -63.0753,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL TRAPICHE",
+    "Direccion": "Carretera Cotoca entrando por Urbanización Barrio Trapiche",
+    "Latitud": -17.7497,
+    "Longitud": -63.0768,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN CARLOS",
+    "Direccion": "Entre 3° y 4° anillo, Radial 27, por la Av. Principal de Zoológico, entrando 4 cuadras y 1 a la derecha,  entre calle 3 y 4",
+    "Telefono": "3 3435058\n",
+    "Latitud": -17.7563,
+    "Longitud": -63.18,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD VIRGEN DE FÁTIMA",
+    "Direccion": "Entre 3er y 4to anillo. Barrio Villa Fátima Av. Fátima N° 510.  Ingresando por la Av. Escuadrón Velasco y continuando la Av. Fátima. Frente a la plazuela del mismo nombre.",
+    "Telefono": "3 3526720\n",
+    "Latitud": -17.815,
+    "Longitud": -63.1992,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD  BOLINTER",
+    "Direccion": "B/ Bolinter  Av. Los Chacos",
+    "Telefono": "3 3646236",
+    "Latitud": -17.7632,
+    "Longitud": -63.1139,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD 25 DE DICIEMBRE",
+    "Direccion": "Av. Principal del Plan Tres Mil,  Al lado de la Escuela 25 de Diciembre",
+    "Telefono": "3 3622308",
+    "Latitud": -17.8162,
+    "Longitud": -63.1432,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAGRADA FAMILIA",
+    "Direccion": "km.6 Doble vía La Guardia, Barrio Bajío Sur, Calle 24 de Junio",
+    "Telefono": "3 3547686",
+    "Latitud": -17.8309,
+    "Longitud": -63.2246,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LOS OLIVOS",
+    "Direccion": "B/ Bajo Olivo Av. Santos Dumont pasando el 4º anillo entre Av. 14 de Septiembre y calle Nº 2",
+    "Telefono": "3 3563660",
+    "Latitud": -17.8286,
+    "Longitud": -63.1809,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PERPETUO SOCORRO",
+    "Direccion": "Barrio Los Milagros C/7 entre Av. Centenario y Av. Busch frente Plazuela 6 de Enero",
+    "Telefono": "3 3526882\n",
+    "Latitud": -17.7744,
+    "Longitud": -63.2099,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD  PALOS VERDE",
+    "Direccion": "U.V. 194 frente al Condominio Los Cedros, entre 8vo y 9no anillo, barrio Palos Verdes",
+    "Telefono": "3 3226334",
+    "Latitud": -17.7127,
+    "Longitud": -63.1446,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD  VILLA BOLIVIA",
+    "Telefono": "3 3565100",
+    "Latitud": -17.8444,
+    "Longitud": -63.1687,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD VIDA Y ESPERANZA",
+    "Direccion": "Parada Linea 4",
+    "Telefono": "3 3625952",
+    "Latitud": -17.8149,
+    "Longitud": -63.1029,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD EL REMANZO",
+    "Direccion": "7º Anillo pasando Canal Pedro Velez Barrio 24 de Septiembre",
+    "Latitud": -17.7146,
+    "Longitud": -63.1786,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD PREVENTIVA SUD",
+    "Direccion": "Av. Internacional y Pacífico, frente a la iglesia Virgen del Rosario",
+    "Telefono": "3 3620313",
+    "Latitud": -17.8304,
+    "Longitud": -63.1229,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LA FORTALEZA",
+    "Direccion": "B/ La Fortaleza a 3 cuadras Av. El Palmar",
+    "Latitud": -17.866,
+    "Longitud": -63.1679,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD 18 DE MARZO",
+    "Direccion": "Av. Cumavi entre 6 y 7 anillo",
+    "Telefono": "3 3493919\n",
+    "Latitud": -17.7928,
+    "Longitud": -63.1227,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN LUIS",
+    "Telefono": "3 3538270\n",
+    "Latitud": -17.782,
+    "Longitud": -63.2005,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD MONTERO HOYOS",
+    "Direccion": "Localidad de  Montero Hoyos",
+    "Telefono": "3225064",
+    "Latitud": -17.6409,
+    "Longitud": -62.8245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD SAN ANTONIO",
+    "Direccion": "Av. Virgen de Cotoca altura del matadero",
+    "Telefono": "3 3491199",
+    "Latitud": -17.7758,
+    "Longitud": -63.1216,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD 10 DE OCTUBRE",
+    "Direccion": "Av. Virgen de Luján pasando a dos cuadras del Centro Cultural",
+    "Telefono": "3 3498786",
+    "Latitud": -17.7435,
+    "Longitud": -63.1199,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD ELVIRA WUNDERLICH",
+    "Direccion": "Entre 2° y 3° anillo,   Av. Pilcomayo, calle Yacuiba S/N. ingresando por el Supermercado Fidalga 2 cuadras atras. Zona aeropuerto El Trompillo y Saguapac.",
+    "Telefono": "3 3579524\n",
+    "Latitud": -17.802,
+    "Longitud": -63.1833,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "CENTRO DE SALUD LAZARETO",
+    "Direccion": "B/ Lazareto C/ Corumbá esq. C/ Pailón",
+    "Telefono": "3 3461151",
+    "Latitud": -17.7836,
+    "Longitud": -63.1596,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL PLAN 3000",
+    "Direccion": "B/ Piraicito Av. Prefectural Diagonal Mercado Los Pocitos A 2 Cuadras De La Av. Paurito",
+    "Telefono": "‎3 3621402",
+    "Latitud": -17.8391,
+    "Longitud": -63.11,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL FRANCÉS",
+    "Direccion": "Av. Santos Dumont 6to anillo, B/Paititi C/1 entre C/ Mático y C/1",
+    "Telefono": "3 3518973",
+    "Latitud": -17.8548,
+    "Longitud": -63.1891,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL VILLA 1ro DE MAYO",
+    "Direccion": "7mo anillo entre Cumavi y Av. 3 pasos al frente. B/ Libertad Av.  La Tradición A Una Cuadra De La Av. Libertadores",
+    "Telefono": "800121700",
+    "Latitud": -17.7996,
+    "Longitud": -63.1183,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL OBRERO 400 CAMAS",
+    "Latitud": -17.7672,
+    "Longitud": -63.1574,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL PAMPA DE LA ISLA",
+    "Direccion": "B/ Bolinter Av. Montecristo A 5 Cuadras De La Av. Los Chacos",
+    "Telefono": "‎3 3494008",
+    "Latitud": -17.7595,
+    "Longitud": -63.1072,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "CentroMedico",
+    "Nombre": "HOSPITAL EL BAJÍO DEL ORIENTE",
+    "Direccion": "B/ Urb. Santa Cruz Av. Simon Bolivar Calle Eslovaquia A 2 Cuadras Del 6To Anillo.",
+    "Telefono": "3 3555008",
+    "Latitud": -17.8321,
+    "Longitud": -63.2094,
+    "Fuente": "gamsc"
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Av. Busch # 1994",
+    "Telefono": "null",
+    "Latitud": -68.1211,
+    "Longitud": -16.5025,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "Av. Saavedra # 1963",
+    "Telefono": "null",
+    "Latitud": -68.1225,
+    "Longitud": -16.5019,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Av. Arce # 2588 Esq. C. Pinilla",
+    "Telefono": "null",
+    "Latitud": -68.1234,
+    "Longitud": -16.5105,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "C. Capitán Ravel # 2441",
+    "Telefono": "null",
+    "Latitud": -68.1242,
+    "Longitud": -16.5078,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "C. Colón # 570",
+    "Telefono": "null",
+    "Latitud": -68.1325,
+    "Longitud": -16.4967,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi S.A.",
+    "Direccion": "C. Rosendo Gutierrez # 469",
+    "Telefono": "null",
+    "Latitud": -68.1279,
+    "Longitud": -16.5095,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Pza. España Esq. C. Méndez Arcos # 710",
+    "Telefono": "null",
+    "Latitud": -68.129,
+    "Longitud": -16.5145,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "Av. Sánchez Lima # 2362",
+    "Telefono": "null",
+    "Latitud": -68.1279,
+    "Longitud": -16.5105,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "C. Almirante Grau # 349",
+    "Telefono": "null",
+    "Latitud": -68.1359,
+    "Longitud": -16.5018,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi S.A.",
+    "Direccion": "Av. 14 de Septiembre # 6020",
+    "Telefono": "null",
+    "Latitud": -68.1034,
+    "Longitud": -16.5285,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Súper 10",
+    "Direccion": "Av. H. Siles # 455 Esq. C. 10",
+    "Telefono": "null",
+    "Latitud": -68.1071,
+    "Longitud": -16.5266,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "C. 16 # 460",
+    "Telefono": "null",
+    "Latitud": -68.102,
+    "Longitud": -16.5289,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Andy´s",
+    "Direccion": "C. 17",
+    "Telefono": "null",
+    "Latitud": -68.1007,
+    "Longitud": -16.5298,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Andy´s",
+    "Direccion": "Av. Montenegro # 874",
+    "Telefono": "null",
+    "Latitud": -68.0782,
+    "Longitud": -16.5428,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "C. 21",
+    "Telefono": "null",
+    "Latitud": -68.078,
+    "Longitud": -16.5403,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Av. Ballivián # 7967",
+    "Telefono": "null",
+    "Latitud": -68.0839,
+    "Longitud": -16.5393,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi S.A.",
+    "Direccion": "Av. José María Aguirre Achá # 85",
+    "Telefono": "null",
+    "Latitud": -68.0701,
+    "Longitud": -16.5458,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi S.A.",
+    "Direccion": "Av. Strongest # 100",
+    "Telefono": "null",
+    "Latitud": -68.0621,
+    "Longitud": -16.5189,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Andy´s",
+    "Direccion": "Av. Garcia Lanza #4",
+    "Telefono": "null",
+    "Latitud": -68.0726,
+    "Longitud": -16.5312,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Av. Alexander # 108",
+    "Telefono": "null",
+    "Latitud": -68.072,
+    "Longitud": -16.5345,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "La Paz",
+    "Tipo": "Supermercado",
+    "Nombre": "Ketal S.A.",
+    "Direccion": "Av. Rafael Pabón",
+    "Telefono": "null",
+    "Latitud": -68.0866,
+    "Longitud": -16.5336,
+    "Fuente": "gamlp"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Suc. España",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8419,
+    "Longitud": -63.1956,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8414,
+    "Longitud": -63.1956,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Estación de Servicio Moragrande 1",
+    "Direccion": "Zona La Cuchilla, Av Moscú, Quinto anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8279,
+    "Longitud": -63.203,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Las Palmas",
+    "Direccion": "Doble vía La Guardia, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8106,
+    "Longitud": -63.2085,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hiper Bagio",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8278,
+    "Longitud": -63.2266,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Micromercado Macarena",
+    "Direccion": "Avenida Iberica, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8066,
+    "Longitud": -63.2069,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermercado Plaza",
+    "Direccion": "Av. Grigota entre 2do. y 3er. Anillo, Av Grigotá, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8013,
+    "Longitud": -63.196,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8189,
+    "Longitud": -63.1836,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Super Tienda QUIna",
+    "Direccion": "Av Santos Dumont esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8201,
+    "Longitud": -63.1841,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Sur",
+    "Direccion": "Av. Santos Dumont entre Av. Mario R. Gutierrez y, Av Roque Aguilera, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8135,
+    "Longitud": -63.1841,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados MAX",
+    "Direccion": "Av. Radial 12, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8076,
+    "Longitud": -63.1719,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Quina Sucursal 3",
+    "Direccion": "Av.Prefecto Rivas Nro 250, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8044,
+    "Longitud": -63.1904,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga",
+    "Direccion": "Avenida El Trompillo 632, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8005,
+    "Longitud": -63.1833,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Reyes",
+    "Direccion": "Avenida 26 De Febrero, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7897,
+    "Longitud": -63.1943,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Piraí",
+    "Direccion": "Segundo anillo esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7897,
+    "Longitud": -63.1951,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "H P Medical",
+    "Direccion": "Av. Roca y Coronado, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7852,
+    "Longitud": -63.1997,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Avenida Roca y Coronado # 800, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7849,
+    "Longitud": -63.2119,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "IC Norte",
+    "Direccion": "3er anillo interno,, Avenida Busch, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7727,
+    "Longitud": -63.2034,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Equipetrol",
+    "Direccion": "Dr Fermín Peralta, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7603,
+    "Longitud": -63.198,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Tía",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7552,
+    "Longitud": -63.1998,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Equipetrol",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7567,
+    "Longitud": -63.2,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado El Cristo",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7735,
+    "Longitud": -63.1821,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "FIDALGA",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7714,
+    "Longitud": -63.1858,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Shopping Fidalga",
+    "Direccion": "Av. Cristo Redentor entre Av. Pedro Ribera Mendez, Tercer Anillo Externo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7585,
+    "Longitud": -63.1781,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Hamacas",
+    "Direccion": "Av. Beni # 500 esquina, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7551,
+    "Longitud": -63.1717,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hiper Plaza",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7505,
+    "Longitud": -63.1765,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado",
+    "Telefono": "null",
+    "Latitud": -17.7458,
+    "Longitud": -63.1742,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Avenida Cuarto Anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7497,
+    "Longitud": -63.1854,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Gourmet",
+    "Direccion": "Avenida Cuarto Anillo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7493,
+    "Longitud": -63.1761,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Super Center",
+    "Direccion": "Av. Cristo Redentor 6500, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7288,
+    "Longitud": -63.166,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Drinksmart",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7152,
+    "Longitud": -63.1662,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Wonderful",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7149,
+    "Longitud": -63.1693,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Micro Mercado Wonderfull",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.682,
+    "Longitud": -63.1544,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fresh meat",
+    "Direccion": "Unnamed Road, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.6832,
+    "Longitud": -63.1547,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi beni",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7504,
+    "Longitud": -63.1686,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Tia",
+    "Direccion": "Av Alemania, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7547,
+    "Longitud": -63.1654,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Mutualista",
+    "Direccion": "zona Mutualista, Tercer Anillo Externo, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7658,
+    "Longitud": -63.1587,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Pronto",
+    "Direccion": "Av. Sta. Cruz, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7746,
+    "Longitud": -63.1661,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Makro Parque",
+    "Direccion": "Av Cuarto Anillo y, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7651,
+    "Longitud": -63.1475,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Embutidos Fabrica",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7727,
+    "Longitud": -63.134,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi La Pampa",
+    "Direccion": "4 Oeste, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7718,
+    "Longitud": -63.1245,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Fidalga Cotoca",
+    "Direccion": "Km. 8 Doble Via a Cotoca",
+    "Telefono": "null",
+    "Latitud": -17.7657,
+    "Longitud": -63.1045,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Pampa De La Isla",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7676,
+    "Longitud": -63.1151,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Mercado",
+    "Telefono": "null",
+    "Latitud": -17.7646,
+    "Longitud": -63.0967,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Av Tres Pasos Al Frente, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7953,
+    "Longitud": -63.1608,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Villa 1° de Mayo",
+    "Direccion": "Calle 10 Este, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7979,
+    "Longitud": -63.1342,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "PUNTO",
+    "Direccion": "Avenida 3 Pasos Al Frente, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8076,
+    "Longitud": -63.1058,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Plan 3000",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8356,
+    "Longitud": -63.1323,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Placemark",
+    "Direccion": "Avenida Principal Plan 3 Mil, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.8288,
+    "Longitud": -63.1385,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Super Sur Fidalga SRL Central",
+    "Direccion": "Av. Rene Moreno # 212 esquina, Diego de Mendoza, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7938,
+    "Longitud": -63.18,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7942,
+    "Longitud": -63.1813,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "HiperMaxi Centro",
+    "Direccion": "Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7885,
+    "Longitud": -63.179,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Florida",
+    "Direccion": "Florida, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7819,
+    "Longitud": -63.1835,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Hipermaxi Cañoto",
+    "Direccion": "Avenida Cañoto, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7789,
+    "Longitud": -63.1883,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Ekko Fidalga",
+    "Direccion": "Avenida Cañoto 202, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7791,
+    "Longitud": -63.1884,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercados Tia",
+    "Direccion": "24 de septiembre, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7788,
+    "Longitud": -63.1817,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "CHINBOL",
+    "Direccion": "Centro,, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7833,
+    "Longitud": -63.1741,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Macro Fidalga",
+    "Direccion": "G.Velasco, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7767,
+    "Longitud": -63.1733,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Supermercado Okinawa",
+    "Direccion": "Calle Quijarro, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7766,
+    "Longitud": -63.1785,
+    "Fuente": "gamsc"
+  },
+  {
+    "Departamento": "Santa Cruz",
+    "Tipo": "Supermercado",
+    "Nombre": "Yuri Market",
+    "Direccion": "0000, Santa Cruz de la Sierra",
+    "Telefono": "null",
+    "Latitud": -17.7769,
+    "Longitud": -63.1785,
+    "Fuente": "gamsc"
+  }
+]

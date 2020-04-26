@@ -1,0 +1,629 @@
+Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+Beni,Mercado,EL MERCADO DE LAS PULGAS,NA,null,"-14,834,710","-64,903,362",geobo
+Beni,Mercado,MERCADO 26 DE JULIO,NA,null,"-14,838,198","-64,915,429",geobo
+Beni,Mercado,MERCADO 30 DE JULIO SIN UTILIZAR.,NA,null,"-14,806,752","-64,906,868",geobo
+Beni,Mercado,MERCADO EL TAJIBITO,NA,null,"-14,837,781","-64,900,964",geobo
+Beni,Mercado,MERCADO FATIMA,NA,null,"-14,834,495","-64,894,001",geobo
+Beni,Mercado,MERCADO LOS MENUDOS,NA,null,"-14,838,527","-64,899,134",geobo
+Beni,Mercado,MERCADO MIAMI,NA,null,"-14,839,781","-64,904,587",geobo
+Beni,Mercado,MERCADO MUNICIPAL BELLO HORIZONTE,NA,null,"-14,812,041","-64,885,889",geobo
+Beni,Mercado,MERCADO PAITITI,NA,null,"-14,824,703","-64,887,555",geobo
+Beni,Mercado,MERCADO POMPEYA,NA,null,"-14,839,506","-64,900,233",geobo
+Beni,Mercado,MERCADO SAN VICENTE,NA,null,"-14,832,279","-64,909,109",geobo
+Beni,Mercado,MERCADO SECCInaL,NA,null,"-14,833,227","-64,902,203",geobo
+Beni,Mercado,NUEVO MERCADO 13 DE ABRIL,NA,null,"-14,834,129","-64,887,880",geobo
+Beni,Mercado,MERCADO CENTRAL RURREnaBAQUE,NA,null,"-14,441,568","-67,528,529",geobo
+Beni,Mercado,MERCADO DE RURREnaBAQUE,NA,null,"-14,430,046","-67,504,601",geobo
+Beni,Mercado,MERCADO CAMPESINO PRIMERO DE MAYO,NA,null,"-14,862,765","-66,749,619",geobo
+Beni,Mercado,MERCADO CENTRAL LA PAZ,NA,null,"-14,860,600","-66,746,196",geobo
+Beni,Mercado,MERCADO SANTA MARIA MAGDALEna,NA,null,"-13,260,531","-64,054,679",geobo
+Beni,Mercado,MERCADO CAMPESINO,NA,null,"-14,993,250","-65,636,371",geobo
+Beni,Mercado,MERCADO CENTRAL,NA,null,"-14,996,196","-65,640,043",geobo
+Beni,Mercado,MERCADO SANTA FE,NA,null,"-14,999,706","-65,644,056",geobo
+Beni,Mercado,MERCADO CAMPESINO,NA,null,"-10,822,459","-65,354,893",geobo
+Beni,Mercado,MERCADO CENTRAL GUAYARAMERIN,NA,null,"-10,817,612","-65,353,601",geobo
+Beni,Mercado,MERCADO LOS ALMENDROS,NA,null,"-10,832,585","-65,347,465",geobo
+Beni,Mercado,MERCADO 3 DE FEBRERO,NA,null,"-11,003,930","-66,056,500",geobo
+Beni,Mercado,MERCADO LAS MERCEDEZ,NA,null,"-10,998,407","-66,034,914",geobo
+Beni,Mercado,MERCADO SAN JOSE,NA,null,"-11,000,263","-66,064,713",geobo
+Beni,Mercado,MERCADO CAMPESINO ALONSO HUMAZA  TABABARI,NA,null,"-13,738,694","-65,423,239",geobo
+Beni,Mercado,MERCADO DE SANTA Ana,NA,null,"-13,743,833","-65,427,109",geobo
+Beni,Mercado,MERCADO VEINTISEIS DE JULIO,NA,null,"-13,739,336","-65,421,892",geobo
+Cochabamba,Mercado,MERCADO CENTAL DE ARANI,NA,null,"-17,573,450","-65,771,911",geobo
+Cochabamba,Mercado,MERCADO CENTRAL AIQUILE,NA,null,"-18,200,487","-65,182,094",geobo
+Cochabamba,Mercado,MERCADO CENTRAL CAPINOTA,NA,null,"-17,714,267","-66,262,038",geobo
+Cochabamba,Mercado,MERCADO CENTRAL,NA,null,"-17,723,912","-66,283,844",geobo
+Cochabamba,Mercado,MERCADO IRPA IRPA,NA,null,"-17,721,716","-66,287,138",geobo
+Cochabamba,Mercado,MERCADO CORONEL GERMAN LEMA,NA,null,"-17,550,160","-66,249,214",geobo
+Cochabamba,Mercado,MERCADO ASOCIACION 13 DE JUNIO,NA,null,"-16,996,032","-65,153,058",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-16,994,898","-65,150,180",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE CHIMORE,NA,null,"-16,994,751","-65,149,850",geobo
+Cochabamba,Mercado,MERCADO DE FRUTAS CHIMORE,NA,null,"-16,996,085","-65,151,573",geobo
+Cochabamba,Mercado,MERCADO GREMELISTAS  CHIMORE,NA,null,"-16,996,078","-65,152,058",geobo
+Cochabamba,Mercado,MERCADO DE LA ZOna,NA,null,"-17,204,348","-64,532,480",geobo
+Cochabamba,Mercado,MERCADO ENTRE RIOS,NA,null,"-17,198,678","-64,538,016",geobo
+Cochabamba,Mercado,MERCADO NUEVO,NA,null,"-17,195,974","-64,534,470",geobo
+Cochabamba,Mercado,MERCADO 14 DE SEPTIEMBRE,NA,null,"-17,032,905","-64,860,856",geobo
+Cochabamba,Mercado,MERCADO 15 DE ABRIL,NA,null,"-17,037,919","-64,863,372",geobo
+Cochabamba,Mercado,MERCADO CENTRAL 27 DE MAYO,NA,null,"-17,033,594","-64,860,132",geobo
+Cochabamba,Mercado,MERCADO DE COCA,NA,null,"-17,041,717","-64,861,130",geobo
+Cochabamba,Mercado,MERCADO PRIMARIO DE COCA,NA,null,"-17,032,752","-64,860,202",geobo
+Cochabamba,Mercado,MERCADO PUERTO VILLARROEL,NA,null,"-16,839,107","-64,794,150",geobo
+Cochabamba,Mercado,ANTIGUO MERCADO CAMPESINO LAGUna ALALAY,NA,null,"-17,400,400","-66,142,597",geobo
+Cochabamba,Mercado,MEGA MERCADO DE FRUTAS,NA,null,"-17,400,428","-66,143,305",geobo
+Cochabamba,Mercado,MERCADO,NA,null,"-17,446,730","-66,115,624",geobo
+Cochabamba,Mercado,MERCADO 10 DE FEBRERO,NA,null,"-17,440,041","-66,116,183",geobo
+Cochabamba,Mercado,MERCADO 10 DE FEBRERO,NA,null,"-17,360,889","-66,182,980",geobo
+Cochabamba,Mercado,MERCADO 12 DE JULIO LOMAS DE SANTA BARBARA,NA,null,"-17,462,301","-66,105,928",geobo
+Cochabamba,Mercado,MERCADO 1RO DE MARZO,NA,null,"-17,394,903","-66,154,826",geobo
+Cochabamba,Mercado,MERCADO 20 DE FEBRERO,NA,null,"-17,419,201","-66,144,285",geobo
+Cochabamba,Mercado,MERCADO 20 DE OCTUBRE,NA,null,"-17,490,089","-66,177,713",geobo
+Cochabamba,Mercado,MERCADO 25 DE MAYO,NA,null,"-17,401,180","-66,153,924",geobo
+Cochabamba,Mercado,MERCADO 25 DE MAYO,NA,null,"-17,394,938","-66,155,352",geobo
+Cochabamba,Mercado,MERCADO 25 DE MAYO -A,NA,null,"-17,394,676","-66,154,392",geobo
+Cochabamba,Mercado,MERCADO 25 DE MAYO B,NA,null,"-17,394,703","-66,154,863",geobo
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,"-17,425,230","-66,143,201",geobo
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,"-17,474,951","-66,149,199",geobo
+Cochabamba,Mercado,MERCADO 8DE SEPTIEMBRE,NA,null,"-17,434,506","-66,156,740",geobo
+Cochabamba,Mercado,MERCADO BARTOLIna SISA,NA,null,"-17,468,100","-66,206,974",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,431,632","-66,125,808",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,434,316","-66,124,189",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,434,047","-66,124,387",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,430,476","-66,126,161",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,433,555","-66,124,678",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO DEL NORTE   MAYORISTAS DEL PRODUCTOR AL CONSUMIDOR,NA,null,"-17,351,226","-66,172,623",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO PRIVADO,NA,null,"-17,429,383","-66,126,429",geobo
+Cochabamba,Mercado,MERCADO CERRO VERDE,NA,null,"-17,413,978","-66,144,082",geobo
+Cochabamba,Mercado,MERCADO DE CALA CALA,NA,null,"-17,372,261","-66,161,775",geobo
+Cochabamba,Mercado,MERCADO DE VALLE HERMOSO,NA,null,"-17,447,943","-66,127,207",geobo
+Cochabamba,Mercado,MERCADO DEL OESTE BELEN TOKIO,NA,null,"-17,382,356","-66,194,726",geobo
+Cochabamba,Mercado,MERCADO EL PROGRESO,NA,null,"-17,394,689","-66,190,325",geobo
+Cochabamba,Mercado,MERCADO FERROVIARIO,NA,null,"-17,448,104","-66,146,801",geobo
+Cochabamba,Mercado,MERCADO FIDEL ARANIBAR,NA,null,"-17,402,795","-66,153,960",geobo
+Cochabamba,Mercado,MERCADO INGAVI,NA,null,"-17,390,127","-66,171,077",geobo
+Cochabamba,Mercado,MERCADO JAIHUAYCO,NA,null,"-17,415,019","-66,164,129",geobo
+Cochabamba,Mercado,MERCADO JUAN XXIII,NA,null,"-17,388,831","-66,203,724",geobo
+Cochabamba,Mercado,MERCADO LA PAMPA,NA,null,"-17,403,778","-66,152,052",geobo
+Cochabamba,Mercado,MERCADO LORETO,NA,null,"-17,423,266","-66,157,048",geobo
+Cochabamba,Mercado,MERCADO MISICUNI,NA,null,"-17,437,367","-66,113,235",geobo
+Cochabamba,Mercado,MERCADO MODELO DEL NORTE MINORISTAS,NA,null,"-17,351,945","-66,172,993",geobo
+Cochabamba,Mercado,MERCADO MOLINO EL GALLO,NA,null,"-17,406,813","-66,155,093",geobo
+Cochabamba,Mercado,MERCADO MOLINO SAN LUIS,NA,null,"-17,405,716","-66,155,077",geobo
+Cochabamba,Mercado,MERCADO NORTE CALATAYUD,NA,null,"-17,398,351","-66,152,809",geobo
+Cochabamba,Mercado,MERCADO OSORIO,NA,null,"-17,397,122","-66,162,586",geobo
+Cochabamba,Mercado,MERCADO PALMAR,NA,null,"-17,467,134","-66,207,119",geobo
+Cochabamba,Mercado,MERCADO PAPA PAULO,NA,null,"-17,383,902","-66,147,804",geobo
+Cochabamba,Mercado,MERCADO QUECHISLITAS,NA,null,"-17,375,552","-66,185,689",geobo
+Cochabamba,Mercado,MERCADO SAN ANTONIO,NA,null,"-17,402,758","-66,155,039",geobo
+Cochabamba,Mercado,MERCADO SECCIOnaL 15 DE ABRIL VILLA ALALAY,NA,null,"-17,420,300","-66,140,075",geobo
+Cochabamba,Mercado,MERCADO SUD CALATAYUD,NA,null,"-17,398,950","-66,152,731",geobo
+Cochabamba,Mercado,MERCADO ZOnaL SEÑOR DE MAYO,NA,null,"-17,364,564","-66,176,323",geobo
+Cochabamba,Mercado,MERCADOna,NA,null,"-17,413,559","-66,165,533",geobo
+Cochabamba,Mercado,MOROMERCADO LACTEOS,NA,null,"-17,386,795","-66,157,590",geobo
+Cochabamba,Mercado,MERCADO,NA,null,"-17,338,347","-65,866,537",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE COLOMI,NA,null,"-17,338,115","-65,866,671",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE COLOMI,NA,null,"-17,337,807","-65,864,607",geobo
+Cochabamba,Mercado,MERCADO 1 DE MAYO,NA,null,"-17,413,385","-66,024,177",geobo
+Cochabamba,Mercado,MERCADO BARRIENTOS,NA,null,"-17,375,997","-66,118,210",geobo
+Cochabamba,Mercado,MERCADO CAMPESINO,NA,null,"-17,377,808","-66,112,576",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE ESMERALDA,NA,null,"-17,379,197","-66,078,412",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE QUINTANILLA,NA,null,"-17,387,403","-66,110,762",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE QUINTANILLA,NA,null,"-17,387,121","-66,110,982",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE SACABA,NA,null,"-17,402,336","-66,037,375",geobo
+Cochabamba,Mercado,MERCADO CENTRAL HUAYYANI GRANDE/SAN ANTONIO,NA,null,"-17,392,732","-66,058,791",geobo
+Cochabamba,Mercado,MERCADO CENTRAL SACABA,NA,null,"-17,404,887","-66,038,608",geobo
+Cochabamba,Mercado,MERCADO DE BARRIO,NA,null,"-17,376,497","-66,065,552",geobo
+Cochabamba,Mercado,MERCADO EL CARMEN DISTRITO 6,NA,null,"-17,415,310","-66,079,808",geobo
+Cochabamba,Mercado,MERCADO MORRO(GALPON DE PAPA),NA,null,"-17,398,675","-66,034,591",geobo
+Cochabamba,Mercado,MERCADO VILLA UNION,NA,null,"-17,414,834","-66,082,962",geobo
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,"-16,830,880","-65,521,034",geobo
+Cochabamba,Mercado,MERCADO CENTRAL ETERAZAMA,NA,null,"-16,831,453","-65,520,289",geobo
+Cochabamba,Mercado,MERCADO DE COMERCIANTES MINORISTAS 1RO DE MAYO,NA,null,"-16,831,420","-65,519,979",geobo
+Cochabamba,Mercado,MUCROMERCADO,NA,null,"-16,974,713","-65,417,948",geobo
+Cochabamba,Mercado,MERCADO MUNICIPAL DE TARATA,NA,null,"-17,613,894","-66,024,214",geobo
+Cochabamba,Mercado,MERCADO MODELO CENTRAL MIZQUE,NA,null,"-17,941,831","-65,341,851",geobo
+Cochabamba,Mercado,MERCADO CENTRAL PUnaTA,NA,null,"-17,547,058","-65,836,623",geobo
+Cochabamba,Mercado,MERCADO DE PAPA,NA,null,"-17,542,792","-65,834,452",geobo
+Cochabamba,Mercado,MERCADO CENTRAL SAN BENITO CON 90 PUESTOS DE VENTA,NA,null,"-17,521,671","-65,894,679",geobo
+Cochabamba,Mercado,MERCADO CAPACACHI,NA,null,"-17,383,518","-66,223,757",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE KAMY,NA,null,"-17,365,939","-66,234,565",geobo
+Cochabamba,Mercado,MERCADO DE ABASTO FLOTIDA NORTE,NA,null,"-17,386,820","-66,225,445",geobo
+Cochabamba,Mercado,MERCADO CENTRAL 27 DE MAYO EL PASO,NA,null,"-17,339,342","-66,264,936",geobo
+Cochabamba,Mercado,MERCADO 9 DE DICIEMBRE,NA,null,"-17,399,921","-66,282,840",geobo
+Cochabamba,Mercado,MERCADO 9 DE DICIEMBRE,NA,null,"-17,400,388","-66,283,251",geobo
+Cochabamba,Mercado,MERCADO CENTAL DE QUILLACOLLO,NA,null,"-17,397,293","-66,280,488",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE QUILLACOLLO,NA,null,"-17,397,415","-66,279,912",geobo
+Cochabamba,Mercado,MERCADO DE PAPAS,NA,null,"-17,401,411","-66,285,074",geobo
+Cochabamba,Mercado,MERCADO DE QUILLACOLLO,NA,null,"-17,395,750","-66,282,603",geobo
+Cochabamba,Mercado,MERCADO MARTIN CARDEnaS,NA,null,"-17,406,035","-66,282,849",geobo
+Cochabamba,Mercado,MERCADO NELIDA DE GUERRA,NA,null,"-17,390,006","-66,285,944",geobo
+Cochabamba,Mercado,MERCADO PLAZA DE GRANOS,NA,null,"-17,398,767","-66,284,040",geobo
+Cochabamba,Mercado,MERCADO VILLA MARIA,NA,null,"-17,385,642","-66,256,822",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE SIPE SIPE/SALE AL LADO B,NA,null,"-17,453,654","-66,356,641",geobo
+Cochabamba,Mercado,MERCADO 17 DE OCTUBRE,NA,null,"-17,346,300","-66,191,154",geobo
+Cochabamba,Mercado,MERCADO 24 DE JUNIO,NA,null,"-17,334,368","-66,197,998",geobo
+Cochabamba,Mercado,MERCADO CENTRAL DE TIQUIPAYA,NA,null,"-17,337,262","-66,218,661",geobo
+Cochabamba,Mercado,MERCADO CHILIMARCA 27 DE MAYO,NA,null,"-17,336,400","-66,202,946",geobo
+Cochabamba,Mercado,MERCADO DE LA COMUNIDAD BARRIO ÑEBERIA,NA,null,"-17,361,834","-66,225,057",geobo
+Cochabamba,Mercado,MERCADO SANTA ELISA,NA,null,"-17,361,763","-66,215,504",geobo
+Cochabamba,Mercado,FERIA DEL MERCADO CAMPESINO DE VINTO,NA,null,"-17,399,152","-66,316,880",geobo
+Cochabamba,Mercado,MERCADO CENTRAL CHULLA,NA,null,"-17,377,769","-66,308,240",geobo
+Cochabamba,Mercado,MERCADO DE VINTO,NA,null,"-17,399,660","-66,316,306",geobo
+Cochabamba,Mercado,MERCADO SEXTA,NA,null,"-17,398,040","-66,326,043",geobo
+Cochabamba,Mercado,MERCADO,NA,null,"-16,993,608","-65,248,754",geobo
+Cochabamba,Mercado,MERCADO 10 DE FEBRERO,NA,null,"-16,996,016","-65,246,544",geobo
+Cochabamba,Mercado,MERCADO 27 DE JULIO,NA,null,"-16,994,008","-65,239,797",geobo
+Cochabamba,Mercado,MERCADO 27 DE MAYO,NA,null,"-16,994,004","-65,248,758",geobo
+Cochabamba,Mercado,MERCADO CENTRAL 24 DE AGOSTO,NA,null,"-16,994,153","-65,247,321",geobo
+Cochabamba,Mercado,MERCADO LA PAZ TROPICO PRIMERA SECCION,NA,null,"-16,993,744","-65,247,649",geobo
+Cochabamba,Mercado,MERCADO LA PAZ TROPICO SEGUNDA SECCION,NA,null,"-16,994,098","-65,247,711",geobo
+Cochabamba,Mercado,MERCADO LA PAZ TROPICO TERCERA SECCION,NA,null,"-16,994,404","-65,247,765",geobo
+Cochabamba,Mercado,MERCADO PRIMARIO DE COCA,NA,null,"-16,992,715","-65,244,050",geobo
+Cochabamba,Mercado,MERCADO PRIMARIO DE LA COCA,NA,null,"-16,995,964","-65,248,768",geobo
+Chuquisaca,Mercado,MERCADO CAMPESINO,NA,null,"-19,810,768","-63,979,596",geobo
+Chuquisaca,Mercado,MERCADO CENTRAL MONTEAGUDO,NA,null,"-19,801,674","-63,954,597",geobo
+Chuquisaca,Mercado,MERCADO GREMIALISTA  10 DE NOVIEMBRE,NA,null,"-19,795,762","-63,959,454",geobo
+Chuquisaca,Mercado,MERCADO MARACAna,NA,null,"-19,803,808","-63,956,887",geobo
+Chuquisaca,Mercado,MERCADO POPULAR,NA,null,"-19,804,907","-63,957,038",geobo
+Chuquisaca,Mercado,MERCADO SAN JOSE,NA,null,"-19,808,443","-63,959,234",geobo
+Chuquisaca,Mercado,MERCADO CAMPESINO,NA,null,"-20,642,098","-65,211,327",geobo
+Chuquisaca,Mercado,MERCADO CENTRAL,NA,null,"-20,642,076","-65,210,548",geobo
+Chuquisaca,Mercado,MERCADO BALLIVIAN 17 TIENDAS DE ROPA,NA,null,"-19,042,781","-65,257,327",geobo
+Chuquisaca,Mercado,MERCADO CAMPESINO,NA,null,"-19,033,359","-65,253,625",geobo
+Chuquisaca,Mercado,MERCADO CAPITAL .     TIENDAS DE ROPA,NA,null,"-19,044,016","-65,258,344",geobo
+Chuquisaca,Mercado,MERCADO DE LAJASTAMBO,NA,null,"-19,012,033","-65,309,123",geobo
+Chuquisaca,Mercado,MERCADO EL MORRO,NA,null,"-19,026,918","-65,247,991",geobo
+Chuquisaca,Mercado,MERCADO EVO MORALES AYMA,NA,null,"-19,069,518","-65,242,700",geobo
+Chuquisaca,Mercado,MERCADO LAJASTAMBO,NA,null,"-19,012,676","-65,308,665",geobo
+Chuquisaca,Mercado,MERCADO MINORISTA,NA,null,"-19,040,419","-65,254,812",geobo
+Chuquisaca,Mercado,MERCADO POCOnaS,NA,null,"-19,047,369","-65,249,312",geobo
+Chuquisaca,Mercado,MERCADO SAN ANTONIO ( GOBIERNO AUTONOMO MUNICIPAL DE SUCRE),NA,null,"-19,050,513","-65,240,854",geobo
+Chuquisaca,Mercado,MERCADO SANTA Ana RECOBITA,NA,null,"-19,053,279","-65,253,292",geobo
+Chuquisaca,Mercado,MERCADO TOMAS KATARI,NA,null,"-19,020,586","-65,261,213",geobo
+Chuquisaca,Mercado,TIKARIY MERCADO ARTESAnaL,NA,null,"-19,033,666","-65,250,373",geobo
+Chuquisaca,Mercado,MERCADO MUNICIPAL DE YOTALA,NA,null,"-19,162,174","-65,263,975",geobo
+Chuquisaca,Mercado,MERCADO CAMPESINO DE TARABUCO,NA,null,"-19,181,238","-64,912,127",geobo
+Chuquisaca,Mercado,MERCADO CENTRAL TARABUCO,NA,null,"-19,181,738","-64,913,732",geobo
+La Paz,Mercado,MERCADO CENTRAL,NA,null,"-15,832,238","-67,567,519",geobo
+La Paz,Mercado,MERCADO PRIMARIO DE COCA APROCOCA CARAnaVI,NA,null,"-15,829,210","-67,570,590",geobo
+La Paz,Mercado,MERCADO 3 DE MAYO,NA,null,"-14,710,154","-68,416,153",geobo
+La Paz,Mercado,MERCADO CENTRAL MUNICIPAL DESAGUADERO VIRGEN DE URCUPIÑA,NA,null,"-16,566,889","-69,035,975",geobo
+La Paz,Mercado,MERCADO MUNICIPAL,NA,null,"-16,654,143","-68,302,044",geobo
+La Paz,Mercado,MERCADO  COLQUIRI,NA,null,"-17,395,967","-67,129,487",geobo
+La Paz,Mercado,MERCADO 6 DE AGOSTO,NA,null,"-17,391,750","-67,124,970",geobo
+La Paz,Mercado,"MERCADO CAMPESINO, FRECIA VILLANUEVA CHOQUE",NA,null,"-17,389,033","-67,122,867",geobo
+La Paz,Mercado,MERCADO PEDRO DOMINGO MURILLO,NA,null,"-17,389,035","-67,123,687",geobo
+La Paz,Mercado,MERCADO DE COPACABAna,NA,null,"-16,164,434","-69,085,864",geobo
+La Paz,Mercado,MERCADO,NA,null,"-16,488,859","-68,171,422",geobo
+La Paz,Mercado,MERCADO  MODELO COSMOS 78,NA,null,"-16,526,254","-68,200,414",geobo
+La Paz,Mercado,MERCADO 12 DE OCTUBRE,NA,null,"-16,520,801","-68,166,439",geobo
+La Paz,Mercado,MERCADO 14 DE SEPTIEMBRE,NA,null,"-16,542,691","-68,174,185",geobo
+La Paz,Mercado,MERCADO 25 DE JULIO DE SANTIAGO II,NA,null,"-16,536,706","-68,178,413",geobo
+La Paz,Mercado,MERCADO 8 DE SEPTIEMBRE,NA,null,"-16,589,905","-68,189,914",geobo
+La Paz,Mercado,MERCADO AMIG-CHACO,NA,null,"-16,526,549","-68,205,115",geobo
+La Paz,Mercado,MERCADO BARTOLIna ZIZA,NA,null,"-16,487,454","-68,194,689",geobo
+La Paz,Mercado,MERCADO BOLIVAR D,NA,null,"-16,524,189","-68,176,356",geobo
+La Paz,Mercado,MERCADO CALUYO,NA,null,"-16,531,266","-68,191,707",geobo
+La Paz,Mercado,MERCADO CAMPESINO,NA,null,"-16,537,427","-68,167,382",geobo
+La Paz,Mercado,MERCADO CENTRAL VILLA DOLORES,NA,null,"-16,512,357","-68,158,903",geobo
+La Paz,Mercado,MERCADO CIUDAD SATELITE,NA,null,"-16,524,838","-68,150,698",geobo
+La Paz,Mercado,MERCADO CORAZON DE JESUS,NA,null,"-16,548,067","-68,189,746",geobo
+La Paz,Mercado,MERCADO DE ALTO LIMA,NA,null,"-16,480,569","-68,175,268",geobo
+La Paz,Mercado,MERCADO DE VILLA ADELA,NA,null,"-16,519,321","-68,211,463",geobo
+La Paz,Mercado,MERCADO DOLORES F,NA,null,"-16,525,866","-68,186,797",geobo
+La Paz,Mercado,MERCADO EL CARMEN,NA,null,"-16,495,726","-68,214,898",geobo
+La Paz,Mercado,MERCADO EL CARMEN,NA,null,"-16,495,661","-68,214,630",geobo
+La Paz,Mercado,MERCADO JUAN CRUZ,NA,null,"-16,472,962","-68,221,260",geobo
+La Paz,Mercado,MERCADO JUAna AZURDUY DE PADILLA,NA,null,"-16,543,383","-68,185,663",geobo
+La Paz,Mercado,MERCADO LUIS PAMPA,NA,null,"-16,538,112","-68,204,294",geobo
+La Paz,Mercado,MERCADO MODELO,NA,null,"-16,619,750","-68,181,631",geobo
+La Paz,Mercado,MERCADO PRIMERO DE MAYO,NA,null,"-16,534,306","-68,199,442",geobo
+La Paz,Mercado,MERCADO PRIVADO DE TUBERCULOS,NA,null,"-16,506,015","-68,160,242",geobo
+La Paz,Mercado,MERCADO QUISWARAS,NA,null,"-16,542,232","-68,230,957",geobo
+La Paz,Mercado,MERCADO SANTA Ana,NA,null,"-16,526,942","-68,207,370",geobo
+La Paz,Mercado,MERCADO SANTA ROSA,NA,null,"-16,536,735","-68,165,063",geobo
+La Paz,Mercado,MERCADO SANTOS MAMANI,NA,null,"-16,494,777","-68,175,121",geobo
+La Paz,Mercado,MERCADO TUnaRI,NA,null,"-16,496,642","-68,196,356",geobo
+La Paz,Mercado,MERCADO UNION PROGRESO,NA,null,"-16,503,925","-68,161,529",geobo
+La Paz,Mercado,MERCADO URKUPIÑA,NA,null,"-16,555,858","-68,190,930",geobo
+La Paz,Mercado,MERCADO VILLA EXALTACION,NA,null,"-16,535,768","-68,157,359",geobo
+La Paz,Mercado,MERCADO VILLA MERCEDES,NA,null,"-16,566,814","-68,219,919",geobo
+La Paz,Mercado,MERCADO VILLA TEJADA,NA,null,"-16,521,270","-68,157,088",geobo
+La Paz,Mercado,MERCADO VIRGEN DE LA CANDELARIA,NA,null,"-16,526,668","-68,225,074",geobo
+La Paz,Mercado,MERCADO ZOna MERCEDARIO,NA,null,"-16,524,015","-68,235,597",geobo
+La Paz,Mercado,ASOCIACION MERCADO CANDELARIA EX FONDO OVEJUYO,NA,null,"-16,534,070","-68,038,111",geobo
+La Paz,Mercado,MERCADO 10 DE ENERO,NA,null,"-16,501,468","-68,104,484",geobo
+La Paz,Mercado,MERCADO 14 DE SEPTIEMBRE,NA,null,"-16,528,293","-68,099,548",geobo
+La Paz,Mercado,MERCADO 15 DE ABRIL,NA,null,"-16,476,666","-68,118,147",geobo
+La Paz,Mercado,MERCADO 16 DE JULIO,NA,null,"-16,529,857","-68,102,487",geobo
+La Paz,Mercado,MERCADO 16 DE JULIO KALAJAHUIRA,NA,null,"-16,453,017","-68,096,536",geobo
+La Paz,Mercado,MERCADO 16 DE JULIO KALAJAHUIRA,NA,null,"-16,452,709","-68,096,591",geobo
+La Paz,Mercado,MERCADO 19 MARZO,NA,null,"-16,496,455","-68,142,156",geobo
+La Paz,Mercado,MERCADO 21 DE ENERO,NA,null,"-16,456,829","-68,149,514",geobo
+La Paz,Mercado,MERCADO 29 DE ENERO,NA,null,"-16,536,944","-68,048,392",geobo
+La Paz,Mercado,MERCADO 4 DE ABRIL,NA,null,"-16,521,882","-68,145,818",geobo
+La Paz,Mercado,MERCADO 8 DE DICIEMBRE,NA,null,"-16,536,944","-68,048,392",geobo
+La Paz,Mercado,MERCADO 8 DE SEPTIEMBRE,NA,null,"-16,517,027","-68,113,639",geobo
+La Paz,Mercado,MERCADO ADOLFO ORTEGA,NA,null,"-16,496,016","-68,143,630",geobo
+La Paz,Mercado,MERCADO ALTO MARISCAL SANTA CRUZ,NA,null,"-16,493,135","-68,160,590",geobo
+La Paz,Mercado,MERCADO ALTO SEGUENCOMA,NA,null,"-16,533,986","-68,104,223",geobo
+La Paz,Mercado,MERCADO AMAPOLA,NA,null,"-16,500,678","-68,139,058",geobo
+La Paz,Mercado,MERCADO ANTOFAGASTA,NA,null,"-16,487,708","-68,140,491",geobo
+La Paz,Mercado,MERCADO ARTESAnaL,NA,null,"-16,495,714","-68,137,648",geobo
+La Paz,Mercado,MERCADO ARTESAnaL JUAN XXIII,NA,null,"-16,498,421","-68,137,973",geobo
+La Paz,Mercado,MERCADO BAJO MARISCAL SANTA CRUZ,NA,null,"-16,492,558","-68,158,364",geobo
+La Paz,Mercado,MERCADO BOLIVAR,NA,null,"-16,513,848","-68,141,155",geobo
+La Paz,Mercado,MERCADO BOLIVAR,NA,null,"-16,493,591","-68,131,845",geobo
+La Paz,Mercado,MERCADO CALAMA,NA,null,"-16,489,753","-68,137,213",geobo
+La Paz,Mercado,MERCADO CALATAYUD,NA,null,"-16,495,439","-68,147,624",geobo
+La Paz,Mercado,MERCADO CAMACHO,NA,null,"-16,500,455","-68,131,575",geobo
+La Paz,Mercado,MERCADO CAMPESINO (ZENOBIO LOPEZ),NA,null,"-16,506,862","-68,115,456",geobo
+La Paz,Mercado,MERCADO CARMEN ENTRE RIOS,NA,null,"-16,497,277","-68,156,002",geobo
+La Paz,Mercado,MERCADO CENTRAL PURA PURA,NA,null,"-16,481,479","-68,149,226",geobo
+La Paz,Mercado,MERCADO COMEDOR RINCON CRIOLLO,NA,null,"-16,503,262","-68,128,262",geobo
+La Paz,Mercado,MERCADO DE COCA,NA,null,"-16,473,824","-68,118,086",geobo
+La Paz,Mercado,MERCADO DE COCA APOLO CARAnaVI,NA,null,"-16,475,955","-68,119,264",geobo
+La Paz,Mercado,MERCADO EL CARMEN,NA,null,"-16,514,695","-68,126,271",geobo
+La Paz,Mercado,MERCADO EL TEJAR,NA,null,"-16,495,322","-68,152,063",geobo
+La Paz,Mercado,MERCADO FRANCISCO CERnaDAS,NA,null,"-16,483,771","-68,125,464",geobo
+La Paz,Mercado,MERCADO GERMAN BUCHS,NA,null,"-16,481,803","-68,139,965",geobo
+La Paz,Mercado,MERCADO HAITI,NA,null,"-16,490,814","-68,122,574",geobo
+La Paz,Mercado,MERCADO HINOJOSA,NA,null,"-16,503,350","-68,144,583",geobo
+La Paz,Mercado,MERCADO JERMAN JORDAN,NA,null,"-16,509,999","-68,112,949",geobo
+La Paz,Mercado,MERCADO KILLI KILLI,NA,null,"-16,494,480","-68,127,412",geobo
+La Paz,Mercado,MERCADO KOLLLASUYO,NA,null,"-16,495,182","-68,116,670",geobo
+La Paz,Mercado,MERCADO LA MERCED,NA,null,"-16,471,025","-68,118,066",geobo
+La Paz,Mercado,MERCADO LA MERCED DE COTA COTA,NA,null,"-16,542,077","-68,058,031",geobo
+La Paz,Mercado,MERCADO LA PORTADA,NA,null,"-16,489,251","-68,166,946",geobo
+La Paz,Mercado,MERCADO LANZA,NA,null,"-16,494,747","-68,137,328",geobo
+La Paz,Mercado,MERCADO LAS DELICIAS,NA,null,"-16,476,973","-68,123,548",geobo
+La Paz,Mercado,MERCADO LAS FLORES,NA,null,"-16,495,416","-68,151,104",geobo
+La Paz,Mercado,MERCADO LAS LOMAS,NA,null,"-16,522,272","-68,138,834",geobo
+La Paz,Mercado,MERCADO LAS NIEVES,NA,null,"-16,497,140","-68,157,388",geobo
+La Paz,Mercado,MERCADO LOS ANDES,NA,null,"-16,498,739","-68,148,289",geobo
+La Paz,Mercado,MERCADO LLOJETA VERGEL,NA,null,"-16,534,238","-68,140,376",geobo
+La Paz,Mercado,MERCADO MANUEL HOYOS,NA,null,"-16,485,917","-68,134,593",geobo
+La Paz,Mercado,MERCADO MARACAna,NA,null,"-16,485,585","-68,137,140",geobo
+La Paz,Mercado,MERCADO MODELO ACHUMANI,NA,null,"-16,530,709","-68,073,618",geobo
+La Paz,Mercado,MERCADO MODELO ALTO SAN ANTONIO,NA,null,"-16,498,039","-68,108,447",geobo
+La Paz,Mercado,MERCADO MODELO IRPAVI,NA,null,"-16,525,088","-68,087,166",geobo
+La Paz,Mercado,MERCADO MODELO LAS VELAS,NA,null,"-16,500,744","-68,127,557",geobo
+La Paz,Mercado,MERCADO MODELO OBISPO INDABURO,NA,null,"-16,501,087","-68,145,532",geobo
+La Paz,Mercado,MERCADO N7 VILLA VICTORIA,NA,null,"-16,490,368","-68,151,694",geobo
+La Paz,Mercado,MERCADO NUESTRA SEÑORA DE LA PAZ,NA,null,"-16,495,542","-68,103,042",geobo
+La Paz,Mercado,MERCADO PASANKERI KM7,NA,null,"-16,522,962","-68,143,332",geobo
+La Paz,Mercado,MERCADO POPULAR DE ALTO OBRAJES,NA,null,"-16,523,606","-68,104,050",geobo
+La Paz,Mercado,MERCADO POPULAR PURA PURA,NA,null,"-16,487,745","-68,150,860",geobo
+La Paz,Mercado,MERCADO POPULAR RAUL SALMON 6 DE JUNIO,NA,null,"-16,528,206","-68,123,464",geobo
+La Paz,Mercado,MERCADO PRIVADO DE VILLA FATIMA,NA,null,"-16,481,100","-68,120,901",geobo
+La Paz,Mercado,MERCADO PROVISIOnaL LOS PINOS,NA,null,"-16,542,589","-68,071,505",geobo
+La Paz,Mercado,MERCADO RODRIGUES,NA,null,"-16,500,181","-68,138,986",geobo
+La Paz,Mercado,MERCADO RODRIGUEZ,NA,null,"-16,500,800","-68,139,526",geobo
+La Paz,Mercado,MERCADO RURAL DE CHINCANI,NA,null,"-16,500,102","-68,081,892",geobo
+La Paz,Mercado,MERCADO SAGRADO CORAZON DE JESUS,NA,null,"-16,500,822","-68,153,150",geobo
+La Paz,Mercado,MERCADO SAN CRISTOBAL,NA,null,"-16,510,396","-68,145,639",geobo
+La Paz,Mercado,MERCADO SAN ISIDRO,NA,null,"-16,510,877","-68,106,165",geobo
+La Paz,Mercado,MERCADO SAN JOSE,NA,null,"-16,489,127","-68,158,614",geobo
+La Paz,Mercado,MERCADO SAN JOSE DE MALLASILLA,NA,null,"-16,566,767","-68,100,704",geobo
+La Paz,Mercado,MERCADO SAN JUAN,NA,null,"-16,491,128","-68,104,088",geobo
+La Paz,Mercado,MERCADO SANCHEZ LIMA,NA,null,"-16,507,991","-68,136,735",geobo
+La Paz,Mercado,MERCADO SANTIAGO DE MUnaYPATA,NA,null,"-16,489,888","-68,156,545",geobo
+La Paz,Mercado,MERCADO SOPOCACHI,NA,null,"-16,509,351","-68,129,408",geobo
+La Paz,Mercado,MERCADO STRONGEST,NA,null,"-16,515,786","-68,139,929",geobo
+La Paz,Mercado,MERCADO TEOFILO MIRANDA,NA,null,"-16,497,146","-68,116,324",geobo
+La Paz,Mercado,MERCADO URKUPIÑA BAJO SAN ISIDRO,NA,null,"-16,512,052","-68,107,734",geobo
+La Paz,Mercado,MERCADO URUGUAY,NA,null,"-16,497,213","-68,143,713",geobo
+La Paz,Mercado,MERCADO VICENTE,NA,null,"-16,497,943","-68,144,297",geobo
+La Paz,Mercado,MERCADO VILLA ARMONIA,NA,null,"-16,508,744","-68,110,556",geobo
+La Paz,Mercado,MERCADO VILLA ARMONIA,NA,null,"-16,508,650","-68,110,747",geobo
+La Paz,Mercado,MERCADO VILLA ARMONIA,NA,null,"-16,508,669","-68,110,924",geobo
+La Paz,Mercado,MERCADO VILLA ARMONIA,NA,null,"-16,508,706","-68,110,634",geobo
+La Paz,Mercado,MERCADO VILLA ARMONIA,NA,null,"-16,508,830","-68,110,426",geobo
+La Paz,Mercado,MERCADO VILLA EL CARMEN,NA,null,"-16,469,001","-68,115,255",geobo
+La Paz,Mercado,MERCADO VILLA FATIMA,NA,null,"-16,480,552","-68,121,093",geobo
+La Paz,Mercado,MERCADO VILLA NUEVA POTOSI,NA,null,"-16,505,482","-68,149,345",geobo
+La Paz,Mercado,MERCADO VIRGEN DE LAS NIEVES,NA,null,"-16,475,460","-68,149,372",geobo
+La Paz,Mercado,SUMAYA MERCADO DE BRUJAS,NA,null,"-16,496,160","-68,138,757",geobo
+La Paz,Mercado,MERCADO MODELO SAN JOSE COROICO,NA,null,"-16,189,497","-67,727,843",geobo
+La Paz,Mercado,MERCADO POPULAR DE ACHACACHI,NA,null,"-16,043,432","-68,683,960",geobo
+La Paz,Mercado,MERCADO LANZA,NA,null,"-16,410,793","-67,526,487",geobo
+La Paz,Mercado,MERCADO VIRGEN DE COPACABAna,NA,null,"-16,406,308","-67,529,120",geobo
+La Paz,Mercado,MERCADO CAMPESINO,NA,null,"-15,586,936","-67,247,128",geobo
+La Paz,Mercado,MERCADO VIRGEN DE CANDELARIA,NA,null,"-15,586,455","-67,247,578",geobo
+Oruro,Mercado,MERCADO ANTOFAGASTA,NA,null,"-18,903,386","-66,764,101",geobo
+Oruro,Mercado,MERCADO CAMPESINO,NA,null,"-18,900,454","-66,763,680",geobo
+Oruro,Mercado,MERCADO 6 DE AGOSTO,NA,null,"-17,638,522","-67,219,631",geobo
+Oruro,Mercado,ASOCIACION DE COMERCIANTES MERCADO MARIA AYMA,NA,null,"-17,946,043","-67,095,115",geobo
+Oruro,Mercado,MERCADO AURORA,NA,null,"-17,912,889","-67,125,580",geobo
+Oruro,Mercado,MERCADO BARTOLIna SISA,NA,null,"-17,977,681","-67,097,945",geobo
+Oruro,Mercado,MERCADO CAKEO,NA,null,"-17,951,790","-67,110,216",geobo
+Oruro,Mercado,MERCADO CAMACHO,NA,null,"-17,956,560","-67,116,946",geobo
+Oruro,Mercado,MERCADO CAMPERO,NA,null,"-17,970,887","-67,110,124",geobo
+Oruro,Mercado,MERCADO CAMPESINO KANTUTA,NA,null,"-17,949,729","-67,102,134",geobo
+Oruro,Mercado,MERCADO DE LA URBANIZACION BUSTILLOS,NA,null,"-17,970,989","-67,057,449",geobo
+Oruro,Mercado,MERCADO DE VINTO,NA,null,"-17,972,553","-67,047,099",geobo
+Oruro,Mercado,MERCADO EDUARDO AVAROA,NA,null,"-17,987,156","-67,113,831",geobo
+Oruro,Mercado,MERCADO EVO MORALES,NA,null,"-17,964,218","-67,096,846",geobo
+Oruro,Mercado,MERCADO EX ADUAna,NA,null,"-17,971,128","-67,109,614",geobo
+Oruro,Mercado,MERCADO EX ADUAna,NA,null,"-17,970,832","-67,108,766",geobo
+Oruro,Mercado,MERCADO FERMIN LOPEZ,NA,null,"-17,966,703","-67,114,759",geobo
+Oruro,Mercado,MERCADO GRAN PODER,NA,null,"-17,982,801","-67,091,528",geobo
+Oruro,Mercado,MERCADO JORGE PALENQUE,NA,null,"-17,980,288","-67,122,542",geobo
+Oruro,Mercado,MERCADO KANTUTA,NA,null,"-17,950,140","-67,102,728",geobo
+Oruro,Mercado,MERCADO MAX FERnaNDEZ,NA,null,"-17,968,282","-67,097,516",geobo
+Oruro,Mercado,MERCADO MIRAFLORES,NA,null,"-17,939,167","-67,113,760",geobo
+Oruro,Mercado,MERCADO POPULAR INCAPOZO,NA,null,"-17,944,731","-67,119,907",geobo
+Oruro,Mercado,MERCADO PUMAS ANDINOS,NA,null,"-17,995,669","-67,068,767",geobo
+Oruro,Mercado,MERCADO RAFAEL PABON,NA,null,"-17,984,349","-67,103,112",geobo
+Oruro,Mercado,MERCADO RAFAEL PABON,NA,null,"-17,983,357","-67,102,600",geobo
+Oruro,Mercado,MERCADO ROBERTO YOUNG,NA,null,"-17,977,894","-67,132,851",geobo
+Oruro,Mercado,MERCADO SAN JOSE,NA,null,"-17,957,845","-67,123,555",geobo
+Oruro,Mercado,MERCADO SAN PEDRO,NA,null,"-17,945,813","-67,113,232",geobo
+Oruro,Mercado,MERCADO V. FATIMA,NA,null,"-17,959,330","-67,117,941",geobo
+Oruro,Mercado,MERCADO VENEZUELA,NA,null,"-17,938,068","-67,110,484",geobo
+Oruro,Mercado,MERCADO VILLA VICTORIA,NA,null,"-17,975,276","-67,054,342",geobo
+Oruro,Mercado,MERCADO WHALTER KHON,NA,null,"-17,980,694","-67,116,353",geobo
+Oruro,Mercado,MKCROMERCADO CLAUDOA,NA,null,"-17,962,785","-67,110,530",geobo
+Oruro,Mercado,MERCADO CENTRAL EDUARDO AVAROA DE COMERCIANTES MINORISTAS MACHACAMARCA,NA,null,"-18,173,053","-67,021,538",geobo
+Oruro,Mercado,MERCADO 27 DE JUNIO,NA,null,"-18,286,804","-66,834,589",geobo
+Oruro,Mercado,MERCADO CENTRAL POOPO,NA,null,"-18,380,705","-66,968,743",geobo
+Oruro,Mercado,MERCADO CENTRAL HUARI,NA,null,"-19,012,678","-66,776,991",geobo
+Pando,Mercado,MERCADO CENTRAL,NA,null,"-11,488,927","-67,245,525",geobo
+Pando,Mercado,MERCADO,NA,null,"-11,104,234","-67,556,848",geobo
+Pando,Mercado,MERCADO CENTRAL SANTA ROSA DE PUERTO RICO,NA,null,"-11,107,285","-67,552,912",geobo
+Pando,Mercado,MERCADO CENTRAL DE COBIJA,NA,null,"-11,021,479","-68,756,778",geobo
+Pando,Mercado,MERCADO naZARIA,NA,null,"-11,035,075","-68,776,196",geobo
+Pando,Mercado,MERCADO PARAISO,NA,null,"-11,028,169","-68,775,494",geobo
+Potosí,Mercado,MERCADO ANTOFAGASTA,NA,null,"-20,461,438","-66,825,124",geobo
+Potosí,Mercado,MERCADO AVENIDA POTOSI,NA,null,"-20,464,288","-66,825,113",geobo
+Potosí,Mercado,MERCADO EL GALPON,NA,null,"-20,463,768","-66,824,355",geobo
+Potosí,Mercado,MERCADO EL PROGRESO,NA,null,"-20,460,246","-66,831,732",geobo
+Potosí,Mercado,MERCADO LINDO,NA,null,"-20,467,002","-66,818,474",geobo
+Potosí,Mercado,MERCADO MIRAFLORES,NA,null,"-20,454,092","-66,830,047",geobo
+Potosí,Mercado,MERCADO VALENTIN ARAMAYO,NA,null,"-20,460,096","-66,822,461",geobo
+Potosí,Mercado,MERCADO CENTRAL,NA,null,"-19,554,008","-65,453,847",geobo
+Potosí,Mercado,MERCADO DE CARNE,NA,null,"-19,554,367","-65,453,546",geobo
+Potosí,Mercado,FARMACIA SAN NICOLAS DE BARI  DE VERONICA MERCADO,NA,null,"-22,085,390","-65,600,391",geobo
+Potosí,Mercado,MERCADO 20 DE MAYO,NA,null,"-22,092,498","-65,596,174",geobo
+Potosí,Mercado,MERCADO 3 DE MARZO,NA,null,"-22,093,090","-65,595,612",geobo
+Potosí,Mercado,MERCADO ABASTO,NA,null,"-22,084,558","-65,602,377",geobo
+Potosí,Mercado,MERCADO CAMPESINO DE VILLAZON,NA,null,"-22,083,492","-65,602,330",geobo
+Potosí,Mercado,MERCADO HUMMER,NA,null,"-22,095,249","-65,595,947",geobo
+Potosí,Mercado,MERCADO ILIODORO VILLAZON,NA,null,"-22,086,030","-65,599,551",geobo
+Potosí,Mercado,MERCADO LA PAZ,NA,null,"-22,094,132","-65,595,924",geobo
+Potosí,Mercado,MERCADO MODESTO OMISTE,NA,null,"-22,087,795","-65,596,928",geobo
+Potosí,Mercado,MERCADO MUNICIPAL VIVANDERAS,NA,null,"-22,095,309","-65,597,081",geobo
+Potosí,Mercado,MERCADO SAN MARTIN,NA,null,"-22,092,896","-65,593,529",geobo
+Potosí,Mercado,MERCADO URCUPIÑA,NA,null,"-22,092,559","-65,595,960",geobo
+Potosí,Mercado,MERCADO CAMPESINO,NA,null,"-18,424,272","-66,582,350",geobo
+Potosí,Mercado,MERCADO CENTRAL,NA,null,"-18,426,036","-66,584,123",geobo
+Potosí,Mercado,MERCADO CENTRAL SAN MIGUEL,NA,null,"-18,466,737","-66,569,741",geobo
+Potosí,Mercado,MERCADO  VILLA FATIMA,NA,null,"-21,435,589","-65,722,821",geobo
+Potosí,Mercado,MERCADO CAMPESINO,NA,null,"-21,451,096","-65,717,654",geobo
+Potosí,Mercado,MERCADO GIL DURAN,NA,null,"-21,444,294","-65,718,964",geobo
+Potosí,Mercado,MERCADO LA PAZ,NA,null,"-21,438,262","-65,718,977",geobo
+Potosí,Mercado,MERCADO NEGRO,NA,null,"-21,441,713","-65,719,483",geobo
+Potosí,Mercado,MERCADO 10 DE NOVIEMBRE,NA,null,"-19,587,293","-65,755,027",geobo
+Potosí,Mercado,MERCADO ABASTO,NA,null,"-19,573,918","-65,756,220",geobo
+Potosí,Mercado,MERCADO BALLIVIAN,NA,null,"-19,590,828","-65,750,664",geobo
+Potosí,Mercado,MERCADO CALVARIO,NA,null,"-19,597,349","-65,748,141",geobo
+Potosí,Mercado,MERCADO CAMPESINO,NA,null,"-19,590,715","-65,744,795",geobo
+Potosí,Mercado,MERCADO CHUQUIMIA,NA,null,"-19,580,592","-65,763,242",geobo
+Potosí,Mercado,MERCADO GREMIAL,NA,null,"-19,586,429","-65,756,248",geobo
+Potosí,Mercado,MERCADO LAS LECHERIAS,NA,null,"-19,559,251","-65,758,533",geobo
+Potosí,Mercado,MERCADO PLAZA EL MINERO,NA,null,"-19,594,868","-65,749,974",geobo
+Potosí,Mercado,MERCADO SANTIAGO,NA,null,"-19,593,824","-65,756,725",geobo
+Potosí,Mercado,MERCADO SOLIDARIO SATELITE,NA,null,"-19,567,146","-65,767,717",geobo
+Potosí,Mercado,MERCADO T IKA LOMA,NA,null,"-19,582,211","-65,745,107",geobo
+Potosí,Mercado,MERCADO VICUÑAS,NA,null,"-19,588,179","-65,758,417",geobo
+Potosí,Mercado,MERCADO VILLA COPACABAna,NA,null,"-19,574,925","-65,773,255",geobo
+Santa Cruz,Mercado,MERCADO 25 DE FEBRERO,NA,null,"-17,757,663","-62,995,103",geobo
+Santa Cruz,Mercado,MERCADO 25 DE OCTUBRE,NA,null,"-17,752,873","-62,995,793",geobo
+Santa Cruz,Mercado,MERCADO CENTRAL DEL TORNO,NA,null,"-17,995,009","-63,383,537",geobo
+Santa Cruz,Mercado,MERCADO PRIVADO 18 DE NOVIEMBRE,NA,null,"-17,988,305","-63,379,947",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL DE JOROCHITO,NA,null,"-18,056,598","-63,427,720",geobo
+Santa Cruz,Mercado,MERCADO CUMBRE DE LAS AMERICAS,NA,null,"-17,900,659","-63,284,668",geobo
+Santa Cruz,Mercado,MERCADO KM 13,NA,null,"-17,880,212","-63,268,778",geobo
+Santa Cruz,Mercado,"MERCADO MUNICIPAL EL CARMEN (VENTA DE VERDURAS ,FRUTAS,ABARROTES,PRODUCTOS LACTEOS,VENTA DE CARNE DE RES,POLLO,CERDO,COMIDAS,JUGUETES,PAN,ARTICULOS PARA EL HOGAR,LIBRERIA,VENTA DE ROPA USADA,VENTA DE ROPA NUEVA,CALSADOS Y CELULARES)",NA,null,"-17,855,261","-63,249,279",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL LA GUARDIA,NA,null,"-17,893,381","-63,329,036",geobo
+Santa Cruz,Mercado,MERCADO POPULAR DE BARRIO LINDO,NA,null,"-17,899,528","-63,269,622",geobo
+Santa Cruz,Mercado,MERCADO SAN JOSE,NA,null,"-17,942,732","-63,351,827",geobo
+Santa Cruz,Mercado,ASOCIACION GREMIAL DE COMERCIATES MINORISTAS  18 DE AGOSTO  DEL MERCADO DE LA URBANIZACION  EL RECREO,NA,null,"-17,885,480","-63,095,221",geobo
+Santa Cruz,Mercado,ASOCICION 14 DE AGOSTO MERCADO AMBORO,NA,null,"-17,866,398","-63,136,977",geobo
+Santa Cruz,Mercado,MERCADO,NA,null,"-17,890,056","-63,179,042",geobo
+Santa Cruz,Mercado,MERCADO,NA,null,"-17,800,382","-63,170,193",geobo
+Santa Cruz,Mercado,MERCADO 1 DE MARZO,NA,null,"-17,745,513","-63,117,157",geobo
+Santa Cruz,Mercado,MERCADO 1 DE MAYO,NA,null,"-17,722,294","-63,104,333",geobo
+Santa Cruz,Mercado,MERCADO 12 DE OCTUBRE,NA,null,"-17,754,974","-63,179,537",geobo
+Santa Cruz,Mercado,MERCADO 12 DE OCTUBRE,NA,null,"-17,754,742","-63,179,727",geobo
+Santa Cruz,Mercado,MERCADO 12:DE OCTUBRE,NA,null,"-17,754,939","-63,179,790",geobo
+Santa Cruz,Mercado,MERCADO 2 DE AGOSTO,NA,null,"-17,733,994","-63,142,936",geobo
+Santa Cruz,Mercado,MERCADO 27 DE MAYO,NA,null,"-17,826,509","-63,094,047",geobo
+Santa Cruz,Mercado,MERCADO 7 CALLES,NA,null,"-17,786,370","-63,185,769",geobo
+Santa Cruz,Mercado,MERCADO ABASTO,NA,null,"-17,796,277","-63,204,430",geobo
+Santa Cruz,Mercado,MERCADO ALTO SAN PEDRO,NA,null,"-17,810,989","-63,188,765",geobo
+Santa Cruz,Mercado,MERCADO ASOCIACION 4 DE NOVIEMBRE,NA,null,"-17,778,434","-63,202,878",geobo
+Santa Cruz,Mercado,MERCADO BARRIO LINDO 12 DE JULIO,NA,null,"-17,789,235","-63,167,018",geobo
+Santa Cruz,Mercado,MERCADO BELEN,NA,null,"-17,755,077","-63,188,109",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,225","-63,110,013",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,649","-63,109,804",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,392","-63,109,949",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,121","-63,109,707",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,549","-63,109,531",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,544","-63,109,886",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,277","-63,109,641",geobo
+Santa Cruz,Mercado,MERCADO BIBOSI,NA,null,"-17,724,428","-63,109,577",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO,NA,null,"-17,777,530","-63,108,242",geobo
+Santa Cruz,Mercado,MERCADO COMUNIDAD LAS PIEDADES,NA,null,"-17,740,338","-63,055,419",geobo
+Santa Cruz,Mercado,MERCADO COPACABAna,NA,null,"-17,826,495","-63,125,938",geobo
+Santa Cruz,Mercado,MERCADO CHACARILLA,NA,null,"-17,773,012","-63,150,537",geobo
+Santa Cruz,Mercado,MERCADO CHINBOL,NA,null,"-17,783,481","-63,174,038",geobo
+Santa Cruz,Mercado,MERCADO DE BARRIO  (SIN NOMBRE),NA,null,"-17,854,719","-63,041,063",geobo
+Santa Cruz,Mercado,MERCADO ECOLOGICO PATUJU,NA,null,"-17,773,776","-63,052,784",geobo
+Santa Cruz,Mercado,"MERCADO EL DORADO NORTE CONSTA DE 99 PUESTO, 1PUESTO DE LICORERIA , 3 PUESTOS DE DULCES Y GALLETAS, 2 PUESTOS EMBUTIDOS Y FIAMBRES, 2 PUESTOS DE VENTA DE COCA, 3 PUESTOS DE REGALOS Y JUGUETERIA, 5 PUESTOS DE CARNICERIA DE POLLO, 5 PUESTOS DE VERDURAS, 3",NA,null,"-17,735,459","-63,098,157",geobo
+Santa Cruz,Mercado,MERCADO EL FUERTE,NA,null,"-17,847,103","-63,147,983",geobo
+Santa Cruz,Mercado,MERCADO EL PROGRESO,NA,null,"-17,823,311","-63,136,074",geobo
+Santa Cruz,Mercado,MERCADO EL QUIOR,NA,null,"-17,847,159","-63,081,322",geobo
+Santa Cruz,Mercado,MERCADO EL TRIUNFO,NA,null,"-17,861,001","-63,154,675",geobo
+Santa Cruz,Mercado,MERCADO FLORIDA,NA,null,"-17,870,530","-63,166,894",geobo
+Santa Cruz,Mercado,MERCADO GUAPILO VENTA,NA,null,"-17,765,632","-63,087,175",geobo
+Santa Cruz,Mercado,MERCADO GUAPURU,NA,null,"-17,851,729","-63,099,774",geobo
+Santa Cruz,Mercado,MERCADO GUAPURU 2,NA,null,"-17,810,605","-63,104,579",geobo
+Santa Cruz,Mercado,MERCADO INTERnaCIOnaL,NA,null,"-17,796,028","-63,105,944",geobo
+Santa Cruz,Mercado,MERCADO JULIO LEYGUE,NA,null,"-17,731,247","-63,121,514",geobo
+Santa Cruz,Mercado,MERCADO LA AMISTA,NA,null,"-17,837,632","-63,176,965",geobo
+Santa Cruz,Mercado,MERCADO LA CUCHILLA (COMERCIO),NA,null,"-17,826,290","-63,201,526",geobo
+Santa Cruz,Mercado,MERCADO LA MORITA,NA,null,"-17,816,430","-63,187,816",geobo
+Santa Cruz,Mercado,MERCADO LA PRIMAVERA,NA,null,"-17,823,398","-63,163,838",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,791,848","-63,188,893",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,109","-63,187,990",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,286","-63,188,291",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,257","-63,188,550",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,792,060","-63,188,952",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,194","-63,188,449",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,310","-63,187,715",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,391","-63,187,901",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,346","-63,187,831",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,399","-63,188,054",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,228","-63,187,609",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,120","-63,187,841",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,170","-63,187,456",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,793,547","-63,188,151",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADA,NA,null,"-17,792,843","-63,188,737",geobo
+Santa Cruz,Mercado,MERCADO LA RAMADS,NA,null,"-17,791,634","-63,188,703",geobo
+Santa Cruz,Mercado,MERCADO LAS PAMPITAS,NA,null,"-17,769,147","-63,122,608",geobo
+Santa Cruz,Mercado,MERCADO LAZARETO,NA,null,"-17,783,124","-63,159,894",geobo
+Santa Cruz,Mercado,MERCADO LIBERTAD,NA,null,"-17,741,980","-63,086,626",geobo
+Santa Cruz,Mercado,MERCADO LOS POCITOS,NA,null,"-17,841,486","-63,110,585",geobo
+Santa Cruz,Mercado,MERCADO LOS POZOS,NA,null,"-17,778,467","-63,177,598",geobo
+Santa Cruz,Mercado,MERCADO MAYORISTA ABASTO 2,NA,null,"-17,849,325","-63,231,043",geobo
+Santa Cruz,Mercado,MERCADO MIRAFLORES,NA,null,"-17,800,226","-63,130,373",geobo
+Santa Cruz,Mercado,MERCADO MODELO PLAN 3000,NA,null,"-17,821,496","-63,147,411",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL ABASTO 3,NA,null,"-17,828,319","-63,208,275",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL EL BOSQUE,NA,null,"-17,812,737","-63,214,771",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL EL TRILLO,NA,null,"-17,760,545","-63,127,731",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL FORTALEZA,NA,null,"-17,863,387","-63,160,854",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL LOS TUSEQUIS,NA,null,"-17,741,709","-63,154,345",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL MAGISTERIO SUR,NA,null,"-17,870,993","-63,178,297",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL TURERE,NA,null,"-17,842,328","-63,100,562",geobo
+Santa Cruz,Mercado,MERCADO MUSICAL 26 DE ABRIL,NA,null,"-17,829,840","-63,174,521",geobo
+Santa Cruz,Mercado,MERCADO MUTUALISTA,NA,null,"-17,762,798","-63,161,995",geobo
+Santa Cruz,Mercado,MERCADO NUEVA EZPERANZA,NA,null,"-17,735,383","-63,111,870",geobo
+Santa Cruz,Mercado,MERCADO PLAN 3000,NA,null,"-17,823,292","-63,112,258",geobo
+Santa Cruz,Mercado,MERCADO PRIMERO DE MAYO,NA,null,"-17,798,178","-63,132,608",geobo
+Santa Cruz,Mercado,MERCADO RETOÑO,NA,null,"-17,740,034","-63,073,727",geobo
+Santa Cruz,Mercado,"MERCADO SAN ANTONIO VENTA DE ABARROTES, VENTA DE CARNE DE RES, POLLO Y CERDO, VENTA DE ROPA NUEBA, VENTA DE ROPA USADA  VENTA DE  CALZADOS, VENTA DE PAN, VENTA DE VERDURAS, VENTA FRUTA, VENTA DE PRODUCTOS DE LIMPIEZA DEL HOGAR",NA,null,"-17,826,107","-63,226,997",geobo
+Santa Cruz,Mercado,MERCADO SAN JORGE,NA,null,"-17,736,622","-63,090,661",geobo
+Santa Cruz,Mercado,MERCADO SAN JUAN,NA,null,"-17,791,105","-63,137,102",geobo
+Santa Cruz,Mercado,MERCADO SAN LUIS,NA,null,"-17,783,839","-63,195,445",geobo
+Santa Cruz,Mercado,MERCADO SANTA CRUZ SUR,NA,null,"-17,850,954","-63,181,306",geobo
+Santa Cruz,Mercado,MERCADO SANTA ROSA,NA,null,"-17,810,874","-63,189,433",geobo
+Santa Cruz,Mercado,MERCADO TOBOROCH,NA,null,"-17,848,762","-63,078,859",geobo
+Santa Cruz,Mercado,MERCADO VICTORIA,NA,null,"-17,815,400","-63,109,698",geobo
+Santa Cruz,Mercado,MERCADO VICTORIA,NA,null,"-17,814,555","-63,109,709",geobo
+Santa Cruz,Mercado,MERCADO VICTORIA,NA,null,"-17,817,643","-63,109,736",geobo
+Santa Cruz,Mercado,MERCADO VICTORIA,NA,null,"-17,816,903","-63,109,731",geobo
+Santa Cruz,Mercado,MERCADO VILLA ESPERANZA,NA,null,"-17,863,046","-63,168,704",geobo
+Santa Cruz,Mercado,MERCADO VILLA FATIMA,NA,null,"-17,812,977","-63,202,617",geobo
+Santa Cruz,Mercado,MERCADO VIRGEN DEL LUJAN,NA,null,"-17,754,417","-63,124,179",geobo
+Santa Cruz,Mercado,MIKRO MERCADO LA BOBEDA,NA,null,"-17,766,734","-63,150,704",geobo
+Santa Cruz,Mercado,VENTAS AL POR MENOR EN EL MERCADO MAX FERnaNDEZ,NA,null,"-17,868,127","-63,194,996",geobo
+Santa Cruz,Mercado,MERCADO ABASTO,NA,null,"-20,044,980","-63,531,708",geobo
+Santa Cruz,Mercado,MERCADO MINORISTA SAN ANTONIO,NA,null,"-20,039,303","-63,529,746",geobo
+Santa Cruz,Mercado,MERCADO SAN ANTONIO,NA,null,"-20,039,322","-63,530,007",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL DE ROBORE,NA,null,"-18,329,536","-59,756,404",geobo
+Santa Cruz,Mercado,MERCADO 15 DE AGOSTO,NA,null,"-17,843,533","-60,738,172",geobo
+Santa Cruz,Mercado,MERCADO MODELO 15 DE AGOSTO,NA,null,"-17,840,549","-60,742,438",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL CASTA ROJAS,NA,null,"-18,180,735","-63,874,751",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL DE PUERTO QUIJARRO,NA,null,"-19,004,274","-57,712,068",geobo
+Santa Cruz,Mercado,MERCADO EL CARMEN,NA,null,"-18,967,900","-57,799,909",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO,NA,null,"-15,892,561","-63,189,353",geobo
+Santa Cruz,Mercado,MERCADO CENTRAL,NA,null,"-15,898,603","-63,188,809",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO 2 DE AGOSTO,NA,null,"-17,455,881","-63,663,217",geobo
+Santa Cruz,Mercado,MERCADO 1 DE MAYO,NA,null,"-17,407,409","-63,730,385",geobo
+Santa Cruz,Mercado,MERCADO SAN CARLOS,NA,null,"-17,406,954","-63,730,785",geobo
+Santa Cruz,Mercado,MERCADO COOPERATIVA,NA,null,"-17,399,496","-63,824,528",geobo
+Santa Cruz,Mercado,"MERCADO MUNICIPAL DE SAN JUAN ( VENTA AL POR MENOR DE ROPA ,JUGUETES,CD,ZAPATOS,ABARROTES,COTILLON, EN TIENDAS)",NA,null,"-17,291,464","-63,852,664",geobo
+Santa Cruz,Mercado,MERCADO,NA,null,"-17,403,511","-63,885,682",geobo
+Santa Cruz,Mercado,MERCADO AVAROA,NA,null,"-17,401,350","-63,884,304",geobo
+Santa Cruz,Mercado,MERCADO YAPACANI,NA,null,"-17,403,458","-63,884,986",geobo
+Santa Cruz,Mercado,MERCADO 8 DE OCTUBRE,NA,null,"-16,133,005","-62,027,461",geobo
+Santa Cruz,Mercado,MERCADO CONCEPCION,NA,null,"-16,126,790","-62,031,034",geobo
+Santa Cruz,Mercado,MERCADO CONCEPCION,NA,null,"-16,125,622","-62,031,018",geobo
+Santa Cruz,Mercado,MERCADO EL TROMPILLO,NA,null,"-16,132,529","-62,026,472",geobo
+Santa Cruz,Mercado,ASOCIACION GREMIAL DE COMERCIANTES MERCADO MUNICIPAL,NA,null,"-17,271,177","-62,557,058",geobo
+Santa Cruz,Mercado,MERCADO 4 CAÑADAS,NA,null,"-17,262,706","-62,555,873",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL 24 DE SEPTIEMBRE,NA,null,"-16,274,346","-62,501,198",geobo
+Santa Cruz,Mercado,MERCADO DE SAN JULIAN,NA,null,"-16,911,647","-62,617,941",geobo
+Santa Cruz,Mercado,MERCADO SAN RAMON,NA,null,"-16,613,410","-62,500,517",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO,NA,null,"-17,125,372","-63,228,163",geobo
+Santa Cruz,Mercado,MERCADO  PRINCIPAL DE MONTERO,NA,null,"-17,342,849","-63,247,044",geobo
+Santa Cruz,Mercado,MERCADO BARRIENTOS,NA,null,"-17,342,596","-63,246,971",geobo
+Santa Cruz,Mercado,MERCADO DOMINICAL EL CARMEN,NA,null,"-17,346,524","-63,259,961",geobo
+Santa Cruz,Mercado,MERCADO EL CARMEN,NA,null,"-17,346,982","-63,260,559",geobo
+Santa Cruz,Mercado,MERCADO GERMAN MORENO,NA,null,"-17,342,964","-63,249,040",geobo
+Santa Cruz,Mercado,MERCADO POPULAR,NA,null,"-17,349,089","-63,244,717",geobo
+Santa Cruz,Mercado,MERCADO POPULAR,NA,null,"-17,349,234","-63,245,679",geobo
+Santa Cruz,Mercado,MERCADO PRINCIPAL DE MONTERO,NA,null,"-17,342,791","-63,246,664",geobo
+Santa Cruz,Mercado,MERCADO VILLA VERDE,NA,null,"-17,334,114","-63,250,422",geobo
+Santa Cruz,Mercado,MERCADO VILLA VERDE,NA,null,"-17,333,500","-63,249,318",geobo
+Santa Cruz,Mercado,SUPEMERCADO UNION NORTE,NA,null,"-17,340,973","-63,256,594",geobo
+Santa Cruz,Mercado,MERCADO BOLIVAR,NA,null,"-17,356,702","-63,399,027",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL DE PORTACHUELO,NA,null,"-17,356,095","-63,395,383",geobo
+Santa Cruz,Mercado,MERCADO 5 DE FEBRERO,NA,null,"-17,111,718","-63,597,966",geobo
+Santa Cruz,Mercado,MERCADO ABASTO DE VALLEGRANDE,NA,null,"-18,484,165","-64,101,778",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO,NA,null,"-18,492,509","-64,106,702",geobo
+Santa Cruz,Mercado,MERCADO CELSO CAMACHO,NA,null,"-18,491,388","-64,106,893",geobo
+Santa Cruz,Mercado,MERCADO SAMUEL VILLAZON,NA,null,"-18,491,377","-64,107,197",geobo
+Santa Cruz,Mercado,MERCADO  31 DE JULIO,NA,null,"-16,377,395","-60,963,311",geobo
+Santa Cruz,Mercado,MERCADO 23 DE MARZO,NA,null,"-16,379,211","-60,967,508",geobo
+Santa Cruz,Mercado,MERCADO 8 DE DICIEMBRE NUEVAS CASETAS,NA,null,"-16,376,300","-60,963,197",geobo
+Santa Cruz,Mercado,MERCADO 8 DE DICIEMBRE VIEJO QUEMADO,NA,null,"-16,376,405","-60,963,615",geobo
+Santa Cruz,Mercado,MERCADO COMERCIAL SAN IGnaCIO,NA,null,"-16,377,039","-60,964,119",geobo
+Santa Cruz,Mercado,MERCADO,NA,null,"-17,561,450","-63,174,773",geobo
+Santa Cruz,Mercado,MERCADO 12 DE ABRIL,NA,null,"-17,605,429","-63,154,435",geobo
+Santa Cruz,Mercado,MERCADO CAMPESINO 30 DE AGOSTO,NA,null,"-17,511,377","-63,159,180",geobo
+Santa Cruz,Mercado,MERCADO CENTRAL LAS LOMAS UV7,NA,null,"-17,607,703","-63,165,221",geobo
+Santa Cruz,Mercado,MERCADO CENTRAL PENTAGUAZU 1,NA,null,"-17,601,021","-63,125,260",geobo
+Santa Cruz,Mercado,MERCADO COOPERATIVA 25 DENOVIEMBRE,NA,null,"-17,515,180","-63,166,700",geobo
+Santa Cruz,Mercado,MERCADO INTEGRACION DEL NORTE,NA,null,"-17,597,710","-63,171,580",geobo
+Santa Cruz,Mercado,MERCADO MUNICIPAL ALFREDO VACA DIEZ,NA,null,"-17,509,528","-63,167,274",geobo
+Santa Cruz,Mercado,MERCADO SATELITE NORTE,NA,null,"-17,603,284","-63,137,408",geobo
+Tarija,Mercado,MERCADO BOLIVAR,NA,null,"-22,735,593","-64,335,774",geobo
+Tarija,Mercado,MERCADO CAMPESINO,NA,null,"-22,729,632","-64,339,866",geobo
+Tarija,Mercado,MERCADO CAMPESINO 2 DE AGOSTO,NA,null,"-22,733,323","-64,326,481",geobo
+Tarija,Mercado,MERCADO LAS CHALAnaS,NA,null,"-22,732,139","-64,349,274",geobo
+Tarija,Mercado,MERCADO SAN ANTONIO,NA,null,"-22,743,541","-64,331,680",geobo
+Tarija,Mercado,MERCADO CENTRAL EL VALLE DE LA CONCEPCION,NA,null,"-21,696,816","-64,654,160",geobo
+Tarija,Mercado,MERCADO CENTRAL,NA,null,"-21,525,623","-64,173,112",geobo
+Tarija,Mercado,NUEVO MERCADO CENTRAL ENTRE RIOS,NA,null,"-21,522,380","-64,170,802",geobo
+Tarija,Mercado,MERCADO ABASTO DEL SUR-MODULO 1,NA,null,"-21,551,887","-64,691,004",geobo
+Tarija,Mercado,MERCADO AVASTO DEL SUR,NA,null,"-21,551,837","-64,690,004",geobo
+Tarija,Mercado,MERCADO BOLIVAR,NA,null,"-21,536,294","-64,720,296",geobo
+Tarija,Mercado,MERCADO CAMPESINO CERCAT,NA,null,"-21,519,907","-64,741,822",geobo
+Tarija,Mercado,MERCADO CAMPESINO CRAMA,NA,null,"-21,519,306","-64,742,636",geobo
+Tarija,Mercado,MERCADO CENTRAL,NA,null,"-21,531,172","-64,734,947",geobo
+Tarija,Mercado,MERCADO DEL SUR,NA,null,"-21,553,217","-64,689,161",geobo
+Tarija,Mercado,MERCADO EL ABASTO,NA,null,"-21,512,688","-64,736,592",geobo
+Tarija,Mercado,MERCADO EL MOLINO,NA,null,"-21,533,025","-64,737,729",geobo
+Tarija,Mercado,MERCADO IV CENTEnaRIO,NA,null,"-21,530,392","-64,736,898",geobo
+Tarija,Mercado,MERCADO LA LOMA,NA,null,"-21,526,437","-64,736,841",geobo
+Tarija,Mercado,MERCADO LUIS DE FUENTES,NA,null,"-21,540,056","-64,740,850",geobo
+Tarija,Mercado,MERCADO NEGRO,NA,null,"-21,534,973","-64,730,389",geobo
+Tarija,Mercado,MERCADO SAN BERnaRDO,NA,null,"-21,525,041","-64,723,568",geobo
+Tarija,Mercado,MERCADO SAN GERONIMO,NA,null,"-21,544,159","-64,716,526",geobo
+Tarija,Mercado,MERCADO SAN MARTIN,NA,null,"-21,535,169","-64,741,309",geobo
+Tarija,Mercado,MERCADO VILLA AVAROA,NA,null,"-21,521,620","-64,731,314",geobo
+Tarija,Mercado,VENTA DE ABARROTES MERCADO GRAMA,NA,null,"-21,518,738","-64,741,635",geobo
+Tarija,Mercado,MERCADO CENTRAL DE CARAPARI,NA,null,"-21,829,015","-63,739,488",geobo
+Tarija,Mercado,ASOCIACION DE COMERCIALES 6 DE AGOSTO MERCADO CAMPESINO,NA,null,"-21,261,811","-63,457,174",geobo
+Tarija,Mercado,MERCADO CENTRAL DE VILLAMONTES,NA,null,"-21,264,908","-63,471,529",geobo
+Tarija,Mercado,MERCADO ABASTO,NA,null,"-22,025,110","-63,680,184",geobo
+Tarija,Mercado,MERCADO BARRIO NUEVO,NA,null,"-22,042,405","-63,682,845",geobo
+Tarija,Mercado,MERCADO CENTRAL DE YACUIBA,NA,null,"-22,014,810","-63,679,239",geobo
+Tarija,Mercado,MERCADO CENTRAL HECTOR BLACUT,NA,null,"-22,047,940","-63,682,228",geobo
+Tarija,Mercado,MERCADO CENTRAL SECCION TELAS,NA,null,"-22,015,957","-63,679,039",geobo
+Tarija,Mercado,MERCADO LOURDES,NA,null,"-22,011,031","-63,676,135",geobo
+Tarija,Mercado,MERCADO MAGALEÑOS,NA,null,"-22,021,439","-63,676,665",geobo
+Tarija,Mercado,MERCADO DE SAN LORENZO,NA,null,"-21,418,330","-64,749,765",geobo
+Tarija,Mercado,MERCADO EVO MORALES SAN LORENZO,NA,null,"-21,404,705","-64,747,039",geobo
