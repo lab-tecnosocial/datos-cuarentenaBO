@@ -130,11 +130,11 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación v1](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
 
 ## API v2 (NUEVO!)
 
-Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
+`7558` registros disponibles a nivel Bolivia. Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
 
  * `Departamento`
  * `Tipo`
@@ -145,7 +145,46 @@ Esta es la versión más limpia y unificada de la API. Los campos para todas las
  * `Longitud`
  * `Fuente`
  
-[Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html) para más ejemplos. 
+ Se simplifica las solicitudes a tres:
+  * `GET /v2/all/all.json` para obtener todos los datos de todas las fuentes.
+  * `GET /v2/all/{fuente}.json` devuelve todos los datos de una fuente especifica. Parametros: `gamlp`, `gamsc`, `geobo`, `osm`, `rmk`, `web`.
+  * `GET /v2/serv/{servicio}.json` Devuelve servicios especificos de todas las fuentes. 34 parametros disponibles, pero algunos tienen muchos más datos que otros:
+  - Agua
+- Alimentos
+- Cardiologia
+- CentroMedico
+- Emergencias
+- Enfermeria
+- EquiposBioseguridad
+- Farmacia
+- Feria
+- Fisioterapia
+- Gas
+- Ginecologia
+- HigienePersonal
+- Imagenologia
+- Laboratorio
+- Libreria
+- MedicinaFamiliar
+- MedicinaInterna
+- Medico
+- Mercado
+- MercadoMovil
+- Movilidad
+- Nutricion
+- Odontologia
+- Oncologia
+- Oxigeno
+- Pediatria
+- Psicologia
+- Psicomotricidad
+- ServiciosFinancieros
+- ServiciosLegales
+- Supermercado
+- Traumatologia
+- Veterinaria
+  
+Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html).
 
 
 ## Uso en proyectos
