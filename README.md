@@ -170,10 +170,9 @@ Si estas utilizando los datos de este repositorio, avisanos para incluir un enla
 
 ## Soporte y aporte
 
-<img align="left" src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png">
+<p align="center"><img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png"></p>
 
 Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis, o encuentras errores, bugs, o quieres aportar con más datos, ideas o código, nos encontramos en el siguiente [servidor de Discord](https://discord.gg/ahQntDk). Estaremos activos minimamente hasta que terminen las medidas de cuarentena. El repositorio se encuentra [aquí](https://github.com/lab-tecnosocial/datos-cuarentenaBO).
----
 
 ## Fuentes
 
