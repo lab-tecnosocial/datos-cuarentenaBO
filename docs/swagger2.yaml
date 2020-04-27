@@ -46,7 +46,7 @@ paths:
         in: path
         description: Elige la fuente a la que quieres acceder
         required: true
-        type: string
+        type: array
         items:
           type: string
           enum:
@@ -57,8 +57,6 @@ paths:
           - rmk
           - web
           default: "available"
-
-      
       responses:
         200:
           description: Criterio de busqueda correcto
@@ -68,6 +66,68 @@ paths:
               $ref: "#/definitions/all"
         404:
           description: Mal input
+  /v2/serv/{servicio}.json:
+    get:
+      tags:
+      - serv
+      summary: Devuelve servicios especificos de todas las fuentes
+      description: 
+      produces:
+        - application/json
+      parameters:
+      - name: servicio
+        in: path
+        description: Elige el servicio al que quieres acceder
+        required: true
+        type: array
+        items:
+          type: string
+          enum:
+          - Agua
+          - Alimentos
+          - Cardiologia
+          - CentroMedico
+          - Emergencias
+          - Enfermeria
+          - EquiposBioseguridad
+          - Farmacia
+          - Feria
+          - Fisioterapia
+          - Gas
+          - Ginecologia
+          - HigienePersonal
+          - Imagenologia
+          - Laboratorio
+          - Libreria
+          - MedicinaFamiliar
+          - MedicinaInterna
+          - Medico
+          - Mercado
+          - MercadoMovil
+          - Movilidad
+          - Nutricion
+          - Odontologia
+          - Oncologia
+          - Oxigeno
+          - Pediatria
+          - Psicologia
+          - Psicomotricidad
+          - ServiciosFinancieros
+          - ServiciosLegales
+          - Supermercado
+          - Traumatologia
+          - Veterinaria
+          default: "available"
+      responses:
+        200:
+          description: Criterio de busqueda correcto
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/all"
+        404:
+          description: Mal input
+    
     
 definitions:
   all:
@@ -90,18 +150,15 @@ definitions:
         example: null
       Latitud:
         type: string
-        example: -16.540765
+        example: "-16.540765"
       Longitud:
         type: string
-        example: -68.079348
+        example: "-68.079348"
       Fuente:
         type: string
         example: web
-      
-    
-# Added by API Auto Mocking Plugin
-# host: 
-# basePath: 
+
+  
 schemes:
  - https
 
