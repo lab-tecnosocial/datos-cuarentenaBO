@@ -182,5 +182,5 @@ Si necesitas ayuda con estos datos para integrarlos a tu aplicación o análisis
 * https://guiaurbana.gmsantacruz.gob.bo/guiaurbana/
 * https://geo.gob.bo/
 * http://conectandobolivia.fepc.bo/
-* Grupos de facebook
+* Grupos de Facebook
 * Grupos de WhatsApp
