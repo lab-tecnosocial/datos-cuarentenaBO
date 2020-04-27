@@ -134,6 +134,17 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 ## API v2 (NUEVO!)
 
+Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
+
+ * `Departamento
+ * `Tipo
+ * `Nombre
+ * `Direccion
+ * `Telefono
+ * `Latitud
+ * `Longitud
+ * `Fuente
+
 
 ## Uso en proyectos
 
