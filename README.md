@@ -38,7 +38,7 @@ La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues l
 
 Y se usa `null` para los datos no disponibles, ya no `NA`.
  
-Se ha simplificado las solicitudes a tres:
+Sobre la URL de base `https://lab-tecnosocial.github.io/datos-cuarentenaBO`, se ha simplificado las solicitudes a tres:
   * GET `/v2/all/all.json` para obtener en una sola respuesta todos los datos de todas las fuentes.
   * GET `/v2/all/{fuente}.json` que devuelve todos los datos de una fuente especifica. Parametros: `gamlp`, `gamsc`, `geobo`, `osm`, `rmk`, `web`.
   * GET `/v2/serv/{servicio}.json` Devuelve servicios especificos de todas las fuentes. 34 parametros disponibles entre `Agua`, `Alimentos`, `CentroMedico`, `Mercado` y otros (ver documentación para más detalles).
