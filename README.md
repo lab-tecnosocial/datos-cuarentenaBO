@@ -148,46 +148,16 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
  Se simplifica las solicitudes a tres:
   * `GET /v2/all/all.json` para obtener todos los datos de todas las fuentes.
   * `GET /v2/all/{fuente}.json` devuelve todos los datos de una fuente especifica. Parametros: `gamlp`, `gamsc`, `geobo`, `osm`, `rmk`, `web`.
-  * `GET /v2/serv/{servicio}.json` Devuelve servicios especificos de todas las fuentes. 34 parametros disponibles, pero algunos tienen muchos más datos que otros:
-  - Agua
-- Alimentos
-- Cardiologia
-- CentroMedico
-- Emergencias
-- Enfermeria
-- EquiposBioseguridad
-- Farmacia
-- Feria
-- Fisioterapia
-- Gas
-- Ginecologia
-- HigienePersonal
-- Imagenologia
-- Laboratorio
-- Libreria
-- MedicinaFamiliar
-- MedicinaInterna
-- Medico
-- Mercado
-- MercadoMovil
-- Movilidad
-- Nutricion
-- Odontologia
-- Oncologia
-- Oxigeno
-- Pediatria
-- Psicologia
-- Psicomotricidad
-- ServiciosFinancieros
-- ServiciosLegales
-- Supermercado
-- Traumatologia
-- Veterinaria
+  * `GET /v2/serv/{servicio}.json` Devuelve servicios especificos de todas las fuentes. 34 parametros disponibles entre `Agua`, `Alimentos`, `CentroMedico`, `Mercado` y otros (ver documentación para más detalles).
   
 Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html).
 
 
-## Uso en proyectos
+## Proyectos que usan este repositorio
+
+* [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html)
+
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazab.jpg)
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
