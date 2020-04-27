@@ -158,7 +158,7 @@ Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.git
 
 Los siguientes proyectos hacen uso de este repositorio:
 
-* [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html | width=200)
+* [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html | width=200px)
 
 ![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazaba.jpg)
 
