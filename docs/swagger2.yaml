@@ -51,7 +51,7 @@ paths:
           type: string
           enum:
           - gamlp
-          - gampsc
+          - gamsc
           - geobo
           - osm
           - rmk
