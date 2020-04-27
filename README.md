@@ -160,7 +160,7 @@ Los siguientes proyectos hacen uso de este repositorio:
 
 * [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html)
 
-<img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazaba.jpg" width=100px>
+<img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazaba.jpg" width=400px>
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
