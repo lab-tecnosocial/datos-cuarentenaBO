@@ -25,7 +25,7 @@ La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues l
 
 ## API v1
 
-### Cantidad de registros (al momento)
+### Cantidad de registros
 
 |Departamento|Número de registros    |
 |------------|-----------------------|
@@ -33,35 +33,17 @@ La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues l
 |            | Entidades financieras: 779 |
 |            | Farmacias: 470 |
 |            |Servicios de salud: 202 |
-|------------|------------------------|
-|Santa Cruz  |                        |
+|Santa Cruz  | Abastecimiento: 331|
+|            |   Servicios de salud: 77|
+|Cochabamba  | Mercados: 112 |
+|            | Servicios de salud: 152 |
+|Bolivia     | Mercados en Bolivia (GeoBolivia 2017): 629 |
+|            | Farmacias, bancos, servicios de salud (OpenStreetMap): 3680 |
+|            |Alimentos (diversas fuentes web): 381|
+|            | Servicios(diversas fuentes web): 367|
+|            |Salud (diversas fuentes web) :129 |
 
-## Cantidad de registros hasta el momento
-
-### La Paz (datos municipales)
-
- * Abastecimiento: 150
- * Entidades financieras: 779
- * Farmacias: 470
- * Servicios de salud: 202
-
-### Santa Cruz (datos municipales)
-
- * Abastecimiento: 331
- * Servicios de salud: 77
- 
-### Región Metropolitana Kanata en Cochabamba
- * Mercados: 112
- * Servicios de salud: 152
- 
-### Bolivia
- * Mercados en Bolivia (GeoBolivia 2017): 629
- * Farmacias, bancos, servicios de salud (OpenStreetMap): 3680
- * Alimentos (diversas fuentes web): 381
- * Servicios(diversas fuentes web): 367
- * Salud (diversas fuentes web) :129
-
-## Uso de la API 
+### Uso 
 
 La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado que es una API estática solo soporta solicitudes `GET` sin parametros.
 
@@ -148,7 +130,10 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación (en construcción)](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+
+## API v2 (NUEVO!)
+
 
 ## Uso en proyectos
 
