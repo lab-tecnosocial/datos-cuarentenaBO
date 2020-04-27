@@ -7,48 +7,43 @@
 Con el crecimiento de los casos confirmados de coronavirus, desde el 22 de marzo rige en el país una cuarentena total dictada por el gobierno nacional, con limites finales inciertos. La medida tiene como objetivo frenar los contagios vía restricciones en el desplazamiento y las reuniones, pero al mismo tiempo existe cierta incertidumbre en cuanto al abastecimiento de productos alimenticios, la atención de servicios de salud y otros. Algunos ciudadanos no contamos con la suficiente información para viabilizar de forma más cercana y efectiva esas necesidades básicas. 
 
  * El objetivo de este repositorio consiste en recolectar y verificar datos georeferenciados de abastecimiento, servicios y salud en el contexto de la crisis del Covid-19 en Bolivia.
- * Los datos están en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON que hemos preparado) o analistas y visualizadores de datos (mediante los datos en CSV).
+ * Al mismo tiempo es importante que esos  datos estén en formato abierto y pueden ser utilizados por desarrolladores para crear apps informativas (vía una API estática de JSON que hemos preparado) o analistas y visualizadores de datos (mediante los datos en CSV).
  
 ## ¿Por qué datos abiertos?
 
-Porque son la base para fomentar un ecosistema de actores que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, planificación territorial, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y no encontramos repositorios gubernamentales sobre esta temática, por lo que emprendimos esta iniciativa ciudadana. 
+Porque son la base para fomentar un ecosistema de actores que genere productos informativos como visualizaciones, apps, análisis de datos, investigaciones, toma de decisiones ciudadanas y políticas, planificación territorial, etc. En nuestro país aun no existen muchas iniciativas de datos abiertos por parte de los gobernantes y en nuestra búsqueda para hacer apps y analisis de datos por nosotros mismos no hemos encontrando mucha disponibilidad de datos en repositorios gubernamentales, por lo que emprendimos esta iniciativa ciudadana. 
 
 ## Metodología
 
-Hemos realizado tres formas de recolección de los datos. Primero, los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp que nos llegaban, los hemos transcrito manualmente. Segundo, hemos buscado datos geográficos disponibles. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado un poco esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso.
+Hemos realizado tres formas de recolección de los datos. Primero, hemos transcrito manualmente los mensajes de ayuda e imagenes en Facebook, Twitter y WhatsApp que nos llegaban. Segundo, hemos buscado datos geográficos disponibles. Tercero, hemos hecho scraping de algunos sitios web con información pública relevante, cuando era posible. Posteriormente hemos limpiado un poco esa información y la hemos transformado en formatos abiertos para mayor fácilidad de uso de las diversas iniciativas ciudadanas.
 
 Valga aclarar que este es un trabajo aún en curso, todo aporte es bienvenido.
 
 ## Versionado
 
-La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues los datos provienen de diversas fuentes. Si uno busca datos sobre mercados, por ejemplo, algunas fuentes estarán más completas que otras, tanto en atributos como en extensión. Para la versión 2 (v2) estamos planeando integrar todos los datos en un único modelo. 
+La versión 1 (v1) de este repositorio tiene diferentes modelos de datos, pues los datos provienen de diversas fuentes. Si uno busca datos sobre mercados, por ejemplo, algunas fuentes estarán más completas que otras, tanto en atributos como en extensión. La versión 2 (v2) de la API cuenta con un sólo modelo general para todas la fuentes y es una base más limpia, aunque la cantidad de campos se reduce a 8. Pueden usar la versión que más les convenga, la v2 es mucho más uniforme y clara, no obstante. 
 
-## Cantidad de registros hasta el momento
+## API v1
 
-### La Paz (datos municipales)
+### Cantidad de registros
 
- * Abastecimiento: 150
- * Entidades financieras: 779
- * Farmacias: 470
- * Servicios de salud: 202
+|Departamento|Número de registros    |
+|------------|-----------------------|
+|La Paz      | Abastecimiento: 150 |
+|            | Entidades financieras: 779 |
+|            | Farmacias: 470 |
+|            |Servicios de salud: 202 |
+|Santa Cruz  | Abastecimiento: 331|
+|            |   Servicios de salud: 77|
+|Cochabamba  | Mercados: 112 |
+|            | Servicios de salud: 152 |
+|Bolivia     | Mercados en Bolivia (GeoBolivia 2017): 629 |
+|            | Farmacias, bancos, servicios de salud (OpenStreetMap): 3680 |
+|            |Alimentos (diversas fuentes web): 381|
+|            | Servicios(diversas fuentes web): 367|
+|            |Salud (diversas fuentes web) :129 |
 
-### Santa Cruz (datos municipales)
-
- * Abastecimiento: 331
- * Servicios de salud: 77
- 
-### Región Metropolitana Kanata en Cochabamba
- * Mercados: 112
- * Servicios de salud: 152
- 
-### Bolivia
- * Mercados en Bolivia (GeoBolivia 2017): 629
- * Farmacias, bancos, servicios de salud (OpenStreetMap): 3680
- * Alimentos (diversas fuentes web): 381
- * Servicios(diversas fuentes web): 367
- * Salud (diversas fuentes web) :129
-
-## Uso de la API 
+### Uso 
 
 La URL de base es `https://lab-tecnosocial.github.io/datos-cuarentenaBO`. Dado que es una API estática solo soporta solicitudes `GET` sin parametros.
 
@@ -135,7 +130,23 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación (en construcción)](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+
+## API v2 (NUEVO!)
+
+Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
+
+ * `Departamento`
+ * `Tipo`
+ * `Nombre`
+ * `Direccion`
+ * `Telefono`
+ * `Latitud`
+ * `Longitud`
+ * `Fuente`
+ 
+[Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html) para más ejemplos. 
+
 
 ## Uso en proyectos
 
