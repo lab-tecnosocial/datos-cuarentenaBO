@@ -136,14 +136,16 @@ Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v
 
 Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
 
- * `Departamento
- * `Tipo
- * `Nombre
- * `Direccion
- * `Telefono
- * `Latitud
- * `Longitud
- * `Fuente
+ * `Departamento`
+ * `Tipo`
+ * `Nombre`
+ * `Direccion`
+ * `Telefono`
+ * `Latitud`
+ * `Longitud`
+ * `Fuente`
+ 
+[Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html) para más ejemplos. 
 
 
 ## Uso en proyectos
