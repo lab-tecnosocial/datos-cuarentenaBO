@@ -1,0 +1,110 @@
+swagger: '2.0'
+info:
+  description: Documentación de la API estática para el proyecto [datos-cuarentenaBO](https://github.com/lab-tecnosocial/datos-cuarentenaBO)
+  url: https://github.com/lab-tecnosocial/datos-cuarentenaBO
+  version: "2.0"
+  title: datos-cuarentenaBO
+  # put the contact info for your development or API team
+  contact:
+    email: contacto@labtecnosocial.org
+    website: labtecnosocial.org
+
+tags:
+- name: all
+  description: Datos  agrupados por fuentes
+- name: serv
+  description: Datos agrupados por servicios
+  
+paths:
+  /v2/all/all.json:
+    get:
+      tags:
+      - all
+      summary: Devuelve todos los datos existentes en la base de datos
+      description: 
+      produces:
+      - application/json
+      responses:
+        200:
+          description: Criterio de busqueda correcto
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/all"
+        404:
+          description: Mal input
+  /v2/all/{fuente}.json:
+    get:
+      tags:
+      - all
+      summary: Devuelve todos los datos de una fuente especifica.
+      description: 
+      produces:
+        - application/json
+      parameters:
+      - name: fuente
+        in: path
+        description: Elige la fuente a la que quieres acceder
+        required: true
+        type: string
+        items:
+          type: string
+          enum:
+          - gamlp
+          - gampsc
+          - geobo
+          - osm
+          - rmk
+          - web
+          default: "available"
+
+      
+      responses:
+        200:
+          description: Criterio de busqueda correcto
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/all"
+        404:
+          description: Mal input
+    
+definitions:
+  all:
+    type: object
+    properties:
+      Departamento:
+        type: string
+        example: La Paz
+      Tipo:
+        type: string
+        example: ServiciosFinancieros
+      Nombre:
+        type: string
+        example: BANCO FIE
+      Direccion:
+        type: string
+        example: Calle Montenegro Nro. 1454 Bloque B3 Zona San Mig
+      Telefono:
+        type: string
+        example: null
+      Latitud:
+        type: string
+        example: -16.540765
+      Longitud:
+        type: string
+        example: -68.079348
+      Fuente:
+        type: string
+        example: web
+      
+    
+# Added by API Auto Mocking Plugin
+# host: 
+# basePath: 
+schemes:
+ - https
+
+host: lab-tecnosocial.github.io/datos-cuarentenaBO
+# basePath: /
+basePath: /
