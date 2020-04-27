@@ -130,11 +130,11 @@ La /v1/ tiene la siguiente estructura con sus respectivos *endpoints*:
     └── Servicios.json
 ```
 
-Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
+Por ejemplo, para solicitar los datos de alimentos se agrega la terminación `/v1/web/alimentos.json` a la url de base. Notese que todos los *endpoints* empiezan con mayuscula. Para una explicación con más ejemplos puede verse la [documentación v1](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v1.html). No todos los datos están georeferenciados o están completos; para los casos donde no se tienen los datos disponibles pusimos la marca de `NA`, mientras que para los datos no relevantes para un caso `null`. 
 
 ## API v2 (NUEVO!)
 
-Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
+`7558` registros disponibles a nivel Bolivia. Esta es la versión más limpia y unificada de la API. Los campos para todas las fuentes disponibles son:
 
  * `Departamento`
  * `Tipo`
@@ -145,10 +145,19 @@ Esta es la versión más limpia y unificada de la API. Los campos para todas las
  * `Longitud`
  * `Fuente`
  
-[Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html) para más ejemplos. 
+ Se simplifica las solicitudes a tres:
+  * `GET /v2/all/all.json` para obtener todos los datos de todas las fuentes.
+  * `GET /v2/all/{fuente}.json` devuelve todos los datos de una fuente especifica. Parametros: `gamlp`, `gamsc`, `geobo`, `osm`, `rmk`, `web`.
+  * `GET /v2/serv/{servicio}.json` Devuelve servicios especificos de todas las fuentes. 34 parametros disponibles entre `Agua`, `Alimentos`, `CentroMedico`, `Mercado` y otros (ver documentación para más detalles).
+  
+Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.github.io/datos-cuarentenaBO/docs/docs-v2.html).
 
 
-## Uso en proyectos
+## Proyectos que usan este repositorio
+
+* [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html)
+
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazab.jpg)
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
