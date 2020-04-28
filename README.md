@@ -47,7 +47,7 @@ Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.git
 
 Esta es una visualización general de los puntos disponibles:
 
-<p align="center"><img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/puntos-generales.png" width=400px></p>
+![](src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/puntos-generales.png" width=400)
 
 ## API v1 (antigua)
 
@@ -164,7 +164,7 @@ Los siguientes proyectos hacen uso de este repositorio:
 
 * [Mapa de abastecimiento en La Paz](https://rafalopezv.io/static/sm/mapa_covid_lpz_abasto.html)
 
-<p align="center"><img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazaba.jpg" width=400px></p>
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-lapazaba.jpg" width=400px)
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
