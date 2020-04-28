@@ -47,7 +47,7 @@ Para más ejemplos: [Ver la documentación de la v2](https://lab-tecnosocial.git
 
 Esta es una visualización general de los puntos disponibles:
 
-![](src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/puntos-generales.png" width=400)
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/puntos-generales.png" width=400)
 
 ## API v1 (antigua)
 
