@@ -168,6 +168,9 @@ Los siguientes proyectos hacen uso de este repositorio:
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
+* [Mapa de Covid-19 y servicios en El Alto](http://labtecnosocial.org/mapa_covid_abast_EA)
+
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/p1-elaltoaba.png)
 ## Soporte y aporte
 
 <p align="center"><img src="https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/discord.png"></p>
