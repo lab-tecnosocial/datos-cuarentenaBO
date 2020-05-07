@@ -1,0 +1,23 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+384,Oruro,Movilidad,Radio Taxi de la V,NA,67205906,NA,NA,web
+385,Oruro,Movilidad,Radio Taxi la pirámide,NA,5254444,NA,NA,web
+386,Oruro,Movilidad,Radio Taxi el Faro,NA,5273399,NA,NA,web
+387,Oruro,Movilidad,Radio movil SAS Oruro,NA,5219999,NA,NA,web
+388,Oruro,Movilidad,Radio Móvil tu piloto,NA,5266166,NA,NA,web
+389,Oruro,Movilidad,Radio Movil Tours Forever,NA,8421114,NA,NA,web
+390,Pando,Movilidad,Servicio Urbano Radio Taxi,NA,8421588,NA,NA,web
+391,Pando,Movilidad,Expreso departamental,NA,NA,NA,NA,web
+392,Beni,Movilidad,Radio Movil Vial Trinidad,NA,NA,NA,NA,web
+393,Beni,Movilidad,Radio Taxi German Busch,NA,NA,NA,NA,web
+394,Cochabamba,Movilidad,Radio Taxi Jardín,Av. General Galindo,4241111,NA,NA,web
+395,Cochabamba,Movilidad,Radio Taxi H,Calle Potosí,4455120,-17.371774,-66.150484,web
+396,Cochabamba,Movilidad,Radio Movil HOLIDAY KANTUTA,Felix Lopez de la Vega,4293777,-17.361546,-66.160843,web
+397,Cochabamba,Movilidad,Cochabamba,Oeste,65366001,NA,NA,web
+398,Cochabamba,Movilidad,Radio Movil Aranjuez,Av. Thunupa,4241212,-17.376329,-66.187595,web
+399,Cochabamba,Movilidad,Radio Taxi Ejecutivo,"Av. 9 de abril, Cochabamba",4225050,-17.397834,-66.13791,web
+400,Cochabamba,Movilidad,Radio Movil Incacollo,Av. Papa Paulo,4200355,-17.385807,-66.141854,web
+401,Cochabamba,Movilidad,Verdecio,Av. Tadeo Haenke. no. 1450,4280000,-17.384349,-66.168059,web
+402,Cochabamba,Movilidad,PERZEO,NA,76991360,-17.367135,-66.133661,web
+403,Cochabamba,Movilidad,Taxi Ciudad Digital,NA,61782828,-17.365238,-66.16196,web
+404,Cochabamba,Movilidad,Movil,Manuel Marin no. 1021,4200520,NA,NA,web
+820,Cochabamba,Movilidad,Genial,NA,61783111-4200424,NA,NA,web

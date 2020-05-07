@@ -1,11 +1,13 @@
 [
   {
+    "Id": 960,
     "Departamento": "La Paz",
     "Tipo": "Traumatologia",
     "Nombre": "Victor Jorge Rocha",
-    "Telefono": 70149600,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "70149600",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

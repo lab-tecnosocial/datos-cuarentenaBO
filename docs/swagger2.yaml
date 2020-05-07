@@ -133,6 +133,9 @@ definitions:
   all:
     type: object
     properties:
+      Id:
+        type: number
+        example: 1500
       Departamento:
         type: string
         example: La Paz
@@ -149,11 +152,11 @@ definitions:
         type: string
         example: null
       Latitud:
-        type: string
-        example: "-16.540765"
+        type: number
+        example: -16.540765
       Longitud:
-        type: string
-        example: "-68.079348"
+        type: number
+        example: -68.079348
       Fuente:
         type: string
         example: web

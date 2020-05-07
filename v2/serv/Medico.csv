@@ -1,0 +1,162 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+899,Cochabamba,Medico,Alex Orozco,NA,68463810,NA,NA,web
+900,Cochabamba,Medico,Verónica Suarez,NA,72277875,NA,NA,web
+901,Cochabamba,Medico,Claudia Alejandra Huanca Villca,NA,72961505,NA,NA,web
+902,Cochabamba,Medico,Daniela Bazoalto,NA,70754241,NA,NA,web
+903,Cochabamba,Medico,Katherinne Carolina Espinoza,NA,70722190,NA,NA,web
+904,Cochabamba,Medico,Paola Salazar Rodríguez,NA,70399894,NA,NA,web
+905,Cochabamba,Medico,Rosimeri Flores Camacho,NA,70399894,NA,NA,web
+906,Cochabamba,Medico,Viviana Aliaga,NA,73089123,NA,NA,web
+907,Cochabamba,Medico,Maryfrance del Granado,NA,76955012,NA,NA,web
+908,Cochabamba,Medico,Jaime Escobar,NA,67406531,NA,NA,web
+909,Cochabamba,Medico,Josimar Rodríguez,NA,79491961,NA,NA,web
+910,Cochabamba,Medico,Nestor Hugo Mendieta,NA,68503743,NA,NA,web
+911,Cochabamba,Medico,Daniel Flores Mamani,NA,70385187,NA,NA,web
+930,La Paz,Medico,Dra. Miriam Parada,NA,72551657,NA,NA,web
+931,La Paz,Medico,Est. Fabrizzio Mora,NA,69927946,NA,NA,web
+932,La Paz,Medico,Dra. Marisol Molina,NA,70615300,NA,NA,web
+933,La Paz,Medico,Dra. Gabriela Hinojosa,NA,75820290,NA,NA,web
+934,La Paz,Medico,Dra. Daniela Cordero,NA,77754204,NA,NA,web
+935,La Paz,Medico,nadia Espinoza,NA,77233318,NA,NA,web
+936,La Paz,Medico,Ricardo Guaraz,NA,70549270,NA,NA,web
+937,La Paz,Medico,Raquel Guzman,NA,73026287,NA,NA,web
+938,La Paz,Medico,Monica Alvarez,NA,68139939,NA,NA,web
+939,La Paz,Medico,Mitel Aliaga,NA,73089923,NA,NA,web
+940,La Paz,Medico,Ruddy Blanco,NA,73036035,NA,NA,web
+941,La Paz,Medico,Fabrizzio Mora Polo,NA,69927946,NA,NA,web
+942,La Paz,Medico,Jhonathan Alexis Balcazar,NA,77500727,NA,NA,web
+943,La Paz,Medico,Kerly Villca Miranda,NA,73274652,NA,NA,web
+944,La Paz,Medico,Luis Martinez,NA,79617517,NA,NA,web
+945,La Paz,Medico,Yanela Vargas,NA,69762232,NA,NA,web
+946,La Paz,Medico,Dora Cadena,NA,73749045,NA,NA,web
+947,La Paz,Medico,Aramis Ardaya,NA,73218160,NA,NA,web
+948,La Paz,Medico,Vanessa Chino,NA,76273572,NA,NA,web
+949,La Paz,Medico,Carolina Bustillos,NA,68666681,NA,NA,web
+950,La Paz,Medico,Pablo Baldiviezo,NA,71176825,NA,NA,web
+3767,NA,Medico,Centro medico,NA,NA,-17.5909561,-65.9349576,osm
+3768,NA,Medico,Curandero Escobar,NA,NA,-17.589757,-65.9346329,osm
+3769,NA,Medico,Puesto de Salud de Epizana Cruce,RN7: Epizana-Comarapa,NA,-17.6370999,-65.2289803,osm
+3770,NA,Medico,Consultorio Medico,NA,NA,-17.8440308,-60.7437097,osm
+3771,NA,Medico,Posta Municipal,NA,NA,-17.396528,-66.1670119,osm
+3772,NA,Medico,Maida,Calle Aurelio Melean,NA,-17.3913216,-66.1476226,osm
+3773,NA,Medico,Centro medico Callajchullpa,NA,NA,-17.3534349,-66.2433597,osm
+3774,NA,Medico,NA,NA,NA,-20.4602517,-66.8214673,osm
+3775,NA,Medico,Centro Medico Hermano Andrés Pedrón,NA,NA,-17.4604943,-66.1235744,osm
+3776,NA,Medico,Javier Rivero,NA,NA,-17.3908195,-66.148632,osm
+3777,NA,Medico,Análisis Clínico FCSH,NA,NA,-17.7766904,-63.1907833,osm
+3778,NA,Medico,Centro de Salud La Familia,NA,NA,-17.3966317,-66.2767672,osm
+3779,NA,Medico,Centro Municipal de Salud San Antonio Bajo,NA,NA,-16.4988724,-68.116043,osm
+3780,NA,Medico,Santa Ana de Condebamba,NA,NA,-17.35705,-66.1778004,osm
+3781,NA,Medico,NA,Avenida Rubén Dario,NA,-17.3916051,-66.1376748,osm
+3782,NA,Medico,Centro de Fisioterapia,Avenida Circunvalación Beijing,NA,-17.3636621,-66.1655388,osm
+3783,NA,Medico,Consultorio Psicologico Tukuypaj,Avenida Circunvalación Beijing,NA,-17.3631279,-66.1680116,osm
+3784,NA,Medico,Fisioterapia,NA,NA,-17.3959261,-66.1549154,osm
+3785,NA,Medico,NA,NA,NA,-17.7831043,-63.2095615,osm
+3786,NA,Medico,NA,NA,NA,-17.7845928,-63.2096522,osm
+3787,NA,Medico,NA,Avenida Salamanca,NA,-17.3873065,-66.1549266,osm
+3788,NA,Medico,Central Médica,NA,NA,-17.8079071,-63.2056875,osm
+3789,NA,Medico,Posta de Salud,NA,NA,-17.3912129,-66.1182335,osm
+3790,NA,Medico,Dr. Jaime Marañon,Calle J. Crisóstomo Carrillo,NA,-17.3829637,-66.1529869,osm
+3791,NA,Medico,Salud & Vida,Avenida República,NA,-17.4086297,-66.1509676,osm
+3792,NA,Medico,Germán Melgarejo,NA,NA,-17.7716201,-63.1544952,osm
+3793,NA,Medico,Posta Médica Ovejuyo,NA,NA,-16.5355727,-68.0388276,osm
+3794,NA,Medico,Medico,NA,NA,-17.7406508,-63.1482158,osm
+3795,NA,Medico,Doctora Gaby Camacho Quezada,Calle Chuquisaca,NA,-17.7863608,-63.1802296,osm
+3796,NA,Medico,OHM,NA,NA,-17.7876853,-63.1800924,osm
+3797,NA,Medico,Doctora Carmen Elsa Calzin de Rueda,Calle Beni,NA,-17.7753614,-63.1810534,osm
+3798,NA,Medico,NA,Calle Republiquetas,NA,-17.7862666,-63.1749366,osm
+3799,NA,Medico,Dr. Jorge B. Verastegui Lijerón,NA,NA,-17.7946351,-63.1856229,osm
+3800,NA,Medico,Consultorio Medico Santa Ana,NA,NA,-17.7957558,-63.2095002,osm
+3801,NA,Medico,Centro Medico Rayos,Avenida República,NA,-16.4918307,-68.1512729,osm
+3802,NA,Medico,Consultorio Endocrinológico Integral - Dr. J. Efraín Castro,Calle Asai,NA,-17.7629494,-63.1686322,osm
+3803,NA,Medico,NA,NA,NA,-17.8004983,-63.1589847,osm
+3804,NA,Medico,Consultorio Medico Palacios,Avenida Adolfo Román Hijo,NA,-17.8120503,-63.1326796,osm
+3805,NA,Medico,GInecologia Consultorio,NA,NA,-17.8075339,-63.1369496,osm
+3806,NA,Medico,Puesto de Salud Choquetanga Grande,NA,NA,-16.837814,-67.3184762,osm
+3807,NA,Medico,Gastroservic,Avenida Mutualista,NA,-17.7699034,-63.1663868,osm
+3808,NA,Medico,Kineser,Tercer Anillo Externo,NA,-17.7585689,-63.183578,osm
+3809,NA,Medico,Huayllani Chico,Camino Sacaba-Palca,NA,-17.387995,-66.0581154,osm
+3810,NA,Medico,Medicos Cristianos Solidarios,NA,NA,-17.7797879,-63.1742522,osm
+3811,NA,Medico,Centro de Salud Santa Rosa,Santa Rosa Calle 4,NA,-16.5358569,-68.1674575,osm
+3812,NA,Medico,Juan de Dios,Calle 8,NA,-16.5135252,-68.1600859,osm
+3813,NA,Medico,Adolfo Kolping,Calle C Medina,NA,-16.5111059,-68.1570879,osm
+3814,NA,Medico,Policonsultorio Virgen de Copacabana,Calle 27 B,NA,-16.528602,-68.1526338,osm
+3815,NA,Medico,Centro naturopata,Mario Flores,NA,-17.7884249,-63.190328,osm
+3816,NA,Medico,Centro Bronco-Pulmonar,NA,NA,-17.809238,-63.1958706,osm
+3817,NA,Medico,ACUMED,Avenida Heroínas,NA,-17.3914021,-66.1532199,osm
+3818,NA,Medico,Centro de Salud Villa Adela,Brasilia,NA,-16.5228198,-68.2120547,osm
+3819,NA,Medico,Consultorio Medico Mi Salud,NA,NA,-16.4949861,-68.1723768,osm
+3820,NA,Medico,Ortopedia Boliviano Aleman,Avenida 6 de Agosto,NA,-16.5114677,-68.1238035,osm
+3821,NA,Medico,NA,NA,NA,-16.2011886,-68.9030017,osm
+3822,NA,Medico,Mirna,NA,NA,-20.4591575,-66.8271164,osm
+3823,NA,Medico,APS,NA,NA,-17.3791062,-66.1540329,osm
+3824,NA,Medico,Vida Sana,Calle 20 C,NA,-16.5263455,-68.1493918,osm
+3825,NA,Medico,MEDICAR,Avenida América,NA,-17.3732349,-66.157377,osm
+3826,NA,Medico,San Francisco de Asís,NA,NA,-17.3877595,-66.1541322,osm
+3827,NA,Medico,Consultorio Medico Profamilia,Avenida Plan Tres Mil,NA,-17.8261326,-63.1332056,osm
+3828,NA,Medico,Maria Inmaculada,NA,NA,-17.3703472,-66.1235401,osm
+3829,NA,Medico,Consultorio Medico integral del Brazo social,NA,NA,-16.5037135,-68.1612561,osm
+3830,NA,Medico,La Merced,José María Asin,NA,-16.4949732,-68.1520764,osm
+3831,NA,Medico,ACUHOMED,Avenida Papa Paulo,NA,-17.3814939,-66.1533362,osm
+3832,NA,Medico,NA,NA,NA,-16.5038915,-68.0828271,osm
+3833,NA,Medico,Centro de salud Cota Cota,NA,NA,-16.5436037,-68.050753,osm
+3834,NA,Medico,NA,NA,NA,-16.4798636,-68.1206964,osm
+3835,NA,Medico,Consultorio Medico San Pablo,NA,NA,-19.8057119,-63.9576259,osm
+3836,NA,Medico,Credisalud,NA,NA,-16.5075843,-68.1244782,osm
+3837,NA,Medico,GAES Bolivia,NA,NA,-17.3901464,-66.151782,osm
+3838,NA,Medico,AudioProd,NA,NA,-17.3876097,-66.1541622,osm
+3839,NA,Medico,NA,NA,NA,-15.51173,-67.4281034,osm
+3840,NA,Medico,Laboratorio de Análisis Clínicos C.E.D.,Calle Cuéllar,NA,-17.7790807,-63.1849299,osm
+3841,NA,Medico,AlianSAlud,NA,NA,-16.5108614,-68.125655,osm
+3842,NA,Medico,Consultorio Medico Mi Pediatra,Calle Capitán Ravelo,NA,-16.5053388,-68.1277686,osm
+3843,NA,Medico,Centro Medico MEDICA CENTRAL,Avenida 6 de Agosto,NA,-16.5100183,-68.1255623,osm
+3844,NA,Medico,"Consultorio Vecinal B. ""Los Parrales""",NA,NA,-21.5157242,-64.758364,osm
+3845,NA,Medico,Consultorio Psicologico,NA,NA,-16.5179939,-68.1508974,osm
+3846,NA,Medico,Enfermeria nazareth,Tercer Anillo Externo,NA,-17.7722936,-63.1542929,osm
+3847,NA,Medico,Consultorio,NA,NA,-17.8437264,-63.1089637,osm
+3848,NA,Medico,NA,NA,NA,-16.1648896,-69.0855812,osm
+3849,NA,Medico,Atención Integral en Nefrología,NA,NA,-17.3831397,-66.1487777,osm
+3850,NA,Medico,NA,NA,NA,-16.5221643,-68.2096071,osm
+3851,NA,Medico,Consultorio Medico Genesis,Pasaje 10 de Agosto,NA,-17.7765967,-63.1753503,osm
+3852,NA,Medico,Belen,NA,NA,-17.4725464,-66.1710845,osm
+3853,NA,Medico,Policlínica Miraflores CNS,Calle Nicaragua,NA,-16.5039924,-68.1202375,osm
+3854,NA,Medico,Estetica Medica,Calle Buenos Aires,NA,-17.3744931,-66.1491176,osm
+3855,NA,Medico,San Juan de Dios,NA,NA,-17.4118918,-66.1426287,osm
+3856,NA,Medico,Alianza Cristianas (manos abiertas),NA,NA,-16.6550292,-68.2984637,osm
+3857,NA,Medico,"Medico Oftalmológico ""Sumaj nayra""",Calle Guerrilleros Lanza,NA,-16.4950307,-68.1230078,osm
+3858,NA,Medico,Medico Oftalmólogo,NA,NA,-17.387439,-66.1457305,osm
+3859,NA,Medico,OncoMedica,NA,NA,-17.3843131,-66.1522543,osm
+3860,NA,Medico,CEMETRA Centro de Medicina Tradicional,NA,NA,-17.8363413,-63.2240067,osm
+3861,NA,Medico,Consultorio Parroquial,Avenida Juan de la Rosa,NA,-17.3764995,-66.1737373,osm
+3862,NA,Medico,Puesto de Salud Vila Vila,NA,NA,-17.5574918,-67.3619673,osm
+3863,NA,Medico,Centro medico Quirúrgico Bolivar,NA,NA,-17.3796621,-66.1603501,osm
+3864,NA,Medico,Intermedic,NA,NA,-17.3808781,-66.1662416,osm
+3865,NA,Medico,NA,NA,NA,-16.5032326,-68.1438904,osm
+3866,NA,Medico,Dar Salud,Calle Mexico,NA,-16.5019074,-68.1335267,osm
+3867,NA,Medico,Servicio Móvil de Rayos X,NA,NA,-16.495289,-68.1176472,osm
+3868,NA,Medico,Centro de Partos,NA,NA,-17.3825417,-66.1499007,osm
+3869,NA,Medico,NA,NA,NA,-17.3834615,-66.1478701,osm
+3870,NA,Medico,Nefrologia,NA,NA,-17.3809205,-66.14884,osm
+3871,NA,Medico,NA,NA,NA,-17.3909276,-66.1562939,osm
+3872,NA,Medico,POLICONSULTORIO Medico GUARDIA AÑEZ -Varimed,Zona universitaria Calle 3,NA,-14.8203018,-64.8978854,osm
+3873,NA,Medico,Centro medico Chimboco,NA,NA,-17.3884103,-66.0411723,osm
+3874,NA,Medico,C.E.PED.,NA,NA,-21.531354,-64.7330546,osm
+3875,NA,Medico,Blanca Liliana Vaca Diez,Río Quimorí,NA,-17.7562352,-63.1697606,osm
+3876,NA,Medico,Dr. Zuna,NA,NA,-17.7681927,-63.1559061,osm
+3877,NA,Medico,Horizontes,NA,NA,-15.4362994,-67.5866547,osm
+3878,NA,Medico,Dr candia,NA,NA,-17.8236362,-63.1388198,osm
+3879,NA,Medico,El Carmen,NA,NA,-16.6264323,-68.1878838,osm
+3880,NA,Medico,Rostov,NA,NA,-16.5575921,-68.1970711,osm
+3881,NA,Medico,Dr.Marquez,NA,NA,-16.5444133,-68.1899658,osm
+3882,NA,Medico,Dr.Sandra Blacutt,NA,NA,-16.5088343,-68.1639875,osm
+3883,NA,Medico,Ginecologo Obstetra,Calle Sucre,NA,-18.4908326,-64.1073014,osm
+3884,NA,Medico,Centro TRACIENDE,Av. Hernando Siles,NA,-16.5227106,-68.1142073,osm
+3885,NA,Medico,Centro de Salud Campo Via,RN4: Colomi-Villa Tunari,NA,-17.0301599,-65.6571155,osm
+3886,NA,Medico,"Casa ""Mi Salud""",NA,NA,-15.8931351,-63.1859301,osm
+3887,NA,Medico,Consultorio Medico Vargas,NA,NA,-16.5055044,-68.1189062,osm
+3888,NA,Medico,Consultorio Medico Emanuel,San José,NA,-16.5458211,-68.1882472,osm
+3889,NA,Medico,CEGNI (Centro de Gastroenterología y Nutricion Infantil),Calle Antezana,NA,-17.3829523,-66.1561481,osm
+3890,NA,Medico,Centro de Salud Integral Torrepampa,NA,NA,-16.8309926,-67.5810987,osm
+3891,NA,Medico,CENTRO MEDIDO DE LA PIEL,Calle Colon,NA,-21.5366821,-64.7330145,osm
+3892,NA,Medico,Puesto Medico Caja nacional de Salud,NA,NA,-22.735981,-64.3322924,osm
+3893,NA,Medico,Centro de Salud Señor de Mayo,Calle Perú,NA,-20.4565647,-66.8229434,osm

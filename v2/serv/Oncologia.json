@@ -1,11 +1,13 @@
 [
   {
+    "Id": 957,
     "Departamento": "La Paz",
     "Tipo": "Oncologia",
     "Nombre": "Daniela Cordero",
-    "Telefono": 77754204,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "77754204",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

@@ -1,0 +1,35 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+382,Cochabamba,Gas,YPFB: entregas de gas a domicilio,NA,NA,NA,NA,web
+405,La Paz,Gas,YPFB,Av. Gral Ballivian esq. Muñoz Reyes No. 80 Zona Calacoto,800106006 - 72072300,-16.539065,-68.075553,web
+406,La Paz,Gas,YPFB,"Av. 20 de Octubre esq. Machicado No. 434, Zona San Pedro",800106007 - 72072300,-16.504065,-68.133668,web
+407,La Paz,Gas,YPFB,"Av. Entre Ríos esq. Ayata No. 1349, Zona el Tejar",800106008 - 72072300,-16.498887,-68.152085,web
+408,Oruro,Gas,YPFB,Av. 6 de Octubre esq. Héroes del Chaco,800106009 - 72072300,NA,NA,web
+409,Santa Cruz,Gas,YPFB,Carretera SC-CBBA Km 3 1/2 Zona Cuarto Anillo,800106010 - 72072300,NA,NA,web
+410,Santa Cruz,Gas,YPFB,Av. Grigotá Uv. 0029 Dist: 5 Mza 0043 Sec. 3,800106011 - 72072300,NA,NA,web
+411,Santa Cruz,Gas,YPFB,Av. Brasil s/n Zona Central,800106012 - 72072300,NA,NA,web
+412,Santa Cruz,Gas,YPFB,Av. Mariscal Sucre s/n Zona Central,800106013 - 72072300,NA,NA,web
+413,Cochabamba,Gas,YPFB,Av. Simón López entre M. Pérez de Holguín G.R. Moreno No. 0 Zona/Barrio Cala Cala,800106014 - 72072300,NA,NA,web
+414,Cochabamba,Gas,YPFB,Av. Petrolera km 5 1/2 Zona Valle Hermoso,800106015 - 72072300,NA,NA,web
+415,Cochabamba,Gas,YPFB,Av. América esq. Pachamama  No. s/n Barrio Cala Cala,800106016 - 72072300,-17.37174,-66.173618,web
+416,Cochabamba,Gas,YPFB,Carretera Cbba-Sta Cruz nro. s/n Zona Villa Tunari,800106017 - 72072300,NA,NA,web
+417,Cochabamba,Gas,YPFB,"Carretera Cochabamba - Santa Cruz km. 221 Zona/Barrio Central, PT, Villarroel",800106018 - 72072300,NA,NA,web
+418,Tarija,Gas,YPFB,"Av. Panamericana, Zona Luis Pizarro",800106019 - 72072300,NA,NA,web
+419,Tarija,Gas,YPFB,"Av. Panamericana, Zona Morros Blancos",800106020 - 72072300,NA,NA,web
+420,Tarija,Gas,YPFB,Av. San Martín esq. Jacinto Delfín,800106021 - 72072300,NA,NA,web
+421,Tarija,Gas,YPFB,Calle Avaroa esq. Chuquisaca,800106022 - 72072300,NA,NA,web
+422,Tarija,Gas,YPFB,Av. Petrolera s/n Carretera a Tarija,800106023 - 72072300,NA,NA,web
+423,Tarija,Gas,YPFB,Carretera Tarija -Yacuiba Zona El Común,800106024 - 72072300,NA,NA,web
+424,Tarija,Gas,YPFB,Carretera a Bermejo Localidad el Padcaya,800106025 - 72072300,NA,NA,web
+425,Chuquisaca,Gas,YPFB,"Av. Ostria Gutierrez, esq. nataniel Aguirre",800106026 - 72072300,-19.039644,-65.249234,web
+426,Chuquisaca,Gas,YPFB,Av. Héroes de la Calancha s/n Salida a Potosí,800106027 - 72072300,NA,NA,web
+427,Chuquisaca,Gas,YPFB,Av. Piraimiri. s/n Final,800106028 - 72072300,NA,NA,web
+428,Chuquisaca,Gas,YPFB,"Monteagudo, Zona Zapallar, Salida a Camiri",800106029 - 72072300,NA,NA,web
+429,Potosí,Gas,YPFB,Av. Cívica esq. Calle Serrudo s/n,800106030 - 72072300,-19.583858,-65.755807,web
+430,Potosí,Gas,YPFB,Av. Antofagasta s/n,800106031 - 72072300,NA,NA,web
+431,Potosí,Gas,YPFB,Av. Chorrillos s/n Carretera Sucre-Potosí,800106032 - 72072300,NA,NA,web
+432,Pando,Gas,YPFB,Av. Internacional No. 55-2 Zona Central,800106033 - 72072300,NA,NA,web
+433,Pando,Gas,YPFB,Av. Alberto Saens No. S/n Barrio San Juan,800106034 - 72072300,NA,NA,web
+434,Beni,Gas,YPFB,"Av. Pedro Ignacio Muiba, Circunvalación Sur s/n Barrio Pompeya",800106035 - 72072300,NA,NA,web
+435,Beni,Gas,YPFB,"Calle Juan Adad, s/n. Barrio Belén",800106036 - 72072300,NA,NA,web
+436,Beni,Gas,YPFB,Av. Federico Román s/n Zona Central,800106037 - 72072300,NA,NA,web
+822,Cochabamba,Gas,YPFB,NA,72072300-800106006,NA,NA,web

@@ -1,11 +1,13 @@
 [
   {
+    "Id": 952,
     "Departamento": "La Paz",
     "Tipo": "Pediatria",
     "Nombre": "Claudia Hernández",
-    "Telefono": 75227906,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "75227906",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

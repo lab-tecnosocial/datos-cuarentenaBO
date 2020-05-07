@@ -1,11 +1,13 @@
 [
   {
+    "Id": 956,
     "Departamento": "La Paz",
     "Tipo": "MedicinaFamiliar",
     "Nombre": "Ivonne Orihuela",
-    "Telefono": 73710247,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "73710247",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

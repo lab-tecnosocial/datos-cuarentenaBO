@@ -1,11 +1,13 @@
 [
   {
+    "Id": 958,
     "Departamento": "La Paz",
     "Tipo": "Imagenologia",
     "Nombre": "Marco Sanchez",
-    "Telefono": 76250797,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "76250797",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

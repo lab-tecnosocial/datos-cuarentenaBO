@@ -1,11 +1,13 @@
 [
   {
+    "Id": 951,
     "Departamento": "La Paz",
     "Tipo": "Ginecologia",
     "Nombre": "Gabriela Hinojosa",
-    "Telefono": 75820290,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "75820290",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

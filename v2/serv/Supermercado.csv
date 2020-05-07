@@ -1,0 +1,82 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+5563,La Paz,Supermercado,Ketal S.A.,Av. Busch # 1994,NA,-68.1211438542315,-16.502543070831,gamlp
+5564,La Paz,Supermercado,Fidalga,Av. Saavedra # 1963,NA,-68.1224613041781,-16.5019027450792,gamlp
+5583,La Paz,Supermercado,Ketal S.A.,Av. Arce # 2588 Esq. C. Pinilla,NA,-68.123409781176,-16.5104552750926,gamlp
+5584,La Paz,Supermercado,Fidalga,C. Capitán Ravel # 2441,NA,-68.1241895426355,-16.5077613502093,gamlp
+5585,La Paz,Supermercado,Fidalga,C. Colón # 570,NA,-68.1324861370536,-16.4966864681181,gamlp
+5595,La Paz,Supermercado,Hipermaxi S.A.,C. Rosendo Gutierrez # 469,NA,-68.1278898892875,-16.5094837876116,gamlp
+5596,La Paz,Supermercado,Ketal S.A.,Pza. España Esq. C. Méndez Arcos # 710,NA,-68.1290049956115,-16.5145448197005,gamlp
+5597,La Paz,Supermercado,Fidalga,Av. Sánchez Lima # 2362,NA,-68.1279041266666,-16.5105096280416,gamlp
+5608,La Paz,Supermercado,Ketal S.A.,C. Almirante Grau # 349,NA,-68.1359297192947,-16.5017601005288,gamlp
+5610,La Paz,Supermercado,Hipermaxi S.A.,Av. 14 de Septiembre # 6020,NA,-68.1034008685844,-16.528514689434,gamlp
+5611,La Paz,Supermercado,Súper 10,Av. H. Siles # 455 Esq. C. 10,NA,-68.1070594054754,-16.5265900116227,gamlp
+5612,La Paz,Supermercado,Ketal S.A.,C. 16 # 460,NA,-68.1020136899118,-16.5289170716585,gamlp
+5613,La Paz,Supermercado,Andy´s,C. 17,NA,-68.1007039110328,-16.5298352029942,gamlp
+5619,La Paz,Supermercado,Andy´s,Av. Montenegro # 874,NA,-68.0782208482265,-16.5427909424904,gamlp
+5620,La Paz,Supermercado,Ketal S.A.,C. 21,NA,-68.0780183814345,-16.5403161020565,gamlp
+5621,La Paz,Supermercado,Ketal S.A.,Av. Ballivián # 7967,NA,-68.083884938709,-16.539345165045,gamlp
+5623,La Paz,Supermercado,Hipermaxi S.A.,Av. José María Aguirre Achá # 85,NA,-68.070130049104,-16.5457769340856,gamlp
+5643,La Paz,Supermercado,Hipermaxi S.A.,Av. Strongest # 100,NA,-68.0621072469904,-16.518882444775,gamlp
+5644,La Paz,Supermercado,Andy´s,Av. Garcia Lanza #4,NA,-68.0725563081264,-16.5311943124744,gamlp
+5646,La Paz,Supermercado,Ketal S.A.,Av. Alexander # 108,NA,-68.071984234688,-16.5345072595007,gamlp
+5647,La Paz,Supermercado,Ketal S.A.,Av. Rafael Pabón,NA,-68.0866311490852,-16.5335684467181,gamlp
+7421,Santa Cruz,Supermercado,Hipermaxi Suc. España,Santa Cruz de la Sierra,NA,-17.8418859004,-63.1956214999,gamsc
+7422,Santa Cruz,Supermercado,Supermercado Wonderful,Santa Cruz de la Sierra,NA,-17.8413688998,-63.1956466002,gamsc
+7423,Santa Cruz,Supermercado,Estación de Servicio Moragrande 1,"Zona La Cuchilla, Av Moscú, Quinto anillo, Santa Cruz de la Sierra",NA,-17.8278734997,-63.2030321996,gamsc
+7424,Santa Cruz,Supermercado,Hipermaxi Las Palmas,"Doble vía La Guardia, Santa Cruz de la Sierra",NA,-17.8106481004,-63.2084720998,gamsc
+7425,Santa Cruz,Supermercado,Hiper Bagio,Santa Cruz de la Sierra,NA,-17.8278194003,-63.2266056997,gamsc
+7426,Santa Cruz,Supermercado,Micromercado Macarena,"Avenida Iberica, Santa Cruz de la Sierra",NA,-17.8065813999,-63.2069088002,gamsc
+7427,Santa Cruz,Supermercado,Hipermercado Plaza,"Av. Grigota entre 2do. y 3er. Anillo, Av Grigotá, Santa Cruz de la Sierra",NA,-17.8013409001,-63.1959615003,gamsc
+7428,Santa Cruz,Supermercado,Supermercados Wonderful,Santa Cruz de la Sierra,NA,-17.8189214998,-63.1835814001,gamsc
+7429,Santa Cruz,Supermercado,Super Tienda QUIna,"Av Santos Dumont esquina, Santa Cruz de la Sierra",NA,-17.820145900100002,-63.1840816001,gamsc
+7430,Santa Cruz,Supermercado,Hipermaxi Sur,"Av. Santos Dumont entre Av. Mario R. Gutierrez y, Av Roque Aguilera, Santa Cruz de la Sierra",NA,-17.8134789003,-63.1840798997,gamsc
+7431,Santa Cruz,Supermercado,Supermercados MAX,"Av. Radial 12, Santa Cruz de la Sierra",NA,-17.8076050997,-63.1719194998,gamsc
+7432,Santa Cruz,Supermercado,Supermercado Quina Sucursal 3,"Av.Prefecto Rivas Nro 250, Santa Cruz de la Sierra",NA,-17.8043764998,-63.1904367997,gamsc
+7433,Santa Cruz,Supermercado,Fidalga,"Avenida El Trompillo 632, Santa Cruz de la Sierra",NA,-17.8005057999,-63.1833124997,gamsc
+7434,Santa Cruz,Supermercado,Fidalga Reyes,"Avenida 26 De Febrero, Santa Cruz de la Sierra",NA,-17.7896614002,-63.1943129997,gamsc
+7435,Santa Cruz,Supermercado,Hipermaxi Piraí,"Segundo anillo esquina, Santa Cruz de la Sierra",NA,-17.7896994997,-63.1950572004,gamsc
+7436,Santa Cruz,Supermercado,H P Medical,"Av. Roca y Coronado, Santa Cruz de la Sierra",NA,-17.7852109997,-63.1997374998,gamsc
+7437,Santa Cruz,Supermercado,Hipermaxi,"Avenida Roca y Coronado # 800, Santa Cruz de la Sierra",NA,-17.7848854004,-63.2118605999,gamsc
+7438,Santa Cruz,Supermercado,IC Norte,"3er anillo interno,, Avenida Busch, Santa Cruz de la Sierra",NA,-17.7726559002,-63.2034347997,gamsc
+7439,Santa Cruz,Supermercado,Fidalga Equipetrol,"Dr Fermín Peralta, Santa Cruz de la Sierra",NA,-17.7603093998,-63.1979808002,gamsc
+7440,Santa Cruz,Supermercado,Tía,Santa Cruz de la Sierra,NA,-17.7551670999,-63.1998213003,gamsc
+7441,Santa Cruz,Supermercado,Hipermaxi Equipetrol,Santa Cruz de la Sierra,NA,-17.7566582001,-63.200040799600004,gamsc
+7442,Santa Cruz,Supermercado,Supermercado El Cristo,Santa Cruz de la Sierra,NA,-17.7735315003,-63.1820666999,gamsc
+7443,Santa Cruz,Supermercado,FIDALGA,Santa Cruz de la Sierra,NA,-17.7713961001,-63.1857562997,gamsc
+7444,Santa Cruz,Supermercado,Shopping Fidalga,"Av. Cristo Redentor entre Av. Pedro Ribera Mendez, Tercer Anillo Externo, Santa Cruz de la Sierra",NA,-17.7584827002,-63.1781405003,gamsc
+7445,Santa Cruz,Supermercado,Fidalga Hamacas,"Av. Beni # 500 esquina, Santa Cruz de la Sierra",NA,-17.7551306997,-63.1716851997,gamsc
+7446,Santa Cruz,Supermercado,Hiper Plaza,Santa Cruz de la Sierra,NA,-17.7504543999,-63.1765192997,gamsc
+7447,Santa Cruz,Supermercado,Supermercado,NA,NA,-17.7458330087,-63.1741841733,gamsc
+7448,Santa Cruz,Supermercado,Hipermaxi,"Avenida Cuarto Anillo, Santa Cruz de la Sierra",NA,-17.7497121,-63.1853561004,gamsc
+7449,Santa Cruz,Supermercado,Hipermaxi Gourmet,"Avenida Cuarto Anillo, Santa Cruz de la Sierra",NA,-17.7493364001,-63.1761379001,gamsc
+7450,Santa Cruz,Supermercado,Hipermaxi Super Center,"Av. Cristo Redentor 6500, Santa Cruz de la Sierra",NA,-17.7287798998,-63.1659810999,gamsc
+7451,Santa Cruz,Supermercado,Drinksmart,Santa Cruz de la Sierra,NA,-17.7152374998,-63.1661635004,gamsc
+7452,Santa Cruz,Supermercado,Supermercado Wonderful,Santa Cruz de la Sierra,NA,-17.7148987,-63.1693177004,gamsc
+7453,Santa Cruz,Supermercado,Micro Mercado Wonderfull,"Unnamed Road, Santa Cruz de la Sierra",NA,-17.6820082998,-63.1544167,gamsc
+7454,Santa Cruz,Supermercado,Fresh meat,"Unnamed Road, Santa Cruz de la Sierra",NA,-17.6831864002,-63.1547238002,gamsc
+7455,Santa Cruz,Supermercado,Hipermaxi beni,Santa Cruz de la Sierra,NA,-17.7503854002,-63.1685784002,gamsc
+7456,Santa Cruz,Supermercado,Supermercados Tia,"Av Alemania, Santa Cruz de la Sierra",NA,-17.7546740997,-63.1654143999,gamsc
+7457,Santa Cruz,Supermercado,Hipermaxi Mutualista,"zona Mutualista, Tercer Anillo Externo, Santa Cruz de la Sierra",NA,-17.7657748001,-63.1587096001,gamsc
+7458,Santa Cruz,Supermercado,Supermercado Pronto,"Av. Sta. Cruz, Santa Cruz de la Sierra",NA,-17.7746245998,-63.1661178997,gamsc
+7459,Santa Cruz,Supermercado,Makro Parque,"Av Cuarto Anillo y, Santa Cruz de la Sierra",NA,-17.7650906997,-63.1474896,gamsc
+7460,Santa Cruz,Supermercado,Hipermaxi Embutidos Fabrica,Santa Cruz de la Sierra,NA,-17.7726783,-63.1340450998,gamsc
+7461,Santa Cruz,Supermercado,Hipermaxi La Pampa,"4 Oeste, Santa Cruz de la Sierra",NA,-17.7717552001,-63.1244885004,gamsc
+7462,Santa Cruz,Supermercado,Fidalga Cotoca,Km. 8 Doble Via a Cotoca,NA,-17.7657307004,-63.1044874003,gamsc
+7463,Santa Cruz,Supermercado,Pampa De La Isla,Santa Cruz de la Sierra,NA,-17.7676244003,-63.1151462002,gamsc
+7464,Santa Cruz,Supermercado,Mercado,NA,NA,-17.7646022,-63.0967340991,gamsc
+7465,Santa Cruz,Supermercado,Hipermaxi,"Av Tres Pasos Al Frente, Santa Cruz de la Sierra",NA,-17.7953405,-63.160821,gamsc
+7466,Santa Cruz,Supermercado,Hipermaxi Villa 1° de Mayo,"Calle 10 Este, Santa Cruz de la Sierra",NA,-17.7979264002,-63.1341808004,gamsc
+7467,Santa Cruz,Supermercado,PUNTO,"Avenida 3 Pasos Al Frente, Santa Cruz de la Sierra",NA,-17.8076089003,-63.1058064002,gamsc
+7468,Santa Cruz,Supermercado,Hipermaxi Plan 3000,Santa Cruz de la Sierra,NA,-17.8355810004,-63.1322653995,gamsc
+7469,Santa Cruz,Supermercado,Placemark,"Avenida Principal Plan 3 Mil, Santa Cruz de la Sierra",NA,-17.8287696001,-63.1385316998,gamsc
+7470,Santa Cruz,Supermercado,Super Sur Fidalga SRL Central,"Av. Rene Moreno # 212 esquina, Diego de Mendoza, Santa Cruz de la Sierra",NA,-17.7937629003,-63.1800008003,gamsc
+7471,Santa Cruz,Supermercado,Hipermaxi,Santa Cruz de la Sierra,NA,-17.7942153001,-63.1812914003,gamsc
+7472,Santa Cruz,Supermercado,HiperMaxi Centro,Santa Cruz de la Sierra,NA,-17.7884774996,-63.1790471,gamsc
+7473,Santa Cruz,Supermercado,Hipermaxi Florida,"Florida, Santa Cruz de la Sierra",NA,-17.7819361,-63.1835478997,gamsc
+7474,Santa Cruz,Supermercado,Hipermaxi Cañoto,"Avenida Cañoto, Santa Cruz de la Sierra",NA,-17.7788501996,-63.1882783997,gamsc
+7475,Santa Cruz,Supermercado,Supermercado Ekko Fidalga,"Avenida Cañoto 202, Santa Cruz de la Sierra",NA,-17.7791209997,-63.1883871998,gamsc
+7476,Santa Cruz,Supermercado,Supermercados Tia,"24 de septiembre, Santa Cruz de la Sierra",NA,-17.7788212997,-63.1817440999,gamsc
+7477,Santa Cruz,Supermercado,CHINBOL,"Centro,, Santa Cruz de la Sierra",NA,-17.7833436998,-63.1740786999,gamsc
+7478,Santa Cruz,Supermercado,Macro Fidalga,"G.Velasco, Santa Cruz de la Sierra",NA,-17.7766503004,-63.1733265997,gamsc
+7479,Santa Cruz,Supermercado,Supermercado Okinawa,"Calle Quijarro, Santa Cruz de la Sierra",NA,-17.7766148999,-63.1785435001,gamsc
+7480,Santa Cruz,Supermercado,Yuri Market,"0000, Santa Cruz de la Sierra",NA,-17.7768940001,-63.1784891003,gamsc

@@ -1,0 +1,222 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+5668,La Paz,MercadoMovil,Valle de la Luna,Av. Mallasa Altura Banderas,NA,-68.100383022553,-16.5624874563218,gamlp
+5669,La Paz,MercadoMovil,Plaza Uyuni,Plaza Uyuni,NA,-68.1242837634443,-16.4969564468905,gamlp
+5670,La Paz,MercadoMovil,Plaza Lira,"Plaza Lira, Sopocachi",NA,-68.1341839380113,-16.5135450276546,gamlp
+5671,La Paz,MercadoMovil,Plaza Bolivia,Plaza Bolivia,NA,-68.1265977090096,-16.5068595974268,gamlp
+5672,La Paz,MercadoMovil,Mariscal Santa Cruz,Av. Segundo Bascones,NA,-68.1630405904737,-16.4934705580345,gamlp
+5673,La Paz,MercadoMovil,Kupini,"Av. Escobar Uria y Periferica, interseccion Jockoni y Callapa",NA,-68.094479694343,-16.5058081218804,gamlp
+5674,La Paz,MercadoMovil,Jupapina,Av. Tricentenario c. 5 Jupapina,NA,-68.0708481520356,-16.5913455431903,gamlp
+5675,La Paz,MercadoMovil,Heroes del Chaco,C. Heroes del Chaco entre 1 y 2,NA,-68.1106348168605,-16.5125497240662,gamlp
+5676,La Paz,MercadoMovil,Hernando Siles,Av. Hernando Siles,NA,-68.1050290465173,-16.5570666289522,gamlp
+5677,La Paz,MercadoMovil,Cosmos 85,Cosmos 85 parada del pumakatari,NA,-68.0942647022885,-16.4866926150264,gamlp
+5678,La Paz,MercadoMovil,Chuquiaguillo,Av. Ramiro Castillo,NA,-68.1021418610819,-16.4594139327853,gamlp
+5679,La Paz,MercadoMovil,Casegural,Wilacota,NA,-68.0412320614948,-16.532214856794,gamlp
+5680,La Paz,MercadoMovil,Caja Ferroviaria,"Caja Ferroviaria, Altura Rotonda",NA,-68.1491861885303,-16.4501227650382,gamlp
+5681,La Paz,MercadoMovil,Baden Pawell,Plaza Baden Pawell (calles Jaimes y Mariaca),NA,-68.1173115373719,-16.504685195243,gamlp
+5682,La Paz,MercadoMovil,9 de abril,Av. 5 de agosto,NA,-68.1524360791018,-16.506103387422,gamlp
+5683,La Paz,MercadoMovil,24 de junio,Cancha Zona 24 de junio,NA,-68.108398642648,-16.4801497835856,gamlp
+5684,La Paz,MercadoMovil,23 de marzo,FInaL 23 MARZO (INGRESO VALLE DE LAS FLORES ZOna PAMPAHASI,NA,-68.0998906367818,-16.4990450768302,gamlp
+5685,La Paz,MercadoMovil,Plaza Riosinio,Av. Armentia,NA,-68.1356356238069,-16.4915039120989,gamlp
+5686,La Paz,MercadoMovil,Almirante Grau,Irpavi calle 5,NA,-68.0874107784577,-16.5242010859443,gamlp
+5687,La Paz,MercadoMovil,18 de obrajes,obrajes calle 18,NA,-68.1084131698197,-16.5271391151228,gamlp
+5688,La Paz,MercadoMovil,Universidad Saleciana,"Av. Chacaltaya, Altura Universidad Saleciana",NA,-68.1500920116876,-16.4775036389121,gamlp
+5689,La Paz,MercadoMovil,Cupilupaca,"Av. Periferica, Zona Cupilupaca",NA,-68.1301175647087,-16.4796045398875,gamlp
+5690,La Paz,MercadoMovil,Hogares Fatima,Zona Hogares Fatima,NA,-68.118015254171,-16.4694364264053,gamlp
+5691,La Paz,MercadoMovil,Plaza El Condor,"Av. Landaeta, media cuadra mas arriba de la plaza el condor",NA,-68.1360475964017,-16.509500690501,gamlp
+5692,La Paz,MercadoMovil,San Lorenzo,"Av. San Lorenzo, Sede Social",NA,-68.1511112779753,-16.4467185177357,gamlp
+5693,La Paz,MercadoMovil,Plaza Andrew,Plaza Andrew,NA,-68.1358500844013,-16.5111449917994,gamlp
+5694,La Paz,MercadoMovil,Av. Mario Mercado,"Av. Mario Mercado, frente a la UE Hugo Chavez",NA,-68.1265762784274,-16.5314805245664,gamlp
+5695,La Paz,MercadoMovil,Tres Fuerzas,Av. Alexander,NA,-68.0739809151313,-16.535860074258,gamlp
+5696,La Paz,MercadoMovil,Virgen de La Merced,NA,NA,-68.0697555638859,-16.5415358188719,gamlp
+5697,La Paz,MercadoMovil,Alto Obrajes,Alto Obrajes Sector D,NA,-68.1029624157892,-16.5200165120212,gamlp
+5698,La Paz,MercadoMovil,Bajo Seguencoma,Bajo Seguencoma,NA,-68.0958898812044,-16.5401321637108,gamlp
+7231,Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. BENI,NA,-17.7704412492,-63.1788952792,gamsc
+7232,Santa Cruz,MercadoMovil,Distrito Urbano 1,ROTONDA 2DO ANILLO CRISTO REDENTOR,NA,-17.7704736411,-63.1825151843,gamsc
+7233,Santa Cruz,MercadoMovil,Distrito Urbano 1,ROTONDA 2DO ANILLO CENTEnaRIO,NA,-17.7793245444,-63.1937408935,gamsc
+7234,Santa Cruz,MercadoMovil,Distrito Urbano 3,ROTONDA 2DO ANILLO AV. BRASIL,NA,-17.7874318826,-63.1642970636,gamsc
+7235,Santa Cruz,MercadoMovil,Distrito Urbano 4,ROTONDA 2DO ANILLO AV. LA BARRANCA,NA,-17.798074254,-63.1754118283,gamsc
+7236,Santa Cruz,MercadoMovil,Distrito Urbano 11,MELCHOR PINTO PARADA,NA,-17.7829881886,-63.1721962723,gamsc
+7237,Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. LAS AMERICAS,NA,-17.791853275,-63.1777376157,gamsc
+7238,Santa Cruz,MercadoMovil,Distrito Urbano 11,PLAZA ESPA?A / AV. ARGENTIna,NA,-17.7911819756,-63.1736048844,gamsc
+7239,Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. EJERCITO /AV. IRALA,NA,-17.7931848446,-63.1868561433,gamsc
+7240,Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. LANDIVAR,NA,-17.7844225841,-63.1888996769,gamsc
+7241,Santa Cruz,MercadoMovil,Distrito Urbano 11,AV. BRASIL/ AV. VIEDMA,NA,-17.7855463762,-63.171859513,gamsc
+7242,Santa Cruz,MercadoMovil,Distrito Urbano 11,CALLE PARI/ ISABEL LA CATOLICA,NA,-17.7885672814,-63.1877550231,gamsc
+7243,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7623000215,-63.1913452172,gamsc
+7244,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7609001551,-63.1873372611,gamsc
+7245,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7598921851,-63.1827565687,gamsc
+7246,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.759533501,-63.1747732301,gamsc
+7247,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.7765014267,-63.1549947795,gamsc
+7248,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.779758392,-63.1473975221,gamsc
+7249,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7857499604,-63.1479861135,gamsc
+7250,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.7891257854,-63.148212504,gamsc
+7251,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8023884775,-63.1516092708,gamsc
+7252,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.808938458,-63.1576226248,gamsc
+7253,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8104799536,-63.1598907771,gamsc
+7254,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8059115369,-63.1541087802,gamsc
+7255,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8198063619,-63.1716641294,gamsc
+7256,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8220866523,-63.1769568192,gamsc
+7257,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8227325626,-63.184292092,gamsc
+7258,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8192063941,-63.1982680527,gamsc
+7259,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8154922279,-63.204189086,gamsc
+7260,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.805712951,-63.2127280959,gamsc
+7261,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8013293968,-63.2148240298,gamsc
+7262,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7917949881,-63.2166610061,gamsc
+7263,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7778198878,-63.2162992268,gamsc
+7264,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.752035615,-63.1921403715,gamsc
+7265,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.750522497,-63.1867693593,gamsc
+7266,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7496967609,-63.1807227107,gamsc
+7267,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7499672909,-63.1752672678,gamsc
+7268,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.7517706735,-63.1639382568,gamsc
+7269,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.7548047176,-63.1574023147,gamsc
+7270,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.7652026125,-63.1487104435,gamsc
+7271,Santa Cruz,MercadoMovil,Distrito Urbano 2,Mercado movilES,NA,-17.775618115,-63.1470966165,gamsc
+7272,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7912988915,-63.1392575904,gamsc
+7273,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.8005396938,-63.142278402,gamsc
+7274,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8076751844,-63.1412045884,gamsc
+7275,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8116844191,-63.143309349,gamsc
+7276,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8310568575,-63.1756560994,gamsc
+7277,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8323697886,-63.1944651083,gamsc
+7278,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8248674114,-63.2063562872,gamsc
+7279,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8214468128,-63.2089501519,gamsc
+7280,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8162959429,-63.2132257797,gamsc
+7281,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.8015927289,-63.226284425,gamsc
+7282,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7890548791,-63.2245397795,gamsc
+7283,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7861653507,-63.2235702297,gamsc
+7284,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.740807719,-63.1898677697,gamsc
+7285,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7374193234,-63.1796680122,gamsc
+7286,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7404853211,-63.1714299035,gamsc
+7287,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7443710719,-63.1610551026,gamsc
+7288,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.747756838,-63.1524419239,gamsc
+7289,Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,NA,-17.7488715864,-63.1498305157,gamsc
+7290,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7866343131,-63.1338393323,gamsc
+7291,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.801501874,-63.1352831634,gamsc
+7292,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7844867443,-63.1274586258,gamsc
+7293,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7924477221,-63.1266322484,gamsc
+7294,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7969984339,-63.1270021374,gamsc
+7295,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.8022262838,-63.1276092687,gamsc
+7296,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8120282543,-63.1365781725,gamsc
+7297,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8149051396,-63.1287444614,gamsc
+7298,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.821121119,-63.135791582,gamsc
+7299,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8264030684,-63.1587114309,gamsc
+7300,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8288625033,-63.1390903216,gamsc
+7301,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8344184952,-63.1656696208,gamsc
+7302,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8234777089,-63.1646790167,gamsc
+7303,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8411139947,-63.1721829588,gamsc
+7304,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8406552488,-63.1605481522,gamsc
+7305,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8450982697,-63.1810633238,gamsc
+7306,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8519337592,-63.181245101,gamsc
+7307,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8590866572,-63.1864405615,gamsc
+7308,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8517868216,-63.1986348666,gamsc
+7309,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8415108853,-63.1958913755,gamsc
+7310,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8355957501,-63.208150723,gamsc
+7311,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8434717789,-63.2136600062,gamsc
+7312,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8273381143,-63.2150686809,gamsc
+7313,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8373243876,-63.2231190001,gamsc
+7314,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8224428544,-63.2202141225,gamsc
+7315,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8314992625,-63.2304477236,gamsc
+7316,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.817403285,-63.2256940593,gamsc
+7317,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8247949529,-63.2339666518,gamsc
+7318,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8107577886,-63.2327919343,gamsc
+7319,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8159826074,-63.2386282863,gamsc
+7320,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7248695661,-63.1908287226,gamsc
+7321,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7208901382,-63.1893412127,gamsc
+7322,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7292677458,-63.175893747800004,gamsc
+7323,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7223265622,-63.1733522012,gamsc
+7324,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7198743324,-63.1806742275,gamsc
+7325,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7349013422,-63.1602773692,gamsc
+7326,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7282864843,-63.1569817869,gamsc
+7327,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7309649965,-63.1501657612,gamsc
+7328,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.8009044543,-63.1857232031,gamsc
+7329,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.8008907397,-63.1892163255,gamsc
+7330,Santa Cruz,MercadoMovil,Distrito Urbano 11,Mercado movilES,NA,-17.7980911993,-63.1926739326,gamsc
+7331,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7848917606,-63.1949764406,gamsc
+7332,Santa Cruz,MercadoMovil,Distrito Urbano 3,Mercado movilES,NA,-17.8044700859,-63.1653853317,gamsc
+7333,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.8110700494,-63.1741982324,gamsc
+7334,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.8106050575,-63.1774463442,gamsc
+7335,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.810968458,-63.1902002805,gamsc
+7336,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.8103855664,-63.1950989095,gamsc
+7337,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7372914344,-63.1542169829,gamsc
+7338,Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,NA,-17.7367519705,-63.1416215945,gamsc
+7339,Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,NA,-17.7425382659,-63.1455398639,gamsc
+7340,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7347579803,-63.1438824493,gamsc
+7341,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7410286839,-63.1480086785,gamsc
+7342,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7426172116,-63.113950713,gamsc
+7343,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7519594012,-63.1290853803,gamsc
+7344,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7617727096,-63.1274202272,gamsc
+7345,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7593845637,-63.1205050818,gamsc
+7346,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.716266495,-63.1620053939,gamsc
+7347,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8294398773,-63.2001212332,gamsc
+7348,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7093763941,-63.160009499,gamsc
+7349,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7038926985,-63.1597150457,gamsc
+7350,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6983788312,-63.1350828229,gamsc
+7351,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6870499623,-63.1463979105,gamsc
+7352,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7327954383,-63.1560074749,gamsc
+7353,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7315472647,-63.1638268952,gamsc
+7354,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7163591168,-63.1561670381,gamsc
+7355,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6960219449,-63.1590867811,gamsc
+7356,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7493270946,-63.1104223268,gamsc
+7357,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7518855299,-63.0940633453,gamsc
+7358,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7500651489,-63.0899981601,gamsc
+7359,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7534763132,-63.098701062,gamsc
+7360,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7651901824,-63.1131097431,gamsc
+7361,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7657512301,-63.107706804,gamsc
+7362,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7767743096,-63.1075443882,gamsc
+7363,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7601615907,-63.089895637,gamsc
+7364,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7217731009,-63.083175357,gamsc
+7365,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7590262931,-63.0994409245,gamsc
+7366,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7913791986,-63.089442054,gamsc
+7367,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7986230423,-63.0862471821,gamsc
+7368,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7834598088,-63.0907038659,gamsc
+7369,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7666979692,-63.0949080689,gamsc
+7370,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7926702738,-63.1181055966,gamsc
+7371,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7929489261,-63.108463917900004,gamsc
+7372,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7974211162,-63.1185150406,gamsc
+7373,Santa Cruz,MercadoMovil,Distrito Urbano 1,B. LAS CARMELITAS  UE SARAH PORRAS,NA,-17.7959536662,-63.2231445315,gamsc
+7374,Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. GUAPAY O CAnaL COTOCA,NA,-17.7783069891,-63.1651107049,gamsc
+7375,Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO PARAGUA,NA,-17.7743320895,-63.1659330673,gamsc
+7376,Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO MUTUALISTA,NA,-17.7715824314,-63.1680694003,gamsc
+7377,Santa Cruz,MercadoMovil,Distrito Urbano 11,ROTONDA 2DO ANILLO AV. ALEMAna,NA,-17.7702767562,-63.1712319428,gamsc
+7378,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.806394079,-63.1971907117,gamsc
+7379,Santa Cruz,MercadoMovil,Distrito Urbano 4,Mercado movilES,NA,-17.803913216,-63.1992414205,gamsc
+7380,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7900321146,-63.2049131494,gamsc
+7381,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7853324231,-63.2046280478,gamsc
+7382,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7775592155,-63.2035586969,gamsc
+7383,Santa Cruz,MercadoMovil,Distrito Urbano 1,Mercado movilES,NA,-17.7695632415,-63.2016577937,gamsc
+7384,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.7979405691,-63.1087697462,gamsc
+7385,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.802385428,-63.1171362844,gamsc
+7386,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.8027657331,-63.1090740663,gamsc
+7387,Santa Cruz,MercadoMovil,Distrito Urbano 7,Mercado movilES,NA,-17.8021955541,-63.0982092529,gamsc
+7388,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8216842975,-63.124966787300004,gamsc
+7389,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8137939884,-63.1097660835,gamsc
+7390,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8276160643,-63.096641311,gamsc
+7391,Santa Cruz,MercadoMovil,Distrito Urbano 8,Mercado movilES,NA,-17.8386456597,-63.1201979304,gamsc
+7392,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6940650109,-63.1636314393,gamsc
+7393,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7229858714,-63.1794345822,gamsc
+7394,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7294825738,-63.1807289124,gamsc
+7395,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7368209444,-63.1115503954,gamsc
+7396,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8429228141,-63.172549979,gamsc
+7397,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8731491761,-63.1922681126,gamsc
+7398,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8539029407,-63.1468467505,gamsc
+7399,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8511373409,-63.219109699,gamsc
+7400,Santa Cruz,MercadoMovil,Distrito Urbano 10,Mercado movilES,NA,-17.8559858262,-63.2138819203,gamsc
+7401,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7140788163,-63.1863536565,gamsc
+7402,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6835726862,-63.1803035616,gamsc
+7403,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.6865167628,-63.1720294405,gamsc
+7404,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8657803644,-63.2021677208,gamsc
+7405,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8545808425,-63.1636013184,gamsc
+7406,Santa Cruz,MercadoMovil,Distrito Urbano 12,Mercado movilES,NA,-17.8570110071,-63.1769030272,gamsc
+7407,Santa Cruz,MercadoMovil,Distrito Urbano 9,Mercado movilES,NA,-17.8657144217,-63.1893123236,gamsc
+7408,Santa Cruz,MercadoMovil,Distrito Urbano/Rural 13,Mercado movilES,NA,-17.8856957733,-63.1144977025,gamsc
+7409,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7114546875,-63.1276590063,gamsc
+7410,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7038753334,-63.1730240641,gamsc
+7411,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7199282054,-63.1525914108,gamsc
+7412,Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,NA,-17.7281359043,-63.1358703859,gamsc
+7413,Santa Cruz,MercadoMovil,Distrito Industrial,Mercado movilES,NA,-17.7201269637,-63.1305539177,gamsc
+7414,Santa Cruz,MercadoMovil,Distrito Urbano 5,Mercado movilES,NA,-17.7135924492,-63.1469612118,gamsc
+7415,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7383952671,-63.1071951194,gamsc
+7416,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7353821599,-63.101656319600004,gamsc
+7417,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7321833162,-63.0962122655,gamsc
+7418,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7455843209,-63.1027334481,gamsc
+7419,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7433465971,-63.0976702392,gamsc
+7420,Santa Cruz,MercadoMovil,Distrito Urbano 6,Mercado movilES,NA,-17.7407166591,-63.0916516864,gamsc

@@ -1,11 +1,13 @@
 [
   {
+    "Id": 976,
     "Departamento": "La Paz",
     "Tipo": "Psicomotricidad",
     "Nombre": "Pamela Mamani",
-    "Telefono": 79676634,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "79676634",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]

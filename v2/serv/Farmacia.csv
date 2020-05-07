@@ -1,0 +1,2130 @@
+Id,Departamento,Tipo,Nombre,Direccion,Telefono,Latitud,Longitud,Fuente
+816,Cochabamba,Farmacia,Farmacorp,NA,4524244,NA,NA,web
+817,Cochabamba,Farmacia,Chavez,NA,69430074-4522252,NA,NA,web
+818,Cochabamba,Farmacia,Dosis Farma,NA,70730486,NA,NA,web
+819,Cochabamba,Farmacia,Zurich,NA,65707053,NA,NA,web
+3894,NA,Farmacia,Boliviana,Calle Plaza 14 de Septiembre,NA,-17.394423,-66.15726,osm
+3895,NA,Farmacia,Cosmos,Calle Plaza 14 de Septiembre,NA,-17.3939862,-66.1575195,osm
+3896,NA,Farmacia,NA,NA,NA,-17.7353071,-65.1908396,osm
+3897,NA,Farmacia,NA,NA,NA,-17.9412654,-65.3421267,osm
+3898,NA,Farmacia,NA,NA,NA,-17.5884661,-65.9353823,osm
+3899,NA,Farmacia,NA,NA,NA,-17.5898815,-65.9346314,osm
+3900,NA,Farmacia,Farmacia Chapare,NA,NA,-16.9720831,-65.4151353,osm
+3901,NA,Farmacia,Farmacorp,NA,NA,-17.7835161,-63.1891392,osm
+3902,NA,Farmacia,Farmacorp,NA,NA,-17.8143953,-63.1824589,osm
+3903,NA,Farmacia,Santa María (Farmacorp),NA,NA,-17.7927779,-63.1844923,osm
+3904,NA,Farmacia,Farmacorp,NA,NA,-17.7943391,-63.179019,osm
+3905,NA,Farmacia,PROSALUD,NA,NA,-17.7907205,-63.2110513,osm
+3906,NA,Farmacia,Litoral,NA,NA,-16.5056224,-68.1619857,osm
+3907,NA,Farmacia,FarmaCorp IC Norte,NA,NA,-17.7730203,-63.2031465,osm
+3908,NA,Farmacia,NA,NA,NA,-17.3422524,-63.2486116,osm
+3909,NA,Farmacia,NA,NA,NA,-17.3417301,-63.2489281,osm
+3910,NA,Farmacia,Farmacia San Jorge,NA,NA,-17.8476883,-60.7415012,osm
+3911,NA,Farmacia,Farmacias Gloria,NA,NA,-16.5116497,-68.122393,osm
+3912,NA,Farmacia,Super Farmacia Arce,Avenida Arce,NA,-16.5102508,-68.1236572,osm
+3913,NA,Farmacia,Farmacia Unidas,NA,NA,-16.4965341,-68.1396004,osm
+3914,NA,Farmacia,NA,NA,NA,-20.4646777,-66.824643,osm
+3915,NA,Farmacia,NA,NA,NA,-20.4641479,-66.826009,osm
+3916,NA,Farmacia,Farmacia Central,NA,NA,-14.8340617,-64.9045792,osm
+3917,NA,Farmacia,Farmacia Zurizadai,NA,NA,-16.3772445,-60.9646675,osm
+3918,NA,Farmacia,NA,NA,NA,-16.376045,-60.957543,osm
+3919,NA,Farmacia,NA,NA,NA,-16.3776576,-60.9610602,osm
+3920,NA,Farmacia,Mariely,Avenida Heroínas,NA,-17.390935,-66.149189,osm
+3921,NA,Farmacia,NA,NA,NA,-17.3594893,-66.1714593,osm
+3922,NA,Farmacia,NA,NA,NA,-16.5277407,-68.0965666,osm
+3923,NA,Farmacia,Super Farmacia,Calle 17,NA,-16.5296479,-68.1001262,osm
+3924,NA,Farmacia,NA,NA,NA,-17.3855168,-66.0982472,osm
+3925,NA,Farmacia,Farmacias Bolivia,Calle Landaeta,NA,-16.5045374,-68.1314466,osm
+3926,NA,Farmacia,Cruz Verde,NA,NA,-16.5024263,-68.1373953,osm
+3927,NA,Farmacia,Gamma,Avenida América,NA,-17.3731287,-66.1499948,osm
+3928,NA,Farmacia,San Elias,Calle 16 de Julio,NA,-17.3933542,-66.1509363,osm
+3929,NA,Farmacia,Chávez,NA,NA,-17.3848789,-66.1584478,osm
+3930,NA,Farmacia,FarmaCorp,NA,NA,-17.3858344,-66.157683,osm
+3931,NA,Farmacia,La Luz I,Avenida Oquendo,NA,-17.3896943,-66.1504902,osm
+3932,NA,Farmacia,Farmacorp,NA,NA,-17.3941556,-66.2783178,osm
+3933,NA,Farmacia,Farmacia Eliana,NA,NA,-17.3943667,-66.2801688,osm
+3934,NA,Farmacia,FarmaElías,Avenida Libertador Bolivar,NA,-17.3736157,-66.1626123,osm
+3935,NA,Farmacia,NA,NA,NA,-17.3916966,-66.153323,osm
+3936,NA,Farmacia,NA,Avenida Heroínas,NA,-17.3918707,-66.154168,osm
+3937,NA,Farmacia,Interlab,Avenida Mariano Bautista,NA,-16.4955462,-68.1464956,osm
+3938,NA,Farmacia,Farmacia Noe,Avenida Mariano Bautista,NA,-16.4958145,-68.1467525,osm
+3939,NA,Farmacia,Farmacia Baptista,NA,NA,-16.4957943,-68.1479291,osm
+3940,NA,Farmacia,FarmaCorp,Avenida América,NA,-17.3734898,-66.1508922,osm
+3941,NA,Farmacia,FarmaCorp,Avenida d'Orbigny,NA,-17.3883857,-66.1796687,osm
+3942,NA,Farmacia,Tarija,Avenida General Galindo,NA,-17.3746418,-66.1426281,osm
+3943,NA,Farmacia,NA,NA,NA,-17.3830789,-66.1091598,osm
+3944,NA,Farmacia,NA,NA,NA,-17.3863117,-66.1104714,osm
+3945,NA,Farmacia,FarmaCorp,Avenida América,NA,-17.37144,-66.1755553,osm
+3946,NA,Farmacia,Soto,Avenida Melchor Perez de Olguín,NA,-17.3719744,-66.1759756,osm
+3947,NA,Farmacia,Cosmos,Avenida Salamanca,NA,-17.3835308,-66.1528745,osm
+3948,NA,Farmacia,Farmacia Eliezer,NA,NA,-17.3904856,-66.2411964,osm
+3949,NA,Farmacia,Blanco Galindo,NA,NA,-17.3908613,-66.2507611,osm
+3950,NA,Farmacia,Neyzi,Calle 31 de Octubre,NA,-17.3892999,-66.2527701,osm
+3951,NA,Farmacia,Eliezer,Avenida Blanco Galindo,NA,-17.3926168,-66.2077453,osm
+3952,NA,Farmacia,Farmacias Bolivia,NA,NA,-17.393726,-66.1840627,osm
+3953,NA,Farmacia,San Cristobal,Avenida Blanco Galindo,NA,-17.3915319,-66.2516435,osm
+3954,NA,Farmacia,Lincoln,Avenida Abraham Lincoln,NA,-17.3702134,-66.1717302,osm
+3955,NA,Farmacia,Farmacia Andalucía,NA,NA,-17.3863771,-66.1498819,osm
+3956,NA,Farmacia,Farmapolis,Avenida Aniceto Arce,NA,-17.3856176,-66.1474724,osm
+3957,NA,Farmacia,NA,NA,NA,-17.3767025,-66.1727944,osm
+3958,NA,Farmacia,MAXIFarma,Avenida América,NA,-17.3725706,-66.1579183,osm
+3959,NA,Farmacia,Margarita,NA,NA,-17.3732129,-66.1570624,osm
+3960,NA,Farmacia,Luz,Zapata,NA,-16.5050395,-68.1291197,osm
+3961,NA,Farmacia,Boticario,NA,NA,-17.3901136,-66.1444472,osm
+3962,NA,Farmacia,FarmaCorp,NA,NA,-17.385748,-66.1512677,osm
+3963,NA,Farmacia,Farmatodo,NA,NA,-17.3838391,-66.1516266,osm
+3964,NA,Farmacia,Farmacias Bolivia,Avenida Ballivián,NA,-17.3870084,-66.1567054,osm
+3965,NA,Farmacia,Infama,Avenida Guillermo Killman,NA,-17.4109563,-66.1653981,osm
+3966,NA,Farmacia,MaxiFarma,Avenida América,NA,-17.3724007,-66.160941,osm
+3967,NA,Farmacia,Farmacia Carla,NA,NA,-17.3721386,-66.1500481,osm
+3968,NA,Farmacia,Farmavia 29 de Enero,Avenida Ferroviaria,NA,-20.4576023,-66.8179491,osm
+3969,NA,Farmacia,Med Fast,NA,NA,-17.3774052,-66.1541714,osm
+3970,NA,Farmacia,San Elías,NA,NA,-17.3686084,-66.1642522,osm
+3971,NA,Farmacia,FarmaCorp,NA,NA,-17.3937403,-66.1540751,osm
+3972,NA,Farmacia,Aries,NA,NA,-17.3966082,-66.1711215,osm
+3973,NA,Farmacia,San Elías,NA,NA,-17.377738,-66.175856,osm
+3974,NA,Farmacia,Farmacia Maranatha,NA,NA,-17.3840618,-66.1436206,osm
+3975,NA,Farmacia,Social Farma,NA,NA,-17.3905858,-66.154657,osm
+3976,NA,Farmacia,Dr. House,Calle José Pol,NA,-17.3888109,-66.1451684,osm
+3977,NA,Farmacia,NA,NA,NA,-17.3896299,-66.1493548,osm
+3978,NA,Farmacia,San Simón,Avenida Belzu,NA,-17.3915922,-66.1429893,osm
+3979,NA,Farmacia,Cruz de Oro,General Juan Granier,NA,-16.4971807,-68.1487052,osm
+3980,NA,Farmacia,Suma Kolla,NA,NA,-16.4957475,-68.1487045,osm
+3981,NA,Farmacia,Farmacia Bolivia,NA,NA,-17.603415,-63.135718,osm
+3982,NA,Farmacia,TAYAMAR,NA,NA,-16.5370482,-68.0478116,osm
+3983,NA,Farmacia,Farmacia Candelaria,NA,NA,-18.1998849,-65.1823111,osm
+3984,NA,Farmacia,Farmacia Aiquile,NA,NA,-18.2019595,-65.1799385,osm
+3985,NA,Farmacia,Farmacia Israel,NA,NA,-17.7368279,-63.1610155,osm
+3986,NA,Farmacia,Las Palmeras,NA,NA,-16.1883271,-67.7278186,osm
+3987,NA,Farmacia,LIZ,Avenida de las Américas,NA,-16.4767778,-68.1191209,osm
+3988,NA,Farmacia,farmacia natural,NA,NA,-16.4095986,-67.5260163,osm
+3989,NA,Farmacia,FarmaCorp,NA,NA,-17.3913746,-66.2195514,osm
+3990,NA,Farmacia,Farmacia,NA,NA,-17.8303422,-63.1736932,osm
+3991,NA,Farmacia,Farmacia,NA,NA,-17.8312603,-63.1752851,osm
+3992,NA,Farmacia,NA,NA,NA,-17.831068900000002,-63.1750548,osm
+3993,NA,Farmacia,Farmacia,NA,NA,-17.8314294,-63.176008,osm
+3994,NA,Farmacia,Farmacia Gloria Los Pinos,José Maria Aguirre Acha,NA,-16.5453086,-68.0734293,osm
+3995,NA,Farmacia,Minerva,NA,NA,-17.3849795,-66.1534921,osm
+3996,NA,Farmacia,Farmacias Hipermaxi,NA,NA,-17.8104253,-63.2083469,osm
+3997,NA,Farmacia,Chávez,NA,NA,-17.8050244,-63.2009876,osm
+3998,NA,Farmacia,NA,NA,NA,-16.4946435,-68.1136754,osm
+3999,NA,Farmacia,Farmacia Enrines,NA,NA,-16.4969098,-68.1162265,osm
+4000,NA,Farmacia,NA,NA,NA,-16.4979947,-68.115008,osm
+4001,NA,Farmacia,Venus,Avenida Esteban Arze,NA,-16.4956193,-68.11613,osm
+4002,NA,Farmacia,Farmacia Virgen del Carmen,NA,NA,-15.4983944,-67.8792282,osm
+4003,NA,Farmacia,Armonía,Avenida Circunvalación Beijing,NA,-17.3526322,-66.1822732,osm
+4004,NA,Farmacia,NA,NA,NA,-17.4200508,-66.139458200000007,osm
+4005,NA,Farmacia,NA,NA,NA,-17.4209933,-66.1379485,osm
+4006,NA,Farmacia,NA,Avenida Simón Lopez,NA,-17.3557801,-66.1863209,osm
+4007,NA,Farmacia,NA,Avenida Simón Lopez,NA,-17.3555381,-66.186621,osm
+4008,NA,Farmacia,Señor de Malta,Avenida Simón Lopez,NA,-17.3524179,-66.1906499,osm
+4009,NA,Farmacia,Jhon,Avenida Simón Lopez,NA,-17.3538152,-66.1888674,osm
+4010,NA,Farmacia,El Descuento,Avenida Simón Lopez,NA,-17.3544814,-66.1880527,osm
+4011,NA,Farmacia,Tordoya,Avenida Simón Lopez,NA,-17.3552612,-66.187014,osm
+4012,NA,Farmacia,Perez,Avenida Simón Lopez,NA,-17.3581849,-66.1839705,osm
+4013,NA,Farmacia,NA,Avenida Simón Lopez,NA,-17.3607429,-66.1825445,osm
+4014,NA,Farmacia,CVCD Farma,NA,NA,-17.3665236,-66.1665667,osm
+4015,NA,Farmacia,Farmacias Bolivar,Avenida Ayacucho,NA,-17.3927421,-66.15899,osm
+4016,NA,Farmacia,Boliviana,Avenida Ayacucho,NA,-17.3928236,-66.1589762,osm
+4017,NA,Farmacia,NA,NA,NA,-17.4048485,-66.1669107,osm
+4018,NA,Farmacia,Salud,Calle Luis Uriona,NA,-17.4068872,-66.1704113,osm
+4019,NA,Farmacia,NA,NA,NA,-17.4044237,-66.1805486,osm
+4020,NA,Farmacia,NA,Avenida Ingavi,NA,-17.401778,-66.182182,osm
+4021,NA,Farmacia,NA,Avenida Thunupa,NA,-17.3790518,-66.188213,osm
+4022,NA,Farmacia,NA,Avenida Simón Lopez,NA,-17.3535868,-66.18859,osm
+4023,NA,Farmacia,Portales,NA,NA,-17.3785311,-66.152553,osm
+4024,NA,Farmacia,NA,Avenida Circunvalación Beijing,NA,-17.3552673,-66.178561,osm
+4025,NA,Farmacia,Elias,Avenida Circunvalación Beijing,NA,-17.3590298,-66.1729179,osm
+4026,NA,Farmacia,San Severino I,Nicolás Suárez,NA,-14.8318826,-64.9043823,osm
+4027,NA,Farmacia,NA,Avenida Circunvalación Beijing,NA,-17.3589511,-66.1722674,osm
+4028,NA,Farmacia,NA,Avenida Circunvalación Beijing,NA,-17.3587566,-66.1726844,osm
+4029,NA,Farmacia,NA,Avenida Circunvalación Beijing,NA,-17.3578196,-66.1747015,osm
+4030,NA,Farmacia,NA,NA,NA,-17.3570272,-66.1759567,osm
+4031,NA,Farmacia,NA,Avenida Circunvalación Beijing,NA,-17.3521969,-66.1823062,osm
+4032,NA,Farmacia,Quiroz,Avenida Petrolera,NA,-17.429288,-66.1510434,osm
+4033,NA,Farmacia,TriniFarma,Ibare,NA,-14.840253,-64.8999952,osm
+4034,NA,Farmacia,Sydney,Calle 25 de Mayo,NA,-17.401249,-66.1540736,osm
+4035,NA,Farmacia,Lisam,Calle Honduras,NA,-17.4014908,-66.1527754,osm
+4036,NA,Farmacia,FarmaElias,Avenida Belzu,NA,-17.3925959,-66.1422598,osm
+4037,NA,Farmacia,Salud y Bienestar,Avenida Independencia,NA,-17.4382533,-66.1461902,osm
+4038,NA,Farmacia,Leslie,NA,NA,-17.3850474,-66.0981823,osm
+4039,NA,Farmacia,Farmacia Chavez,Calle Plaza Luis Felipe Guzmán Achá,NA,-17.368125,-66.1635827,osm
+4040,NA,Farmacia,Paolita,NA,NA,-11.018758,-68.7555683,osm
+4041,NA,Farmacia,El Cristo,NA,NA,-17.3487883,-66.1763719,osm
+4042,NA,Farmacia,Punata,Plaza 18 de Mayo,NA,-17.54497,-65.8363302,osm
+4043,NA,Farmacia,Corazon de Jesus,Plaza 18 de Mayo,NA,-17.5455742,-65.8365702,osm
+4044,NA,Farmacia,San Juan de Dios,Plaza 18 de Mayo,NA,-17.5454762,-65.8360905,osm
+4045,NA,Farmacia,NA,Rafael Urquidi,NA,-17.5441669,-65.8369508,osm
+4046,NA,Farmacia,Farmacia Urkupiña,NA,NA,-18.2000836,-65.1794281,osm
+4047,NA,Farmacia,NA,NA,NA,-18.2025681,-65.177458,osm
+4048,NA,Farmacia,Farmavida,Avenida Papa Paulo,NA,-17.3839534,-66.1471854,osm
+4049,NA,Farmacia,El Dorado,NA,NA,-17.4010515,-66.1540428,osm
+4050,NA,Farmacia,Rioja,Avenida Martín de la Rocha,NA,-17.3833512,-66.1687444,osm
+4051,NA,Farmacia,NA,Avenida Felix Aranibar,NA,-17.3818213,-66.1659488,osm
+4052,NA,Farmacia,ACRE,NA,NA,-17.3964564,-66.1790771,osm
+4053,NA,Farmacia,Huellas de Jesus,NA,NA,-17.396253,-66.174435,osm
+4054,NA,Farmacia,Madisson,NA,NA,-17.338086,-66.266039,osm
+4055,NA,Farmacia,Primer Auxilio,NA,NA,-17.338583,-66.2658621,osm
+4056,NA,Farmacia,Pharma Box,Avenida Santa Cruz,NA,-17.3772893,-66.1568144,osm
+4057,NA,Farmacia,La Luz,NA,NA,-17.3781217,-66.1539423,osm
+4058,NA,Farmacia,Rosedal,NA,NA,-17.3720173,-66.1723175,osm
+4059,NA,Farmacia,Zafiro,NA,NA,-17.3725423,-66.1645121,osm
+4060,NA,Farmacia,NA,NA,NA,-17.3607889,-66.1709502,osm
+4061,NA,Farmacia,Genesis,NA,NA,-17.352095,-66.1835267,osm
+4062,NA,Farmacia,Farmacia Angelica,Calle Gualberto Villaroel,NA,-17.3369752,-66.2178625,osm
+4063,NA,Farmacia,Farmacia Despertad,Avenida Simón Lopez,NA,-17.3504036,-66.1929622,osm
+4064,NA,Farmacia,Jesus Obrero,Avenida Simón Lopez,NA,-17.3547067,-66.1871376,osm
+4065,NA,Farmacia,Uriel,Avenida Simón Lopez,NA,-17.3563576,-66.1850278,osm
+4066,NA,Farmacia,San Jose,NA,NA,-17.3564369,-66.1854495,osm
+4067,NA,Farmacia,NA,NA,NA,-17.3385806,-66.2224993,osm
+4068,NA,Farmacia,Adonai,NA,NA,-17.4294405,-66.1594745,osm
+4069,NA,Farmacia,America,NA,NA,-17.420021,-66.1578703,osm
+4070,NA,Farmacia,Esencial,NA,NA,-17.4272472,-66.1592628,osm
+4071,NA,Farmacia,J. Elias,NA,NA,-17.4164772,-66.157256,osm
+4072,NA,Farmacia,Juan de la Cruz,NA,NA,-17.4221178,-66.1581748,osm
+4073,NA,Farmacia,Farmadal,NA,NA,-17.4093813,-66.1561036,osm
+4074,NA,Farmacia,NA,NA,NA,-17.4140122,-66.1568134,osm
+4075,NA,Farmacia,NA,NA,NA,-17.4292611,-66.1561751,osm
+4076,NA,Farmacia,NA,Calle Daniel Peña Sarmiento,NA,-17.364591,-66.1791092,osm
+4077,NA,Farmacia,Vital Joy,Avenida Cívica,NA,-16.5197754,-68.156569,osm
+4078,NA,Farmacia,Jozab,Avenida Simón Lopez,NA,-17.3657609,-66.1707562,osm
+4079,NA,Farmacia,NA,Avenida Simón Lopez,NA,-17.3648366,-66.1767732,osm
+4080,NA,Farmacia,Anael,NA,NA,-17.3596163,-66.1718952,osm
+4081,NA,Farmacia,Virgen del Tepeyac,Calle Sucre,NA,-17.5453062,-65.8378478,osm
+4082,NA,Farmacia,Señor de los Milagros,Calle Potosi,NA,-17.5485043,-65.8352898,osm
+4083,NA,Farmacia,PuntoFarma,Avenida Circunvalación Beijing,NA,-17.3650426,-66.1613767,osm
+4084,NA,Farmacia,Farmacard,NA,NA,-17.408746,-66.1483459,osm
+4085,NA,Farmacia,La Roca,Calle Honduras,NA,-17.401449,-66.1535875,osm
+4086,NA,Farmacia,NA,Calle 25 de Mayo,NA,-17.3991981,-66.1543256,osm
+4087,NA,Farmacia,Farmacias Bolivia,Calle Heroes del Acre,NA,-16.5048933,-68.1349783,osm
+4088,NA,Farmacia,Del Norte,Avenida Circunvalación Beijing,NA,-17.3686954,-66.1456476,osm
+4089,NA,Farmacia,Los Apostoles,Avenida Circunvalación Beijing,NA,-17.3684809,-66.1461432,osm
+4090,NA,Farmacia,FarmaLux,Avenida Circunvalación Beijing,NA,-17.3669282,-66.1523259,osm
+4091,NA,Farmacia,NA,Avenida General Galindo,NA,-17.3720217,-66.1428187,osm
+4092,NA,Farmacia,nacional,Calle San Martin,NA,-17.39716,-66.153586,osm
+4093,NA,Farmacia,NA,NA,NA,-17.401249,-66.1550363,osm
+4094,NA,Farmacia,Calama,NA,NA,-17.3890273,-66.1517078,osm
+4095,NA,Farmacia,NA,NA,NA,-17.3987421,-66.1542135,osm
+4096,NA,Farmacia,Panamericana,Avenida América,NA,-17.3725483,-66.1588122,osm
+4097,NA,Farmacia,Farmacias Bolivia,Plaza del Estadio,NA,-16.4990348,-68.1246877,osm
+4098,NA,Farmacia,Super Farmacia,Avenida Simón Bolívar,NA,-16.4997264,-68.1250571,osm
+4099,NA,Farmacia,Señor de los Milagros,Plaza del Estadio,NA,-16.5001265,-68.1240594,osm
+4100,NA,Farmacia,Virgen de Alta Gracia,Avenida Bautista Saavedra,NA,-16.5002452,-68.123604,osm
+4101,NA,Farmacia,Farmacias Bolivia,Calle 12,NA,-16.5276087,-68.1052556,osm
+4102,NA,Farmacia,Farmacia Gloria,Avenida Hernando Siles,NA,-16.5261517,-68.1080402,osm
+4103,NA,Farmacia,Farmacia Ciudad Satélite,Avenida Satélite,NA,-16.5238911,-68.1514562,osm
+4104,NA,Farmacia,Erika,Calle Aniceto Padilla,NA,-17.3778335,-66.1595124,osm
+4105,NA,Farmacia,Las Carmelitas,Calle Santa Cruz,NA,-20.4604478,-66.8212773,osm
+4106,NA,Farmacia,Farmacia Mizque,NA,NA,-17.943809,-65.3491564,osm
+4107,NA,Farmacia,NA,NA,NA,-17.3700447,-66.1870931,osm
+4108,NA,Farmacia,NA,Avenida América,NA,-17.3708799,-66.18504,osm
+4109,NA,Farmacia,NA,Calle José María Velasco,NA,-17.3670429,-66.185769,osm
+4110,NA,Farmacia,NA,Avenida Gabriel René Moreno,NA,-17.3866206,-66.1769431,osm
+4111,NA,Farmacia,NA,NA,NA,-17.3873526,-66.1773034,osm
+4112,NA,Farmacia,Saturno,Calle La Paz,NA,-17.382337,-66.152675,osm
+4113,NA,Farmacia,Farmacorp,NA,NA,-17.807683,-63.2039532,osm
+4114,NA,Farmacia,Farmacia Warnes,NA,NA,-17.51016,-63.1677076,osm
+4115,NA,Farmacia,Farmacia Nuestra Sra. del Rosario,NA,NA,-17.5081549,-63.1686123,osm
+4116,NA,Farmacia,Farmacia 20 de Abril,NA,NA,-17.7943174,-63.2047292,osm
+4117,NA,Farmacia,Copacabana,NA,NA,-17.7948052,-63.2037994,osm
+4118,NA,Farmacia,Farmacia Cespedes,Avenida Piraí,NA,-17.7949015,-63.2059987,osm
+4119,NA,Farmacia,Farmacia Las Palmas,NA,NA,-17.7959647,-63.2034376,osm
+4120,NA,Farmacia,Farmacia Siles,NA,NA,-17.7953295,-63.203594,osm
+4121,NA,Farmacia,Farmacia Vital,NA,NA,-17.7946204,-63.205209,osm
+4122,NA,Farmacia,Farmacia Farmastar,NA,NA,-17.7970622,-63.2030144,osm
+4123,NA,Farmacia,Farmacia Vallejos,NA,NA,-17.796634,-63.2031838,osm
+4124,NA,Farmacia,Bolivia,NA,NA,-17.3897263,-66.1516112,osm
+4125,NA,Farmacia,NA,Avenida Heroínas,NA,-17.3909426,-66.1507428,osm
+4126,NA,Farmacia,Genial,Avenida Heroínas,NA,-17.3910811,-66.1514544,osm
+4127,NA,Farmacia,Farmacias Bolivia,Avenida Papa Paulo,NA,-17.3842022,-66.146512,osm
+4128,NA,Farmacia,NA,NA,NA,-16.4692718,-68.1166794,osm
+4129,NA,Farmacia,NA,Avenida Atahuallpa,NA,-17.3543988,-66.158249,osm
+4130,NA,Farmacia,NA,NA,NA,-17.9776028,-67.1114139,osm
+4131,NA,Farmacia,NA,NA,NA,-16.4897042,-68.2079454,osm
+4132,NA,Farmacia,Farmacia El Mundo,Avenida Juan Pablo II,NA,-16.4911249,-68.2032661,osm
+4133,NA,Farmacia,NA,NA,NA,-16.4933877,-68.1956543,osm
+4134,NA,Farmacia,Farmacia Angelica,NA,NA,-16.4980685,-68.2308477,osm
+4135,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.4915375,-68.2014363,osm
+4136,NA,Farmacia,NA,NA,NA,-16.4996104,-68.1751761,osm
+4137,NA,Farmacia,Farmacia Prosalud,Avenida Juan Pablo II,NA,-16.501152,-68.1710909,osm
+4138,NA,Farmacia,NA,Avenida 6 de Marzo,NA,-16.508268,-68.1639522,osm
+4139,NA,Farmacia,NA,NA,NA,-16.4944036,-68.1946132,osm
+4140,NA,Farmacia,Farmacia,NA,NA,-16.5975772,-68.1843112,osm
+4141,NA,Farmacia,Farmacia,NA,NA,-16.6192639,-68.1829029,osm
+4142,NA,Farmacia,Farmacia,NA,NA,-16.5967315,-68.1845042,osm
+4143,NA,Farmacia,NA,Avenida Segunda Circunvalación,NA,-17.3531907,-66.1590127,osm
+4144,NA,Farmacia,Farmacia La Luz,Calle Germán Urquidi,NA,-17.3853896,-66.1479452,osm
+4145,NA,Farmacia,Farmacia San Andres,NA,NA,-17.9658471,-67.1108371,osm
+4146,NA,Farmacia,Farmacia,NA,NA,-17.9704688,-67.1042901,osm
+4147,NA,Farmacia,Farmacia Jeanette,NA,NA,-17.9684975,-67.1114394,osm
+4148,NA,Farmacia,Farmacias Americana,Calle Bolivar,NA,-17.9705249,-67.1132435,osm
+4149,NA,Farmacia,Farmacia,NA,NA,-17.9687836,-67.1050403,osm
+4150,NA,Farmacia,Farmacia San Miguel,NA,NA,-17.9706452,-67.1124939,osm
+4151,NA,Farmacia,Farmacia San Juan De Dios,NA,NA,-19.0122729,-66.7766417,osm
+4152,NA,Farmacia,NA,NA,NA,-19.0114614,-66.7763584,osm
+4153,NA,Farmacia,Farmacia,NA,NA,-17.2382113,-67.9109491,osm
+4154,NA,Farmacia,Savin,NA,NA,-17.3773299,-66.1654025,osm
+4155,NA,Farmacia,NA,Calle Calama,NA,-17.3973666,-66.1616053,osm
+4156,NA,Farmacia,Bolivia,Calle Esteban Arce,NA,-17.3942852,-66.1562569,osm
+4157,NA,Farmacia,NA,NA,NA,-19.0444108,-65.2452416,osm
+4158,NA,Farmacia,NA,NA,NA,-19.0433245,-65.2563747,osm
+4159,NA,Farmacia,Farmacias Bolivia,Avenida Mariscal Santa Cruz,NA,-16.4999625,-68.1345678,osm
+4160,NA,Farmacia,Mifarma,Avenida 16 de Julio,NA,-16.5009908,-68.1336475,osm
+4161,NA,Farmacia,Botica Faldín,NA,NA,-17.4046154,-63.7318956,osm
+4162,NA,Farmacia,NA,Pasaje Suiza,NA,-17.3742114,-66.1813251,osm
+4163,NA,Farmacia,Farmacorp Paraguá,NA,NA,-17.7699019,-63.1549752,osm
+4164,NA,Farmacia,FarmaCorp,NA,NA,-17.7796231,-63.1729398,osm
+4165,NA,Farmacia,Farmacia Hipermaxi,Avenida Oquendo,NA,-17.3846963,-66.1508373,osm
+4166,NA,Farmacia,Maine,Avenida Oquendo,NA,-17.3854269,-66.1514535,osm
+4167,NA,Farmacia,Oquendo,Avenida Oquendo,NA,-17.3869209,-66.1507046,osm
+4168,NA,Farmacia,El Porvenir,NA,NA,-17.391674,-66.117925,osm
+4169,NA,Farmacia,Sibeles,Avenida Juan de la Rosa,NA,-17.3751269,-66.1798918,osm
+4170,NA,Farmacia,Chavez,Avenida América,NA,-17.3711758,-66.179617,osm
+4171,NA,Farmacia,Flor de Angel,NA,NA,-17.3821578,-66.1538887,osm
+4172,NA,Farmacia,Farmacorp,Avenida Grigotá,NA,-17.8014059,-63.1959595,osm
+4173,NA,Farmacia,Faby,Calle 23 de Marzo,NA,-17.3891225,-66.1855639,osm
+4174,NA,Farmacia,Nueva Zelanda,Calle San Martin,NA,-17.4021587,-66.1534192,osm
+4175,NA,Farmacia,Farmacia Palos Blancos,NA,NA,-15.584731,-67.2467958,osm
+4176,NA,Farmacia,Farmacia Virgen de Asuncion,NA,NA,-15.5849979,-67.2462816,osm
+4177,NA,Farmacia,Chávez Paraguá,NA,NA,-17.7694872,-63.1552315,osm
+4178,NA,Farmacia,Farmacia Ali-Far-Bol,NA,NA,-15.5864925,-67.2483151,osm
+4179,NA,Farmacia,Farmacorp,NA,NA,-17.7504011,-63.1764994,osm
+4180,NA,Farmacia,Farmacia Santa Ana,NA,NA,-17.402081,-66.0446154,osm
+4181,NA,Farmacia,Farmacorp,Avenida Víctor Paz Estensoro,NA,-21.541006,-64.7243629,osm
+4182,NA,Farmacia,Olivia,NA,NA,-17.7924692,-63.190738,osm
+4183,NA,Farmacia,Farmacorp (Urubo),NA,NA,-17.7495996,-63.2156443,osm
+4184,NA,Farmacia,farmacorp,NA,NA,-17.8203037,-63.2180686,osm
+4185,NA,Farmacia,Adrian Patiño,Calle Adrian Patiño,NA,-17.3862427,-66.1872341,osm
+4186,NA,Farmacia,NA,NA,NA,-17.3905068,-66.0750939,osm
+4187,NA,Farmacia,San Francisco,Calle Colombia,NA,-17.3900265,-66.1511872,osm
+4188,NA,Farmacia,NA,Calle Pablo Jaimes,NA,-17.3381175,-66.2175576,osm
+4189,NA,Farmacia,Farmacorp,NA,NA,-21.5303412,-64.7306216,osm
+4190,NA,Farmacia,Farmacorp,Quinto Anillo,NA,-17.8245158,-63.2063132,osm
+4191,NA,Farmacia,Fatima,Calle Aniceto Padilla,NA,-17.3777174,-66.160656,osm
+4192,NA,Farmacia,Farmacia Sur,José Maria Aguirre Acha,NA,-16.5452034,-68.0743957,osm
+4193,NA,Farmacia,Farmacia Sheisa,Avenida Circunvalación,NA,-21.5278422,-64.7221713,osm
+4194,NA,Farmacia,Mundo Farma,Avenida Ayacucho,NA,-17.3871,-66.1598192,osm
+4195,NA,Farmacia,Itálica,NA,NA,-17.3892967,-66.1531155,osm
+4196,NA,Farmacia,Tres Ángeles,NA,NA,-17.3891078,-66.1523214,osm
+4197,NA,Farmacia,Farmacia 4 de Febrero,NA,NA,-14.2980196,-67.3357282,osm
+4198,NA,Farmacia,14 de Octubre,Avenida Santa Bárbara,NA,-17.4291414,-66.1584521,osm
+4199,NA,Farmacia,NA,NA,NA,-17.3763185,-66.1760933,osm
+4200,NA,Farmacia,Farmacia Chávez,Avenida Cristóbal de Mendoza,NA,-17.7715489,-63.1685689,osm
+4201,NA,Farmacia,Silvana,NA,NA,-17.7631845,-63.1599406,osm
+4202,NA,Farmacia,Farmacia Vida Vital,NA,NA,-17.7725123,-63.1502046,osm
+4203,NA,Farmacia,Farmacorp,Avenida Cañoto,NA,-17.7754239,-63.1832053,osm
+4204,NA,Farmacia,Santa Cecilia,NA,NA,-17.7774176,-63.1819189,osm
+4205,NA,Farmacia,Alto Farma Center,Avenida del Policía,NA,-16.5260456,-68.152387,osm
+4206,NA,Farmacia,Tropical,NA,NA,-17.7643304,-63.1615176,osm
+4207,NA,Farmacia,Nuvia,Avenida Circunvalación Beijing,NA,-17.3560836,-66.1773855,osm
+4208,NA,Farmacia,Luisa,NA,NA,-16.5338272,-68.0367468,osm
+4209,NA,Farmacia,María Fernanda,NA,NA,-17.7710242,-63.1671783,osm
+4210,NA,Farmacia,Farmacias Bolivia,Avenida Mariscal Santa Cruz,NA,-16.498072,-68.1361098,osm
+4211,NA,Farmacia,Enfermeria Magaly,NA,NA,-17.7719499,-63.1544417,osm
+4212,NA,Farmacia,Farmacia Argentina,NA,NA,-17.7720006,-63.1544276,osm
+4213,NA,Farmacia,NA,Avenida 6 de Marzo,NA,-16.5062338,-68.1632916,osm
+4214,NA,Farmacia,Farmacia 6 De Marzo,Avenida 6 de Marzo,NA,-16.506937,-68.1635037,osm
+4215,NA,Farmacia,Super Farmacia,Avenida 6 de Marzo,NA,-16.5089358,-68.16419,osm
+4216,NA,Farmacia,Super Farmacia,Avenida 6 de Marzo,NA,-16.5103529,-68.16463,osm
+4217,NA,Farmacia,Carla,Avenida Circunvalación Beijing,NA,-17.3678767,-66.1477021,osm
+4218,NA,Farmacia,Farmax,NA,NA,-17.7783749,-63.1811731,osm
+4219,NA,Farmacia,Farmacias Bolivia - El Alto,Avenida 6 de Marzo,NA,-16.5063165,-68.1637812,osm
+4220,NA,Farmacia,Farmacia Sariri,Calle 4,NA,-16.5083735,-68.1644982,osm
+4221,NA,Farmacia,Farmacia Coral,Avenida 6 de Marzo,NA,-16.5807181,-68.1849083,osm
+4222,NA,Farmacia,Farmacia Virgen Socabon,Avenida 6 de Marzo,NA,-16.5815582,-68.1848092,osm
+4223,NA,Farmacia,Farmacias,NA,NA,-16.5458164,-68.2014268,osm
+4224,NA,Farmacia,NA,NA,NA,-16.5422254,-68.1980951,osm
+4225,NA,Farmacia,Farmacias Gabriel,Avenida Bolivia,NA,-16.5342589,-68.1908037,osm
+4226,NA,Farmacia,Farmacia Manet,Avenida Bolivia,NA,-16.5338839,-68.1917015,osm
+4227,NA,Farmacia,Farmacia Claudia,Avenida Bolivia,NA,-16.5329253,-68.1926142,osm
+4228,NA,Farmacia,NA,NA,NA,-16.5504045,-68.2048806,osm
+4229,NA,Farmacia,Farmacia Buena Salud,Avenida Bolivia,NA,-16.5338708,-68.1912202,osm
+4230,NA,Farmacia,Farmacia Samy,Avenida Bolivia,NA,-16.5335743,-68.1914875,osm
+4231,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.4910621,-68.2012206,osm
+4232,NA,Farmacia,NA,NA,NA,-16.4702535,-68.1218532,osm
+4233,NA,Farmacia,NA,NA,NA,-16.4727577,-68.1186457,osm
+4234,NA,Farmacia,Farmacia Corpkam,Avenida Juan Pablo II,NA,-16.4937379,-68.1961093,osm
+4235,NA,Farmacia,Farmacia Pirai,Avenida Juan Pablo II,NA,-16.4995382,-68.1754623,osm
+4236,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.4997203,-68.1746953,osm
+4237,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.5028709,-68.1637585,osm
+4238,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.5021249,-68.1678209,osm
+4239,NA,Farmacia,Farmacia Puerto Rico,Avenida Juan Pablo II,NA,-16.5028849,-68.165301,osm
+4240,NA,Farmacia,Farmacia Primavera,Avenida Pando,NA,-16.4929012,-68.1406028,osm
+4241,NA,Farmacia,Farmacia San Agustin,Avenida Pando,NA,-16.4936615,-68.1405948,osm
+4242,NA,Farmacia,Farmacia 10 De Octubre,Avenida Illampu,NA,-16.4943549,-68.1405262,osm
+4243,NA,Farmacia,Farmacia De Descuento,Avenida Illampu,NA,-16.4953131,-68.1401456,osm
+4244,NA,Farmacia,Farmacias Bolivia,NA,NA,-17.3728842,-66.1545113,osm
+4245,NA,Farmacia,Farmacia Bolivia,Calle Victor Sanjines,NA,-16.5144434,-68.1290505,osm
+4246,NA,Farmacia,Farmacias Chávez - Camacho,Avenida Camacho,NA,-16.4991102,-68.1334364,osm
+4247,NA,Farmacia,Farmacia Aries,Plaza Eguino,NA,-16.4937011,-68.1410354,osm
+4248,NA,Farmacia,Farmacorp - Satélite,Calle 17 A,NA,-16.5226804,-68.1544764,osm
+4249,NA,Farmacia,Farmacia Central,Avenida Illampu,NA,-16.4963071,-68.1399141,osm
+4250,NA,Farmacia,Farmacia Del Valle,Avenida Illampu,NA,-16.4972071,-68.1396741,osm
+4251,NA,Farmacia,Farmacia Rosario,Avenida Illampu,NA,-16.4979,-68.139506,osm
+4252,NA,Farmacia,NA,NA,NA,-16.5014805,-68.1332424,osm
+4253,NA,Farmacia,Farmacias Bolivia,Avenida 16 de Julio,NA,-16.5019031,-68.1329655,osm
+4254,NA,Farmacia,Farmacorp,Avenida 16 de Julio,NA,-16.5036565,-68.1315638,osm
+4255,NA,Farmacia,Super Farmacia,Avenida 16 de Julio,NA,-16.5025447,-68.1319344,osm
+4256,NA,Farmacia,Super Farmacia,Avenida Mariscal Santa Cruz,NA,-16.4972682,-68.136421,osm
+4257,NA,Farmacia,Farmacia Israelita,Avenida Mariscal Santa Cruz,NA,-16.4968892,-68.136649,osm
+4258,NA,Farmacia,Farmacia Capitol,Avenida America,NA,-16.4935561,-68.1397184,osm
+4259,NA,Farmacia,Farmacia David,Avenida America,NA,-16.4926631,-68.143286,osm
+4260,NA,Farmacia,Farmacia Mesias,Avenida America,NA,-16.4927276,-68.1434456,osm
+4261,NA,Farmacia,Super Farmacia,Avenida Mariscal Santa Cruz,NA,-16.4993373,-68.1345977,osm
+4262,NA,Farmacia,Farmacias Bolivia,Avenida Mariscal Santa Cruz,NA,-16.4989701,-68.1348823,osm
+4263,NA,Farmacia,Farmandrug,Avenida Mariscal Santa Cruz,NA,-16.496413,-68.1362872,osm
+4264,NA,Farmacia,NA,Avenida Montes,NA,-16.4949707,-68.1366076,osm
+4265,NA,Farmacia,Super Farmacia,Avenida Montes,NA,-16.4940453,-68.1367428,osm
+4266,NA,Farmacia,Farmacias Bolivia,Avenida Montes,NA,-16.4935263,-68.1369801,osm
+4267,NA,Farmacia,Farmacias Bolivia,Calle Chuquisaca,NA,-16.4932196,-68.1388077,osm
+4268,NA,Farmacia,ABC,Avenida Perú,NA,-16.4913561,-68.1438258,osm
+4269,NA,Farmacia,Farmacia Rene Gabriel,Avenida Perú,NA,-16.4882342,-68.1429921,osm
+4270,NA,Farmacia,Farmacia Rivera,Calle Larecaja,NA,-16.4880201,-68.1418143,osm
+4271,NA,Farmacia,NA,Avenida Perú,NA,-16.4880675,-68.1405901,osm
+4272,NA,Farmacia,Rivera,Avenida Armentia,NA,-16.4897245,-68.1382406,osm
+4273,NA,Farmacia,Farma Sol,Avenida Sucre,NA,-16.4920798,-68.1350084,osm
+4274,NA,Farmacia,NA,Avenida Sucre,NA,-16.4924915,-68.1344517,osm
+4275,NA,Farmacia,Farmacias Bolivia,Calle Bolivar,NA,-16.4941534,-68.1318826,osm
+4276,NA,Farmacia,Farmacia T&T,Avenida Sucre,NA,-16.4947996,-68.130849,osm
+4277,NA,Farmacia,Farmacia Isam,Avenida Sucre,NA,-16.4932545,-68.1337703,osm
+4278,NA,Farmacia,NA,Avenida de la Bandera,NA,-16.4893661,-68.1257026,osm
+4279,NA,Farmacia,Farmacia Tejada Sorzano,Avenida Tejada Sorzano,NA,-16.4845312,-68.123462,osm
+4280,NA,Farmacia,Farmacia San Ignacio,Avenida de las Américas,NA,-16.4815638,-68.1218786,osm
+4281,NA,Farmacia,Farmacia Mendez,Avenida de las Américas,NA,-16.4809993,-68.1215995,osm
+4282,NA,Farmacia,Farmacia Ave Maria,Avenida de las Américas,NA,-16.4807049,-68.1215006,osm
+4283,NA,Farmacia,Farmacia Isaias,Avenida de las Américas,NA,-16.4800917,-68.1212747,osm
+4284,NA,Farmacia,Farmacias Bolivia,Calle Las Delicias,NA,-16.4795088,-68.1212795,osm
+4285,NA,Farmacia,Farmacia Lazaro,Avenida de las Américas,NA,-16.479346,-68.1209147,osm
+4286,NA,Farmacia,Farmacia Abraham,Avenida de las Américas,NA,-16.4780749,-68.1201548,osm
+4287,NA,Farmacia,Farmacia Las Americas,Avenida de las Américas,NA,-16.4764398,-68.1191974,osm
+4288,NA,Farmacia,Santa Ana Farmacia,Avenida Ramiro Castillo,NA,-16.4681974,-68.1157985,osm
+4289,NA,Farmacia,Farmacia,Avenida Ramiro Castillo,NA,-16.4596826,-68.1030529,osm
+4290,NA,Farmacia,NA,Avenida de las Américas,NA,-16.4822716,-68.1217925,osm
+4291,NA,Farmacia,Gloria,Avenida de las Américas,NA,-16.4791114,-68.1204869,osm
+4292,NA,Farmacia,Farmacia Orly,Calle San Borja,NA,-16.4764507,-68.1188162,osm
+4293,NA,Farmacia,Farmacia Pribian,Avenida de las Américas,NA,-16.4759479,-68.1186208,osm
+4294,NA,Farmacia,Farmacia San Rafael,Avenida de las Américas,NA,-16.4738242,-68.117292,osm
+4295,NA,Farmacia,Santa Maria,NA,NA,-16.4689428,-68.1150644,osm
+4296,NA,Farmacia,Bernardo,Avenida Ramiro Castillo,NA,-16.4688242,-68.1145759,osm
+4297,NA,Farmacia,Farmacorp,Avenida Muñoz Reyes,NA,-16.5408544,-68.0673561,osm
+4298,NA,Farmacia,Farmacia San Bartolome,Avenida General Juan Jose Torrez Gonzales,NA,-16.4787789,-68.128302,osm
+4299,NA,Farmacia,NA,Avenida Periférica,NA,-16.4782622,-68.1280213,osm
+4300,NA,Farmacia,Farmacia Galicia,Avenida General Juan Jose Torrez Gonzales,NA,-16.4858092,-68.1295596,osm
+4301,NA,Farmacia,Farmacia Cruz Salud,Avenida General Juan Jose Torrez Gonzales,NA,-16.4872005,-68.1320149,osm
+4302,NA,Farmacia,NA,Calle Pedro Salazar,NA,-16.5100402,-68.1252296,osm
+4303,NA,Farmacia,Farmacias Bolivia,Avenida Arce,NA,-16.5090612,-68.1248715,osm
+4304,NA,Farmacia,Super Farmacia,Avenida Arce,NA,-16.5078921,-68.1263835,osm
+4305,NA,Farmacia,Farmacias Bolivia,Avenida Villazón,NA,-16.504791,-68.1307091,osm
+4306,NA,Farmacia,Santa Ana,Avenida 6 de Agosto,NA,-16.5073659,-68.128153,osm
+4307,NA,Farmacia,Nueva Luna,Avenida 6 de Agosto,NA,-16.5079966,-68.12743,osm
+4308,NA,Farmacia,Clinimed,Avenida 6 de Agosto,NA,-16.5096405,-68.1259556,osm
+4309,NA,Farmacia,Farmacia,NA,NA,-17.7406836,-63.1481587,osm
+4310,NA,Farmacia,Farmacias Bolivia,Calle Loayza,NA,-16.4985675,-68.1330041,osm
+4311,NA,Farmacia,Farmacia Turno,Avenida Camacho,NA,-16.4998314,-68.131832,osm
+4312,NA,Farmacia,Bristol,Calle Ingavi,NA,-16.4947692,-68.1341486,osm
+4313,NA,Farmacia,General Sanjinés,Calle Genaro Sanjinés,NA,-16.4954845,-68.1360618,osm
+4314,NA,Farmacia,Mifarma,Calle Almirante Grau,NA,-16.5017129,-68.1360005,osm
+4315,NA,Farmacia,Felicidad,Plaza Israel,NA,-16.5054614,-68.1365712,osm
+4316,NA,Farmacia,Guziba Farmacia,NA,NA,-17.7344089,-63.1449495,osm
+4317,NA,Farmacia,Farmacias Bolivia,Avenida Sánchez Lima,NA,-16.510564,-68.1275608,osm
+4318,NA,Farmacia,FarmaCorp,Calle Pedro Salazar,NA,-16.5114406,-68.1266567,osm
+4319,NA,Farmacia,Fray Vicente Bernedo,Avenida 20 de Octubre,NA,-16.508376,-68.1285114,osm
+4320,NA,Farmacia,Angel Samuel,Calle Otero de la vega,NA,-16.5025396,-68.1332575,osm
+4321,NA,Farmacia,Farmacias,Calle Cañada Strongest,NA,-16.5027248,-68.1343166,osm
+4322,NA,Farmacia,Oriente,Calle Cañada Strongest,NA,-16.502169,-68.134852,osm
+4323,NA,Farmacia,NA,Calle Nicolas Acosta,NA,-16.5031731,-68.1355839,osm
+4324,NA,Farmacia,Jorial,Plaza Israel,NA,-16.5059146,-68.1365792,osm
+4325,NA,Farmacia,Mi Farma,Calle Pedro Salazar,NA,-16.5105072,-68.1258188,osm
+4326,NA,Farmacia,Farmacias Bolivia - Plaza Avaroa,Avenida 20 de Octubre,NA,-16.5103436,-68.1261462,osm
+4327,NA,Farmacia,Farmacias Bolivia,Avenida 20 de Octubre,NA,-16.5086628,-68.1278444,osm
+4328,NA,Farmacia,Señor de Huanca,NA,NA,-16.5063781,-68.1303431,osm
+4329,NA,Farmacia,Farmacia Beni II,Calle Aspiazu,NA,-16.5072484,-68.1292499,osm
+4330,NA,Farmacia,Super Farmacia,Avenida Ecuador,NA,-16.5125056,-68.1292789,osm
+4331,NA,Farmacia,Farmacias Bolivia,Calle Fernando Guachalla,NA,-16.5093473,-68.129564,osm
+4332,NA,Farmacia,Farmacia Cemdi,Avenida 6 de Agosto,NA,-16.5106928,-68.1250517,osm
+4333,NA,Farmacia,Farmacias Bolivia,Avenida 6 de Agosto,NA,-16.5120247,-68.1236409,osm
+4334,NA,Farmacia,Farmacia Villa María,Calle Diaz Romero,NA,-16.5016194,-68.1216758,osm
+4335,NA,Farmacia,Farmacia San Salvador,Calle San Salvador,NA,-16.4947568,-68.1230321,osm
+4336,NA,Farmacia,Farmacia Bolivia,Avenida Argentina,NA,-16.5012515,-68.1188772,osm
+4337,NA,Farmacia,Farmacia Florida,NA,NA,-16.4988492,-68.1241698,osm
+4338,NA,Farmacia,Gloria,Calle Plaza Uyuni,NA,-16.4967298,-68.1241399,osm
+4339,NA,Farmacia,Farmacia Uriel,Avenida German Busch,NA,-16.4958981,-68.1211006,osm
+4340,NA,Farmacia,NA,NA,NA,-16.4972288,-68.1195465,osm
+4341,NA,Farmacia,All Pharmacy,Calle Claudio Sanjinez,NA,-16.5056734,-68.1184895,osm
+4342,NA,Farmacia,Gedulah,Avenida Esteban Arze,NA,-16.4942294,-68.1151043,osm
+4343,NA,Farmacia,Bolivia,Avenida 31 de Octubre,NA,-16.495929,-68.1166156,osm
+4344,NA,Farmacia,Farmacia Jireh,Avenida German Busch,NA,-16.4922086,-68.1216493,osm
+4345,NA,Farmacia,Farmacia Mis Angeles,Avenida German Busch,NA,-16.4990562,-68.1213188,osm
+4346,NA,Farmacia,Gloria,Avenida German Busch,NA,-16.5018425,-68.1211373,osm
+4347,NA,Farmacia,Super Farmacia El Sol,Avenida Bautista Saavedra,NA,-16.5042487,-68.1214549,osm
+4348,NA,Farmacia,Farmacias Bolivia,Calle Victor Eduardo,NA,-16.504792,-68.1211005,osm
+4349,NA,Farmacia,Farmacia Eliezer,Avenida Argentina,NA,-16.5043453,-68.1204403,osm
+4350,NA,Farmacia,Farmacia Rafael,Calle Claudio Sanjinez,NA,-16.505915,-68.1191062,osm
+4351,NA,Farmacia,Farmacia Jacinta,Avenida 31 de Octubre,NA,-16.5000211,-68.1131789,osm
+4352,NA,Farmacia,Rossana,NA,NA,-16.5079226,-68.1108722,osm
+4353,NA,Farmacia,Farmacia,NA,NA,-17.7244724,-63.1570848,osm
+4354,NA,Farmacia,Farmacorp - Obrajes,Avenida Hernando Siles,NA,-16.5255037,-68.1096462,osm
+4355,NA,Farmacia,Farmacia Cmaio,Avenida Hernando Siles,NA,-16.5267364,-68.1074403,osm
+4356,NA,Farmacia,Farmacia Santa Isabel,Calle Chuquisaca,NA,-17.7847872,-63.180227,osm
+4357,NA,Farmacia,Hipermaxi,Avenida 14 de Septiembre,NA,-16.5284058,-68.103304,osm
+4358,NA,Farmacia,Farmacia Vital,Avenida Sanchez,NA,-16.5209943,-68.0865414,osm
+4359,NA,Farmacia,Mifarma,Calle 1,NA,-16.5302806,-68.0872787,osm
+4360,NA,Farmacia,NA,Avenida Ballivian,NA,-16.5402791,-68.0871871,osm
+4361,NA,Farmacia,Farmacia Plenitud,Calle Caballero,NA,-17.7794933,-63.1806975,osm
+4362,NA,Farmacia,NA,NA,NA,-16.475215,-68.118154,osm
+4363,NA,Farmacia,NA,NA,NA,-16.5008858,-68.1322618,osm
+4364,NA,Farmacia,Farmacia Lucy,Avenida Buenos Aires,NA,-16.5042599,-68.144057,osm
+4365,NA,Farmacia,Farmacia Dios Te Sana,NA,NA,-16.5032394,-68.1445741,osm
+4366,NA,Farmacia,NA,NA,NA,-16.5029283,-68.1447496,osm
+4367,NA,Farmacia,Farmacia Buenn Esperanza,NA,NA,-16.5028315,-68.1448108,osm
+4368,NA,Farmacia,Farmacia Santa Bárbara,Calle Ballivián,NA,-17.784679,-63.1791311,osm
+4369,NA,Farmacia,Farmacia Jesús Salvador,Avenida del Maestro,NA,-16.5155109,-68.113296,osm
+4370,NA,Farmacia,Farmacorp,Avenida Arce,NA,-16.5131694,-68.120621,osm
+4371,NA,Farmacia,Catedral,Avenida Ballivián,NA,-16.5391774,-68.0790919,osm
+4372,NA,Farmacia,Farmacia Cáliz De Vida,NA,NA,-16.5007413,-68.1452769,osm
+4373,NA,Farmacia,Farmacia Metropolitanas,NA,NA,-16.4995323,-68.1446015,osm
+4374,NA,Farmacia,Farmacia La Pirdad,NA,NA,-16.4993297,-68.1444896,osm
+4375,NA,Farmacia,Farmacia Lavoisier,Calle Bolívar,NA,-17.7825273,-63.1793234,osm
+4376,NA,Farmacia,NA,NA,NA,-16.5005899,-68.1528857,osm
+4377,NA,Farmacia,FarmaUnidas,NA,NA,-17.7828119,-63.1692475,osm
+4378,NA,Farmacia,Farmacia Peta,Calle Murillo,NA,-17.7797752,-63.1800894,osm
+4379,NA,Farmacia,Vital Farma,NA,NA,-16.5020251,-68.1528357,osm
+4380,NA,Farmacia,Farmacias Bolivia,Avenida Hernando Siles,NA,-16.5297382,-68.1020174,osm
+4381,NA,Farmacia,Farmacia,NA,NA,-17.7817907,-63.1578316,osm
+4382,NA,Farmacia,Farmacia Alto Obrajes,Avenida del Maestro,NA,-16.5207573,-68.1093852,osm
+4383,NA,Farmacia,NA,Avenida del Maestro,NA,-16.5235814,-68.1059594,osm
+4384,NA,Farmacia,Farmacias Bolivia,Calle 17,NA,-16.5299904,-68.1007738,osm
+4385,NA,Farmacia,NA,Avenida Raul Gamarra,NA,-16.5201913,-68.1061089,osm
+4386,NA,Farmacia,NA,NA,NA,-16.5192602,-68.1563433,osm
+4387,NA,Farmacia,Farmacia Altafarm,NA,NA,-17.7827584,-63.1711053,osm
+4388,NA,Farmacia,NA,NA,NA,-16.5312276,-68.1661065,osm
+4389,NA,Farmacia,Farmacia,Avenida Jorge Carrazco,NA,-16.529819,-68.0948789,osm
+4390,NA,Farmacia,Farmacia,NA,NA,-17.7816612,-63.1605674,osm
+4391,NA,Farmacia,Farmacorp,NA,NA,-17.777393,-63.1421141,osm
+4392,NA,Farmacia,NA,NA,NA,-16.5359891,-68.1890002,osm
+4393,NA,Farmacia,NA,NA,NA,-16.5354829,-68.189685,osm
+4394,NA,Farmacia,Farmàcia,NA,NA,-16.5351735,-68.1901117,osm
+4395,NA,Farmacia,Farmacorp,NA,NA,-17.778185,-63.1653808,osm
+4396,NA,Farmacia,Farmacia,NA,NA,-17.7460298,-63.1570978,osm
+4397,NA,Farmacia,Farmacias Hipermaxi,NA,NA,-17.7796069,-63.1724903,osm
+4398,NA,Farmacia,Farmacia Domingo Savio,NA,NA,-16.5204295,-68.1574177,osm
+4399,NA,Farmacia,Farmacia Jared I,NA,NA,-16.5295215,-68.1613344,osm
+4400,NA,Farmacia,NA,NA,NA,-16.5415091,-68.1689299,osm
+4401,NA,Farmacia,Farmacia DJ,NA,NA,-16.5454869,-68.1745403,osm
+4402,NA,Farmacia,Farmacia Kapri,NA,NA,-16.5456545,-68.1747913,osm
+4403,NA,Farmacia,Farmacia Turqueza,NA,NA,-16.5405803,-68.1820493,osm
+4404,NA,Farmacia,Farmacias Ahumada,NA,NA,-16.5294689,-68.1856211,osm
+4405,NA,Farmacia,Mi Farmacia,Avenida Santa Cruz,NA,-17.7908656,-63.1652213,osm
+4406,NA,Farmacia,Pharma j4-Med,Avenida Alfredo Ovando Candia,NA,-16.5287346,-68.0880608,osm
+4407,NA,Farmacia,Plus Farma,NA,NA,-16.5298076,-68.1959151,osm
+4408,NA,Farmacia,Farmacia Vadalis,NA,NA,-16.5260959,-68.1998268,osm
+4409,NA,Farmacia,Farmacia el Cristo,Avenida Montenegro,NA,-16.5408506,-68.0790796,osm
+4410,NA,Farmacia,Farmacia Jumataki,NA,NA,-16.5243815,-68.1809862,osm
+4411,NA,Farmacia,NA,NA,NA,-16.5335107,-68.1907515,osm
+4412,NA,Farmacia,Farmacias Chávez,NA,NA,-17.7892637,-63.1873227,osm
+4413,NA,Farmacia,Farmacia Iberica,NA,NA,-17.7876687,-63.1806045,osm
+4414,NA,Farmacia,MiaFarma,NA,NA,-17.7867349,-63.1769938,osm
+4415,NA,Farmacia,Cosalud,Calle Oruro,NA,-17.7864321,-63.1729213,osm
+4416,NA,Farmacia,Farmacia Miribe,José Manuel Chinchilla,NA,-16.5299091,-68.0734191,osm
+4417,NA,Farmacia,NA,NA,NA,-16.5302443,-68.1949854,osm
+4418,NA,Farmacia,Farmacia Luz De Cristo,NA,NA,-16.5266089,-68.1988243,osm
+4419,NA,Farmacia,Farmacia Caranavi,NA,NA,-16.5247166,-68.2008367,osm
+4420,NA,Farmacia,Farmacia B&V,NA,NA,-16.5227601,-68.2060151,osm
+4421,NA,Farmacia,Hipermaxi Farmacias,NA,NA,-16.5190054,-68.0624143,osm
+4422,NA,Farmacia,Sana Sana,NA,NA,-16.5268783,-68.2193819,osm
+4423,NA,Farmacia,NA,NA,NA,-16.5281092,-68.2293053,osm
+4424,NA,Farmacia,Farmacia Rousse Van,NA,NA,-16.5283106,-68.2297052,osm
+4425,NA,Farmacia,FarmaUnidas,Avenida Alemania,NA,-17.7606497,-63.1671243,osm
+4426,NA,Farmacia,Pharma Rocio,NA,NA,-16.5284603,-68.2292449,osm
+4427,NA,Farmacia,26 de Febrero,NA,NA,-17.7940015,-63.1857292,osm
+4428,NA,Farmacia,Farmacias Catedral,Avenida Strongest,NA,-16.5223899,-68.0650171,osm
+4429,NA,Farmacia,NA,NA,NA,-16.5331079,-68.2248544,osm
+4430,NA,Farmacia,Mi Farma,Calle 16,NA,-16.5312557,-68.0726496,osm
+4431,NA,Farmacia,Farmacias Gloria,Avenida Alexander,NA,-16.5345275,-68.0721343,osm
+4432,NA,Farmacia,Farmacias Hipermaxi,NA,NA,-17.7921347,-63.1806392,osm
+4433,NA,Farmacia,Farmacia,Avenida General Inofuentes,NA,-16.5379363,-68.0755392,osm
+4434,NA,Farmacia,NA,NA,NA,-16.5191832,-68.1868444,osm
+4435,NA,Farmacia,NA,NA,NA,-16.5183522,-68.1851256,osm
+4436,NA,Farmacia,Farmacorp,Avenida Manuel Víctor García Lanza,NA,-16.5353646,-68.0753347,osm
+4437,NA,Farmacia,Farmacia,Calle Suárez de Figueroa,NA,-17.7859468,-63.1814175,osm
+4438,NA,Farmacia,San Elias,NA,NA,-17.7818702,-63.1817663,osm
+4439,NA,Farmacia,Farmacias Catedral,Avenida Manuel Víctor García Lanza,NA,-16.5319052,-68.0734721,osm
+4440,NA,Farmacia,Farmacias Araiz,NA,NA,-16.5335756,-68.215637,osm
+4441,NA,Farmacia,Farmacias,Tercer Anillo Interno,NA,-17.7938678,-63.204555,osm
+4442,NA,Farmacia,Farmacia Pan Americana,Calle Cuéllar,NA,-17.7790946,-63.1850465,osm
+4443,NA,Farmacia,Farmacias Pasteur,NA,NA,-17.7788726,-63.1850764,osm
+4444,NA,Farmacia,Maxi Farma,Seoane,NA,-17.7800313,-63.1850748,osm
+4445,NA,Farmacia,Farmacia Cosmos,NA,NA,-16.5270905,-68.2036068,osm
+4446,NA,Farmacia,Farmacias Bolivia,NA,NA,-17.7838697,-63.1842937,osm
+4447,NA,Farmacia,Farmacia Jazer,NA,NA,-16.525575,-68.2010218,osm
+4448,NA,Farmacia,NA,NA,NA,-16.5230592,-68.1948114,osm
+4449,NA,Farmacia,Farmacia,Seoane,NA,-17.780182,-63.1861178,osm
+4450,NA,Farmacia,Farmacia Alin,Avenida Satélite,NA,-16.5163148,-68.1666018,osm
+4451,NA,Farmacia,Cañoto,NA,NA,-17.7793286,-63.1853576,osm
+4452,NA,Farmacia,Farmacias Chavez,Avenida Montenegro,NA,-16.5407644,-68.0802471,osm
+4453,NA,Farmacia,NA,Avenida Mario Mercado,NA,-16.5262409,-68.1267719,osm
+4454,NA,Farmacia,Gloria,Avenida Ballivián,NA,-16.5404656,-68.0894112,osm
+4455,NA,Farmacia,Farmacia Famal,Final Kollasuyo,NA,-16.4888297,-68.1673428,osm
+4456,NA,Farmacia,NA,Avenida Manco Cápac,NA,-16.4933782,-68.1422424,osm
+4457,NA,Farmacia,Cobija,Avenida naciones Unidas,NA,-16.486842,-68.1577952,osm
+4458,NA,Farmacia,Farmacia Hipermaxi,Cuarto Anillo,NA,-17.7504854,-63.1685188,osm
+4459,NA,Farmacia,Farmacia Santo Rosario,Avenida El Trompillo,NA,-17.8004603,-63.1831251,osm
+4460,NA,Farmacia,Farmacia San Antonio,NA,NA,-16.5141228,-68.160993,osm
+4461,NA,Farmacia,Farmacia Emanuel Bombori,NA,NA,-16.5138393,-68.1607021,osm
+4462,NA,Farmacia,Farmacia Atos,Avenida Entre Rios,NA,-16.4952418,-68.1586008,osm
+4463,NA,Farmacia,J'uliana,Final Kollasuyo,NA,-16.4911924,-68.1648905,osm
+4464,NA,Farmacia,Señor de Coste,Avenida Entre Rios,NA,-16.4971016,-68.1558139,osm
+4465,NA,Farmacia,NA,Calle Garita de Lima,NA,-16.4959092,-68.1462848,osm
+4466,NA,Farmacia,Farmacia Inca,Avenida Ciudad Satélite,NA,-16.5182311,-68.1619186,osm
+4467,NA,Farmacia,Farmacia Esperanza de Sanación,Avenida Ciudad Satélite,NA,-16.5189061,-68.1609342,osm
+4468,NA,Farmacia,Farmacia Jassiel,Avenida Satélite,NA,-16.5192602,-68.160404,osm
+4469,NA,Farmacia,Farmacia Noemi,Avenida Mariano Bautista,NA,-16.4960087,-68.1490286,osm
+4470,NA,Farmacia,NA,Tercer Anillo Interno,NA,-17.8034867,-63.1993701,osm
+4471,NA,Farmacia,Helen Candy,Avenida Kollasuyo,NA,-16.4948876,-68.1525453,osm
+4472,NA,Farmacia,NA,NA,NA,-17.8036981,-63.1902263,osm
+4473,NA,Farmacia,FarmaUnidas,NA,NA,-17.7652666,-63.1605482,osm
+4474,NA,Farmacia,Farmacia Sanz,Tercer Anillo Interno,NA,-17.7659294,-63.1598356,osm
+4475,NA,Farmacia,Farmacia San Agustin,Avenida Prefecto Rivas,NA,-17.8099983,-63.1901329,osm
+4476,NA,Farmacia,Centro Medico Santa Cecilia,Avenida Roque Aguilera,NA,-17.7948685,-63.2037836,osm
+4477,NA,Farmacia,Farmacia Mercurio,NA,NA,-16.515455,-68.1558415,osm
+4478,NA,Farmacia,NA,NA,NA,-16.5141067,-68.1566312,osm
+4479,NA,Farmacia,NA,NA,NA,-17.8027472,-63.1916905,osm
+4480,NA,Farmacia,Farmacia Dany,NA,NA,-16.5134708,-68.1570001,osm
+4481,NA,Farmacia,Farmacia Hedi Farma,NA,NA,-16.5220714,-68.1560828,osm
+4482,NA,Farmacia,Farmacia Flores,NA,NA,-17.8103426,-63.1903339,osm
+4483,NA,Farmacia,Farmacia Castells,NA,NA,-16.5228687,-68.1539826,osm
+4484,NA,Farmacia,Farmacia Libertad,Avenida Entre Rios,NA,-16.4978046,-68.1499006,osm
+4485,NA,Farmacia,Santa Lucia,Calle José María Asin,NA,-16.4949647,-68.1520347,osm
+4486,NA,Farmacia,Super Farmacia,Calle José María Asin,NA,-16.4947927,-68.1521521,osm
+4487,NA,Farmacia,Farmacia Ganesh,Avenida Kollasuyo,NA,-16.4944526,-68.1529429,osm
+4488,NA,Farmacia,NA,Calle Bustillos,NA,-16.4941073,-68.1532875,osm
+4489,NA,Farmacia,Luz Marietta,Avenida Satélite,NA,-16.5231612,-68.153252,osm
+4490,NA,Farmacia,Telefarma,NA,NA,-16.5177164,-68.1505915,osm
+4491,NA,Farmacia,13 de Junio,NA,NA,-17.7906501,-63.2101729,osm
+4492,NA,Farmacia,Farmacia Arnez,NA,NA,-17.7956941,-63.207814,osm
+4493,NA,Farmacia,NA,NA,NA,-17.7959362,-63.2088418,osm
+4494,NA,Farmacia,Farmacias Chávez,Tercer Anillo Interno,NA,-17.774507,-63.2026729,osm
+4495,NA,Farmacia,Farmacia Bladerrama,NA,NA,-17.7715515,-63.1251643,osm
+4496,NA,Farmacia,Farmacia Tauro,NA,NA,-17.7959669,-63.2105305,osm
+4497,NA,Farmacia,NA,NA,NA,-16.5159899,-68.154503,osm
+4498,NA,Farmacia,NA,NA,NA,-17.7822732,-63.2040793,osm
+4499,NA,Farmacia,Farmacia Auxiliador,NA,NA,-17.7683714,-63.1163257,osm
+4500,NA,Farmacia,Anita,NA,NA,-16.5108253,-68.158557,osm
+4501,NA,Farmacia,Farmacia Milan,RN4: Santa Cruz-Cotoca,NA,-17.7712171,-63.1254252,osm
+4502,NA,Farmacia,Farmacia Miraflores,RN4: Santa Cruz-Cotoca,NA,-17.7710955,-63.1251318,osm
+4503,NA,Farmacia,NA,NA,NA,-17.7706432,-63.1239625,osm
+4504,NA,Farmacia,Farmacia,NA,NA,-17.7688088,-63.1193971,osm
+4505,NA,Farmacia,Farmacia Camiri,NA,NA,-17.7679259,-63.1165385,osm
+4506,NA,Farmacia,Farmacias Jaris,NA,NA,-16.5087411,-68.1597848,osm
+4507,NA,Farmacia,Farmacias Virgen Del Carmen,NA,NA,-16.5085077,-68.1598993,osm
+4508,NA,Farmacia,Farmacias Ahumada,NA,NA,-16.5081101,-68.1601461,osm
+4509,NA,Farmacia,Farmacias Chávez,NA,NA,-17.7980074,-63.2163861,osm
+4510,NA,Farmacia,Farmacias,NA,NA,-16.5073636,-68.1606061,osm
+4511,NA,Farmacia,Farmacia Rena Sol,NA,NA,-17.7583274,-63.1163284,osm
+4512,NA,Farmacia,Farmacorp,NA,NA,-17.7993946,-63.2207935,osm
+4513,NA,Farmacia,NA,NA,NA,-16.5099249,-68.1584899,osm
+4514,NA,Farmacia,NA,NA,NA,-16.5122784,-68.1574667,osm
+4515,NA,Farmacia,Farmacia Adrian,NA,NA,-16.5114612,-68.1579303,osm
+4516,NA,Farmacia,Farmacia Chavez,NA,NA,-16.5093332,-68.1587629,osm
+4517,NA,Farmacia,Farmacia Farida,NA,NA,-16.5102695,-68.1593275,osm
+4518,NA,Farmacia,Adriana,NA,NA,-16.5090358,-68.1593643,osm
+4519,NA,Farmacia,NA,NA,NA,-17.8146995,-63.2223534,osm
+4520,NA,Farmacia,Farmacia Amistad,Avenida República,NA,-16.4916085,-68.1514968,osm
+4521,NA,Farmacia,Farmacia Kevin,Tercer Anillo Interno,NA,-17.7771431,-63.2037136,osm
+4522,NA,Farmacia,Farmacia Moises,Avenida Perú,NA,-16.4928976,-68.1436312,osm
+4523,NA,Farmacia,Farmacia,NA,NA,-17.7686108,-63.1537389,osm
+4524,NA,Farmacia,Farmacia Katerine,NA,NA,-17.766674,-63.1511888,osm
+4525,NA,Farmacia,Farmacia Ceci,Avenida Buenos Aires,NA,-16.4962196,-68.1442756,osm
+4526,NA,Farmacia,Francisco de Asia,Avenida Buenos Aires,NA,-16.4984528,-68.1443092,osm
+4527,NA,Farmacia,NA,NA,NA,-16.4993628,-68.1750178,osm
+4528,NA,Farmacia,Farmacia Union,NA,NA,-16.4978753,-68.174572800000007,osm
+4529,NA,Farmacia,NA,NA,NA,-16.4971634,-68.1743631,osm
+4530,NA,Farmacia,Farmacia Benjamin,NA,NA,-17.8156298,-63.2241244,osm
+4531,NA,Farmacia,Blanco Negro,NA,NA,-17.7679827,-63.1560774,osm
+4532,NA,Farmacia,Farmacia Llanten,NA,NA,-17.7664057,-63.1574977,osm
+4533,NA,Farmacia,NA,Avenida República,NA,-16.4916292,-68.1524684,osm
+4534,NA,Farmacia,Farmacias Ahumada,NA,NA,-16.4913452,-68.1870533,osm
+4535,NA,Farmacia,NA,Avenida Quintanilla Zuazo,NA,-16.4878452,-68.1487746,osm
+4536,NA,Farmacia,Farmacias Bolivia,Avenida Buenos Aires,NA,-16.4937638,-68.1444084,osm
+4537,NA,Farmacia,Red De Farmacias,NA,NA,-16.4903814,-68.1927026,osm
+4538,NA,Farmacia,Farmacia Plácido,Avenida Buenos Aires,NA,-16.4975946,-68.1445948,osm
+4539,NA,Farmacia,Lebenfarma,Tercer Anillo Interno,NA,-17.7805847,-63.2038534,osm
+4540,NA,Farmacia,NA,Tercer Anillo Interno,NA,-17.7793179,-63.2036868,osm
+4541,NA,Farmacia,FarmaCalidad,NA,NA,-16.4940263,-68.1937,osm
+4542,NA,Farmacia,NA,NA,NA,-16.5039835,-68.1616519,osm
+4543,NA,Farmacia,Farmacia Bautista,Cuarto Anillo,NA,-17.751123,-63.164223,osm
+4544,NA,Farmacia,Farmacias Chávez,Avenida Grigotá,NA,-17.7972182,-63.191385,osm
+4545,NA,Farmacia,Farmacia Lefana,NA,NA,-17.767708,-63.1562588,osm
+4546,NA,Farmacia,R Farmacia,NA,NA,-17.7672954,-63.1564876,osm
+4547,NA,Farmacia,NA,NA,NA,-17.7788947,-63.1882346,osm
+4548,NA,Farmacia,Farmacia Cristal,Avenida Cañoto,NA,-17.7792607,-63.1888888,osm
+4549,NA,Farmacia,Farmacorp,NA,NA,-17.7784408,-63.188616,osm
+4550,NA,Farmacia,Ivisha,Rafael Peña,NA,-17.7778164,-63.1853029,osm
+4551,NA,Farmacia,NA,Avenida Juan Pablo II,NA,-16.5008332,-68.1706835,osm
+4552,NA,Farmacia,Farma Lider,Avenida Alemania,NA,-17.7550234,-63.1654854,osm
+4553,NA,Farmacia,Farmacia Santa Ana,Aroma,NA,-17.775257,-63.1797757,osm
+4554,NA,Farmacia,Farmacia Okinawa,Aroma,NA,-17.7782764,-63.1792348,osm
+4555,NA,Farmacia,Farmacia Claret,Avenida Buenos Aires,NA,-16.5039015,-68.1440187,osm
+4556,NA,Farmacia,Santa Teresita,Avenida Buenos Aires,NA,-16.509453100000002,-68.1434307,osm
+4557,NA,Farmacia,Farmacia El Carmen,Calle Villamil de Rada,NA,-16.5051711,-68.1484467,osm
+4558,NA,Farmacia,Farmacia Lety,Avenida Buenos Aires,NA,-16.5067674,-68.1427258,osm
+4559,NA,Farmacia,Farmacia Ariona,Avenida Buenos Aires,NA,-16.5072552,-68.1429328,osm
+4560,NA,Farmacia,Farmacia Libra,Jaimes Freyre,NA,-16.5104378,-68.1434194,osm
+4561,NA,Farmacia,Farmacia de Belen,Avenida Buenos Aires,NA,-16.51074,-68.1438233,osm
+4562,NA,Farmacia,Farmacia Cindy,Avenida Buenos Aires,NA,-16.5134758,-68.1441647,osm
+4563,NA,Farmacia,Farmacia nahuma,Avenida Marcelo Quiroga Santa Cruz,NA,-16.5227775,-68.1434254,osm
+4564,NA,Farmacia,Farmacia Laoisier,Calle Aroma,NA,-17.7825663,-63.1782601,osm
+4565,NA,Farmacia,Farmacia Israel,NA,NA,-16.4971419,-68.1740209,osm
+4566,NA,Farmacia,Farmaliada,NA,NA,-17.7847293,-63.1963039,osm
+4567,NA,Farmacia,Farmacia Bio Formula,Calle Potosí,NA,-17.7837714,-63.1772538,osm
+4568,NA,Farmacia,San Pablo Farmacias,Calle Quijarro,NA,-17.7795989,-63.1778878,osm
+4569,NA,Farmacia,Farmacias Ahumada,NA,NA,-16.4953168,-68.1739094,osm
+4570,NA,Farmacia,NA,NA,NA,-16.4965378,-68.1741854,osm
+4571,NA,Farmacia,Farmacia Tropical,Calle Quijarro,NA,-17.77717,-63.1784459,osm
+4572,NA,Farmacia,Farmacia San Diego,NA,NA,-17.7841244,-63.1958766,osm
+4573,NA,Farmacia,Farmacia Jazbel,NA,NA,-16.4927382,-68.1828998,osm
+4574,NA,Farmacia,Farmacias Bolivia,Calle José Saravia,NA,-16.5114084,-68.14097,osm
+4575,NA,Farmacia,Tu Farmacia,NA,NA,-17.7847855,-63.1977772,osm
+4576,NA,Farmacia,NA,NA,NA,-16.4936265,-68.1951123,osm
+4577,NA,Farmacia,Farmacia Velia,Calle Barrón,NA,-17.7765736,-63.1745315,osm
+4578,NA,Farmacia,NA,NA,NA,-16.4904725,-68.2066328,osm
+4579,NA,Farmacia,NA,NA,NA,-16.4903468,-68.2072319,osm
+4580,NA,Farmacia,Farmacia Miriam,NA,NA,-16.491581,-68.2118922,osm
+4581,NA,Farmacia,NA,Calle Otero de la vega,NA,-16.5042238,-68.1351517,osm
+4582,NA,Farmacia,Farmacia Suisse,NA,NA,-16.4989407,-68.2285331,osm
+4583,NA,Farmacia,Super Farmacia nataly,NA,NA,-16.4901928,-68.2055774,osm
+4584,NA,Farmacia,NA,NA,NA,-16.4900771,-68.2060929,osm
+4585,NA,Farmacia,NA,NA,NA,-16.4898998,-68.206942,osm
+4586,NA,Farmacia,Super Red Farmacia,NA,NA,-16.4897881,-68.2076133,osm
+4587,NA,Farmacia,Telchi,Calle Libertad,NA,-17.782061,-63.1826988,osm
+4588,NA,Farmacia,Pedro Rene,Avenida Jaimes Freyre,NA,-16.5141744,-68.1412361,osm
+4589,NA,Farmacia,Farmacia Y Consultorio Medico R&M,NA,NA,-16.5011393,-68.2257939,osm
+4590,NA,Farmacia,Farmacia Precios Economicos,NA,NA,-16.5013482,-68.225466,osm
+4591,NA,Farmacia,Super Farmacia,Avenida Jaimes Freyre,NA,-16.5133311,-68.1419006,osm
+4592,NA,Farmacia,NA,Avenida Jaimes Freyre,NA,-16.512278,-68.1424158,osm
+4593,NA,Farmacia,NA,NA,NA,-16.5063936,-68.2186336,osm
+4594,NA,Farmacia,Farmacias Bolivia,Avenida 6 de Agosto,NA,-16.505559,-68.1299445,osm
+4595,NA,Farmacia,Farmacia Nelly,Avenida Jaimes Freyre,NA,-16.5153923,-68.1351117,osm
+4596,NA,Farmacia,Farmacia Dayane,Avenida Jaimes Freyre,NA,-16.5144881,-68.1369345,osm
+4597,NA,Farmacia,Farmacia San Roque,NA,NA,-17.7885955,-63.187586,osm
+4598,NA,Farmacia,La Merced,Avenida Jaimes Freyre,NA,-16.5152843,-68.1393247,osm
+4599,NA,Farmacia,NA,NA,NA,-16.5145784,-68.1402678,osm
+4600,NA,Farmacia,Farmacias Bolivia,NA,NA,-17.785629,-63.1886543,osm
+4601,NA,Farmacia,Biox Pharma,NA,NA,-17.7842414,-63.1892639,osm
+4602,NA,Farmacia,Farmacias Aries,NA,NA,-17.7844459,-63.1912449,osm
+4603,NA,Farmacia,Farmacia Santa Isabel,NA,NA,-17.7435907,-63.177221,osm
+4604,NA,Farmacia,NA,NA,NA,-16.549197,-68.1915145,osm
+4605,NA,Farmacia,FarmaCia,Avenida Ovidio Barbery Justiniano,NA,-17.7424811,-63.1890954,osm
+4606,NA,Farmacia,Farmacía Jose Maria,Avenida Irala,NA,-17.7935274,-63.186614,osm
+4607,NA,Farmacia,NA,NA,NA,-17.7467697,-63.1877551,osm
+4608,NA,Farmacia,Farmacia Rio de Vida,NA,NA,-17.7712871,-63.1852477,osm
+4609,NA,Farmacia,Trebol,Avenida Simón Bolívar,NA,-16.5000168,-68.1251551,osm
+4610,NA,Farmacia,Farmacia Juarez I,Avenida Bautista Saavedra,NA,-16.5051563,-68.1208959,osm
+4611,NA,Farmacia,NA,Avenida Bautista Saavedra,NA,-16.5066775,-68.1201531,osm
+4612,NA,Farmacia,Farmacia Meditodo,Avenida Bautista Saavedra,NA,-16.5070795,-68.1200839,osm
+4613,NA,Farmacia,Farmacia Prosalud,Calle Sao,NA,-17.7667422,-63.170072,osm
+4614,NA,Farmacia,Farmacia Provodencia,Avenida Alemania,NA,-17.7671021,-63.1701544,osm
+4615,NA,Farmacia,Farmacias Hipermaxi,NA,NA,-17.7498869,-63.1852455,osm
+4616,NA,Farmacia,Farmacia,NA,NA,-17.7639259,-63.1592329,osm
+4617,NA,Farmacia,Farmacias Chavez,NA,NA,-17.7634902,-63.159411,osm
+4618,NA,Farmacia,Farmavip,Calle Bolívar,NA,-17.7823175,-63.177273,osm
+4619,NA,Farmacia,Farmacias Chavez,NA,NA,-17.7606145,-63.1982967,osm
+4620,NA,Farmacia,Farmacia Moisés,NA,NA,-17.7672732,-63.1519587,osm
+4621,NA,Farmacia,Multifarma,NA,NA,-17.7902459,-63.172168,osm
+4622,NA,Farmacia,Farmacia Clelid,NA,NA,-17.7907394,-63.1726986,osm
+4623,NA,Farmacia,Farmacia,NA,NA,-17.7578242,-63.1561231,osm
+4624,NA,Farmacia,Farmacia Sanidad,NA,NA,-17.7575255,-63.1558842,osm
+4625,NA,Farmacia,NA,Radial 21,NA,-17.7777519,-63.2086355,osm
+4626,NA,Farmacia,Farmacia Guvi,Dr. Aquino Rodríguez,NA,-17.7740996,-63.2092774,osm
+4627,NA,Farmacia,Farmacia David,NA,NA,-17.7846422,-63.1717119,osm
+4628,NA,Farmacia,Farmacia Zeballos,Tercer Anillo Interno,NA,-17.7597036,-63.1824427,osm
+4629,NA,Farmacia,Farmacia Nueva América,Avenida Irala,NA,-17.7918657,-63.1769936,osm
+4630,NA,Farmacia,10 de Mayo,NA,NA,-17.7595795,-63.1811244,osm
+4631,NA,Farmacia,Farmacia Veizaga,Avenida Santos Dumont,NA,-17.8041326,-63.1803216,osm
+4632,NA,Farmacia,Farmacia Atenea,NA,NA,-17.7729082,-63.1510681,osm
+4633,NA,Farmacia,Farmacia Berna,NA,NA,-17.7737102,-63.1538914,osm
+4634,NA,Farmacia,Farmacia nardy,Avenida Santos Dumont,NA,-17.8119591,-63.1824069,osm
+4635,NA,Farmacia,Farmacia Melendres,Avenida Grigotá3,NA,-17.8033517,-63.1990523,osm
+4636,NA,Farmacia,Farmacorp,Avenida Santos Dumont,NA,-17.8334614,-63.1859829,osm
+4637,NA,Farmacia,Farmacia America,Calle Libertad,NA,-17.7803696,-63.1829686,osm
+4638,NA,Farmacia,Señor de Buen Viaje,NA,NA,-17.3378459,-66.2661809,osm
+4639,NA,Farmacia,Farmacias Central,Calle 21 de Mayo,NA,-17.7823722,-63.1837691,osm
+4640,NA,Farmacia,Farmacias Bolivia,Avenida 16 de Julio,NA,-16.5007528,-68.13307,osm
+4641,NA,Farmacia,Farmacia Riery,Avenida Trinidad,NA,-17.7726648,-63.1733661,osm
+4642,NA,Farmacia,Farmacias Central,Avenida Argomosa,NA,-17.7784625,-63.1731665,osm
+4643,NA,Farmacia,Farmacia Lagunta Bonita,Avenida Prolongacion San Pablo,NA,-17.7837572,-63.1566393,osm
+4644,NA,Farmacia,Farmacia San Juan Bautista,NA,NA,-17.8005051,-63.158941,osm
+4645,NA,Farmacia,Farmaplus,NA,NA,-17.8120423,-63.1327413,osm
+4646,NA,Farmacia,Farmacia,NA,NA,-17.7872659,-63.1625563,osm
+4647,NA,Farmacia,Farmacia,NA,NA,-17.7871714,-63.1624517,osm
+4648,NA,Farmacia,Farmacia,Avenida Brasil,NA,-17.7875125,-63.1629059,osm
+4649,NA,Farmacia,Farmacia,Avenida Brasil,NA,-17.7880078,-63.1630391,osm
+4650,NA,Farmacia,Farmacia Megafarma,Avenida Intermodal,NA,-17.7885723,-63.1624544,osm
+4651,NA,Farmacia,Farmacia Buenas Nuevas,Avenida Intermodal,NA,-17.7897548,-63.1626502,osm
+4652,NA,Farmacia,Robore,Cuarto Anillo,NA,-17.8045524,-63.1533958,osm
+4653,NA,Farmacia,Farmacia Aguirre,NA,NA,-17.7678794,-63.1142038,osm
+4654,NA,Farmacia,NA,Avenida Cuarto Anillo,NA,-17.7925902,-63.1488188,osm
+4655,NA,Farmacia,Farma Unidas,Avenida Grigotá,NA,-17.7973359,-63.1921728,osm
+4656,NA,Farmacia,Chavez,NA,NA,-17.7658212,-63.1045768,osm
+4657,NA,Farmacia,Farmacia Tupiza-L,Avenida Intermodal,NA,-17.7911049,-63.1628981,osm
+4658,NA,Farmacia,Farmacia,Tercer Anillo Interno,NA,-17.7959236,-63.1575158,osm
+4659,NA,Farmacia,Farmacia Dorado,Avenida Santos Dumont,NA,-17.8371664,-63.1830112,osm
+4660,NA,Farmacia,Farmacia Nueva Jerusalen,Avenida Santos Dumont,NA,-17.8403368,-63.1806608,osm
+4661,NA,Farmacia,NA,Avenida Santos Dumont,NA,-17.8419269,-63.1805454,osm
+4662,NA,Farmacia,Farmacias Hipermaxi,Avenida Santos Dumont,NA,-17.844867700000002,-63.1815512,osm
+4663,NA,Farmacia,Farmacia Los Pinos,Calle 25,NA,-16.5422546,-68.0714293,osm
+4664,NA,Farmacia,Farmacia,Calle 25,NA,-16.541991,-68.0716569,osm
+4665,NA,Farmacia,Farmacia 27 de Mayo,NA,NA,-17.7952821,-63.1572591,osm
+4666,NA,Farmacia,Farmacia Vitalia,Avenida Nuevo Palmar,NA,-17.8517285,-63.1821773,osm
+4667,NA,Farmacia,Farmacia Mutun,Avenida Nuevo Palmar,NA,-17.8533038,-63.1807019,osm
+4668,NA,Farmacia,NA,NA,NA,-17.7973431,-63.1524178,osm
+4669,NA,Farmacia,Farma Aliada,NA,NA,-17.846828,-63.1683888,osm
+4670,NA,Farmacia,Farmacia San Matias,Avenida Grigotá,NA,-17.7962266,-63.1908888,osm
+4671,NA,Farmacia,Farmacia Zurisadai,NA,NA,-17.8053119,-63.1359464,osm
+4672,NA,Farmacia,Farmacia San Juan de Dios,Calle Ñuflo de Chávez,NA,-17.7849814,-63.1745898,osm
+4673,NA,Farmacia,NA,NA,NA,-17.8045082,-63.1358213,osm
+4674,NA,Farmacia,NA,NA,NA,-17.8030687,-63.135611,osm
+4675,NA,Farmacia,Efrain,NA,NA,-17.7321766,-63.0960186,osm
+4676,NA,Farmacia,Farmacia Progreso,Avenida Radial 13,NA,-17.8314893,-63.1753375,osm
+4677,NA,Farmacia,Farmacia Randy,Avenida Cnl. Maximiliano España,NA,-17.814189,-63.1770893,osm
+4678,NA,Farmacia,NA,Calle Avaroa,NA,-17.7796104,-63.1750412,osm
+4679,NA,Farmacia,Famacia Los Pozos,Calle Avaroa,NA,-17.7787062,-63.1755652,osm
+4680,NA,Farmacia,Farmacia,Avenida Héroes del Chaco,NA,-16.5377687,-68.0493957,osm
+4681,NA,Farmacia,Daniel,NA,NA,-16.5334894,-68.1405919,osm
+4682,NA,Farmacia,NA,Calle Avaroa,NA,-17.7764755,-63.176501,osm
+4683,NA,Farmacia,Farmacia Pharma Medical Center,Avenida Irala,NA,-17.7928104,-63.185117,osm
+4684,NA,Farmacia,Farmacia Etica,NA,NA,-17.7960979,-63.1567017,osm
+4685,NA,Farmacia,Farmacia Juan Pablo II,NA,NA,-17.7991545,-63.1498345,osm
+4686,NA,Farmacia,Farmacia Agape,Avenida La Campana,NA,-17.8176481,-63.1176751,osm
+4687,NA,Farmacia,NA,NA,NA,-17.8246616,-63.1318301,osm
+4688,NA,Farmacia,FarmaUnidas,Avenida Plan Tres Mil,NA,-17.8263896,-63.1348612,osm
+4689,NA,Farmacia,Farmacia Uno,Avenida Paurito,NA,-17.8185017,-63.1487027,osm
+4690,NA,Farmacia,NA,NA,NA,-16.5415925,-68.1997411,osm
+4691,NA,Farmacia,Maria del Carmen,Isabel La Católica,NA,-17.7918688,-63.1900679,osm
+4692,NA,Farmacia,NA,Isabel La Católica,NA,-17.7923014,-63.1904082,osm
+4693,NA,Farmacia,Farmacia Quijarro,Calle Quijarro,NA,-17.780379,-63.1775648,osm
+4694,NA,Farmacia,Farmacia,Quinto Anillo,NA,-17.829695,-63.172685,osm
+4695,NA,Farmacia,Farmacia Rey de Reyes,Calle Adán Gutiérrez,NA,-17.7769284,-63.1782932,osm
+4696,NA,Farmacia,Faramsol,NA,NA,-17.8075237,-63.1370767,osm
+4697,NA,Farmacia,NA,NA,NA,-17.8076317,-63.1362709,osm
+4698,NA,Farmacia,NA,NA,NA,-17.8021218,-63.1351647,osm
+4699,NA,Farmacia,Farmacia Maria Laura,Avenida Cívica,NA,-16.540138,-68.1677921,osm
+4700,NA,Farmacia,Farmacia San Miguel,Avenida Cañoto,NA,-17.7816155,-63.1891151,osm
+4701,NA,Farmacia,NA,NA,NA,-17.8058959,-63.1282143,osm
+4702,NA,Farmacia,NA,NA,NA,-16.5306238,-68.1597078,osm
+4703,NA,Farmacia,Farmacia,Quinto Anillo,NA,-17.8281147,-63.2032174,osm
+4704,NA,Farmacia,NA,NA,NA,-17.8120232,-63.1287508,osm
+4705,NA,Farmacia,Farma Unidad,Calle Cuéllar,NA,-17.7794293,-63.1859427,osm
+4706,NA,Farmacia,Robert Farmacia,Santa Bárbara,NA,-17.7794628,-63.1860922,osm
+4707,NA,Farmacia,Farmacia Amaya,Quinto Anillo,NA,-17.8233841,-63.1648746,osm
+4708,NA,Farmacia,Mi Farma,Calle 21,NA,-16.540648,-68.0776004,osm
+4709,NA,Farmacia,NA,NA,NA,-16.5362623,-68.1650189,osm
+4710,NA,Farmacia,NA,NA,NA,-16.5357145,-68.1646803,osm
+4711,NA,Farmacia,Farmacia Tania,Avenida Héroes del Chaco,NA,-16.5344618,-68.0412894,osm
+4712,NA,Farmacia,Farmacia,Quinto Anillo,NA,-17.8261365,-63.168665,osm
+4713,NA,Farmacia,Pharma Arte,Avenida Ballivián,NA,-16.5392962,-68.0757521,osm
+4714,NA,Farmacia,Farmacia Leo,Quinto Anillo,NA,-17.8278476,-63.1707844,osm
+4715,NA,Farmacia,Farmacia Ruth,NA,NA,-16.5273801,-68.1579773,osm
+4716,NA,Farmacia,Eva María,Quinto Anillo,NA,-17.8297106,-63.1732029,osm
+4717,NA,Farmacia,Farmacia,Avenida Héroes del Chaco,NA,-16.5363752,-68.0457076,osm
+4718,NA,Farmacia,Farmacia Nicol,NA,NA,-16.5235129,-68.1523966,osm
+4719,NA,Farmacia,Farmacia Betesda,NA,NA,-16.5233382,-68.1528181,osm
+4720,NA,Farmacia,Farmacia,Avenida Héroes del Chaco,NA,-16.5338206,-68.0380834,osm
+4721,NA,Farmacia,Farmacia,Avenida Héroes del Chaco,NA,-16.5341647,-68.0385301,osm
+4722,NA,Farmacia,Farmacia Paris Suc.,NA,NA,-17.7600456,-63.182453,osm
+4723,NA,Farmacia,Farmacia Baratillo,Avenida Uruguay,NA,-17.7748106,-63.1806195,osm
+4724,NA,Farmacia,Farmacia Japon,NA,NA,-17.7764797,-63.1797768,osm
+4725,NA,Farmacia,Farmacia Jhustinne,Avenida Antonio Vaca Diez,NA,-17.7523242,-63.193582,osm
+4726,NA,Farmacia,Farmacias Chavez,Cuarto Anillo,NA,-17.8232266,-63.1838307,osm
+4727,NA,Farmacia,Farma-U,NA,NA,-17.7697556,-63.2019492,osm
+4728,NA,Farmacia,Farmamedic,Tercer Anillo Externo,NA,-17.7586017,-63.1837514,osm
+4729,NA,Farmacia,Farmacia Jireh,Cuarto Anillo,NA,-17.8223214,-63.1764783,osm
+4730,NA,Farmacia,Farmacia ISA,Tercer Anillo Interno,NA,-17.77813,-63.2038636,osm
+4731,NA,Farmacia,Farmacia Virgen La Bella,Cuarto Anillo,NA,-17.8190238,-63.1701146,osm
+4732,NA,Farmacia,Farmacia Niño Salvador,NA,NA,-17.7773603,-63.2039985,osm
+4733,NA,Farmacia,Farmacia Jéssica,NA,NA,-17.7773817,-63.204421,osm
+4734,NA,Farmacia,NA,NA,NA,-17.7773819,-63.2060294,osm
+4735,NA,Farmacia,Farmacia,NA,NA,-17.7915255,-63.2172243,osm
+4736,NA,Farmacia,Eco Farma,Avenida Marcelo Terceros Bánzer,NA,-17.7651651,-63.1998319,osm
+4737,NA,Farmacia,Farmacia Nela,Avenida Cuarto Anillo,NA,-17.7906118,-63.1480449,osm
+4738,NA,Farmacia,Farmacia,Calle Colón,NA,-17.7861101,-63.1844588,osm
+4739,NA,Farmacia,Enfermeria Camba,Calle Colón,NA,-17.7869681,-63.1843527,osm
+4740,NA,Farmacia,Farmacias Bolivia,Avenida Piraí,NA,-17.7954037,-63.2058175,osm
+4741,NA,Farmacia,Farmacia Diego Mauricio,NA,NA,-17.7919588,-63.1983519,osm
+4742,NA,Farmacia,Farmacia Favi,NA,NA,-17.7890786,-63.1895295,osm
+4743,NA,Farmacia,Farmacia Aileen,NA,NA,-17.7888033,-63.188028,osm
+4744,NA,Farmacia,natalia,NA,NA,-17.7927345,-63.1909219,osm
+4745,NA,Farmacia,Farmacia Susan,Sara,NA,-17.7815805,-63.1873514,osm
+4746,NA,Farmacia,Farmacia Jassid,Sara,NA,-17.7823854,-63.1872945,osm
+4747,NA,Farmacia,Farmaliada,NA,NA,-17.7518664,-63.1869104,osm
+4748,NA,Farmacia,Farmacia Paris,NA,NA,-17.7946292,-63.1923515,osm
+4749,NA,Farmacia,Farmacia Mariela,NA,NA,-17.7959739,-63.193143,osm
+4750,NA,Farmacia,Farmacia Farmatodo,Calle Colón,NA,-17.7863779,-63.184543,osm
+4751,NA,Farmacia,Farmacia Ruvi,Calle México,NA,-17.7759953,-63.1899822,osm
+4752,NA,Farmacia,Estar Sano,NA,NA,-17.7703236,-63.2042481,osm
+4753,NA,Farmacia,NA,NA,NA,-17.7571026,-63.2002307,osm
+4754,NA,Farmacia,Farma Aliada,Avenida Grigotá,NA,-17.7931087,-63.1872814,osm
+4755,NA,Farmacia,Farmacía Ana Paola,Avenida Ovidio Barbery Justiniano,NA,-17.7413488,-63.1899028,osm
+4756,NA,Farmacia,Cremer,NA,NA,-17.766636599999998,-63.1628339,osm
+4757,NA,Farmacia,Los Jazmines,Avenida Ovidio Barbery Justiniano,NA,-17.753741,-63.1875437,osm
+4758,NA,Farmacia,Farmacia El Paraiso,Avenida Viedma,NA,-17.7898955,-63.1713581,osm
+4759,NA,Farmacia,Farmacia,Calle Charcas,NA,-17.7798719,-63.1745724,osm
+4760,NA,Farmacia,Farmacia SA,Calle Ñuflo de Chávez,NA,-17.7852011,-63.1761904,osm
+4761,NA,Farmacia,Farmacia ABC,Calle Ballivián,NA,-17.784217,-63.172493,osm
+4762,NA,Farmacia,Rosalin,NA,NA,-17.7783114,-63.1740005,osm
+4763,NA,Farmacia,Farmacia Bio Vital,Calle Santa Bárbara,NA,-17.7814306,-63.1859634,osm
+4764,NA,Farmacia,Farmacia Maida Pinto,NA,NA,-17.7518966,-63.1289085,osm
+4765,NA,Farmacia,Farma Unidas,Avenida Mutualista,NA,-17.7631916,-63.1598015,osm
+4766,NA,Farmacia,Farmacia de Vida,NA,NA,-17.7810252,-63.1851383,osm
+4767,NA,Farmacia,Farmacia Bautista,Calle Capitan Manuel Tovar,NA,-17.760976,-63.1630548,osm
+4768,NA,Farmacia,Farmacia Grigotta,Avenida Mutualista,NA,-17.7704459,-63.1664955,osm
+4769,NA,Farmacia,Farmacia Arimatea,Calle Libertad,NA,-17.7741435,-63.1835693,osm
+4770,NA,Farmacia,Farmacia,Los Taracoés,NA,-17.7657649,-63.1615712,osm
+4771,NA,Farmacia,Farmacia Luana,Avenida Mutualista,NA,-17.7652963,-63.1611507,osm
+4772,NA,Farmacia,Farma Chris,Avenida Mutualista,NA,-17.7619121,-63.1584577,osm
+4773,NA,Farmacia,Farmacia Janel,Avenida Los Chacos,NA,-17.7517002,-63.1213089,osm
+4774,NA,Farmacia,Farmacia,Calle Alameda Junín,NA,-17.7832635,-63.1928036,osm
+4775,NA,Farmacia,Farmacia,Calle Charcas,NA,-17.780443000000002,-63.17943,osm
+4776,NA,Farmacia,Farmacia Monteagudo,Calle Sucre,NA,-19.8053701,-63.9566505,osm
+4777,NA,Farmacia,Luz,RN6: Monteagudo,NA,-19.80563,-63.9578051,osm
+4778,NA,Farmacia,Virgen del Rosario,Calle Sucre,NA,-19.8014418,-63.9551348,osm
+4779,NA,Farmacia,NA,NA,NA,-17.3923156,-66.199466,osm
+4780,NA,Farmacia,Evan's,NA,NA,-17.3871775,-66.1532891,osm
+4781,NA,Farmacia,Farmacia Pando,Avenida Pando,NA,-17.3701562,-66.1513202,osm
+4782,NA,Farmacia,El Arbol,Avenida Litoral,NA,-17.3991837,-66.1760988,osm
+4783,NA,Farmacia,Luz de Cristo,Avenida Ana Barba,NA,-17.7982304,-63.1884968,osm
+4784,NA,Farmacia,Pharma,NA,NA,-17.3527675,-66.1896411,osm
+4785,NA,Farmacia,Osmar,Avenida Entre Rios,NA,-16.4945349,-68.1591128,osm
+4786,NA,Farmacia,NA,NA,NA,-16.5397912,-68.0539901,osm
+4787,NA,Farmacia,Verónica,NA,NA,-17.3929771,-66.1544463,osm
+4788,NA,Farmacia,Rosas Pampa,NA,NA,-16.5418337,-68.1730311,osm
+4789,NA,Farmacia,Rosana,NA,NA,-16.5417644,-68.1720304,osm
+4790,NA,Farmacia,Gared,NA,NA,-16.5420982,-68.1719537,osm
+4791,NA,Farmacia,A. L. J. Farma,NA,NA,-16.5365556,-68.1645786,osm
+4792,NA,Farmacia,Revelación,Avenida Juan Pablo II,NA,-16.4912884,-68.2004167,osm
+4793,NA,Farmacia,Super Red,NA,NA,-16.487747,-68.1992667,osm
+4794,NA,Farmacia,Misterio de Luz,NA,NA,-16.4879618,-68.1992033,osm
+4795,NA,Farmacia,Torrent I,NA,NA,-16.4892565,-68.1997328,osm
+4796,NA,Farmacia,El Dorado,NA,NA,-16.4887767,-68.2010504,osm
+4797,NA,Farmacia,El poder de la cruz,NA,NA,-16.4881345,-68.2009926,osm
+4798,NA,Farmacia,Flor de Dios,Alfredo Pascoe,NA,-16.4891191,-68.2011541,osm
+4799,NA,Farmacia,Juan Pablo II,NA,NA,-16.4885536,-68.2008924,osm
+4800,NA,Farmacia,Issol,NA,NA,-16.4903035,-68.2015359,osm
+4801,NA,Farmacia,Issol,NA,NA,-16.4914024,-68.2001893,osm
+4802,NA,Farmacia,Virgen de remedios,NA,NA,-20.9352572,-66.2200766,osm
+4803,NA,Farmacia,Rubens,NA,NA,-17.37431,-66.1592612,osm
+4804,NA,Farmacia,Colón 2,NA,NA,-17.3877863,-66.1531871,osm
+4805,NA,Farmacia,Casa de Salud,Calle C Medina,NA,-16.5111521,-68.1572963,osm
+4806,NA,Farmacia,24 de Agosto,Calle 8,NA,-16.5134342,-68.1603291,osm
+4807,NA,Farmacia,San Isidro (S.I.),Calle 8,NA,-16.5119973,-68.157458,osm
+4808,NA,Farmacia,Ana Laura,Avenida 3,NA,-16.5246099,-68.1632707,osm
+4809,NA,Farmacia,Farmacia Elva,NA,NA,-14.8580376,-66.7478813,osm
+4810,NA,Farmacia,Nueva Farma,NA,NA,-17.7978533,-63.1932785,osm
+4811,NA,Farmacia,Paty,NA,NA,-17.795635,-63.192849,osm
+4812,NA,Farmacia,Torrico,NA,NA,-17.792301,-63.190583,osm
+4813,NA,Farmacia,GIMVIC -MANI MED,NA,NA,-16.5633635,-68.2199615,osm
+4814,NA,Farmacia,Farmacia Bella Vista,NA,NA,-16.5265194,-68.0945277,osm
+4815,NA,Farmacia,Vida y Salud,NA,NA,-17.8191789,-63.2111618,osm
+4816,NA,Farmacia,Fcia Satelite Norte,NA,NA,-17.6047936,-63.1403374,osm
+4817,NA,Farmacia,Fcia Sucrefar,NA,NA,-17.6043013,-63.1410159,osm
+4818,NA,Farmacia,Urkupiña,NA,NA,-17.6054279,-63.140934,osm
+4819,NA,Farmacia,Atenas,NA,NA,-17.3875658,-66.1587785,osm
+4820,NA,Farmacia,Farma M & M,Avenida Guillermo Urquidi,NA,-17.3938234,-66.1416839,osm
+4821,NA,Farmacia,Gutierrez,NA,NA,-17.3964436,-66.1490734,osm
+4822,NA,Farmacia,Oruro,NA,NA,-17.3866074,-66.1587543,osm
+4823,NA,Farmacia,Farmacia Oruro,NA,NA,-16.4957864,-68.1319742,osm
+4824,NA,Farmacia,NA,NA,NA,-17.7867556,-63.1730516,osm
+4825,NA,Farmacia,Ecofarmacia,NA,NA,-19.5801077,-65.7553221,osm
+4826,NA,Farmacia,NA,NA,NA,-17.2552381,-64.3611914,osm
+4827,NA,Farmacia,NA,NA,NA,-17.2544664,-64.3616461,osm
+4828,NA,Farmacia,NA,NA,NA,-17.1978244,-64.5371185,osm
+4829,NA,Farmacia,Palma Verde,NA,NA,-17.757913,-63.094087,osm
+4830,NA,Farmacia,Angheli y Adriana,NA,NA,-17.764305,-63.094445,osm
+4831,NA,Farmacia,Maria Auxiliadora 2,NA,NA,-17.759468,-63.095057,osm
+4832,NA,Farmacia,Los Sauces,NA,NA,-17.7313556,-63.1779249,osm
+4833,NA,Farmacia,Farmacia Carmiñia,NA,NA,-16.5001229,-68.1529147,osm
+4834,NA,Farmacia,NA,NA,NA,-16.5013253,-68.1561993,osm
+4835,NA,Farmacia,NA,NA,NA,-19.0067638,-57.7198524,osm
+4836,NA,Farmacia,Farmacia San Sebastián,Calle Carrasco,NA,-16.4993766,-68.1218751,osm
+4837,NA,Farmacia,Solet,Calle 30 B,NA,-16.5302607,-68.1559776,osm
+4838,NA,Farmacia,J.B.L.,Calle 31 B,NA,-16.5310823,-68.1547168,osm
+4839,NA,Farmacia,Cies,NA,NA,-17.762196,-63.16443,osm
+4840,NA,Farmacia,Farmacias Bolivia - Estación Teleférico Línea Amarilla,Avenida Panorámica,NA,-16.5185339,-68.1499608,osm
+4841,NA,Farmacia,NA,Avenida Junin,NA,-16.5218516,-68.2106109,osm
+4842,NA,Farmacia,San Gabriel,Avenida Junin,NA,-16.5215015,-68.2102966,osm
+4843,NA,Farmacia,Unicruz,NA,NA,-16.4999646,-68.1450294,osm
+4844,NA,Farmacia,Gloria,Calle Colón,NA,-16.4957525,-68.1319633,osm
+4845,NA,Farmacia,Los Andes,Avenida Potosí,NA,-20.4645981,-66.8260559,osm
+4846,NA,Farmacia,Farmacia Camiri,NA,NA,-20.040555,-63.5170161,osm
+4847,NA,Farmacia,NA,NA,NA,-17.3901861,-66.1518244,osm
+4848,NA,Farmacia,Evangélica,NA,NA,-17.3458989,-66.2032731,osm
+4849,NA,Farmacia,Ruth,Avenida Escalona y Aguero,NA,-16.5275673,-68.1580633,osm
+4850,NA,Farmacia,Don Bosco I,Avenida Escalona y Aguero,NA,-16.5278095,-68.1581626,osm
+4851,NA,Farmacia,NA,Calle 27 B,NA,-16.5287966,-68.1526084,osm
+4852,NA,Farmacia,Farmacia Shabbat Shalom,NA,NA,-16.5237998,-68.1497702,osm
+4853,NA,Farmacia,NA,NA,NA,-17.9153874,-64.5309251,osm
+4854,NA,Farmacia,NA,NA,NA,-17.3987926,-63.827299,osm
+4855,NA,Farmacia,Sajama,NA,NA,-17.3893589,-66.1549017,osm
+4856,NA,Farmacia,PharmaGrand,NA,NA,-17.390604,-66.1487327,osm
+4857,NA,Farmacia,Plus E & E,Calle Coroico,NA,-16.4964471,-68.1295748,osm
+4858,NA,Farmacia,Farmacias Bolivia,Calle Yungas,NA,-16.4974451,-68.1287069,osm
+4859,NA,Farmacia,Farmacia Jaldin,NA,NA,-17.3424682,-63.2489267,osm
+4860,NA,Farmacia,Farmacia Damaris,NA,NA,-17.3404251,-63.2507751,osm
+4861,NA,Farmacia,Farmacia La Nuestra,Avenida Satélite,NA,-16.5245023,-68.1499073,osm
+4862,NA,Farmacia,Farmacias Bolivia - Gran Plaza,Avenida Alfredo Sanjines,NA,-16.527262,-68.1484741,osm
+4863,NA,Farmacia,Farmacia Mas Vida,Calle Los Lirios,NA,-17.3660238,-66.1473521,osm
+4864,NA,Farmacia,Farmacia Copacabana,NA,NA,-22.733638,-64.343606,osm
+4865,NA,Farmacia,Atenea,Avenida H. Siles,NA,-19.0446028,-65.2584046,osm
+4866,NA,Farmacia,San Juan de Circa,Avenida H. Siles,NA,-19.0446237,-65.2586674,osm
+4867,NA,Farmacia,La Esperanza,Avenida H. Siles,NA,-19.0444629,-65.2588386,osm
+4868,NA,Farmacia,Farmacia La Plata,Capitán Agustín Ravelo,NA,-19.045896,-65.2594444,osm
+4869,NA,Farmacia,La Capital,Calle Aniceto Arce,NA,-19.0466543,-65.2591897,osm
+4870,NA,Farmacia,NA,NA,NA,-17.3569715,-66.1766498,osm
+4871,NA,Farmacia,NA,NA,NA,-17.3562175,-66.1772693,osm
+4872,NA,Farmacia,Farmacias Bolivia - Ciudad Satélite,Avenida Satélite,NA,-16.5236938,-68.1519512,osm
+4873,NA,Farmacia,Farmacia RASIEL,Arturo Ballivian Otero,NA,-16.525017,-68.1519466,osm
+4874,NA,Farmacia,NA,Pasaje Agustín Iturricha,NA,-19.0529097,-65.253242,osm
+4875,NA,Farmacia,Avril Mayté,Cristo redentor,NA,-16.4888769,-68.1580101,osm
+4876,NA,Farmacia,San José,Juan XXIII,NA,-16.487694,-68.1572407,osm
+4877,NA,Farmacia,Farmacia Paurito,Avenida Paurito,NA,-17.8453925,-63.1073606,osm
+4878,NA,Farmacia,Farmacorp,Avenida Paurito,NA,-17.8226944,-63.1446212,osm
+4879,NA,Farmacia,Farmacia Okinawa,Avenida Plan Tres Mil,NA,-17.8268665,-63.134551,osm
+4880,NA,Farmacia,NA,NA,NA,-17.3951898,-66.1494662,osm
+4881,NA,Farmacia,Farmacia Cruz Del Sur,Calle Bustillos,NA,-19.5874507,-65.7545272,osm
+4882,NA,Farmacia,Farmacia Berito,Avenida Litoral,NA,-19.5795678,-65.7561398,osm
+4883,NA,Farmacia,Farmacia San Pablo,Avenida Santa Cruz,NA,-19.5779956,-65.7527776,osm
+4884,NA,Farmacia,Farmacia San Francisco,Calle Bolivar,NA,-19.587738,-65.7553064,osm
+4885,NA,Farmacia,Farmacia San Andres,Avenida Santa Cruz,NA,-19.5790241,-65.7535115,osm
+4886,NA,Farmacia,Farmacia San Benito,Avenida Santa Cruz,NA,-19.5797446,-65.7540443,osm
+4887,NA,Farmacia,Farmacia San Judas Tadeo,15 de mayo,NA,-19.5796786,-65.7536938,osm
+4888,NA,Farmacia,Farmacia Santa Rita,Pando,NA,-19.5786873,-65.7533614,osm
+4889,NA,Farmacia,Bristol,NA,NA,-19.582207,-65.7578118,osm
+4890,NA,Farmacia,Farma-diet,NA,NA,-16.4968491,-68.1844424,osm
+4891,NA,Farmacia,Farmacia Antonino,Calle Bustillos,NA,-19.5879577,-65.7545998,osm
+4892,NA,Farmacia,Farmacia nazareth,Calle Bustillos,NA,-19.5869314,-65.7545594,osm
+4893,NA,Farmacia,Farmacias Bolivia,Avenida Perú,NA,-16.4913093,-68.144699,osm
+4894,NA,Farmacia,Farmacia Camiri,Cochabamba esquina Bolívar,NA,-20.038237,-63.5216486,osm
+4895,NA,Farmacia,FarmaCorp,Avenida Simón Lopez,NA,-17.3638619,-66.1793015,osm
+4896,NA,Farmacia,Farmacia Maria Elena,NA,NA,-17.8310333,-63.1250306,osm
+4897,NA,Farmacia,Farmacias Bolivia,Avenida 6 de Agosto,NA,-16.5084685,-68.126912,osm
+4898,NA,Farmacia,Farmacias Chavez - 6 de Agosto,Avenida 6 de Agosto,NA,-16.5112334,-68.1241237,osm
+4899,NA,Farmacia,Gloria,NA,NA,-16.5405731,-68.0894146,osm
+4900,NA,Farmacia,Farmacia Gloria,NA,NA,-16.5304033,-68.087522,osm
+4901,NA,Farmacia,Farmacia Santiago Salud,NA,NA,-16.5145838,-68.1438036,osm
+4902,NA,Farmacia,Isis,NA,NA,-16.4880557,-68.1435364,osm
+4903,NA,Farmacia,NA,NA,NA,-17.3929456,-66.272914,osm
+4904,NA,Farmacia,Farmacia San Jose,NA,NA,-19.586,-65.7566445,osm
+4905,NA,Farmacia,Tu Solución,NA,NA,-17.37619,-66.1689575,osm
+4906,NA,Farmacia,Farmacia,NA,NA,-17.978543,-67.1333161,osm
+4907,NA,Farmacia,Farmacia,NA,NA,-17.9520202,-67.1107893,osm
+4908,NA,Farmacia,Farmacia Isis,Calle Cochabamba,NA,-14.8568574,-66.7462794,osm
+4909,NA,Farmacia,La Luz,NA,NA,-17.3855352,-66.149102,osm
+4910,NA,Farmacia,NA,NA,NA,-17.3841863,-66.1589324,osm
+4911,NA,Farmacia,NA,Avenida Aniceto Arce,NA,-17.3828752,-66.1455725,osm
+4912,NA,Farmacia,Farmacia Sanidad,NA,NA,-19.1235046,-64.3240196,osm
+4913,NA,Farmacia,Nuevo Mundo,NA,NA,-19.1228552,-64.3233725,osm
+4914,NA,Farmacia,Virgen de Guadalupe,NA,NA,-19.1217301,-64.3237032,osm
+4915,NA,Farmacia,NA,NA,NA,-16.5006993,-68.1265683,osm
+4916,NA,Farmacia,Farmacia,NA,NA,-16.9114278,-62.6168867,osm
+4917,NA,Farmacia,San Juan de Dios,NA,NA,-16.91083,-62.6173454,osm
+4918,NA,Farmacia,FARMEDICAL,NA,NA,-16.5222237,-68.1557119,osm
+4919,NA,Farmacia,San Antonio,NA,NA,-18.4660799,-66.5698083,osm
+4920,NA,Farmacia,Brisa,NA,NA,-17.7542153,-62.9974333,osm
+4921,NA,Farmacia,Neucy,NA,NA,-17.7538673,-62.9959554,osm
+4922,NA,Farmacia,Jerusalem,NA,NA,-17.7536693,-62.9958588,osm
+4923,NA,Farmacia,Peniel,NA,NA,-17.7548029,-62.9960531,osm
+4924,NA,Farmacia,Farmacia El Quior,Avenida Principal El Quior,NA,-17.8477427,-63.0908507,osm
+4925,NA,Farmacia,Farmacias Gloria,Avenida Ecuador,NA,-16.5134125,-68.1288959,osm
+4926,NA,Farmacia,NA,NA,NA,-16.4900269,-68.1606448,osm
+4927,NA,Farmacia,NA,NA,NA,-17.3972934,-66.1546959,osm
+4928,NA,Farmacia,Diana,Calle 23 de Marzo,NA,-17.3937037,-66.2793108,osm
+4929,NA,Farmacia,Armentia,NA,NA,-16.4913137,-68.1361868,osm
+4930,NA,Farmacia,NA,Punata,NA,-16.5165907,-68.198445,osm
+4931,NA,Farmacia,Farmacia Luz y vida,NA,NA,-16.5197057,-68.2116329,osm
+4932,NA,Farmacia,Farmacia Ela,RN7: La Guardia-Samaipata,NA,-18.0076471,-63.3913327,osm
+4933,NA,Farmacia,La Predilecta,Calle Evadidos del Paraguay,NA,-16.5110799,-68.1678023,osm
+4934,NA,Farmacia,Santa Gemma,NA,NA,-16.513704,-68.1337488,osm
+4935,NA,Farmacia,Terminal,NA,NA,-19.5581211,-65.7619,osm
+4936,NA,Farmacia,Katunta,Avenida Satélite,NA,-16.5208496,-68.158279,osm
+4937,NA,Farmacia,NA,NA,NA,-17.4095876,-66.1505153,osm
+4938,NA,Farmacia,Biomédica,NA,NA,-16.4886531,-68.1719205,osm
+4939,NA,Farmacia,Suiza I,Calle Cuzco,NA,-16.4909728,-68.2089579,osm
+4940,NA,Farmacia,Tomás,NA,NA,-17.4571349,-66.1571146,osm
+4941,NA,Farmacia,Nuestra Señora de Santa Barbara,Encañada,NA,-17.4486543,-66.1556264,osm
+4942,NA,Farmacia,Aida Luz,NA,NA,-17.3904737,-66.1541018,osm
+4943,NA,Farmacia,Synapsis,Avenida Simón Lopez,NA,-17.3626905,-66.1812718,osm
+4944,NA,Farmacia,La Esmeralda,NA,NA,-17.3760868,-66.1617979,osm
+4945,NA,Farmacia,Farmacias Bolivia,NA,NA,-16.5112284,-68.1637479,osm
+4946,NA,Farmacia,NA,Calle 5,NA,-16.5098121,-68.1642978,osm
+4947,NA,Farmacia,La Salud,NA,NA,-17.3876169,-66.1530948,osm
+4948,NA,Farmacia,Nueva Era,NA,NA,-17.3899879,-66.1526789,osm
+4949,NA,Farmacia,Farmadermia,NA,NA,-17.3871837,-66.1541612,osm
+4950,NA,Farmacia,El Buen Pastor,NA,NA,-17.3453226,-66.2046447,osm
+4951,NA,Farmacia,Farmacia Chávez,Avenida Primero de Mayo,NA,-17.7994639,-63.1352775,osm
+4952,NA,Farmacia,Farmacia Eymar,14 Este,NA,-17.800815,-63.1351399,osm
+4953,NA,Farmacia,Farmacia Artesanal,Avenida Primero de Mayo,NA,-17.8003501,-63.1352883,osm
+4954,NA,Farmacia,Los Robles,NA,NA,-17.3868939,-66.1520874,osm
+4955,NA,Farmacia,Virgen Morena,Calle 4,NA,-16.5090559,-68.1623136,osm
+4956,NA,Farmacia,Farmacias Eternidad,Calle Franco Valle,NA,-16.5078689,-68.162658,osm
+4957,NA,Farmacia,Virgen de Copacabana III,Avenida 6 de Marzo,NA,-16.5051888,-68.1630082,osm
+4958,NA,Farmacia,NA,NA,NA,-17.3458004,-66.1916994,osm
+4959,NA,Farmacia,NA,NA,NA,-17.3465122,-66.1906318,osm
+4960,NA,Farmacia,Farmacia Cruz Verde,NA,NA,-14.83095,-64.8973931,osm
+4961,NA,Farmacia,NA,NA,NA,-17.3821833,-66.1200719,osm
+4962,NA,Farmacia,NA,NA,NA,-16.495511,-68.102453,osm
+4963,NA,Farmacia,NA,NA,NA,-17.3913173,-66.1501179,osm
+4964,NA,Farmacia,NA,NA,NA,-17.9783057,-67.0548677,osm
+4965,NA,Farmacia,NA,NA,NA,-17.3879019,-66.1579569,osm
+4966,NA,Farmacia,NA,NA,NA,-17.3989737,-66.1576423,osm
+4967,NA,Farmacia,Farmacia Pompeya,NA,NA,-17.7617704,-63.1618945,osm
+4968,NA,Farmacia,Farmacias UMSA,Calle Mercado,NA,-16.4986027,-68.1325153,osm
+4969,NA,Farmacia,NA,NA,NA,-17.9734531,-67.1025286,osm
+4970,NA,Farmacia,NA,NA,NA,-17.3887293,-66.1109212,osm
+4971,NA,Farmacia,FarmaCorp,NA,NA,-17.3722182,-66.1639809,osm
+4972,NA,Farmacia,Farmacia All Pharmacy2,NA,NA,-16.505631,-68.1208963,osm
+4973,NA,Farmacia,Farmacia Mary,NA,NA,-17.841372,-63.110224,osm
+4974,NA,Farmacia,Divino Maestro,NA,NA,-17.3679401,-66.1943627,osm
+4975,NA,Farmacia,Madre Auxiliadora,NA,NA,-16.5015839,-68.1410697,osm
+4976,NA,Farmacia,Farmacia Mariana de Jesus,NA,NA,-16.4977176,-68.1441763,osm
+4977,NA,Farmacia,Farmacias Bolivia,Calle Comercio,NA,-16.4951785,-68.1351827,osm
+4978,NA,Farmacia,Super Farmacia,NA,NA,-16.4955099,-68.1350607,osm
+4979,NA,Farmacia,Super Farmacia,NA,NA,-16.4965637,-68.1356929,osm
+4980,NA,Farmacia,Farmacias Bolivia,Calle Comercio,NA,-16.494696,-68.1361254,osm
+4981,NA,Farmacia,Farmacias Bolivia,Calle Comercio,NA,-16.4945921,-68.1363519,osm
+4982,NA,Farmacia,Farmacia Quirogq,NA,NA,-17.7378119,-63.1060791,osm
+4983,NA,Farmacia,Farmacia Luz de Dios,NA,NA,-16.4929488,-68.1424835,osm
+4984,NA,Farmacia,Farmacias Chávez,RN4: Santa Cruz-Cotoca,NA,-17.7673408,-63.1153407,osm
+4985,NA,Farmacia,Farmacias Catedral,NA,NA,-16.5093715,-68.1263564,osm
+4986,NA,Farmacia,Coral,NA,NA,-17.3696688,-66.1886303,osm
+4987,NA,Farmacia,Farmacia Ecuador,NA,NA,-16.504826,-68.1214145,osm
+4988,NA,Farmacia,Leito,NA,NA,-17.4045738,-66.0188069,osm
+4989,NA,Farmacia,Farmacia Boliviana,NA,NA,-16.4938305,-68.1399251,osm
+4990,NA,Farmacia,Señora de Tepeyac,NA,NA,-16.4951834,-68.1315275,osm
+4991,NA,Farmacia,Jose de nazaret,NA,NA,-16.4923467,-68.1405647,osm
+4992,NA,Farmacia,Farmacia MecoFarma,NA,NA,-16.5008176,-68.137143,osm
+4993,NA,Farmacia,Gloria,NA,NA,-16.4968884,-68.1347361,osm
+4994,NA,Farmacia,Farmacia Zonia,NA,NA,-16.4980051,-68.1412023,osm
+4995,NA,Farmacia,Farmacia Italia,NA,NA,-16.4991823,-68.1402042,osm
+4996,NA,Farmacia,Farmacia AMAZOnaS,Av. General Federico Roman,NA,-10.8134263,-65.3518559,osm
+4997,NA,Farmacia,Farmacias Chávez,Avenida Cuarto Anillo,NA,-17.7510637,-63.1698827,osm
+4998,NA,Farmacia,NA,NA,NA,-16.4911313,-68.1228254,osm
+4999,NA,Farmacia,Farmacias Bolivia,Avenida German Busch,NA,-16.4929791,-68.1213023,osm
+5000,NA,Farmacia,Farma Center,NA,NA,-16.4941702,-68.1304278,osm
+5001,NA,Farmacia,Farmacia Carmerita,NA,NA,-16.4981495,-68.1347743,osm
+5002,NA,Farmacia,Mifarma,Calle Figueroa,NA,-16.4952721,-68.1379137,osm
+5003,NA,Farmacia,NA,NA,NA,-17.3906872,-66.1501756,osm
+5004,NA,Farmacia,Farmacia Porvenir,Avenida Monseñor Font,NA,-21.5402392,-64.7132037,osm
+5005,NA,Farmacia,Farmacia Belen,Avenida Monseñor Font,NA,-21.5399978,-64.713076,osm
+5006,NA,Farmacia,Farmacias Cruz Verde,Pasaje Blanco Galindo,NA,-21.5426102,-64.715768,osm
+5007,NA,Farmacia,NA,NA,NA,-17.3848045,-66.1096211,osm
+5008,NA,Farmacia,Farma Center,NA,NA,-17.3878383,-66.1486982,osm
+5009,NA,Farmacia,NA,NA,NA,-17.3963626,-66.155834,osm
+5010,NA,Farmacia,AleFarma,NA,NA,-17.3941825,-66.154213,osm
+5011,NA,Farmacia,Eternidad,Calle Diego de Portugal,NA,-16.5231275,-68.153694,osm
+5012,NA,Farmacia,OpenFarma,NA,NA,-17.3882445,-66.1507247,osm
+5013,NA,Farmacia,Farmacia Okinawa,NA,NA,-17.8276304,-63.1401291,osm
+5014,NA,Farmacia,AleFarma,NA,NA,-17.3908554,-66.1502326,osm
+5015,NA,Farmacia,Farmacia Belén,NA,NA,-22.0929172,-65.5952006,osm
+5016,NA,Farmacia,Corazón de Jesús,NA,NA,-18.9027005,-66.7739337,osm
+5017,NA,Farmacia,Botica Challapata,NA,NA,-18.902002,-66.7723669,osm
+5018,NA,Farmacia,MediFarma Antonella,NA,NA,-18.9016148,-66.7723611,osm
+5019,NA,Farmacia,Farmacia Pagador,NA,NA,-17.4411462,-66.1164006,osm
+5020,NA,Farmacia,Farmacia Lyz,Calle Pasteur,NA,-17.391597,-66.1488464,osm
+5021,NA,Farmacia,NA,NA,NA,-17.3919925,-66.1494148,osm
+5022,NA,Farmacia,La Salud,NA,NA,-21.4431574,-65.7195961,osm
+5023,NA,Farmacia,national,NA,NA,-21.4434973,-65.7202073,osm
+5024,NA,Farmacia,NA,NA,NA,-16.5265972,-68.1536981,osm
+5025,NA,Farmacia,Walysuma Kolla,Avenida Luis Espinal,NA,-16.4912909,-68.2077525,osm
+5026,NA,Farmacia,NA,Avenida Ramos Gavilán,NA,-16.4762874,-68.1495565,osm
+5027,NA,Farmacia,24hr Pharmacy,NA,NA,-19.0449239,-65.2621692,osm
+5028,NA,Farmacia,Pharmacy,NA,NA,-19.5874948,-65.7528376,osm
+5029,NA,Farmacia,Sol Ayalen,NA,NA,-18.3805706,-66.9695504,osm
+5030,NA,Farmacia,24hr Farmica,NA,NA,-19.5729401,-65.7577353,osm
+5031,NA,Farmacia,Farmacia,NA,NA,-19.5702748,-65.7547068,osm
+5032,NA,Farmacia,Santa Elena I,NA,NA,-20.4629248,-66.8260455,osm
+5033,NA,Farmacia,Mifarma Uyuni,NA,NA,-20.4621753,-66.8234092,osm
+5034,NA,Farmacia,Thunupa,NA,NA,-20.4607665,-66.8244255,osm
+5035,NA,Farmacia,La Pastorita,NA,NA,-20.4618896,-66.8213828,osm
+5036,NA,Farmacia,San Pablo,NA,NA,-20.4625273,-66.8244999,osm
+5037,NA,Farmacia,Juliana,NA,NA,-20.4612624,-66.8238039,osm
+5038,NA,Farmacia,Maryluna,NA,NA,-20.4615456,-66.8228508,osm
+5039,NA,Farmacia,Farmacia San Agustin,Calle Colón,NA,-19.0458541,-65.2669259,osm
+5040,NA,Farmacia,Farmacia San Cayetano,Calle Uyuni,NA,-19.0450732,-65.2672532,osm
+5041,NA,Farmacia,San Agustín,Calle Ayacucho,NA,-19.0447892,-65.2643456,osm
+5042,NA,Farmacia,Virgen del Rosario,NA,NA,-20.4586982,-66.825574,osm
+5043,NA,Farmacia,Farmacia Los Angeles,NA,NA,-20.4584774,-66.819872,osm
+5044,NA,Farmacia,Concepción,NA,NA,-20.4595512,-66.8222618,osm
+5045,NA,Farmacia,Dillma,NA,NA,-20.4594022,-66.8222659,osm
+5046,NA,Farmacia,NA,NA,NA,-17.3929478,-66.1620176,osm
+5047,NA,Farmacia,Andina,Carlos Medinaceli,NA,-19.5805049,-65.7548365,osm
+5048,NA,Farmacia,NA,NA,NA,-18.2011522,-65.1798212,osm
+5049,NA,Farmacia,NA,NA,NA,-17.3856584,-66.1742464,osm
+5050,NA,Farmacia,Farmacia Ana + Rosa,Calle G. Velasco,NA,-17.7761758,-63.1734491,osm
+5051,NA,Farmacia,NA,NA,NA,-16.5348736,-68.2038571,osm
+5052,NA,Farmacia,Farmacia Jesus Te Sana,NA,NA,-16.534462,-68.2030303,osm
+5053,NA,Farmacia,Farmacias Bolivia,Avenida Camacho,NA,-16.4985627,-68.1345248,osm
+5054,NA,Farmacia,Farmacorp,Avenida Panorámica,NA,-16.4984224,-68.1644922,osm
+5055,NA,Farmacia,NA,NA,NA,-17.3884754,-66.1595352,osm
+5056,NA,Farmacia,Cosmos,NA,NA,-17.3938612,-66.1575895,osm
+5057,NA,Farmacia,Shalom,NA,NA,-17.3815456,-66.175036,osm
+5058,NA,Farmacia,NA,Calle Huayna Potosí,NA,-16.4837362,-68.1437224,osm
+5059,NA,Farmacia,NA,NA,NA,-16.4976146,-68.158223,osm
+5060,NA,Farmacia,InterFarma,NA,NA,-17.3847386,-66.1599138,osm
+5061,NA,Farmacia,Farmacia Ximena,NA,NA,-16.5242754,-68.2018186,osm
+5062,NA,Farmacia,Integración,Avenida Juan Pablo II,NA,-16.5022869,-68.1671573,osm
+5063,NA,Farmacia,Farmacia Santa Petrona,Calle Rene Dorado,NA,-16.5003899,-68.1647922,osm
+5064,NA,Farmacia,Farmacia Chavez,NA,NA,-16.4958454,-68.1172677,osm
+5065,NA,Farmacia,Farmacia Kolob,NA,NA,-17.4027658,-66.0313875,osm
+5066,NA,Farmacia,Tiens,Calle Bumberque,NA,-17.7977691,-63.1783494,osm
+5067,NA,Farmacia,Farmacias Chavez,NA,NA,-10.9970517,-66.0757253,osm
+5068,NA,Farmacia,Farmacia Cristo Rey,NA,NA,-16.4987014,-68.1747592,osm
+5069,NA,Farmacia,Farmacia JyM Linares,NA,NA,-16.4827227,-68.2010327,osm
+5070,NA,Farmacia,Farmacia 26 de julio,NA,NA,-16.4899093,-68.2064652,osm
+5071,NA,Farmacia,Farmacia Famal,NA,NA,-16.4893544,-68.2072596,osm
+5072,NA,Farmacia,Farmacia La Habana,NA,NA,-16.48159,-68.2013598,osm
+5073,NA,Farmacia,Farmacia Vital,NA,NA,-16.4894958,-68.1920095,osm
+5074,NA,Farmacia,Farmacia Victoria,NA,NA,-16.4948175,-68.1741645,osm
+5075,NA,Farmacia,Farmacia Provida,NA,NA,-16.4930066,-68.1797317,osm
+5076,NA,Farmacia,Farmacia Apolo,NA,NA,-16.6530786,-68.3006769,osm
+5077,NA,Farmacia,Farmacia Alfa y Omega,NA,NA,-16.5461433,-68.2001017,osm
+5078,NA,Farmacia,NA,NA,NA,-17.4020822,-66.1577398,osm
+5079,NA,Farmacia,Farmacia Junin,NA,NA,-16.5236453,-68.212029,osm
+5080,NA,Farmacia,Farmacia Fermamonte,NA,NA,-16.6189564,-68.1819905,osm
+5081,NA,Farmacia,Farmacia Villa Jardin,NA,NA,-16.5454755,-68.1884194,osm
+5082,NA,Farmacia,Farmacia Plin Corp,NA,NA,-16.5230361,-68.2114249,osm
+5083,NA,Farmacia,Farmacia Fortaleza,NA,NA,-16.5224663,-68.2107404,osm
+5084,NA,Farmacia,Farmacia Matias,NA,NA,-16.5220002,-68.2103502,osm
+5085,NA,Farmacia,Farmacia Lourdes,NA,NA,-16.5368845,-68.1794878,osm
+5086,NA,Farmacia,Farmacia 25 de Julio,Calle 9,NA,-16.5375639,-68.1785198,osm
+5087,NA,Farmacia,Farmacia Apostol Santiago,Calle 9,NA,-16.5382815,-68.1792294,osm
+5088,NA,Farmacia,Farmacia Ariani,NA,NA,-16.5573833,-68.1938938,osm
+5089,NA,Farmacia,Farmacia Puerto del Rosario,NA,NA,-16.5461495,-68.1889462,osm
+5090,NA,Farmacia,Super Farmacia,Avenida Argelia,NA,-16.5526922,-68.195566,osm
+5091,NA,Farmacia,Farmacia Arcangel San Miguel,NA,NA,-16.5569752,-68.1929965,osm
+5092,NA,Farmacia,Farmacia Angel Sanatodo,NA,NA,-16.557644,-68.1935903,osm
+5093,NA,Farmacia,Farmacia Safira,NA,NA,-16.5358039,-68.2050713,osm
+5094,NA,Farmacia,Farmacia El Dorado,NA,NA,-16.5348798,-68.203708,osm
+5095,NA,Farmacia,Farmacia Beysa,Avenida Cochabamba,NA,-16.5336184,-68.2020173,osm
+5096,NA,Farmacia,Farmacia Yandy,NA,NA,-16.5211983,-68.2097114,osm
+5097,NA,Farmacia,Farmacia Leo,NA,NA,-16.5818413,-68.1860322,osm
+5098,NA,Farmacia,NA,NA,NA,-16.58086,-68.1858067,osm
+5099,NA,Farmacia,Farmacia Senkata,NA,NA,-16.5815502,-68.185738,osm
+5100,NA,Farmacia,Farmacia Ayelen,NA,NA,-16.6183323,-68.1822112,osm
+5101,NA,Farmacia,Farmacia Damaris,NA,NA,-16.6179815,-68.1822324,osm
+5102,NA,Farmacia,Farmacia Apostol Santiago Senkata,NA,NA,-16.5819058,-68.1845798,osm
+5103,NA,Farmacia,Artesanal,NA,NA,-17.3909958,-66.1593497,osm
+5104,NA,Farmacia,Azul,NA,NA,-17.3936121,-66.1563896,osm
+5105,NA,Farmacia,Farmacia Liliana Manny,NA,NA,-16.5467957,-68.2001409,osm
+5106,NA,Farmacia,Farmacia San Jose I,NA,NA,-16.5573754,-68.1930712,osm
+5107,NA,Farmacia,Farmacia Camila,NA,NA,-16.5243635,-68.1815987,osm
+5108,NA,Farmacia,Farmacia Rymedix,NA,NA,-16.5189335,-68.2074767,osm
+5109,NA,Farmacia,Farmacia Vásquez,NA,NA,-16.5171462,-68.1639297,osm
+5110,NA,Farmacia,Farmacia El Alto,NA,NA,-16.5166919,-68.1653005,osm
+5111,NA,Farmacia,Super Farmacia Virgen de Copacabana XII,Avenida Ballivián,NA,-16.5389262,-68.0756118,osm
+5112,NA,Farmacia,Farmacia Ortiz,NA,NA,-16.5853303,-68.18584,osm
+5113,NA,Farmacia,Farmacia Iaso,NA,NA,-16.5856366,-68.1862325,osm
+5114,NA,Farmacia,Farmacia 12 de Agosto,NA,NA,-16.5588982,-68.1966496,osm
+5115,NA,Farmacia,Farmacia Kenko,NA,NA,-16.559571300000002,-68.1948131,osm
+5116,NA,Farmacia,Farmacia Suma Qamaña,NA,NA,-16.5587993,-68.1954294,osm
+5117,NA,Farmacia,Farmacia Montessori,NA,NA,-16.6191128,-68.1810507,osm
+5118,NA,Farmacia,Farmacia Salud y Union,NA,NA,-16.5190008,-68.1850103,osm
+5119,NA,Farmacia,Farmacia Cesar,NA,NA,-16.5185404,-68.1855187,osm
+5120,NA,Farmacia,Farmacia VR,NA,NA,-16.5982845,-68.1858647,osm
+5121,NA,Farmacia,NA,NA,NA,-16.5110505,-68.1653625,osm
+5122,NA,Farmacia,Farmacia Ecofarma,NA,NA,-16.5985459,-68.1848831,osm
+5123,NA,Farmacia,Farmacias Bolivia,Avenida Heroínas,NA,-17.3921139,-66.1567685,osm
+5124,NA,Farmacia,Farmacia Viviana,NA,NA,-21.6967452,-64.65513,osm
+5125,NA,Farmacia,Farmacias Bolivia,Calle Colombia,NA,-16.5011437,-68.1346739,osm
+5126,NA,Farmacia,Farmacia Al paso,NA,NA,-16.5424406,-68.183484000000007,osm
+5127,NA,Farmacia,Farmacia Cristo Rey,NA,NA,-16.5288172,-68.1848798,osm
+5128,NA,Farmacia,Farmacia Ruth Reyna,NA,NA,-16.5897989,-68.1860536,osm
+5129,NA,Farmacia,Farmacia Goodness,NA,NA,-16.5102215,-68.1596562,osm
+5130,NA,Farmacia,Farmacia Hector Yamil,NA,NA,-16.5518644,-68.1966985,osm
+5131,NA,Farmacia,Encarnación,Avenida 9 de Abril,NA,-16.5047818,-68.1531632,osm
+5132,NA,Farmacia,Farmacias UMSA,Avenida Pando,NA,-16.4910405,-68.1402992,osm
+5133,NA,Farmacia,Farmacia Emuna,NA,NA,-16.5100918,-68.166116,osm
+5134,NA,Farmacia,Farmacia Lucia,NA,NA,-16.4974892,-68.115762899999993,osm
+5135,NA,Farmacia,Farmacia Yahuita,NA,NA,-16.5001443,-68.1112033,osm
+5136,NA,Farmacia,Farmacorp,Avenida Bautista Saavedra,NA,-16.5026986,-68.1220608,osm
+5137,NA,Farmacia,Bolivia,Avenida Pasoskanqui,NA,-16.4972792,-68.1189254,osm
+5138,NA,Farmacia,Farmacia Terra,Avenida Tejada Sorzano,NA,-16.4874415,-68.124509,osm
+5139,NA,Farmacia,Farmacia Niño Pascualito,NA,NA,-16.5183006,-68.1559367,osm
+5140,NA,Farmacia,Farmacia Leigth,NA,NA,-16.4976964,-68.111446,osm
+5141,NA,Farmacia,NA,NA,NA,-21.5362894,-64.736656,osm
+5142,NA,Farmacia,Farmacia San Lorenzo,NA,NA,-16.5419578,-68.2320344,osm
+5143,NA,Farmacia,Farmacorp,Libertad,NA,-16.3751254,-60.959826,osm
+5144,NA,Farmacia,NA,NA,NA,-16.4842081,-68.1202897,osm
+5145,NA,Farmacia,Farmacia Franco,NA,NA,-16.5336543,-68.1933237,osm
+5146,NA,Farmacia,Farmacia Hector,NA,NA,-16.5521677,-68.1963156,osm
+5147,NA,Farmacia,Zurich,NA,NA,-17.3731539,-66.1164991,osm
+5148,NA,Farmacia,Farmacia El Carmen,NA,NA,-16.5237338,-68.1974226,osm
+5149,NA,Farmacia,San Expedito,NA,NA,-17.3844079,-66.1478023,osm
+5150,NA,Farmacia,Faacia Gexis,NA,NA,-17.3848039,-66.1481123,osm
+5151,NA,Farmacia,NA,NA,NA,-16.5088943,-68.0984986,osm
+5152,NA,Farmacia,NA,NA,NA,-16.5039109,-68.2051196,osm
+5153,NA,Farmacia,Farmacia Flores,Calle M. Nuñez del Prado,NA,-16.4916322,-68.1168902,osm
+5154,NA,Farmacia,NA,NA,NA,-16.5148592,-68.1114431,osm
+5155,NA,Farmacia,FARMACIA GLORIA,NA,NA,-16.4907014,-68.1049557,osm
+5156,NA,Farmacia,NA,NA,NA,-16.5019389,-68.1049334,osm
+5157,NA,Farmacia,FarmaCorp,NA,NA,-17.3826793,-66.152377,osm
+5158,NA,Farmacia,Farmacia San Mauro,Calle Río Loa,NA,-19.0440969,-65.2602384,osm
+5159,NA,Farmacia,Farmacia Germán Urquidi,NA,NA,-17.3867203,-66.147912,osm
+5160,NA,Farmacia,Farmacia J y J,NA,NA,-16.5030138,-68.1632451,osm
+5161,NA,Farmacia,NA,NA,NA,-17.3896864,-66.1540719,osm
+5162,NA,Farmacia,Itálica,NA,NA,-17.3887294,-66.1509564,osm
+5163,NA,Farmacia,Rosario,Avenida de la Fuerza Aérea,NA,-17.4117394,-66.1649398,osm
+5164,NA,Farmacia,Farmacia San Pedro,Calle Virrey Mendoza,NA,-18.492025,-64.1074478,osm
+5165,NA,Farmacia,Farmacia Mi Divino Niño,NA,NA,-18.4916242,-64.1075529,osm
+5166,NA,Farmacia,Farmacia La Salud,Calle Sucre,NA,-18.4909048,-64.1071988,osm
+5167,NA,Farmacia,Farmacia Pharmalive,NA,NA,-16.5391907,-68.2105143,osm
+5168,NA,Farmacia,NA,NA,NA,-17.4396603,-66.1165998,osm
+5169,NA,Farmacia,Ventura,NA,NA,-17.3849801,-66.1485652,osm
+5170,NA,Farmacia,Farmacia Día y Noche,NA,NA,-17.3860149,-66.1496249,osm
+5171,NA,Farmacia,Farmacia Zenón Gamboa,NA,NA,-17.3871076,-66.1493918,osm
+5172,NA,Farmacia,Farmacia Virgen de Chaguaya,Calle Corumbá,NA,-17.7839265,-63.160433,osm
+5173,NA,Farmacia,Farmacia Exaltacion,NA,NA,-16.5363979,-68.1789068,osm
+5174,NA,Farmacia,Unión,NA,NA,-17.4083775,-66.1474938,osm
+5175,NA,Farmacia,Farmacia San Lorenzo,NA,NA,-16.5419844,-68.23201,osm
+5176,NA,Farmacia,Farmacia D y R,Calle Diego de Portugal,NA,-16.5257948,-68.1547042,osm
+5177,NA,Farmacia,FarmaElias,NA,NA,-17.376939,-66.1449233,osm
+5178,NA,Farmacia,Farmacias Chavez,Avenida Grigotá,NA,-17.8153406,-63.2125592,osm
+5179,NA,Farmacia,Milagros,NA,NA,-17.3954314,-66.1516461,osm
+5180,NA,Farmacia,Farmacia,Calle Campero,NA,-18.178942,-63.8736646,osm
+5181,NA,Farmacia,Jeymy,NA,NA,-16.5218218,-68.2109626,osm
+5182,NA,Farmacia,Farmacia Señor de lagunas 1,NA,NA,-19.0333211,-65.2548869,osm
+5183,NA,Farmacia,Alianza,Calle Fernando Guachalla,NA,-16.5096534,-68.1301068,osm
+5184,NA,Farmacia,Farmacia Leslie Carmen,NA,NA,-16.5110588,-68.1575848,osm
+5185,NA,Farmacia,Farmacia Adabel,NA,NA,-16.5417727,-68.2316612,osm
+5186,NA,Farmacia,NA,NA,NA,-17.2391193,-67.9100604,osm
+5187,NA,Farmacia,Farmacia San Jose,NA,NA,-17.2403878,-67.908798,osm
+5188,NA,Farmacia,Farmacia Mileniun,NA,NA,-17.2410766,-67.9085768,osm
+5189,NA,Farmacia,NA,NA,NA,-17.2398106,-67.9093762,osm
+5190,NA,Farmacia,DosisFarma,NA,NA,-17.388668,-66.1515547,osm
+5191,NA,Farmacia,FarmaElias,NA,NA,-17.3774594,-66.1610576,osm
+5192,NA,Farmacia,NA,NA,NA,-16.47448,-68.1500141,osm
+5193,NA,Farmacia,Farmacia La Guadalupana,NA,NA,-16.5332212,-68.2155205,osm
+5194,NA,Farmacia,Farmacia Alfredo,NA,NA,-19.5886439,-65.7468485,osm
+5195,NA,Farmacia,Medí Farma,Avenida Cívica,NA,-16.516388,-68.1556367,osm
+5196,NA,Farmacia,BioFarma,NA,NA,-16.4999673,-68.1179725,osm
+5197,NA,Farmacia,Farmacia San Expedito,NA,NA,-16.4993945,-68.1132894,osm
+5198,NA,Farmacia,Farmacia Selah,NA,NA,-16.4980092,-68.1188103,osm
+5199,NA,Farmacia,Farmacia Marcela,NA,NA,-16.4965977,-68.1165107,osm
+5200,NA,Farmacia,NA,Calle 6,NA,-16.5098932,-68.1572312,osm
+5201,NA,Farmacia,Farmacia Gerardo,Avenida Felix Aranibar,NA,-17.3797612,-66.1653143,osm
+5202,NA,Farmacia,Nuevo Amanecer,NA,NA,-16.493449,-68.1146702,osm
+5203,NA,Farmacia,Emerger,NA,NA,-16.4999643,-68.1186718,osm
+5204,NA,Farmacia,Mi Farma,NA,NA,-16.5116411,-68.1224013,osm
+5205,NA,Farmacia,Las Flores,NA,NA,-16.4998708,-68.1317697,osm
+5206,NA,Farmacia,Eitan,NA,NA,-16.5043452,-68.1214552,osm
+5207,NA,Farmacia,El Salvador,NA,NA,-16.5086361,-68.1196081,osm
+5208,NA,Farmacia,Farmacorp,Avenida Muñoz Reyes,NA,-16.5408471,-68.0559776,osm
+5209,NA,Farmacia,Farmacia San Marcos,NA,NA,-16.5355831,-68.1804369,osm
+5210,NA,Farmacia,Farmacia Betty,NA,NA,-16.5335395,-68.1804735,osm
+5211,NA,Farmacia,Farmacia Eva y Fide,NA,NA,-16.5348848,-68.1810794,osm
+5212,NA,Farmacia,Farmacia San Alberto,NA,NA,-16.5117206,-68.1630619,osm
+5213,NA,Farmacia,Farmacia Alonzo,NA,NA,-16.5135796,-68.1621123,osm
+5214,NA,Farmacia,Farmacias Chávez,Doble Vía Santa Cruz-La Guardia,NA,-17.8298241,-63.2289703,osm
+5215,NA,Farmacia,Farmacia Claudia,Calle Arze,NA,-18.1796397,-63.875354,osm
+5216,NA,Farmacia,Farmacia Bio Gen,NA,NA,-17.2430698,-67.9066098,osm
+5217,NA,Farmacia,Farmacorp,NA,NA,-17.8006117,-63.150444,osm
+5218,NA,Farmacia,Farmacias Bolivia - Ketal,Avenida Sánchez Bustamante,NA,-16.5394421,-68.0839381,osm
+5219,NA,Farmacia,Farmacias Bolivia - San Miguel,Avenida Montenegro,NA,-16.5401215,-68.0777253,osm
+5220,NA,Farmacia,Farmacias Bolivia - Montenegro,Avenida Montenegro,NA,-16.540323,-68.0782857,osm
+5221,NA,Farmacia,Farmacias Bolivia - Franco Valle,Calle Franco Valle,NA,-16.5062045,-68.161963600000007,osm
+5222,NA,Farmacia,Farmacias Bolivia,Rotonda Plaza Isabel La Católica,NA,-16.5097364,-68.1244119,osm
+5223,NA,Farmacia,Farmacias Bolivia - Pasaje Ortega,Adolfo Ortega,NA,-16.4953572,-68.1430944,osm
+5224,NA,Farmacia,Farmacias Bolivia - Multicine,NA,NA,-16.5109047,-68.1222548,osm
+5225,NA,Farmacia,Farmacias Bolivia - Graneros,Calle Graneros,NA,-16.4956089,-68.1412032,osm
+5226,NA,Farmacia,Farmacias Bolivia - Tumusla,Batalla de Tumusla,NA,-16.4948903,-68.1426316,osm
+5227,NA,Farmacia,Farmacias Bolivia - Tumusla,Batalla de Tumusla,NA,-16.4943764,-68.1415394,osm
+5228,NA,Farmacia,Farmacias Bolivia - Rodríguez,Calle Zoilo Flores,NA,-16.5015924,-68.1383429,osm
+5229,NA,Farmacia,Farmacias Chávez - Obrajes,Avenida Hernando Siles,NA,-16.5298816,-68.1011024,osm
+5230,NA,Farmacia,Farmacias Chávez,Avenida German Busch,NA,-16.4995478,-68.1208874,osm
+5231,NA,Farmacia,Farmacias Chávez - Los Pinos,Calle José Maria Aguirre Acha,NA,-16.5452031,-68.072456,osm
+5232,NA,Farmacia,Farmacias Chávez - Achumani,Avenida Strongest,NA,-16.5186202,-68.0622633,osm
+5233,NA,Farmacia,Mi Farma - Aranjuez,Avenida Altamirano,NA,-16.5614064,-68.0966044,osm
+5234,NA,Farmacia,Farmacia Viedma,NA,NA,-17.3847481,-66.1485839,osm
+5235,NA,Farmacia,Farmacio Andina,NA,NA,-19.0453962,-65.2600612,osm
+5236,NA,Farmacia,Cruz del Sur,NA,NA,-19.0519414,-65.2607827,osm
+5237,NA,Farmacia,NA,NA,NA,-19.0450841,-65.260401,osm
+5238,NA,Farmacia,Farmacia Hispana,NA,NA,-19.0484525,-65.2634765,osm
+5239,NA,Farmacia,NA,NA,NA,-17.3860482,-66.1665831,osm
+5240,NA,Farmacia,Farmacia Tadeo Haenke,NA,NA,-17.3863713,-66.1666153,osm
+5241,NA,Farmacia,Farmacia Ventura,NA,NA,-17.3851891,-66.1488119,osm
+5242,NA,Farmacia,Farmacia La Guardia,NA,NA,-16.5254173,-68.2133961,osm
+5243,NA,Farmacia,NA,NA,NA,-16.5124741,-68.1207048,osm
+5244,NA,Farmacia,Farmacorp - Río Seco,RN1: Desaguadero-El Alto,NA,-16.4901611,-68.2099094,osm
+5245,NA,Farmacia,Super farma,Avenida Guillermo Urquidi,NA,-17.3918733,-66.1400728,osm
+5246,NA,Farmacia,NA,NA,NA,-17.3630943,-66.1613665,osm
+5247,NA,Farmacia,MaxiFarma,NA,NA,-17.3738576,-66.1372809,osm
+5248,NA,Farmacia,Amaru,Avenida Manco Kapac,NA,-16.5549199,-68.6807101,osm
+5249,NA,Farmacia,NA,NA,NA,-17.3884296,-66.1612993,osm
+5250,NA,Farmacia,laboratorio clinico,NA,NA,-17.3920548,-66.1591006,osm
+5251,NA,Farmacia,bassanelly,NA,NA,-17.3818461,-66.1936175,osm
+5252,NA,Farmacia,NA,NA,NA,-17.3851921,-66.1678379,osm
+5253,NA,Farmacia,NA,NA,NA,-17.3752068,-66.1428865,osm
+5254,NA,Farmacia,Farmacia Virgen Morena 2,NA,NA,-16.5260689,-68.2174363,osm
+5255,NA,Farmacia,NA,NA,NA,-17.3972832,-66.1619884,osm
+5256,NA,Farmacia,Farmacia Maranatha,NA,NA,-16.5663015,-68.2202361,osm
+5257,NA,Farmacia,Farmacia Eddita,NA,NA,-16.5669362,-68.2207806,osm
+5258,NA,Farmacia,Farmacia Bolivia,Isaac Tamayo,NA,-16.4956122,-68.1413175,osm
+5259,NA,Farmacia,Farmacia Chacon,Calle Mendez Arcos,NA,-16.5161608,-68.1321539,osm
+5260,NA,Farmacia,Farmacia Andrecito Srl,RN10: San Ramón-San Javier,NA,-16.6142871,-62.500477,osm
+5261,NA,Farmacia,NA,NA,NA,-19.5885156,-65.7562664,osm
+5262,NA,Farmacia,Mifarma,Calle Plaza Uyuni,NA,-16.4967136,-68.124451,osm
+5263,NA,Farmacia,Farmacias Bolivia,NA,NA,-16.4845587,-68.1216146,osm
+5264,NA,Farmacia,Farmacia Beni,Calle Nicolas Acosta,NA,-16.5044528,-68.1367599,osm
+5265,NA,Farmacia,Big Pharmacy,Calle José Saravia,NA,-16.5109209,-68.1410223,osm
+5266,NA,Farmacia,FarmaCorp,NA,NA,-16.4965154,-68.1348621,osm
+5267,NA,Farmacia,Sanidad Divina,NA,NA,-16.5406893,-68.2301662,osm
+5268,NA,Farmacia,Jota,NA,NA,-16.5371609,-68.2226622,osm
+5269,NA,Farmacia,Jeremías 33:3,Avenida del Policía,NA,-16.5277969,-68.1487045,osm
+5270,NA,Farmacia,Medical,NA,NA,-16.6239197,-68.1903416,osm
+5271,NA,Farmacia,NA,Calle Figueroa,NA,-16.4928548,-68.1385457,osm
+5272,NA,Farmacia,"Farmacia ""JAELY""","Calle 108 , Calle 110",NA,-16.5233247,-68.1793715,osm
+5273,NA,Farmacia,"Farmacia ""JUPITER""",Avenida Ladislao Cabrera,NA,-16.5241109,-68.1807391,osm
+5274,NA,Farmacia,Mi farmacia Ayala,Avenida Mario Mercado,NA,-16.5281404,-68.125148,osm
+5275,NA,Farmacia,La Merced,NA,NA,-16.5112193,-68.1621093,osm
+5276,NA,Farmacia,Hoy,NA,NA,-16.5656662,-68.2203709,osm
+5277,NA,Farmacia,Suárez,Avenida Waldo Alvarez,NA,-16.4845378,-68.1196722,osm
+5278,NA,Farmacia,Hipermaxi,Sexto Anillo,NA,-17.8419506,-63.195586,osm
+5279,NA,Farmacia,Reyes,Avenida Pedro Casals,NA,-17.8460451,-63.1978694,osm
+5280,NA,Farmacia,Farmacia Señor Jesus,Avenida Humberto Leigue,NA,-17.7377269,-63.1702323,osm
+5281,NA,Farmacia,Mia Farma,NA,NA,-21.5206399,-64.7306326,osm
+5282,NA,Farmacia,Ecomedic,Calle 7,NA,-16.4887806,-68.1994282,osm
+5283,NA,Farmacia,Farmacorp,NA,NA,-21.5260841,-64.7421939,osm
+5284,NA,Farmacia,Farmacia Santa Fe,NA,NA,-21.5230603,-64.7314882,osm
+5285,NA,Farmacia,romero,NA,NA,-21.5272072,-64.7285432,osm
+5286,NA,Farmacia,San Juan de Dios,NA,NA,-21.5271348,-64.7318718,osm
+5287,NA,Farmacia,Farmacia,NA,NA,-21.5398462,-64.7453171,osm
+5288,NA,Farmacia,NA,NA,NA,-21.5386738,-64.7473469,osm
+5289,NA,Farmacia,Farmacia Sañor del Milagro,NA,NA,-21.5285121,-64.7349805,osm
+5290,NA,Farmacia,Farmacia Eguivar,NA,NA,-21.5297497,-64.7331673,osm
+5291,NA,Farmacia,Farmacia Peregrino,NA,NA,-21.5275914,-64.7307479,osm
+5292,NA,Farmacia,Farmacia Ideal,NA,NA,-21.5296274,-64.7319067,osm
+5293,NA,Farmacia,Farmacia Amiga,NA,NA,-21.5296873,-64.7315794,osm
+5294,NA,Farmacia,Farmacia Emanuel,NA,NA,-21.5305805,-64.7308981,osm
+5295,NA,Farmacia,Farmacia Copacabana,NA,NA,-21.5313347,-64.7331002,osm
+5296,NA,Farmacia,Farmacia Maria del Rosario,NA,NA,-21.5307178,-64.734436,osm
+5297,NA,Farmacia,Farmacia Lupita,NA,NA,-21.5306828,-64.733516,osm
+5298,NA,Farmacia,Farmacia Cortez,NA,NA,-21.5303697,-64.7358468,osm
+5299,NA,Farmacia,26 de Julio,NA,NA,-21.5296698,-64.7360641,osm
+5300,NA,Farmacia,Farmacia Paola,NA,NA,-21.5263906,-64.7340594,osm
+5301,NA,Farmacia,Cristo Redentor,NA,NA,-21.5283924,-64.7342281,osm
+5302,NA,Farmacia,Yireh,NA,NA,-21.5285134,-64.7338419,osm
+5303,NA,Farmacia,Q'CHURA,NA,NA,-21.5359545,-64.7231077,osm
+5304,NA,Farmacia,Super Druck,NA,NA,-21.5140412,-64.7367574,osm
+5305,NA,Farmacia,Farmacia Niño de praga,NA,NA,-21.5131141,-64.7361714,osm
+5306,NA,Farmacia,Farmacia Rioja,NA,NA,-21.5128272,-64.7359501,osm
+5307,NA,Farmacia,Farmacia Dulce Maria,NA,NA,-21.5119338,-64.7352862,osm
+5308,NA,Farmacia,Soy Tu Farmacia,NA,NA,-21.508852,-64.7330493,osm
+5309,NA,Farmacia,NA,NA,NA,-21.520096,-64.7270358,osm
+5310,NA,Farmacia,NA,NA,NA,-21.523699,-64.7353292,osm
+5311,NA,Farmacia,NA,NA,NA,-21.5250963,-64.7345781,osm
+5312,NA,Farmacia,Farmacia,NA,NA,-21.5396487,-64.7457433,osm
+5313,NA,Farmacia,Farmacia Vida Sana,NA,NA,-21.5243478,-64.7216553,osm
+5314,NA,Farmacia,Farmacia San Andres,NA,NA,-21.5262491,-64.7371396,osm
+5315,NA,Farmacia,Farmacia Solidaria,NA,NA,-21.5261468,-64.7366381,osm
+5316,NA,Farmacia,Farmacia Señora De Guadalupe,NA,NA,-21.5229056,-64.7403234,osm
+5317,NA,Farmacia,Farmacia Buena Salud,NA,NA,-21.5237839,-64.7389179,osm
+5318,NA,Farmacia,Farmacorp - Las Torres Mall,Avenida Arce,NA,-16.5090518,-68.1230504,osm
+5319,NA,Farmacia,Santa Ana,Tercer Anillo Externo,NA,-17.7680962,-63.1559721,osm
+5320,NA,Farmacia,Farmacia Virgen de la Macarena,Avenida Paurito,NA,-17.8380914,-63.1235092,osm
+5321,NA,Farmacia,Farmacia Los Andes,NA,NA,-17.4476282,-66.1250993,osm
+5322,NA,Farmacia,Farmacia Los Andes 1,Avenida Siglo XX,NA,-17.4468551,-66.1253627,osm
+5323,NA,Farmacia,Farmacia Farmalux,Avenida Siglo XX,NA,-17.4471675,-66.1251114,osm
+5324,NA,Farmacia,Farmacia Eva Maria,Tercer Anillo Interno,NA,-17.7675676,-63.1996158,osm
+5325,NA,Farmacia,NA,NA,NA,-17.4035741,-66.0399278,osm
+5326,NA,Farmacia,Corazón de Jesús,RN26: Guanay-Mapiri-Apolo,NA,-15.4980441,-67.8798712,osm
+5327,NA,Farmacia,Farmacia Sorata,RN26: Caranavi-Guanay-Mapiri,NA,-15.4974812,-67.8798184,osm
+5328,NA,Farmacia,Farmacia Belen II,NA,NA,-21.2651275,-63.4723239,osm
+5329,NA,Farmacia,Farmacia Villa Montes,NA,NA,-21.2638486,-63.471821,osm
+5330,NA,Farmacia,NA,NA,NA,-17.3969757,-66.1973806,osm
+5331,NA,Farmacia,Farmacia Ginebra,Avenida Virgen de Luján,NA,-17.7257088,-63.0855147,osm
+5332,NA,Farmacia,Farmacia Parra,Avenida Virgen de Luján,NA,-17.7264538,-63.0864308,osm
+5333,NA,Farmacia,Farmacia,NA,NA,-16.5785163,-68.1683365,osm
+5334,NA,Farmacia,YOBYFAR,Avenida Cívica,NA,-16.5153847,-68.1546704,osm
+5335,NA,Farmacia,Farmacia La Liajhona,NA,NA,-17.9511113,-67.1102234,osm
+5336,NA,Farmacia,Farmacia Gran Chaco,NA,NA,-21.2580533,-63.4729142,osm
+5337,NA,Farmacia,Farmacia Virgen del Carmen,NA,NA,-21.2586448,-63.4716956,osm
+5338,NA,Farmacia,San Silvestre,NA,NA,-21.2598021,-63.4719691,osm
+5339,NA,Farmacia,Mi Farmacia,NA,NA,-17.8765399,-63.2421771,osm
+5340,NA,Farmacia,Farmacia Moscu,Avenida Moscú,NA,-17.8354039,-63.2078877,osm
+5341,NA,Farmacia,El Rey Jesús,NA,NA,-21.2654826,-63.4717305,osm
+5342,NA,Farmacia,San Pedro,NA,NA,-21.2651132,-63.4735008,osm
+5343,NA,Farmacia,San Silvestre,NA,NA,-21.2650513,-63.4729386,osm
+5344,NA,Farmacia,Farmacia,NA,NA,-17.084159,-66.8191637,osm
+5345,NA,Farmacia,Farmacia Talita Kumi,NA,NA,-16.5700751,-68.0857617,osm
+5346,NA,Farmacia,karolina,NA,NA,-21.2613391,-63.4565535,osm
+5347,NA,Farmacia,Farmacia Hospi Terapia,Calle Victor Sanjines,NA,-16.5151094,-68.128849399999993,osm
+5348,NA,Farmacia,Farmacia San Pablo,NA,NA,-15.8955436,-63.1883188,osm
+5349,NA,Farmacia,Farmacia Urkupiña,NA,NA,-15.8920294,-63.1889086,osm
+5350,NA,Farmacia,NA,Calle Santiago de Quilloma,NA,-16.527795,-68.215648,osm
+5351,NA,Farmacia,Alquimista,Avenida Julio Cesar Valdez,NA,-16.5349014,-68.2180046,osm
+5352,NA,Farmacia,Cuidamos tu salud,NA,NA,-16.5580919,-68.1927213,osm
+5353,NA,Farmacia,Farma Car,NA,NA,-16.5141644,-68.164751,osm
+5354,NA,Farmacia,Farmacia Rosales,NA,NA,-16.5279765,-68.1991722,osm
+5355,NA,Farmacia,Ojeda,NA,NA,-16.5219758,-68.1575407,osm
+5356,NA,Farmacia,Farmacia Melanie,NA,NA,-16.5369933,-68.177857,osm
+5357,NA,Farmacia,Farmacia Kantati,NA,NA,-16.5308615,-68.1944481,osm
+5358,NA,Farmacia,Hoy,NA,NA,-16.5657798,-68.2202281,osm
+5359,NA,Farmacia,Farmacia Luz Eterna II,NA,NA,-16.5275309,-68.1979535,osm
+5360,NA,Farmacia,El Economico,NA,NA,-16.5382248,-68.1852848,osm
+5361,NA,Farmacia,David,NA,NA,-16.4840943,-68.1892921,osm
+5362,NA,Farmacia,Scarlet,NA,NA,-16.5444132,-68.1871448,osm
+5363,NA,Farmacia,Roca de Ayuda,NA,NA,-16.541833,-68.2327922,osm
+5364,NA,Farmacia,CBA de la salud,NA,NA,-16.5502776,-68.2048287,osm
+5365,NA,Farmacia,Rho+,NA,NA,-16.5516659,-68.194845,osm
+5366,NA,Farmacia,NA,NA,NA,-16.6261553,-68.1885379,osm
+5367,NA,Farmacia,Yobyfar,NA,NA,-16.5154342,-68.1546959,osm
+5368,NA,Farmacia,Farmacia Santa Cruz,NA,NA,-16.5151499,-68.1316431,osm
+5369,NA,Farmacia,Palli,NA,NA,-16.5318329,-68.1933675,osm
+5370,NA,Farmacia,Farmacia Chelin,Calle Comercio,NA,-14.4399048,-67.5291087,osm
+5371,NA,Farmacia,Moises,Santa Cruz,NA,-14.4414342,-67.5300606,osm
+5372,NA,Farmacia,Farmacia San Elias,Avenida Cochabamba,NA,-16.5328562,-68.2009023,osm
+5373,NA,Farmacia,NA,NA,NA,-16.5089057,-68.1583965,osm
+5374,NA,Farmacia,Losana,NA,NA,-16.5002351,-68.1181731,osm
+5375,NA,Farmacia,Renacer,NA,NA,-16.5112901,-68.1603841,osm
+5376,NA,Farmacia,Aylin,NA,NA,-16.5361671,-68.2050482,osm
+5377,NA,Farmacia,SABEL,NA,NA,-16.5343894,-68.1900297,osm
+5378,NA,Farmacia,Farmacias Oporto - Virgen de Copacabana,Avenida Santa Cruz,NA,-15.8950009,-63.188547,osm
+5379,NA,Farmacia,navarro,NA,NA,-16.5101881,-68.1634166,osm
+5380,NA,Farmacia,Paula TM,NA,NA,-16.5636287,-68.1946196,osm
+5381,NA,Farmacia,Aventura,NA,NA,-16.5893045,-68.1875992,osm
+5382,NA,Farmacia,Farmacia Farma,NA,NA,-17.4075714,-66.1563079,osm
+5383,NA,Farmacia,Nostas,Calle Pari,NA,-17.7877781,-63.1860964,osm
+5384,NA,Farmacia,R&B,NA,NA,-16.5360632,-68.1883149,osm
+5385,NA,Farmacia,Farmacia Tiquipaya,NA,NA,-17.3375649,-66.2170988,osm
+5386,NA,Farmacia,Farmacia Elvirita Morales,NA,NA,-14.299275,-67.336305,osm
+5387,NA,Farmacia,Farmacia ⚕ Jade,NA,NA,-14.2972042,-67.3365838,osm
+5388,NA,Farmacia,Farmacia Futura,Calle Sucre,NA,-18.491187,-64.1068406,osm
+5389,NA,Farmacia,Farmacia Junior,Calle Señor de Malta,NA,-18.4937428,-64.107186,osm
+5390,NA,Farmacia,Farmacia Popular,Calle Pucará,NA,-18.4924703,-64.1057325,osm
+5391,NA,Farmacia,Farmacia Mi Divino Niño I,Calle Pucará,NA,-18.4934119,-64.1070224,osm
+5392,NA,Farmacia,Farmacia Fadimeg,Calle Chaco,NA,-18.4919773,-64.1060346,osm
+5393,NA,Farmacia,Farmacia Esther,NA,NA,-16.5556148,-68.1988271,osm
+5394,NA,Farmacia,nacional,Calle Gilberto Cortez,NA,-22.0920367,-65.5953135,osm
+5395,NA,Farmacia,Señor Santiago,Calle 20 de Mayo,NA,-22.0893814,-65.5959703,osm
+5396,NA,Farmacia,Farmacia Calle Señor de Malta,Calle Escalante y Mendoza,NA,-18.4902885,-64.1082383,osm
+5397,NA,Farmacia,Katunta,NA,NA,-16.5262715,-68.1599087,osm
+5398,NA,Farmacia,NA,NA,NA,-16.5874328,-68.186018,osm
+5399,NA,Farmacia,MADRE AUXILIADORA,NA,NA,-16.5559246,-68.1989748,osm
+5400,NA,Farmacia,Farmacia Chavez,NA,NA,-17.8260503,-63.1415287,osm
+5401,NA,Farmacia,Jhandy,NA,NA,-16.5403482,-68.2011084,osm
+5402,NA,Farmacia,Santa Maria,NA,NA,-16.5379341,-68.2037919,osm
+5403,NA,Farmacia,Lopez,NA,NA,-16.5362549,-68.2057137,osm
+5404,NA,Farmacia,Luamar,NA,NA,-16.5364443,-68.2061405,osm
+5405,NA,Farmacia,Del Sud,NA,NA,-16.5461516,-68.220165,osm
+5406,NA,Farmacia,Más Salud,NA,NA,-16.5439075,-68.2169605,osm
+5407,NA,Farmacia,Dahira Salud,NA,NA,-16.5453991,-68.2190879,osm
+5408,NA,Farmacia,Propharma,NA,NA,-16.5468667,-68.2212586,osm
+5409,NA,Farmacia,NA,NA,NA,-16.5478745,-68.2226621,osm
+5410,NA,Farmacia,Adonai,NA,NA,-16.5480908,-68.2230198,osm
+5411,NA,Farmacia,Leslie Carmen,Calle 7,NA,-16.5107701,-68.1569323,osm
+5412,NA,Farmacia,Farmacorp,NA,NA,-17.7323921,-63.1687771,osm
+5413,NA,Farmacia,NA,Calle General Ortiz,NA,-16.4816996,-68.1397801,osm
+5414,NA,Farmacia,Rameba,Avenida Caquingora,NA,-16.5349649,-68.2286607,osm
+5415,NA,Farmacia,Farmacia Lapachos,NA,NA,-16.4972169,-68.1195489,osm
+5416,NA,Farmacia,Farmacia Bahira,NA,NA,-16.5019183,-68.1112718,osm
+5417,NA,Farmacia,Farmacias Hipermaxi,NA,NA,-17.763036,-63.1965759,osm
+5418,NA,Farmacia,Heidy,NA,NA,-16.5480226,-68.1911666,osm
+5419,NA,Farmacia,Amifar,NA,NA,-16.5166104,-68.1727593,osm
+5420,NA,Farmacia,Farmacorp,NA,NA,-19.5808502,-65.7527114,osm
+5421,NA,Farmacia,Farmagyn,Avenida Marcelo Quiroga Santa Cruz,NA,-16.522534,-68.146226,osm
+5422,NA,Farmacia,Farmacia Virginia,Calle África,NA,-16.5463021,-68.2005941,osm
+5423,NA,Farmacia,La Guadalupana I,NA,NA,-16.5229625,-68.1981557,osm
+5424,NA,Farmacia,Farmacia 16 de Abril,Avenida El Palmar del Oratorio,NA,-17.8679871,-63.1668865,osm
+5425,NA,Farmacia,Super Farmacia,Avenida Arroyitos,NA,-17.8195929,-63.1060396,osm
+5426,NA,Farmacia,Farmacia Havana,Avenida Transcontinental,NA,-17.8177527,-63.1100163,osm
+5427,NA,Farmacia,Keren,NA,NA,-16.5139403,-68.1628724,osm
+5428,NA,Farmacia,Farmacia Baby,NA,NA,-18.0546025,-64.1229065,osm
+5429,NA,Farmacia,Cielito Lindo,NA,NA,-16.6190549,-68.1815494,osm
+5430,NA,Farmacia,NA,NA,NA,-16.538695,-68.1860271,osm
+5431,NA,Farmacia,Primavera,NA,NA,-17.966411,-67.1072382,osm
+5432,NA,Farmacia,NA,NA,NA,-17.4012837,-66.1536865,osm
+5433,NA,Farmacia,Botica Esperanza,NA,NA,-16.1888389,-67.7276248,osm
+5434,NA,Farmacia,Ivonne,NA,NA,-16.52645,-68.2256724,osm
+5435,NA,Farmacia,Super Farmacia,Calle Evaristo Valle,NA,-16.4940836,-68.1376519,osm
+5436,NA,Farmacia,Farmacia Lety,NA,NA,-16.5070783,-68.1429455,osm
+5437,NA,Farmacia,Farmacias Bolivia,NA,NA,-16.5225164,-68.1697321,osm
+5438,NA,Farmacia,MiFarma,NA,NA,-16.5134446,-68.1290361,osm
+5439,NA,Farmacia,Farmacias Bolivia,NA,NA,-16.5123679,-68.1537524,osm
+5440,NA,Farmacia,Mi Salud,NA,NA,-16.564971,-68.2028248,osm
+5441,NA,Farmacia,Superfarmacity I,NA,NA,-16.5649534,-68.2024097,osm
+5442,NA,Farmacia,Daira,NA,NA,-16.5651545,-68.2030549,osm
+5443,NA,Farmacia,La Yapita Medicinal,NA,NA,-16.5587499,-68.1957257,osm
+5444,NA,Farmacia,Luna,NA,NA,-16.5234876,-68.2114331,osm
+5445,NA,Farmacia,La Milagrosa,NA,NA,-16.5965848,-68.1892829,osm
+5446,NA,Farmacia,Farmacia Gabriel,NA,NA,-18.1770749,-63.8694675,osm
+5447,NA,Farmacia,Farmacorp,NA,NA,-17.9871994,-63.3777314,osm
+5448,NA,Farmacia,FARMACIA URGENCIAS,Calle Daniel Campos,NA,-21.5353749,-64.733508,osm
+5449,NA,Farmacia,CRUZ DEL SUR,Calle Daniel Campos,NA,-21.5357417,-64.7334785,osm
+5450,NA,Farmacia,EL MESIAS,Calle Santa Cruz,NA,-21.5292032,-64.7265951,osm
+5451,NA,Farmacia,Farmacia Camila,Bolivar,NA,-21.6971325,-64.6559356,osm
+5452,NA,Farmacia,PAnaMERICAna,NA,NA,-21.5321957,-64.7332674,osm
+5453,NA,Farmacia,farmacia natalia,Avenida San Luis,NA,-21.564668,-64.7024188,osm
+5454,NA,Farmacia,La Salvadora,NA,NA,-15.8317893,-67.5669523,osm
+5455,NA,Farmacia,Luz De Los Angeles,Avenida 6 de agosto,NA,-21.535647,-64.7538649,osm
+5456,NA,Farmacia,Aleana,Avenida 6 de agosto,NA,-21.5373174,-64.7541263,osm
+5457,NA,Farmacia,San Agustin,Calle Juan Jose Perez,NA,-19.0513723,-65.2619288,osm
+5458,NA,Farmacia,GRECIA,NA,NA,-16.5233566,-68.1690084,osm
+5459,NA,Farmacia,MOIRA,NA,NA,-16.5237632,-68.1517629,osm
+5460,NA,Farmacia,El Gran Maestro,NA,NA,-16.5154516,-68.1578413,osm
+5461,NA,Farmacia,SAN BENEDICTO,NA,NA,-16.5075151,-68.1644427,osm
+5462,NA,Farmacia,Rene Sana Sana,NA,NA,-16.5194362,-68.1531125,osm
+5463,NA,Farmacia,"Dr, Ahorro",Arturo Ballivian Otero,NA,-16.5244621,-68.1517037,osm
+5464,NA,Farmacia,FARMACIA MAXIBEL,Calle Avaroa,NA,-20.4626023,-66.8279643,osm
+5465,NA,Farmacia,AnaHI,NA,NA,-16.5986767,-68.1832752,osm
+5466,NA,Farmacia,Farmafuentes,NA,NA,-16.5413916,-68.2308031,osm
+5467,NA,Farmacia,SABEL,NA,NA,-16.5457899,-68.2004915,osm
+5468,NA,Farmacia,Farmacia,Avenida Reducto,NA,-17.3368434,-66.2206843,osm
+5469,NA,Farmacia,Pharmaretro,NA,NA,-16.5324791,-68.1792623,osm
+5470,NA,Farmacia,pharmacy,NA,NA,-19.0487182,-65.259581,osm
+5471,NA,Farmacia,JOYA SUD,NA,NA,-16.6527871,-68.2914834,osm
+5472,NA,Farmacia,Farmacia Chávez,NA,NA,-17.7962027,-63.1347344,osm
+5473,NA,Farmacia,Farmacia T-Kura,NA,NA,-17.7922363,-63.1305441,osm
+5474,NA,Farmacia,Virreira,NA,NA,-17.7915447,-63.1344897,osm
+5475,NA,Farmacia,Luz de Copacabana,NA,NA,-17.7919283,-63.1342609,osm
+5476,NA,Farmacia,Santa Rosa de Lima,NA,NA,-17.7921343,-63.1317576,osm
+5477,NA,Farmacia,Dr. Osvaldo,NA,NA,-17.7924748,-63.1272277,osm
+5478,NA,Farmacia,18 de Marzo,NA,NA,-17.7927767,-63.1184326,osm
+5479,NA,Farmacia,Rio de Oro,Avenida Cumavi,NA,-17.7916416,-63.1373072,osm
+5480,NA,Farmacia,Maria nazareth,NA,NA,-17.7916809,-63.1368598,osm
+5481,NA,Farmacia,Yual,Avenida Cumavi,NA,-17.791674,-63.1331068,osm
+5482,NA,Farmacia,Farmacorp,Avenida Primero de Mayo,NA,-17.7968419,-63.1347643,osm
+5483,NA,Farmacia,Farmacia Hipermaxi,NA,NA,-17.7980602,-63.1344438,osm
+5484,NA,Farmacia,Farmacia Galenus,Avenida Litoral,NA,-16.5492048,-68.1915016,osm
+5485,NA,Farmacia,Farmacia CNS,NA,NA,-17.3935601,-66.2062413,osm
+5486,NA,Farmacia,Sanat Pharma,NA,NA,-17.3715175,-66.1511001,osm
+5487,NA,Farmacia,Farmacia La Fuente,Calle Toribio Torrico,NA,-17.3368249,-66.2183703,osm
+5488,NA,Farmacia,Farmacia,NA,NA,-16.9744738,-65.4179666,osm
+5489,NA,Farmacia,CNS Farmacia,NA,NA,-16.4952177,-68.1338546,osm
+5490,NA,Farmacia,Alvarado,NA,NA,-16.5495041,-68.199228,osm
+5491,NA,Farmacia,Miriam,NA,NA,-16.5567409,-68.1980413,osm
+5492,NA,Farmacia,Topacio,NA,NA,-16.562003,-68.1977489,osm
+5493,NA,Farmacia,Metrofarma,NA,NA,-16.5171325,-68.1748886,osm
+5494,NA,Farmacia,NA,NA,NA,-16.5007064,-68.1273989,osm
+5495,NA,Farmacia,Farmacias Bolivia,Avenida Armentia,NA,-16.4904612,-68.1369513,osm
+5496,NA,Farmacia,NA,NA,NA,-14.4365554,-67.5367831,osm
+5497,NA,Farmacia,Farmacia R&Y,RN19: Viacha,NA,-16.6530982,-68.3000258,osm
+5498,NA,Farmacia,NA,NA,NA,-17.3972636,-66.1984087,osm
+5499,NA,Farmacia,NA,NA,NA,-17.371622,-66.1422926,osm
+5500,NA,Farmacia,Farmacia,NA,NA,-17.3623887,-66.1780484,osm
+5501,NA,Farmacia,Chavez,NA,NA,-17.371529,-66.1798028,osm
+5502,NA,Farmacia,Farmasisy,NA,NA,-17.5069528,-63.1668645,osm
+5503,NA,Farmacia,Farmacia Alma Inmortal,Calle Francisco Carvajal,NA,-16.512616,-68.159619,osm
+5504,NA,Farmacia,Farmacia,NA,NA,-17.3595521,-66.1714396,osm
+5505,NA,Farmacia,NA,NA,NA,-17.403175,-66.0409612,osm
+5506,NA,Farmacia,Leysa villa pagador,NA,NA,-17.445708,-66.1090539,osm
+5507,NA,Farmacia,Epita,NA,NA,-17.4236556,-66.1325568,osm
+5508,NA,Farmacia,Farmacia Chávez,NA,NA,-14.8354389,-64.9035469,osm
+5509,NA,Farmacia,Farmacia San Cristobal,NA,NA,-21.1553596,-67.1667046,osm
+5510,NA,Farmacia,RODANIA,Calle Franco Valle,NA,-16.5096053,-68.1630461,osm
+5511,NA,Farmacia,NA,NA,NA,-17.4033274,-66.0405272,osm
+5512,NA,Farmacia,Delfi,NA,NA,-16.5531042,-68.195019,osm
+5513,NA,Farmacia,NA,NA,NA,-16.4888274,-68.1604785,osm
+5514,NA,Farmacia,NA,NA,NA,-16.4887736,-68.1615713,osm
+5515,NA,Farmacia,NA,NA,NA,-16.4901654,-68.1612206,osm
+5516,NA,Farmacia,NA,NA,NA,-16.4874871,-68.1573061,osm
+5517,NA,Farmacia,NA,NA,NA,-16.4907981,-68.157183,osm
+5518,NA,Farmacia,NA,NA,NA,-16.489676,-68.1570123,osm
+5519,NA,Farmacia,Rogelio,NA,NA,-16.4898651,-68.1555997,osm
+5520,NA,Farmacia,Farmacia,Avenida Diego de Portugal,NA,-16.5222682,-68.152859,osm
+5521,NA,Farmacia,Farmacia,Avenida Diego de Portugal,NA,-16.5226411,-68.1530195,osm
+5522,NA,Farmacia,Farmacorp,NA,NA,-17.8929828,-63.3274805,osm
+5523,NA,Farmacia,Diviño Niño,NA,NA,-22.0502197,-63.6823264,osm
+5524,NA,Farmacia,Janta Elena,NA,NA,-22.0139448,-63.6786148,osm
+5525,NA,Farmacia,Farmacorp,NA,NA,-22.0142087,-63.6773992,osm
+5526,NA,Farmacia,Maria del Pilar,NA,NA,-22.0146722,-63.6769235,osm
+5527,NA,Farmacia,Bolivia,NA,NA,-22.0155203,-63.6781432,osm
+5528,NA,Farmacia,Chavez,NA,NA,-22.0162909,-63.6797907,osm
+5529,NA,Farmacia,Reynaga,NA,NA,-22.0169348,-63.6787304,osm
+5530,NA,Farmacia,Gutierrez,NA,NA,-22.0107783,-63.6757883,osm
+5531,NA,Farmacia,Siringalito,NA,NA,-10.9991116,-66.0606137,osm
+5532,NA,Farmacia,Anita,NA,NA,-11.0017734,-66.06237,osm
+5533,NA,Farmacia,Miel Samaritano,NA,NA,-11.0017415,-66.0635327,osm
+5534,NA,Farmacia,San Judas Tadeo,NA,NA,-11.0021765,-66.0651223,osm
+5535,NA,Farmacia,Virgen de Guadalupe,NA,NA,-11.0024718,-66.064797,osm
+5536,NA,Farmacia,El Galeno,NA,NA,-11.0064062,-66.0549604,osm
+5537,NA,Farmacia,Pueblo Nuevo,NA,NA,-11.0073175,-66.0805806,osm
+5538,NA,Farmacia,Farmacorp,NA,NA,-10.9968693,-66.0748054,osm
+5539,NA,Farmacia,Santa Fe,NA,NA,-11.0000249,-66.0784297,osm
+5540,NA,Farmacia,Lian,NA,NA,-10.9995699,-66.0779663,osm
+5541,NA,Farmacia,Farmakon,NA,NA,-11.0183132,-68.7548443,osm
+5542,NA,Farmacia,Señor de la Misericordia,NA,NA,-11.0200752,-68.7551866,osm
+5543,NA,Farmacia,Farmacorp,NA,NA,-11.018564,-68.7555085,osm
+5544,NA,Farmacia,Farmavida,NA,NA,-11.0184429,-68.7575416,osm
+5545,NA,Farmacia,Santa Fe,NA,NA,-11.023508,-68.7583358,osm
+5546,NA,Farmacia,REDDO,NA,NA,-11.0394351,-68.7716036,osm
+5547,NA,Farmacia,Luz nazaria,NA,NA,-11.0389936,-68.7718932,osm
+5548,NA,Farmacia,Terceros,NA,NA,-11.0387638,-68.7726943,osm
+6478,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Comercio # 866,NA,-68.1360016,-16.49480216,gamlp
+6479,La Paz,Farmacia,Farmacia Bolivia,Av. 6 de Agosto # 2628,NA,-68.12449363,-16.51109692,gamlp
+6480,La Paz,Farmacia,Farmacia Acuario,C. Sagarnaga # 432,NA,NA,NA,gamlp
+6481,La Paz,Farmacia,Farmacia R y F,Av. Entre Ríos # 1203,NA,-68.15112921,-16.49850011,gamlp
+6482,La Paz,Farmacia,Farmacia Luz de Fé,C. Mururata # 1368,NA,NA,NA,gamlp
+6483,La Paz,Farmacia,Farmacia Jaciel,Pza. Israel # 600,NA,-68.13655836,-16.50587283,gamlp
+6484,La Paz,Farmacia,Distribución de Medicamentos,Av. Del Policía # 611,NA,NA,NA,gamlp
+6485,La Paz,Farmacia,Farmacia San Expedito Milagroso,C. Mururata # 1370,NA,-68.11656429,-16.46934125,gamlp
+6486,La Paz,Farmacia,Farmacia Tejada Sorzano,Av. Tejada Sorzano # 574,NA,-68.12345678,-16.48449477,gamlp
+6487,La Paz,Farmacia,Farmacia Santa Clara,Av. Buenos Aires # 712,NA,-68.14455682,-16.49695532,gamlp
+6488,La Paz,Farmacia,Venta por menor de productos Farmacéuticos Requilab,C. Víctor Eduardo # 2250,NA,-68.12136048,-16.50648829,gamlp
+6489,La Paz,Farmacia,Venta de productos Farmacéuticos,C. Alexander # 108,NA,-68.07172181,-16.53377743,gamlp
+6490,La Paz,Farmacia,Farmacia,C. 16 de Julio Esq. Av. Tejada Sorzano # 988,NA,-68.12570133,-16.48932153,gamlp
+6491,La Paz,Farmacia,Importador y Exportador de productos Farmacéuticos - Tecno Medical Bolivia,Av. Busch # 1211,NA,-68.12099393,-16.49351434,gamlp
+6492,La Paz,Farmacia,Farmacia Gloria,Av. Las Américas # 264,NA,-68.12043841,-16.47901728,gamlp
+6493,La Paz,Farmacia,Venta de productos Farmacéuticos,Av. Hernando Siles # 6106,NA,NA,NA,gamlp
+6494,La Paz,Farmacia,Fabricación y venta de productos Farmacéuticos,C. Méndez Arcos # 957-B,NA,-68.13177396,-16.51556901,gamlp
+6495,La Paz,Farmacia,Farmacia Rodríguez,C. Venancio Burgoa # 658,NA,-68.14133515,-16.50050947,gamlp
+6496,La Paz,Farmacia,Farmacia Lita,C. Martínez Monje # 1111,NA,NA,NA,gamlp
+6497,La Paz,Farmacia,Farmacia Lara Soto,C. Lizardo Taborga # 1523,NA,-68.15396177,-16.49498233,gamlp
+6498,La Paz,Farmacia,Farmacia Europa,C. Yanacocha # 538,NA,NA,NA,gamlp
+6499,La Paz,Farmacia,Farmacia San Juan,C. Manuel Bustillo # 712,NA,-68.15348092,-16.49446549,gamlp
+6500,La Paz,Farmacia,Venta por menor de productos Farmacéuticos,Av. Altamirano # 6629,NA,-68.08678314,-16.52483837,gamlp
+6501,La Paz,Farmacia,Hypermarcas,Av. Jaime Zudañez # 1444,NA,-68.1388914,-16.51468798,gamlp
+6502,La Paz,Farmacia,Farmacia Fatima,C. Arapata No. 1120,NA,NA,NA,gamlp
+6503,La Paz,Farmacia,Farmacia América,C. Yungas # 601 Esq. C. Ballivián,NA,-68.13002583,-16.4971837,gamlp
+6504,La Paz,Farmacia,Farmacia Reencarnación,Av. 9 De Abril # 194,NA,-68.15317037,-16.50484584,gamlp
+6505,La Paz,Farmacia,Importador y Exportador Sumipharma,C. Eusebio Gutierrez # 134,NA,NA,NA,gamlp
+6506,La Paz,Farmacia,Farmacia Virgen de Las Nieves,Av. Chacaltaya # 1146,NA,NA,NA,gamlp
+6507,La Paz,Farmacia,Farmacia Isis,C. Constitución # 113,NA,-68.14349544,-16.48806636,gamlp
+6508,La Paz,Farmacia,Farmacia,Av. Chacaltaya # 1080,NA,-68.14820738,-16.47952601,gamlp
+6509,La Paz,Farmacia,Inmed F.C.,C. 8 # 1630,NA,-68.11842417,-16.48004063,gamlp
+6510,La Paz,Farmacia,Comercialización de productos de Tocador Y Farmacéuticos,C. 12 # 315,NA,-68.10557064,-16.52816951,gamlp
+6511,La Paz,Farmacia,Farmacia Señor de Mayo,Av. República # 1479,NA,-68.15197989,-16.49170121,gamlp
+6512,La Paz,Farmacia,Provein Medica,Av. Saavedra # 2218,NA,-68.1201597,-16.50656386,gamlp
+6513,La Paz,Farmacia,Farmacia San Alberto,Av. García Lanza # 652,NA,-68.07402296,-16.53219175,gamlp
+6514,La Paz,Farmacia,Farmacia Niño Jesús I,C. Evaristo Valle # 153,NA,-68.13777248,-16.49402298,gamlp
+6515,La Paz,Farmacia,Farmacia Bolivia,C. Claudio Pinilla # 150,NA,-68.12470294,-16.49908899,gamlp
+6516,La Paz,Farmacia,Ave María,Av. Tejada Sorzano # 258,NA,-68.12148687,-16.48057084,gamlp
+6517,La Paz,Farmacia,Farmacia Gloria,C. Figueroa # L-3 Edf. Gonzales,NA,-68.13783519,-16.49526676,gamlp
+6518,La Paz,Farmacia,Farmacia Libertad,Av. Entre Ríos # 1119,NA,-68.14988667,-16.49774481,gamlp
+6519,La Paz,Farmacia,Farmacia Placido,Av. Buenos Aires # 724,NA,-68.14455029,-16.49767129,gamlp
+6520,La Paz,Farmacia,Farmacia Suazo,C. Juan de Vargas # 1205 Vivero II,NA,-68.12279112,-16.50501434,gamlp
+6521,La Paz,Farmacia,Farmacia San Francisco de Borja,Av. 23 de Marzo # 289,NA,-68.10304354,-16.49931222,gamlp
+6522,La Paz,Farmacia,Farmacia Oliseb,Av. Vicente Burgaleta # 996,NA,-68.11753011,-16.48899147,gamlp
+6523,La Paz,Farmacia,Farmacia Merialbi,Av. Jaime Zudañes # 1123,NA,NA,NA,gamlp
+6524,La Paz,Farmacia,Farmacias Bolivia,Av. Hernando Siles # 6204,NA,-68.10195518,-16.52972545,gamlp
+6525,La Paz,Farmacia,P H A R M A J 4 - Med,C. Ovando Candia # 280,NA,-68.08801655,-16.52870439,gamlp
+6526,La Paz,Farmacia,Farmacia Trébol,Av. Simón Bolívar # 1984,NA,-68.125131,-16.50002262,gamlp
+6527,La Paz,Farmacia,Farmacia las Flores,C. Bueno # 204,NA,NA,NA,gamlp
+6528,La Paz,Farmacia,Farmandrug,C. Potosí # 990,NA,NA,NA,gamlp
+6529,La Paz,Farmacia,Servicios de Farmacia,C. 25 Esq. Los Pinos # 333,NA,NA,NA,gamlp
+6530,La Paz,Farmacia,Farmacia Bolivia,Pza. Isabel la Católica # 2508,NA,-68.12446785,-16.5097122,gamlp
+6531,La Paz,Farmacia,Farmacia Bolivia,Av. Tumusla # 465,NA,-68.14144267,-16.49443713,gamlp
+6532,La Paz,Farmacia,Raimenbol S.R.L.,C. Díaz Romero # 1704,NA,-68.11801543,-16.50142218,gamlp
+6533,La Paz,Farmacia,Farmacia Bolivia,C. Víctor Sanjinés # A- 2698,NA,-68.12896383,-16.51452914,gamlp
+6534,La Paz,Farmacia,Farmacia,Av. Defensores del Chaco # 1000,NA,-68.04324016,-16.53509659,gamlp
+6535,La Paz,Farmacia,Farmacia Gloria,Av. Iturralde # 1390,NA,-68.12440372,-16.49660041,gamlp
+6536,La Paz,Farmacia,Farmacia Bolivia,Av. Tumusla # 569 Paulinas,NA,-68.14277624,-16.49498796,gamlp
+6537,La Paz,Farmacia,Farmaexpres S.A.,C. Loayza # 250,NA,-68.13298081,-16.49889812,gamlp
+6538,La Paz,Farmacia,Farmacia Aldo,Av. Muñoz Reyes # 224,NA,NA,NA,gamlp
+6539,La Paz,Farmacia,Mifarma S.A.,Av. H. Siles Edf. I. de Loyola II Loc. # 2,NA,-68.10797931,-16.52611538,gamlp
+6540,La Paz,Farmacia,Empresa Comercializadora Mifarma S.A.,Av. R. Pabón - Megacenter,NA,-68.08665413,-16.53288524,gamlp
+6541,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Zoilo Flores # 1198,NA,NA,NA,gamlp
+6542,La Paz,Farmacia,Farmacia Luz de Copacabana,Av. Final Burgaleta # 611,NA,NA,NA,gamlp
+6543,La Paz,Farmacia,Farmacorp S.A.,C. 21 Esq. Aguirre Acha,NA,-68.07667633,-16.54451525,gamlp
+6544,La Paz,Farmacia,Farmacia Psalm 23,Av. Alcides Arguedas # 507,NA,NA,NA,gamlp
+6545,La Paz,Farmacia,Farmacia Señor de la Sentencia,Pza. El Minero # 57,NA,-68.11101147,-16.50830678,gamlp
+6546,La Paz,Farmacia,Farmacia Petra,C. 53 # 7,NA,NA,NA,gamlp
+6547,La Paz,Farmacia,Ultrafarma,C. Villalobos # 1466 Edf. Huari,NA,-68.12032309,-16.50274524,gamlp
+6548,La Paz,Farmacia,Farmacia Alarcón,C. Max Paredes # 447,NA,NA,NA,gamlp
+6549,La Paz,Farmacia,Farmacias Gloria,Av. 20 de Octubre # 2497,NA,-68.12587272,-16.51051186,gamlp
+6550,La Paz,Farmacia,Farmacia Niño de Sikimira,C. Matías Terrazas # 7,NA,NA,NA,gamlp
+6551,La Paz,Farmacia,Farmacia Genaro Sanjinés,C. Genaro Sanjinés # 451,NA,-68.13588393,-16.49527198,gamlp
+6552,La Paz,Farmacia,Farmacia Luz Briana,Av. Utapulpera # 1903,NA,-68.15825417,-16.4976202,gamlp
+6553,La Paz,Farmacia,Farmacia Magua,Av. Baltazar de Salas # 200,NA,-68.14216831,-16.47903694,gamlp
+6554,La Paz,Farmacia,"Venta por menor de productos Farmacéuticos, Medicinales, Cosméticos Grimas S.R.L.",C. 22 # 450,NA,-68.07090533,-16.52912419,gamlp
+6555,La Paz,Farmacia,Farmacia Pampahasi,"C. E, entre Av. 5 Raúl Salmon # 1-A",NA,NA,NA,gamlp
+6556,La Paz,Farmacia,Farmacia Rada Suarez,Av. Landaeta # 432,NA,-68.13215112,-16.50560629,gamlp
+6557,La Paz,Farmacia,Farmacia La Paz,Av. 16 de Julio Edf. Alameda,NA,-68.13199997,-16.50223615,gamlp
+6558,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Loayza Edf. V. de Copacabana # Pb-3,NA,NA,NA,gamlp
+6559,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. Montes # 749,NA,-68.13694336,-16.49351607,gamlp
+6560,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Comercio Esq. G. Sanjinés # 943,NA,NA,NA,gamlp
+6561,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. Camacho Edf. Krsul-Pb,NA,-68.13456423,-16.4985659,gamlp
+6562,La Paz,Farmacia,Distribuidora T.L.C (Venta de productos Farmacéuticos),C. Arturo Posnasky # 1184,NA,NA,NA,gamlp
+6563,La Paz,Farmacia,Farmacia San Valentín,C. Max Paredes # 990,NA,NA,NA,gamlp
+6564,La Paz,Farmacia,Farmacia Bolivia,Av. 16 de Julio # 1473,NA,-68.13303227,-16.50081922,gamlp
+6565,La Paz,Farmacia,Farmacia Bolivia,Av. Mariscal Santa Cruz No. 1271,NA,-68.1347953,-16.49896041,gamlp
+6566,La Paz,Farmacia,Farmacia Bolivia,C. Eduardo # 2119 Esq. Saavedra,NA,-68.12110445,-16.50477918,gamlp
+6567,La Paz,Farmacia,Global Pharma,C. Virrey Toledo # 1295,NA,-68.14987595,-16.49098618,gamlp
+6568,La Paz,Farmacia,Farmacia Farmaplus E&E,C. Venancio Burgoa # 785,NA,-68.14098676,-16.50356002,gamlp
+6569,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. 20 de Octubre # 2473,NA,-68.12613519,-16.51032695,gamlp
+6570,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Fernando Guachalla # 521,NA,-68.12948642,-16.50923049,gamlp
+6571,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. Mariscal Santa Cruz # 1050,NA,NA,NA,gamlp
+6572,La Paz,Farmacia,Esbafox S.R.L. Importación y Exportación,C. José Cardón # 10,NA,NA,NA,gamlp
+6573,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. Landaeta # 221,NA,-68.13142911,-16.50453733,gamlp
+6574,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. Mariscal Santa Cruz # 1324,NA,NA,NA,gamlp
+6575,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. 6 de Agosto # 2002,NA,NA,NA,gamlp
+6576,La Paz,Farmacia,Farmacia Progreso,C. Pasos Kanki # 1184,NA,-68.12345737,-16.49846099,gamlp
+6577,La Paz,Farmacia,Farmacia Hispana,C. Yanacocha # 311,NA,NA,NA,gamlp
+6578,La Paz,Farmacia,Farmacia Jesús Salvador,Av. Costanera # 500,NA,NA,NA,gamlp
+6579,La Paz,Farmacia,Farmacia Bolivia,Av. las Delicias # 1351 Esq. C. Antezana,NA,-68.12132062,-16.47949958,gamlp
+6580,La Paz,Farmacia,Farmacia Porvenir,C. Federico Zuazo # 1508,NA,NA,NA,gamlp
+6581,La Paz,Farmacia,Rosati Importaciones,C. Rodrigo de Mejía # 1936,NA,NA,NA,gamlp
+6582,La Paz,Farmacia,Fendermed,C. Rodrigo de Mejía # 1936,NA,-68.12379904,-16.50208496,gamlp
+6583,La Paz,Farmacia,Bioser S.R.L.,C. Lucas Jaimes # 1711,NA,NA,NA,gamlp
+6584,La Paz,Farmacia,Farmacia Bolivia,C. Yungas # 876,NA,-68.12868321,-16.49743934,gamlp
+6585,La Paz,Farmacia,Farmacia Unifar,Av. Arce # 2630,NA,-68.1227689,-16.511063,gamlp
+6586,La Paz,Farmacia,Farmacia Bolivia,Av. Landaeta # 836,NA,-68.13715097,-16.51026992,gamlp
+6587,La Paz,Farmacia,Farmacia Uru's,C. Casimiro Corrales # 1020,NA,-68.12769612,-16.49761546,gamlp
+6588,La Paz,Farmacia,Farmacia Rivera,C. Larecaja # 141,NA,-68.14180405,-16.48791826,gamlp
+6589,La Paz,Farmacia,Farmacia Bolivia,Av. Arce # 2631 - Multicine,NA,-68.12237732,-16.51105519,gamlp
+6590,La Paz,Farmacia,Farmacia Agua de Vida,C. Hugo Reck # 1489,NA,-68.1541445,-16.49855543,gamlp
+6591,La Paz,Farmacia,Farmacia Fenix,Av. Mariscal Santa Cruz # 893,NA,NA,NA,gamlp
+6592,La Paz,Farmacia,Farmacia Angelitos,C. Josefa Mujia # 2000,NA,NA,NA,gamlp
+6593,La Paz,Farmacia,Farmacia Bolognia,Av. Ciudad del Niño Esq. C. 5 # 1,NA,NA,NA,gamlp
+6594,La Paz,Farmacia,Den Jhonson,C. Reyes Cardona # 771,NA,NA,NA,gamlp
+6595,La Paz,Farmacia,Venta de productos Farmacéuticos,C. 10 Hermanos Ariñez Esq. Av. Ballivián,NA,-68.08910317,-16.54075565,gamlp
+6596,La Paz,Farmacia,Venta de productos Farmacéuticos,Av. Ballivián,NA,NA,NA,gamlp
+6597,La Paz,Farmacia,Farmacia Raphael,C. Claudio Sanjinés # 1590,NA,NA,NA,gamlp
+6598,La Paz,Farmacia,Farmacia Ryana,Av. Juan José Torrez Gonzales # 215,NA,-68.13318827,-16.48625573,gamlp
+6599,La Paz,Farmacia,Farmacia Señor de la Cruz Milagroso,C. Landaeta # 533,NA,-68.13301544,-16.50698248,gamlp
+6600,La Paz,Farmacia,Farmacia Filadelfia,Av. La Zarzuela # 567,NA,-68.14417103,-16.48255598,gamlp
+6601,La Paz,Farmacia,Farmacia Santa Cecilia de La Paz,C. Otero de la Vega # 1604,NA,-68.1375846,-16.50646039,gamlp
+6602,La Paz,Farmacia,Farmacia del Sur,Av. José Aguirre Achá # 502,NA,-68.07437401,-16.54525515,gamlp
+6603,La Paz,Farmacia,Farmacia Terra,C. Tejada Sorzano # 855,NA,-68.12443878,-16.48742971,gamlp
+6604,La Paz,Farmacia,Farmacia,Av. Agustín Ugarte # 52,NA,-68.13394698,-16.51626676,gamlp
+6605,La Paz,Farmacia,Farmacia Noé,Av. Baptista # 915,NA,-68.14696965,-16.49577062,gamlp
+6606,La Paz,Farmacia,Farmacia la Glorieta,C. Otero de la Vega # 450,NA,NA,NA,gamlp
+6607,La Paz,Farmacia,Farmacia Mariana de Jesús,C. Sebastián Segurola # 723,NA,NA,NA,gamlp
+6608,La Paz,Farmacia,Farmacia el Buen Pastor,Av. República # 1507,NA,-68.15250704,-16.49159766,gamlp
+6609,La Paz,Farmacia,Farmacia Luz,C. Zapata # 141,NA,-68.12906779,-16.50497007,gamlp
+6610,La Paz,Farmacia,Farmacia Calacoto,C. Díaz Romero # 1350,NA,-68.12209447,-16.5015807,gamlp
+6611,La Paz,Farmacia,Farmacia K & L,C. Santa Cruz # 399,NA,-68.13928157,-16.4963348,gamlp
+6612,La Paz,Farmacia,Farmacia Cesar´s,C. Luciano Alcoreza # 1370,NA,-68.14850735,-16.50620598,gamlp
+6613,La Paz,Farmacia,Farmacia Arcangel,Av. Pasos Kanki # 1619,NA,-68.11908295,-16.49738519,gamlp
+6614,La Paz,Farmacia,Farmacias Gloria,Av. Ballivián # 1175,NA,-68.08062847,-16.53865825,gamlp
+6615,La Paz,Farmacia,Farmacia José Manuel,C. Luciano Alcoreza # 1529,NA,-68.15046616,-16.50785949,gamlp
+6616,La Paz,Farmacia,Farmacia Santa Ana,Av. 6 de Agosto # 2190,NA,-68.12804438,-16.50743602,gamlp
+6617,La Paz,Farmacia,Farmacia Prisval,C. Mururata # 1253,NA,NA,NA,gamlp
+6618,La Paz,Farmacia,Farmacia Nuestra Señora de Candelaria,Av. M. Quiroga Santa Cruz # 1926,NA,-68.14594541,-16.52249816,gamlp
+6619,La Paz,Farmacia,Farmacia Gloria,Av. Eduardo # 2612,NA,-68.12881798,-16.51352649,gamlp
+6620,La Paz,Farmacia,Farmacia Gloria,C. Almirante Grau # 349,NA,-68.13598993,-16.50171229,gamlp
+6621,La Paz,Farmacia,San Bartolomé,Av. Juan José Torrez # 250,NA,-68.12840004,-16.48001519,gamlp
+6622,La Paz,Farmacia,Farmacia Arvin,Av. Periférica # 498,NA,NA,NA,gamlp
+6623,La Paz,Farmacia,Farmacia Las Américas,Av. las Américas # 489,NA,NA,NA,gamlp
+6624,La Paz,Farmacia,Farmacia Cindy,Av. Buenos Aires # 1882,NA,-68.14412347,-16.51341876,gamlp
+6625,La Paz,Farmacia,Farmacia Bolívar,C. Ballivián # 1211,NA,NA,NA,gamlp
+6626,La Paz,Farmacia,Farmacia Única,Av. 16 de Julio # 1490,NA,-68.1331613,-16.50146891,gamlp
+6627,La Paz,Farmacia,Farmacia Bernardo,Av. Ramiro Castillo # 1000,NA,-68.11458712,-16.46883264,gamlp
+6628,La Paz,Farmacia,Farmacia Galicia I,Av. Baltazar de Salas # 930,NA,-68.14012347,-16.48077892,gamlp
+6629,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,Av. 31 de Octubre # 1513,NA,NA,NA,gamlp
+6630,La Paz,Farmacia,Farmacia Jackeline,C. Haití # 1226,NA,-68.12290517,-16.4911177,gamlp
+6631,La Paz,Farmacia,Farmacia Niño Jesús nazareno,Av. Montes # 787,NA,-68.136709,-16.49404423,gamlp
+6632,La Paz,Farmacia,Farmacia Vida y Salud,Av. Tito Yupanqui # 1131,NA,-68.11755715,-16.49151308,gamlp
+6633,La Paz,Farmacia,Farmacia San Ignacio,Av. Tejada Sorzano # 351,NA,NA,NA,gamlp
+6634,La Paz,Farmacia,Farmacia,Av. 31 de Octubre # 1584,NA,NA,NA,gamlp
+6635,La Paz,Farmacia,Farmacia el Zodiaco,Av. Hernando Siles # 5505,NA,NA,NA,gamlp
+6636,La Paz,Farmacia,Farmacia Mariel,Av. Baltazar de Salas # 1132,NA,-68.14198125,-16.47908521,gamlp
+6637,La Paz,Farmacia,Farmacia Jeannette,C. 12 # 58,NA,-68.10490981,-16.50198175,gamlp
+6638,La Paz,Farmacia,Farmacia Santa Lucia,C. José María Asin # 691,NA,NA,NA,gamlp
+6639,La Paz,Farmacia,Farmacia Isam,Av. Sucre # 930,NA,-68.13378742,-16.49326082,gamlp
+6640,La Paz,Farmacia,Farmacia Ruiz,Av. Héroes del Pacifico # 1567,NA,NA,NA,gamlp
+6641,La Paz,Farmacia,Farmacia Emaus,Av. 9 de Abril # 1066,NA,-68.15184917,-16.50514747,gamlp
+6642,La Paz,Farmacia,Farmacia San Damián,C. Illampu # 703,NA,-68.14008942,-16.49527695,gamlp
+6643,La Paz,Farmacia,Farmacia Pompeya,Av. Saavedra # 2218,NA,NA,NA,gamlp
+6644,La Paz,Farmacia,Farmacia Curabitur,Av. Ballivián # 275,NA,-68.09094803,-16.54093464,gamlp
+6645,La Paz,Farmacia,Venta de Productos Farmacéuticos,C. 2 # 357 Pza. Arturo Borda,NA,-68.11319507,-16.46889187,gamlp
+6646,La Paz,Farmacia,Farmacia Megafarma,C. Santa Cruz # 423,NA,NA,NA,gamlp
+6647,La Paz,Farmacia,Farmacia Bioenergía,C. Max Paredes # 847,NA,NA,NA,gamlp
+6648,La Paz,Farmacia,Terapéutica Boliviana S.A.Terbol S.A.,C. Landaeta # 432,NA,NA,NA,gamlp
+6649,La Paz,Farmacia,Farmacia Hipermaxi S.A.,Av. Strongest # 100,NA,NA,NA,gamlp
+6650,La Paz,Farmacia,Farmacia Viviana,C. Rodríguez # 477,NA,NA,NA,gamlp
+6651,La Paz,Farmacia,Corporación Mercantil Sudamericana Ltda,Av. 14 de Septiembre # 5299,NA,NA,NA,gamlp
+6652,La Paz,Farmacia,Allemed S.R.L.,Av. Tejada Sorzano # 1140-B,NA,-68.12526574,-16.49222312,gamlp
+6653,La Paz,Farmacia,Farmacia M & B,Av. Busch # 885 Edf. Murano,NA,-68.12143743,-16.48876813,gamlp
+6654,La Paz,Farmacia,Farmacia la Merced,Av. Jaimes Freyre # 2109,NA,-68.13939467,-16.51519705,gamlp
+6655,La Paz,Farmacia,Farmacia Gloria,Av. Busch # 1924,NA,NA,NA,gamlp
+6656,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Graneros # 390 Esq. C. Isaac Tamayo,NA,-68.14130794,-16.49565005,gamlp
+6657,La Paz,Farmacia,Mifarma S.A.,Av. Muñoz Reyes Esq. C. 27,NA,-68.06841492,-16.54044426,gamlp
+6658,La Paz,Farmacia,"Venta de productos Farmacéuticos, Medicinales y artículos de Tocador",Av. Las Américas # 343 Local 4,NA,NA,NA,gamlp
+6659,La Paz,Farmacia,Farmacia Yahuita,Av. 31 de Octubre # 2040,NA,-68.11128525,-16.50017595,gamlp
+6660,La Paz,Farmacia,Farmacia Florida,Av. Saavedra # 1659,NA,NA,NA,gamlp
+6661,La Paz,Farmacia,Farmacia Buena Esperanza,Av. Buenos Aires # 1132,NA,-68.14483306,-16.50266228,gamlp
+6662,La Paz,Farmacia,Farmacia San Pedro,Av. 31 de Octubre # 1828,NA,-68.11346884,-16.49940977,gamlp
+6663,La Paz,Farmacia,Farmacia Uyuni,Av. 6 de Agosto Edf. Alianza # L.06,NA,NA,NA,gamlp
+6664,La Paz,Farmacia,Farmacia Vicenti,C. Chirca # 24,NA,-68.12169509,-16.47044252,gamlp
+6665,La Paz,Farmacia,Venta de productos Farmacéuticos,Av. 20 de Octubre # 1782,NA,NA,NA,gamlp
+6666,La Paz,Farmacia,Farmacia Carmelita S.R.L,C. Ayacucho # 211,NA,NA,NA,gamlp
+6667,La Paz,Farmacia,Farmacia Primavera,C. Pando # 287,NA,-68.14056338,-16.49293857,gamlp
+6668,La Paz,Farmacia,Farmacia Flores,C. Núñez del Prado # 88,NA,-68.11689334,-16.49147929,gamlp
+6669,La Paz,Farmacia,Farmacia Crucen Dominum,C. 23 De Marzo # 110,NA,-68.10474687,-16.4993381,gamlp
+6670,La Paz,Farmacia,Farmacia Irazi,Av. Mario Quintanilla # 20 -B,NA,NA,NA,gamlp
+6671,La Paz,Farmacia,Farmacia Entre Ríos,C. Reyes Cardona # 990,NA,NA,NA,gamlp
+6672,La Paz,Farmacia,Farmacia Emanuel,Av. Buenos Aires # 1111,NA,-68.14484955,-16.50224765,gamlp
+6673,La Paz,Farmacia,Venta de productos Farmacéuticos,C. Juan Granier # 1130,NA,NA,NA,gamlp
+6674,La Paz,Farmacia,Farmacia Candelaria,C. Pasos Kanki # 1531,NA,-68.11988914,-16.49751524,gamlp
+6675,La Paz,Farmacia,Farmacia Arco Iris,Av. Tejada Sorzano # 420,NA,-68.12242976,-16.48269506,gamlp
+6676,La Paz,Farmacia,Farmacia Pharma Center,Av. San José # 2057,NA,NA,NA,gamlp
+6677,La Paz,Farmacia,Farmacia Mar - Mau,Av. Landaeta # 984,NA,-68.13910923,-16.51137747,gamlp
+6678,La Paz,Farmacia,Sant Drug S.R.L.,C. Vicente Álvarez Plata # 1191,NA,-68.12594145,-16.49254615,gamlp
+6679,La Paz,Farmacia,Farmacia 14 De Septiembre,C. Maximiliano Paredes # 412,NA,-68.14562414,-16.49603672,gamlp
+6680,La Paz,Farmacia,Farmacia Mis Ángeles,Av. Busch # 1696,NA,-68.12127743,-16.49920312,gamlp
+6681,La Paz,Farmacia,Santiago Salud,Av. Buenos Aires # 2011,NA,NA,NA,gamlp
+6682,La Paz,Farmacia,Farmacia Ariana,C. Manco Kapac # 307,NA,-68.14145349,-16.49363476,gamlp
+6683,La Paz,Farmacia,Farmacia Internacional,C. Sucre # 765-B,NA,-68.1349987,-16.4923351,gamlp
+6684,La Paz,Farmacia,Díaz Miranda Gonzalo,Av. Kollasuyo # 1991,NA,-68.15724788,-16.49325229,gamlp
+6685,La Paz,Farmacia,Farmacia Complutense,Av. Primavera # 137,NA,-68.14926874,-16.45105845,gamlp
+6686,La Paz,Farmacia,Farmacia Victoria Andrea,Av. Octavio Campero # 1746,NA,-68.10905808,-16.49749025,gamlp
+6687,La Paz,Farmacia,Farmacia Rocio Madelen,C. Maximiliano Paredes # 915,NA,-68.13989698,-16.49957137,gamlp
+6688,La Paz,Farmacia,Farmacia Arznei,C. Aspiazu # 1342,NA,-68.11732566,-16.47127347,gamlp
+6689,La Paz,Farmacia,Farmacia Americana,Av. Tito Yupanqui # 1336,NA,-68.11717508,-16.49433891,gamlp
+6690,La Paz,Farmacia,Corporación Boliviana De Farmacias S.A.,Av. José Ballivián # 7898,NA,-68.08118178,-16.53862862,gamlp
+6691,La Paz,Farmacia,Farmacia Luz de Vida,C. Cinco # 191-A,NA,NA,NA,gamlp
+6692,La Paz,Farmacia,Farmacia Medi - Salud,Av. Héroes Del Pacífico # 1769,NA,-68.15652468,-16.49664953,gamlp
+6693,La Paz,Farmacia,Farmacia Pribian,Av. Busch # 1373,NA,-68.12107696,-16.49632252,gamlp
+6694,La Paz,Farmacia,Farmacia Complutense,Av. Costanera # 536,NA,NA,NA,gamlp
+6695,La Paz,Farmacia,Farmacia Santa María de los Ángeles,Av. Costanera # 42,NA,NA,NA,gamlp
+6696,La Paz,Farmacia,Farmacia Kioto,C. 7 Enanos # 894,NA,-68.13971827,-16.48157357,gamlp
+6697,La Paz,Farmacia,Farmacia Hipermaxi,Av. José Aguirre Acha # 85,NA,NA,NA,gamlp
+6698,La Paz,Farmacia,Distribuidora Illampu,Pza. Villarroel # 53 Of-B,NA,NA,NA,gamlp
+6699,La Paz,Farmacia,Farmacia S.C. Latino Americana,C. Republica Dominicana # 2012,NA,NA,NA,gamlp
+6700,La Paz,Farmacia,Farmacia Orly,C. San Borja # 488,NA,-68.11881434,-16.4764498,gamlp
+6701,La Paz,Farmacia,Farmacia Incahuasi,Av. Octavio Campero # 1726,NA,-68.10937853,-16.49716168,gamlp
+6702,La Paz,Farmacia,Farmacenter,C. Colón # 921,NA,NA,NA,gamlp
+6703,La Paz,Farmacia,Farmacia Andina,C. Isaac Tamayo # 812,NA,NA,NA,gamlp
+6704,La Paz,Farmacia,Farmacia Pio XII,Av. Baptista # 1018,NA,NA,NA,gamlp
+6705,La Paz,Farmacia,Farmacia Santa Bárbara,Av. Florida # 35,NA,-68.16065801,-16.48895721,gamlp
+6706,La Paz,Farmacia,Farmacia Baptista,C. Antonio Quijarro # 994,NA,-68.14794171,-16.49578287,gamlp
+6707,La Paz,Farmacia,"Farmacia Si Yo, Tú",Av. Del Maestro # 1472,NA,-68.10603961,-16.52351874,gamlp
+6708,La Paz,Farmacia,Farmacia Ninoska,Av. Escobar Uría # 176,NA,NA,NA,gamlp
+6709,La Paz,Farmacia,Farmacia Santa Catalina,C. Boquerón # 1358-D,NA,NA,NA,gamlp
+6710,La Paz,Farmacia,Corporación Boliviana de Farmacias S. A.,C. Bolívar # 876,NA,NA,NA,gamlp
+6711,La Paz,Farmacia,Farmacia Illimani,Av. Landaeta # 573,NA,-68.13413665,-16.50805703,gamlp
+6712,La Paz,Farmacia,Farmacia San Andrés,Av. Mcal. Santa Cruz # 2150,NA,NA,NA,gamlp
+6713,La Paz,Farmacia,Farmacia Bolivia,C. Héroes del Acre # 518,NA,NA,NA,gamlp
+6714,La Paz,Farmacia,Farmacia Mariel,Av. Baltazar de Salas # 1132,NA,NA,NA,gamlp
+6715,La Paz,Farmacia,Farmacia Bolivia,Av. Manco Kapac,NA,NA,NA,gamlp
+6716,La Paz,Farmacia,Farmacia Hipermaxi,Av. 14 de Septiembre # 6020,NA,-68.10340469,-16.52810308,gamlp
+6717,La Paz,Farmacia,Farmacia San Rafael,Av. Las Américas # 716,NA,-68.11725988,-16.4737751,gamlp
+6718,La Paz,Farmacia,Farmacia Galicia,Av. Manco Kapac # 450,NA,-68.14277069,-16.49320942,gamlp
+6719,La Paz,Farmacia,Farmacia Unión,C. Ocho # 35,NA,NA,NA,gamlp
+6720,La Paz,Farmacia,All Pharmacy III,Av. Saavedra # 1716,NA,NA,NA,gamlp
+6721,La Paz,Farmacia,Punto Bienestar,Av. Arce # 2656,NA,NA,NA,gamlp
+6722,La Paz,Farmacia,Farmacias Alianza,Av. Mcal. Santa Cruz # 870,NA,NA,NA,gamlp
+6723,La Paz,Farmacia,Pharmasur,Av. Hernando Siles # 5259,NA,-68.10901758,-16.52554424,gamlp
+6724,La Paz,Farmacia,Mifarma S.A.,C. 16 # 450,NA,NA,NA,gamlp
+6725,La Paz,Farmacia,Big - Pharmacy,C. José Saravia # 1735,NA,-68.14096535,-16.51089287,gamlp
+6726,La Paz,Farmacia,Farmacia Lía,C. Francisco de Miranda # 1836,NA,-68.11929241,-16.50070175,gamlp
+6727,La Paz,Farmacia,Farmacia Chaski,Av. Muñoz Reyes # 170 Esq. C. 35,NA,-68.0576342,-16.5412051,gamlp
+6728,La Paz,Farmacia,Farmacia Roca,C. Puerto Rico # 1425,NA,-68.12131002,-16.4872009,gamlp
+6729,La Paz,Farmacia,Farmacia Isis,C. Constitución # 113,NA,NA,NA,gamlp
+6730,La Paz,Farmacia,Farmacia Mocedades,C. Rodríguez # 335,NA,NA,NA,gamlp
+6731,La Paz,Farmacia,Farmacias Bolivia,C. 12 # 247,NA,-68.10517874,-16.52766608,gamlp
+6732,La Paz,Farmacia,Farmacia Liz,Av. De las Américas # 488,NA,NA,NA,gamlp
+6733,La Paz,Farmacia,Hospimed S.R.L.,C. Villalobos # 1403,NA,-68.12052603,-16.50255552,gamlp
+6734,La Paz,Farmacia,Farmacia la Serena,C. Eusebio Guilarte # 437,NA,NA,NA,gamlp
+6735,La Paz,Farmacia,Farmacia Unicruz,C. Max Paredes # 647,NA,NA,NA,gamlp
+6736,La Paz,Farmacia,Farmacia Avenida,Av. Ecuador # 2503,NA,-68.12926368,-16.51251667,gamlp
+6737,La Paz,Farmacia,P J M Farmacy Group,C. Loayza # 1399,NA,-68.13192421,-16.49699299,gamlp
+6738,La Paz,Farmacia,Farmacia Luz Del Señor,C. Eusebio Guilarte # 882,NA,-68.12006156,-16.484749,gamlp
+6739,La Paz,Farmacia,Farmacia Gloria,C. General Centeno # 612 Esq. G. Jurado,NA,-68.08727705,-16.53022584,gamlp
+6740,La Paz,Farmacia,Farmacia Gloria,C. 16 Esq. Iturri y G. Lanza # 330,NA,NA,NA,gamlp
+6741,La Paz,Farmacia,Farmacia Gloria,C. 21 # 8239,NA,-68.07756832,-16.54052835,gamlp
+6742,La Paz,Farmacia,Farmacia Gloria,Av. Aguirre Achá # 26,NA,-68.07330876,-16.54531864,gamlp
+6743,La Paz,Farmacia,All Pharmacy,C. Claudio Sanjinés # 1641,NA,-68.11847658,-16.5056917,gamlp
+6744,La Paz,Farmacia,Farmacia José María,C. Vicente Peñaloza # 410,NA,-68.15714704,-16.49075979,gamlp
+6745,La Paz,Farmacia,Farmacia la Concepción,Av. Héroes Del Pacífico # 1529,NA,-68.15409147,-16.4957064,gamlp
+6746,La Paz,Farmacia,Farmacia Unicruz III,C. Chorolque # 748,NA,NA,NA,gamlp
+6747,La Paz,Farmacia,Farmacia Unicruz I,Av. Buenos Aires # 884,NA,NA,NA,gamlp
+6748,La Paz,Farmacia,Farmacia Divino Niño,C. O # 7,NA,NA,NA,gamlp
+6749,La Paz,Farmacia,Farmacia Alan - Matías,Av. Jaimes Freyre # 1848-B,NA,-68.14230939,-16.51233913,gamlp
+6750,La Paz,Farmacia,Corporación Boliviana de Farmacias S.A.,C. Adolfo Ortega # 615,NA,-68.14302466,-16.49543591,gamlp
+6751,La Paz,Farmacia,Farmacia 10 de Octubre,C. Illampu # 619,NA,NA,NA,gamlp
+6752,La Paz,Farmacia,Farmacia Zamar,Av. Ramiro Castillo # 200,NA,-68.11199807,-16.46691999,gamlp
+6753,La Paz,Farmacia,Farmacia Chávez,Av. Montenegro # 1247,NA,-68.08026229,-16.54076195,gamlp
+6754,La Paz,Farmacia,Farmacia Máxima,Pza. Villarroel # 53,NA,-68.12098275,-16.48439195,gamlp
+6755,La Paz,Farmacia,Farmacia Junior,Av. Tito Yupanqui # 1307,NA,-68.1170215,-16.49383843,gamlp
+6756,La Paz,Farmacia,Comercialización de productos Farmacéuticos,Av. Vera # 127 Esq. C. 3,NA,-68.0849574,-16.52810251,gamlp
+6757,La Paz,Farmacia,Farmacia Señor Jesús,Av. Arce # 150 Edf. El Escorial,NA,-68.12095769,-16.51258428,gamlp
+6758,La Paz,Farmacia,Farmacia Caly,Av. Estados Unidos # 1131,NA,-68.12212476,-16.49174551,gamlp
+6759,La Paz,Farmacia,Farmacia Marilyn,C. Evaristo Valle # 118,NA,-68.1373823,-16.49399586,gamlp
+6760,La Paz,Farmacia,Farmacia Unicruz,C. Max Paredes # 523,NA,NA,NA,gamlp
+6761,La Paz,Farmacia,Venta de productos Farmacéuticos,Av. Ballivián # 941 Esq. C. 16,NA,-68.08354802,-16.53882818,gamlp
+6762,La Paz,Farmacia,Marie - Stopes - Bolivia Farmacia,C. Conchitas # 414,NA,-68.13299087,-16.50481044,gamlp
+6763,La Paz,Farmacia,Farmacia el Salvador,Av. Juan XXIII # 300,NA,-68.11296196,-16.50797573,gamlp
+6764,La Paz,Farmacia,Farmacia Capitol,C. Murillo # 413,NA,-68.13973014,-16.49353678,gamlp
+6765,La Paz,Farmacia,Farmacia 25 De Mayo,C. Luis Lara # 670,NA,-68.14055421,-16.50283231,gamlp
+6766,La Paz,Farmacia,Farmacia Rene Gabriel,Av. Perú # 135,NA,NA,NA,gamlp
+6767,La Paz,Farmacia,Farmacia Pharma J4-Med 1,Av. Ballivián # 1063,NA,NA,NA,gamlp
+6768,La Paz,Farmacia,Farmacia Betania,Av. Ramos Gavilán # 1955,NA,-68.15085668,-16.4685415,gamlp
+6769,La Paz,Farmacia,Farmacia la Sagrada Familia,C. Landaeta # 762,NA,-68.13664006,-16.50994232,gamlp
+6770,La Paz,Farmacia,Farmacia Rey David,C. Lucas Jaimes # 1915 - A,NA,-68.11733348,-16.50141582,gamlp
+6771,La Paz,Farmacia,Venta de productos Farmacéuticos,C. Mercado # 1328,NA,-68.13319981,-16.49842724,gamlp
+6772,La Paz,Farmacia,Farmacia Señor de Huanca,Av. 20 de Octubre # 2005,NA,NA,NA,gamlp
+6773,La Paz,Farmacia,Farmacia Elyson,C. General Gonzales # 1106,NA,-68.13745069,-16.50007487,gamlp
+6774,La Paz,Farmacia,Farmacia Santa Cecilia,Av. Simón Bolívar # 1999,NA,NA,NA,gamlp
+6775,La Paz,Farmacia,Farmacia Multifuncional,Av. naciones Unidas # 290,NA,-68.15829914,-16.48548156,gamlp
+6776,La Paz,Farmacia,Farmacia San Gerardo,Av. Saavedra # 2166,NA,-68.12071316,-16.50537778,gamlp
+6777,La Paz,Farmacia,Distribución de productos Farmacéuticos,C. Capitán Ravelo # 2327,NA,NA,NA,gamlp
+6778,La Paz,Farmacia,Farmacia la Plata,Av. Armentia # 656,NA,-68.13614899,-16.49134268,gamlp
+6779,La Paz,Farmacia,Comercio de productos Farmacéuticos,C. Pablo Guillen # 29,NA,-68.07786663,-16.54615617,gamlp
+6780,La Paz,Farmacia,Farmacia Porvenir,C. Federico Suazo # 1508,NA,NA,NA,gamlp
+6781,La Paz,Farmacia,Importadora Interorbita S.R.L. Importación de productos para el Cabello-Cosméticos,Av. 20 de Octubre # 2473,NA,NA,NA,gamlp
+6782,La Paz,Farmacia,Farmacia Lapachos,C. Brasil # 1584,NA,NA,NA,gamlp
+6783,La Paz,Farmacia,Importación de Medicamentos,C. 20 # 7780 Esq. Inofuentes,NA,-68.07886422,-16.53761601,gamlp
+6784,La Paz,Farmacia,Farmacias Farmacorp,Av. García Lanza,NA,NA,NA,gamlp
+6785,La Paz,Farmacia,Farmacia Mariaca,Av. Eduardo Abaroa # 1369,NA,NA,NA,gamlp
+6786,La Paz,Farmacia,Farmacia Kaliz,Av. Ramos Gavilán # 1981,NA,-68.15081794,-16.46826259,gamlp
+6787,La Paz,Farmacia,Farmacorp S.A.,C. Pedro Salazar # 497,NA,NA,NA,gamlp
+6788,La Paz,Farmacia,Farmacorp,C. Pedro Salazar # 497,NA,NA,NA,gamlp
+6789,La Paz,Farmacia,Farmacia Noemí,Av. Baptista # 1047,NA,NA,NA,gamlp
+6790,La Paz,Farmacia,Farmacia Virgen De La Merced,Av. Tejada Sorzano # 393,NA,-68.12175399,-16.48222685,gamlp
+6791,La Paz,Farmacia,Farmacia Tu Salud,Av. Ciudad del Niño # 52,NA,NA,NA,gamlp
+6792,La Paz,Farmacia,Farmacia Eliezer,Pza. San Martín # 2145,NA,-68.12051931,-16.50446998,gamlp
+6793,La Paz,Farmacia,Farmacia y Droguería Bristol S.R.L.,C. Ingavi # 1047,NA,-68.13402149,-16.49482218,gamlp
+6794,La Paz,Farmacia,Farmacias Gloria,Av. Tumusla # 416,NA,-68.14113573,-16.49399502,gamlp
+6795,La Paz,Farmacia,Farmacia Galicia II,Av. Manco Kapac # 550,NA,-68.14236051,-16.4935784,gamlp
+6796,La Paz,Farmacia,Farmacia Paulo VI,Av. Buenos Aires # 1450,NA,NA,NA,gamlp
+6797,La Paz,Farmacia,Venta de productos Farmacéuticos,Av. Del Policía # 611,NA,NA,NA,gamlp
+6798,La Paz,Farmacia,Latín Med,Av. Busch # 1944,NA,-68.12113694,-16.50219521,gamlp
+6799,La Paz,Farmacia,Mi Sol Amiga,Av. Montes # 214,NA,-68.13861859,-16.49175712,gamlp
+6800,La Paz,Farmacia,Farmacia O'Neil,C. Tejada Sorzano # 1174,NA,NA,NA,gamlp
+6801,La Paz,Farmacia,Mifarma S.A.,C. 32 y Av. Strongest # 200,NA,NA,NA,gamlp
+6802,La Paz,Farmacia,Farmacia Aries,Pza. Eguino # 389,NA,NA,NA,gamlp
+6803,La Paz,Farmacia,Farmacia Dommy,Av. Juan José Torrez # 5,NA,-68.12829096,-16.47874546,gamlp
+6804,La Paz,Farmacia,Farmacia Gloria,Av. Arce # 2670,NA,NA,NA,gamlp
+6805,La Paz,Farmacia,Farmacia Gloria,Av. Arce,NA,NA,NA,gamlp
+6806,La Paz,Farmacia,Venta Insumos Medicos,C. Díaz Romero # 1765,NA,NA,NA,gamlp
+6807,La Paz,Farmacia,Farmacia Bolivia,C. Chuquisaca # 697,NA,-68.13892225,-16.49316308,gamlp
+6808,La Paz,Farmacia,Venta Minorista de Insumos Medicos Tausen,C. Federico Zuazo # 1885,NA,NA,NA,gamlp
+6809,La Paz,Farmacia,Venta de productos Farmacéuticos y Medicinales,C. Enrique Peñaranda # 11,NA,NA,NA,gamlp
+6810,La Paz,Farmacia,Farmacia Inmaculada Concepción,Av. S. Bustamante Esq. C. 15 Torre Ketal,NA,NA,NA,gamlp
+6811,La Paz,Farmacia,Farmacia Farmandrug,Av. Mariscal Santa Cruz,NA,NA,NA,gamlp
+6812,La Paz,Farmacia,Farmacia Juárez I,Av. Saavedra # 2142,NA,-68.12090398,-16.50514315,gamlp
+6813,La Paz,Farmacia,Gedeon Richter Bolivia S.R.L.,Av. 6 de Agosto # 2455,NA,-68.12552105,-16.50960059,gamlp
+6814,La Paz,Farmacia,Importadora y Distribuidora San Sebastián,Av. Costanera # 1223,NA,NA,NA,gamlp
+6815,La Paz,Farmacia,Farmacia Gloria,Av. 16 de Julio # 1456,NA,-68.1335828,-16.50106456,gamlp
+6816,La Paz,Farmacia,Farmacia Italia,C. Sagarnaga # 495,NA,NA,NA,gamlp
+6817,La Paz,Farmacia,Farmacia Haybar,C. Héroes de Acre # 1708,NA,-68.13444456,-16.50519191,gamlp
+6818,La Paz,Farmacia,Farmacia Paris,C. Zoilo Flores # 1232,NA,NA,NA,gamlp
+6819,La Paz,Farmacia,Clinilab Reactivos,Av. Ecuador # 2241,NA,-68.12942476,-16.50996257,gamlp
+6820,La Paz,Farmacia,Farmacia Ojitos Virgen del Carmen,Av. Entre Ríos # 2036,NA,-68.15853387,-16.49517493,gamlp
+6821,La Paz,Farmacia,Farmacia Caliz de Vida,Av. Buenos Aires # 977,NA,-68.14523651,-16.50079056,gamlp
+6822,La Paz,Farmacia,Farmacia Illampu,Av. Héroes del Pacifico # 1470,NA,NA,NA,gamlp
+6823,La Paz,Farmacia,Farmacia Nobel,C. León de la Barra # 974,NA,-68.14449816,-16.49965979,gamlp
+6824,La Paz,Farmacia,Farmacia Bolivia,Av. 16 de Julio # 1598,NA,-68.13293665,-16.5018789,gamlp
+6825,La Paz,Farmacia,Farmacia Gloria,Pza. Tejada Sorzano # 120 - Estadium,NA,-68.1246429,-16.49993917,gamlp
+6826,La Paz,Farmacia,Mercaptopharma,C. Palos Blancos # 1333,NA,-68.11707292,-16.46952396,gamlp
+6827,La Paz,Farmacia,Farmacia,Av. Buenos Aires # 1704,NA,NA,NA,gamlp
+6828,La Paz,Farmacia,Farmacia Santa Rosa Kedi,Av. Burgaleta # 995,NA,-68.11731286,-16.48883472,gamlp
+6829,La Paz,Farmacia,Farmacia José Nicolas 1,C. Lino Monasterios # 855,NA,-68.14908438,-16.49670029,gamlp
+6830,La Paz,Farmacia,Icys Medical,Av. Busch Esq. S. Salvador # 1285,NA,-68.12094242,-16.49440012,gamlp
+6831,La Paz,Farmacia,Almacén Central,C. 27 R. Reyes Romero # 78,NA,NA,NA,gamlp
+6832,La Paz,Farmacia,Farmacia Niño Jesús,C. José María Asin # 698,NA,NA,NA,gamlp
+6833,La Paz,Farmacia,Farmacia El Sol,Av. Saavedra # 2106,NA,NA,NA,gamlp
+6834,La Paz,Farmacia,Farmacia Israelita,Av. Mariscal Santa Cruz # 938,NA,-68.13665727,-16.4967828,gamlp
+6835,La Paz,Farmacia,Farmacias Alianza II,C. Evaristo Valle # 227,NA,-68.13820594,-16.49382158,gamlp
+6836,La Paz,Farmacia,Farmacia Fabiola,Av. Brasil # 1647,NA,-68.11876472,-16.49791663,gamlp
+6837,La Paz,Farmacia,Farmacia José Nicolás,Av. Sánchez Lima # 2574,NA,NA,NA,gamlp
+6838,La Paz,Farmacia,Farmacia Panamericana,Av. Baptista # 823,NA,NA,NA,gamlp
+6839,La Paz,Farmacia,Farmacia Santa Ana Sucursal 1,Av. Ramiro Castillo # 480-C,NA,NA,NA,gamlp
+6840,La Paz,Farmacia,Farmacia San Agustín,Av. Pando # 335,NA,-68.14052205,-16.493615,gamlp
+6841,La Paz,Farmacia,Mi Salud,C. Las Violetas,NA,NA,NA,gamlp
+6842,La Paz,Farmacia,Cormed - Comercializadora De Medicamentos,Av. Busch Edf. Girasoles # 1759,NA,-68.12085945,-16.4999542,gamlp
+6843,La Paz,Farmacia,Farmacia Nueva Luna,Av. 6 de Agosto # 2264,NA,NA,NA,gamlp
+6844,La Paz,Farmacia,Gedesa Ltda.,C. Díaz Romero # 1647,NA,NA,NA,gamlp
+6845,La Paz,Farmacia,Gedesa Ltda.,C. Díaz Romero # 1647,NA,NA,NA,gamlp
+6846,La Paz,Farmacia,Farmacia Heredia,Av. Ramiro Castillo # 175,NA,-68.11071548,-16.46562725,gamlp
+6847,La Paz,Farmacia,Farmacia San José,C. Juan XXIII # 11,NA,NA,NA,gamlp
+6848,La Paz,Farmacia,Venta de productos naturales Morinda,Av. Mariscál Santa Cruz # 1295 Perrin,NA,NA,NA,gamlp
+6849,La Paz,Farmacia,Farmacias Bolivia,Av. Sánchez Lima # 490 Pza. Abaroa,NA,-68.12759577,-16.51043498,gamlp
+6850,La Paz,Farmacia,Farmacia Pribian,Av. Las Américas # 546,NA,-68.11860835,-16.47599477,gamlp
+6851,La Paz,Farmacia,Farmacias Gloria,C. Colón # 626,NA,NA,NA,gamlp
+6852,La Paz,Farmacia,R.S.K. Distribuidora,Av. 20 de Octubre # 2052,NA,-68.13024535,-16.50690107,gamlp
+6853,La Paz,Farmacia,Farmacia María Reina,Av. Hernando Siles # 6192,NA,NA,NA,gamlp
+6854,La Paz,Farmacia,Farmacia Jaimes Freyre,C. Alberto Gutierrez # 2084,NA,-68.13797884,-16.51404805,gamlp
+6855,La Paz,Farmacia,Emporio Oftalmológico,C. Francisco de Miranda # 2251,NA,-68.11886726,-16.50557336,gamlp
+6856,La Paz,Farmacia,Farmacia Uncía,Av. Vásquez # 710,NA,-68.14888191,-16.4828364,gamlp
+6857,La Paz,Farmacia,Súper Farmacia Virgen de Copacabana XII,Av. Ballivián # 1613,NA,NA,NA,gamlp
+6858,La Paz,Farmacia,Farmacia Santa Gema,Pza. Lira # 112,NA,NA,NA,gamlp
+6859,La Paz,Farmacia,Súper Farmacia Virgen De Copacabana IX,Av. Mariscal Santa Cruz # 1297,NA,NA,NA,gamlp
+6860,La Paz,Farmacia,Venta por menor de productos Farmacéuticos Medicinales,Av. 6 de Agosto # 2440,NA,-68.12595103,-16.50952978,gamlp
+6861,La Paz,Farmacia,Ositolandia,Av. Quintanilla Zuazo # 538,NA,-68.14735389,-16.48794939,gamlp
+6862,La Paz,Farmacia,Farmacia Ayelen,C. Zoilo Flores # 1024,NA,-68.1389066,-16.50125101,gamlp
+6863,La Paz,Farmacia,Farmacia Luz Mariana,C. Rodríguez # 614,NA,-68.14005466,-16.50067085,gamlp
+6864,La Paz,Farmacia,Súper Farmacia Virgen de Copacabana XV,Av. Mariscal Santa Cruz # 2150,NA,-68.13644234,-16.49732622,gamlp
+6865,La Paz,Farmacia,Farmacia Alejandra,Av. Tejada Sorzano # 514,NA,-68.12309988,-16.48365626,gamlp
+6866,La Paz,Farmacia,Farmacia Niño Divino,Av. Mario Mercado # 1822,NA,NA,NA,gamlp
+6867,La Paz,Farmacia,Farmacia Siglo XXI,Av. General Lanza # 990,NA,NA,NA,gamlp
+6868,La Paz,Farmacia,Venta por Mayor de productos Farmacéuticos y Medicinales,Av. Max Fernández # 200,NA,-68.14415961,-16.53307386,gamlp
+6869,La Paz,Farmacia,Farmacia Mecofarma,C. Gral. Gonzales # 1190,NA,NA,NA,gamlp
+6870,La Paz,Farmacia,Farmacia María Auxiliadora,Av. 15 de Abril # 511,NA,-68.11842128,-16.47645776,gamlp
+6871,La Paz,Farmacia,Farmacia Chávez,C. Los Pinos,NA,NA,NA,gamlp
+6872,La Paz,Farmacia,Vitalfarm,C. 9 de Abril # 810,NA,NA,NA,gamlp
+6873,La Paz,Farmacia,Farmacia Tayamar,Av. Defensores del Chaco C. 51 # 77,NA,NA,NA,gamlp
+6874,La Paz,Farmacia,Farmacia Salven,C. Ricardo Bustamante # 690,NA,-68.14187358,-16.5002625,gamlp
+6875,La Paz,Farmacia,Súper Farmacia Virgen de Copacabana X,C. 17 y Av. Pról. 14 de Septiembre # 506,NA,NA,NA,gamlp
+6876,La Paz,Farmacia,Farmacia Beni II,C. Aspiazu # 391,NA,NA,NA,gamlp
+6877,La Paz,Farmacia,Farmacia Enrines,Av. 31 de Octubre # 1619,NA,-68.11617273,-16.49688416,gamlp
+6878,La Paz,Farmacia,Farmacia Venus,Av. Esteban Arce # 1851,NA,NA,NA,gamlp
+6879,La Paz,Farmacia,Venta por menor de productos Farmacéuticos Medicinales,C. Adrián Patiño # 8317,NA,NA,NA,gamlp
+6880,La Paz,Farmacia,Farmacia Felicidad,C. Otero de la Vega # 1541,NA,NA,NA,gamlp
+6881,La Paz,Farmacia,Farmacia Señor de Coata,Av. Entre Ríos # 1670,NA,NA,NA,gamlp
+6882,La Paz,Farmacia,Farmairpavi,Av. Circunvalación # 116,NA,NA,NA,gamlp
+6883,La Paz,Farmacia,Farmacia Luz de Dios,Av. I. de las Muñecas # 364,NA,NA,NA,gamlp
+6884,La Paz,Farmacia,Gramon Bolivia Ltda.,Av. Arce Edf. Serrano # 2308,NA,-68.12623207,-16.50799682,gamlp
+6885,La Paz,Farmacia,Farmacia Lety,Av. Buenos Aires # 1646,NA,-68.14280239,-16.50704863,gamlp
+6886,La Paz,Farmacia,Farmacia Beni,C. Nicolás Acosta # 571,NA,NA,NA,gamlp
+6887,La Paz,Farmacia,Farmacia Arce,Av. Arce # 2580,NA,NA,NA,gamlp
+6888,La Paz,Farmacia,Farmacia Manus Dei,Av. Las Américas # 867,NA,-68.11626705,-16.4707295,gamlp
+6889,La Paz,Farmacia,Farmacia Tatiana,C. Max Paredes # 605,NA,-68.14518139,-16.49625184,gamlp
+6890,La Paz,Farmacia,Farmacia,Av. Manco Kapac # 349,NA,NA,NA,gamlp
+6891,La Paz,Farmacia,Farmacia Canadá,C. Max Paredes # 487,NA,NA,NA,gamlp
+6892,La Paz,Farmacia,Farmacia Zonia I,C. Max Paredes # 798,NA,-68.14122337,-16.49796933,gamlp
+6893,La Paz,Farmacia,Farmacia Lucia,Av. 31 de Octubre # 1683,NA,-68.11584987,-16.49738018,gamlp
+6894,La Paz,Farmacia,Dismelab S.R.L.,C. Juan de la Riva # 1406,NA,-68.13277506,-16.49870217,gamlp
+6895,La Paz,Farmacia,Farmacia Catedral,Av. García Lanza C. 15 # 250,NA,NA,NA,gamlp
+6896,La Paz,Farmacia,Farmacia el Cristo,Av. Montenegro Gral. El Triunfo # 716,NA,NA,NA,gamlp
+6897,La Paz,Farmacia,Farmacia Copacabana,C. José V. Saravia # 1662,NA,-68.14111669,-16.5101588,gamlp
+6898,La Paz,Farmacia,Farmacia Victoria,C. Pedro Salazar # 297,NA,NA,NA,gamlp
+6899,La Paz,Farmacia,Farmacia Catedral,Av. Ballivián Esq. C. 20 # 1348,NA,NA,NA,gamlp
+6900,La Paz,Farmacia,Farmacia Virgen de Cotoca,Av. Tito Yupanqui # 1394,NA,-68.11688403,-16.49564162,gamlp
+6901,La Paz,Farmacia,Farmacia Vital,Av. Sánchez # 6400,NA,NA,NA,gamlp
+6902,La Paz,Farmacia,Farmacia Alemana,Av. 6 de Agosto # 255 L-3,NA,NA,NA,gamlp
+6903,La Paz,Farmacia,Farmacia Pharma J4 - Med 2,C. 13 # 8289,NA,NA,NA,gamlp
+6904,La Paz,Farmacia,Importación y Distribución de Medicamentos e Insumos,Av. Kollasuyo # 1884,NA,NA,NA,gamlp
+6905,La Paz,Farmacia,Venta productos Odontológicos,C. Max Paredes # 874,NA,NA,NA,gamlp
+6906,La Paz,Farmacia,Farmacia E y G,Av. Buenos Aires # 1683,NA,-68.14354609,-16.51104914,gamlp
+6907,La Paz,Farmacia,Romilab S.R.L.,C. Pedro Salazar # 694,NA,NA,NA,gamlp
+6908,La Paz,Farmacia,Farmacia José de nazaret,Av. Pando # 221,NA,-68.14051323,-16.49229746,gamlp
+6909,La Paz,Farmacia,Comercio de Cosméticos,Av. Ballivián # 1110,NA,NA,NA,gamlp
+6910,La Paz,Farmacia,Farmacia María Teresa,Av. Nieves Linares # 29,NA,NA,NA,gamlp
+6911,La Paz,Farmacia,Farmacia David,Av. I. de las Muñecas # 310,NA,NA,NA,gamlp
+6912,La Paz,Farmacia,Farmacia Moisés,Av. Manco Kapac # 405,NA,NA,NA,gamlp
+6913,La Paz,Farmacia,Venta al por menor de productos Farmacéuticos,Av. Cristo Vencedor # 2057,NA,-68.15793988,-16.48896777,gamlp
+6914,La Paz,Farmacia,Farmacia Cemdi,Av. 6 de Agosto # 2530,NA,-68.12490484,-16.51068535,gamlp
+6915,La Paz,Farmacia,Farmacia Nelly,Av. J. Freyre Esq. A. Gonzales # 2379,NA,NA,NA,gamlp
+6916,La Paz,Farmacia,Farmacia Claret,Av. Buenos Aires # 1247,NA,NA,NA,gamlp
+6917,La Paz,Farmacia,Farmacia Nicole Daniela,Av. Buenos Aires # 1727,NA,-68.14284966,-16.50777847,gamlp
+6918,La Paz,Farmacia,Farmacia ABC,Av. Manco Kapac # 287,NA,NA,NA,gamlp
+6919,La Paz,Farmacia,Farmacia Atenas,C. Peñas # 479,NA,-68.15111878,-16.49278717,gamlp
+6920,La Paz,Farmacia,Farmacia Santa Cecilia,Av. Los Rosales # 3212,NA,NA,NA,gamlp
+6921,La Paz,Farmacia,Farmacia Metropolitana,Av. Buenos Aires # 867,NA,-68.14460841,-16.49957019,gamlp
+6922,La Paz,Farmacia,Farmacia Cruz Verde,C. Zoilo Flores Edf. Figliozzi # 2,NA,-68.13752064,-16.5023846,gamlp
+6923,La Paz,Farmacia,Farmacia Libra,Av. Jaimes Freyre # 1000,NA,-68.14338904,-16.51042373,gamlp
+6924,La Paz,Farmacia,Farmacia María Alejandra,C. Illampu # 1161,NA,NA,NA,gamlp
+6925,La Paz,Farmacia,Farmacia,Av. Buenos Aires # 1001,NA,NA,NA,gamlp
+6926,La Paz,Farmacia,Farmacia Bioenergía,C. Max Paredes # 559,NA,-68.14362127,-16.49666726,gamlp
+6927,La Paz,Farmacia,Farmacia Saavedra,Av. Saavedra # 2240,NA,-68.12006271,-16.50722146,gamlp
+6928,La Paz,Farmacia,Servicios Farmacéuticos,C. Warnes # 1780,NA,-68.14034243,-16.51146351,gamlp
+6929,La Paz,Farmacia,Farmacia 3 de Mayo,C. Illampu # 1111,NA,NA,NA,gamlp
+6930,La Paz,Farmacia,Farmacia Alianza,C. Fernando Guachalla # 646,NA,-68.13010322,-16.50966475,gamlp
+6931,La Paz,Farmacia,Farmacias Bolivia - Sucursal # 40,Av. Buenos Aires # 470,NA,-68.14439301,-16.49372501,gamlp
+6932,La Paz,Farmacia,Venta de Suplementos Alimenticios,Av. Ballivián Esq. C. 16 # 1020,NA,NA,NA,gamlp
+6933,La Paz,Farmacia,Farmacia La Piedad,Av. Buenos Aires # 857,NA,-68.14448239,-16.49935296,gamlp
+6934,La Paz,Farmacia,Farmacia Andrea Alexandra,Av. Baltazar de Salas # 100,NA,NA,NA,gamlp
+6935,La Paz,Farmacia,Gel natural,Av. Las Américas # 732,NA,NA,NA,gamlp
+6936,La Paz,Farmacia,Farmedical,Av. H. Siles Esq. C. 14 # 6007,NA,NA,NA,gamlp
+6937,La Paz,Farmacia,Farmacia nahuma,Av. M. Q. Santa Cruz # 151,NA,-68.14343097,-16.52271445,gamlp
+6938,La Paz,Farmacia,Laboratorio LKM S.A.,Av. Arce # 2132,NA,-68.12827434,-16.50654546,gamlp
+6939,La Paz,Farmacia,Importadora Mitofarma,C. Covendo # 830,NA,-68.11585213,-16.47231794,gamlp
+6940,La Paz,Farmacia,Farmacia Señora del Tepeyac,C. Colón # 708,NA,-68.13152606,-16.49522068,gamlp
+6941,La Paz,Farmacia,Farmacia Ap Santifar,C. Santa Cruz # 490,NA,-68.14054837,-16.49685498,gamlp
+6942,La Paz,Farmacia,Galería Copacabana,C. Puente Villa # 1451,NA,-68.12043887,-16.47961155,gamlp
+6943,La Paz,Farmacia,Farmacia Ecuador II,C. Litoral # 1374,NA,-68.12148258,-16.50486862,gamlp
+6944,La Paz,Farmacia,Farmacia Dios te Sana,Av. Buenos Aires # 1192,NA,-68.14462034,-16.50310431,gamlp
+6945,La Paz,Farmacia,Distribución De Productos Farmacéuticos,C. Luis Uría de la Oliva # 2894,NA,-68.12735632,-16.51607049,gamlp
+6946,La Paz,Farmacia,Jaklin Yamile Estrada Torrez,C. Sagarnaga # 189,NA,NA,NA,gamlp
+6947,La Paz,Farmacia,Laboratorio de Cosmética y Farmoquimica S.A. Cofar,C. Víctor Eduardo # 2293,NA,-68.12113105,-16.50713519,gamlp

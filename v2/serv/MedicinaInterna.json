@@ -1,29 +1,35 @@
 [
   {
+    "Id": 953,
     "Departamento": "La Paz",
     "Tipo": "MedicinaInterna",
     "Nombre": "Maria Lourdes Escalera",
-    "Telefono": 77789985,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "77789985",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   },
   {
+    "Id": 954,
     "Departamento": "La Paz",
     "Tipo": "MedicinaInterna",
     "Nombre": "Roxana Miranda",
-    "Telefono": 69852255,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "69852255",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   },
   {
+    "Id": 955,
     "Departamento": "La Paz",
     "Tipo": "MedicinaInterna",
     "Nombre": "Rosario Ruiz",
-    "Telefono": 72557017,
-    "Latitud": "null",
-    "Longitud": "null",
+    "Direccion": null,
+    "Telefono": "72557017",
+    "Latitud": null,
+    "Longitud": null,
     "Fuente": "web"
   }
 ]
