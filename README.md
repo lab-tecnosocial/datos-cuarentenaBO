@@ -174,7 +174,7 @@ Los siguientes proyectos hacen uso de este repositorio:
 
 ALICIA (Asistente en Línea de Información sobre el COVID-19 usando Inteligencia Artificial) es un asistente virtual inteligente que se presenta en las aplicaciones de Facebook y Whatsapp. Está disponible las 24 horas del día para responder preguntas frecuentes, mostrar los casos de COVID-19 en Bolivia, contactarte con un médico en línea y brindar una guía para ayudar a los demás en caso de ser un doctor.
 
-![](https://scontent.flpb1-2.fna.fbcdn.net/v/t1.0-9/107519176_154315622895038_1581079231745812412_o.jpg)
+![](https://lab-tecnosocial.github.io/datos-cuarentenaBO/img/alicia.jpg)
 
 Si estas utilizando los datos de este repositorio, avisanos para incluir un enlace a tu proyecto en este espacio y también te ayudaremos a promocionar tu proyecto en nuestros canales sociales. 
 
